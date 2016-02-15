@@ -1,0 +1,6 @@
+
+時刻
+日付と時刻は映像の片隅に表示されていた。
+</pre>
+<pre>
+The date and time were indicated by a timestamp in the corner of the videos.

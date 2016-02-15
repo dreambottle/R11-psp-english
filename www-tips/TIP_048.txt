@@ -1,0 +1,25 @@
+
+ホワイトアウト
+吹雪で舞い上がった雪が原因で、
+視界が白く閉ざされる現象。
+高低や方向・距離がわからなくなり、
+言わば“白い闇”となる。
+雪表面や雲の乱反射などが原因で
+発生するケースもあり、
+その場合、空間が白光で満ちてしまうため、
+一切、情報がわからなくなり、
+身動きが取れなくなる。
+</pre>
+<pre>
+A weather condition in which the field
+of vision is obscured by white due to
+windblown snow in the air, greatly diminishing
+one's ability to discern vertical/horizontal
+directions and distance. It can be described
+as a &quot;white darkness&quot; of sorts.%N
+There is also another form of a whiteout
+which is caused by diffuse reflections from
+snowy surfaces, clouds, and the like.
+In this case, the air becomes saturated with
+white light, rendering movement and the gathering
+of visual information virtually impossible.

@@ -1,0 +1,37 @@
+
+ラプラスの悪魔
+フランスの数学者にして天文学者
+『ピエール・シモン・ド・ラプラス』が提唱した概念。
+ある瞬間の、世界中のありとあらゆる全ての
+状態を、正確に知ることができる『悪魔』という
+生き物がいたとする。
+たとえそれが、いかに短い瞬間であったとしても、
+悪魔にとっては未来や過去の状態を
+うかがい知るには充分なのだ。
+
+要するに、ラプラスは『世界中で起こる
+全ての出来事は、初めから何もかも決まっている』
+と言う事が言いたかったのだ。
+どんな小さな出来事でも、大きな出来事でも、
+それらは偶然ではなく必然的に起こるもの
+なのだと。
+哲学の用語では、これを『決定論的世界観』と
+言う。
+</pre>
+<pre>
+A concept proposed by Pierre-Simon Laplace,
+a French mathematician and philosopher.%N
+Suppose there exists a &quot;demon,&quot; that is,
+an entity that possesses the ability to know,
+at a certain moment, the state of all things in the universe.%N
+Then, no matter how brief this moment is,
+it would always be enough for the demon to
+unravel everything that happened in the past
+and will happen in the future.%P
+
+What Laplace was trying to say with this is that,
+basically, &quot;everything which occurs in the
+world has been predetermined from the beginning.&quot;%N
+That, no matter how big or how small an event is,
+its occurrence is by no means accidental, but in fact inevitable.%N
+In philosophy, this is called causal determinism.

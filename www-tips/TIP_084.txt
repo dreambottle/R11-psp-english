@@ -1,0 +1,20 @@
+
+場所
+カメラはスフィアの至る所に設置されており、
+ゆえに記録されたデータファイルも
+カメラの台数分だけ存在した。
+しかしそれらのすべてをチェックする必要はない。
+そんなことをしている時間もなかった。
+そこで、基本的には、
+オレの姿が映っていない映像は、
+解析対象から除外することにした。
+</pre>
+<pre>
+Cameras are set up everywhere in SPHIA,
+so there are as many recorded data files
+as there are cameras.%N
+However, there was neither any need to check all of them
+nor the time to do so.%N
+Basically, I just excluded
+all the files I don't appear in
+from the list of objects to be analyzed.

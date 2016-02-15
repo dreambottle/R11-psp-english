@@ -1,0 +1,14 @@
+
+絡み合いの状態
+量子重ね合わせ状態のこと。
+複数の%TS071量子ビット%TE間の状態が、
+量子力学の法則に従って、
+あたかもひとつの物体であるかのように
+振る舞い、分離できない状態を形成すること。
+</pre>
+<pre>
+A form of quantum superposition.%N
+Refers to a situation in which a system of several
+%TS071quantum bits%TE, in accordance with the laws of quantum 
+mechanics, forms an inseparable state and behaves as
+if it were a single entity.

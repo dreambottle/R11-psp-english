@@ -1,0 +1,13 @@
+
+衛星電話
+通信衛星を経由して通話する携帯電話。
+『世界のどこにいても繋がる』がキャッチフレーズ。
+実際には、各社のシステムや使用する
+衛星の種類によって、
+使用可能エリアは限定される場合がある。
+</pre>
+<pre>
+A cellular telephone which works by way of communication satellites.%N
+&quot;Connecting you from anywhere in the world&quot; was the catchphrase.%N
+However, in practice, due to different company systems, types of available satellites and so on, 
+there are cases in which signal availability is limited to certain areas.

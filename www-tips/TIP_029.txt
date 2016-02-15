@@ -1,0 +1,39 @@
+
+ナイフの手入れ
+ナイフは使っていくうちにだんだん切れなく
+なってくる。
+ナイフの切れ味を維持するためには日頃の
+手入れが重要になってくる。
+日常の手入れの基本は、使ったあとは刃を
+磨いておくこと。
+ナイフは水が苦手！　今のナイフは
+ステンレス製が主流。
+ステンレスは錆びにくい素材だが、
+錆びないわけではない。
+よって水にぬらしたあとは手入れが欠かせない。
+
+切れ味を取り戻す手法には、
+ホーニングとタッチアップというものがある。
+ホーニングとは、ナイフを研ぐこと。
+タッチアップとは、
+ナイフの切れ味をよくする作業のこと。
+ナイフの切れ味が落ちたときの応急手当と
+考えて頂ければいい。
+</pre>
+<pre>
+As a knife is used, it will gradually grow dull over time.%N
+To maintain an optimum level of sharpness, daily care is essential.%N
+The most basic form of daily maintenance is to polish the blade after each use.%N
+Water is very bad for knives!%N
+Most modern knives are made from stainless steel,
+which is resistant to rust;
+however, this doesn't mean that they are rustproof.%N
+Therefore, they should be dried off quickly after coming%N
+into contact with water.%P
+
+To return a dull knife to its sharpened state, 
+different methods of honing and touch-up exist.%N
+Honing refers to sharpening a knife.%N
+To touch up a knife means
+to improve its ability to cut.%N
+When a knife becomes dull, it's best to think about seeing to it right away.

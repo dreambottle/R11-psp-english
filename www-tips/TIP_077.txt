@@ -1,0 +1,20 @@
+
+量子コンピューター
+ひとつの素子でふたつの状態の重ね合わせを
+つくって、その両方の状態を計算に使う。
+（ノイマン型コンピューターでは、
+　ひとつの素子でひとつの計算しかできない）
+このため、もし素子が10個あれば、
+1回にできる計算が2の10乗（1024）通りまで増える。
+素子を多くすれば、急激に計算能力が向上する。
+まさに、驚異の計算速度を誇るコンピューターと
+言える。
+</pre>
+<pre>
+A computer which creates a superposition of two states
+as a single element and performs calculations using both states.%N
+(A von Neumann computer can only perform a single calculation per element.)%N
+Because of this, if there are ten elements, the number of calculations
+it can perform simultaneously rises to 2^10 (1024). As more elements
+are added, the computational power grows dramatically. The speed this
+computer boasts of can truly be called wondrous.

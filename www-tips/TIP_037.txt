@@ -1,0 +1,14 @@
+
+ピッケル
+登山用具。
+バランスの支持、足場切り、滑落停止、
+確保などに用いる。
+頭部はブレードとピックによって構成され、
+これにシャフトと石突きがつく。
+</pre>
+<pre>
+A mountaineering tool.%N
+Used for aid in balance, to create footholds, 
+and to prevent the climber from slipping.%N
+It is comprised of a long shaft with a pick at the head
+and a metal spike at the base.

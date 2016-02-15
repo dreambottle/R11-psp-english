@@ -1,0 +1,36 @@
+
+ＥＰＲ／イーピーアール
+３人の物理学者、
+アインシュタイン＝Ｅ、
+ポドルスキー＝Ｐ、
+ローゼン＝Ｒ、
+の頭文字をとって繋げたもの。
+この３名は量子力学の『%TS066不確定性原理%TE』という
+概念に異論を唱え、『%TS067ＥＰＲ論文%TE』を提示した。
+
+特に、アインシュタインは
+『神はサイコロを振りたまわず』という名文句で
+わかるように、その有用性は十二分に
+認識してはいたけれども、自然を確定的に
+記述できない量子力学に不快感を持ち
+生涯抵抗したことは良く知られており、量子力学を
+攻撃する数々の思考実験を考えては論敵の
+ニールス・ボーア（量子力学の創始者のひとり）を
+悩ませた。
+</pre>
+<pre>
+An abbreviation composed of the first letters%N
+of the names of three physicists:%N
+Einstein=E,%N
+Podolsky=P,%N
+Rosen=R.%N
+These three presented the &quot;%TS067EPR Paper%TE&quot; to argue against
+the concept of the &quot;%TS066Uncertainty Principle%TE&quot; of quantum mechanics.%P
+
+This opposition was especially pronounced in the case of Einstein,
+summed up by his famous remark &quot;God does not play dice.&quot;%N
+Although fully recognizing its usefulness, he was known to be
+uncomfortable with and to oppose quantum mechanics until his death
+because of its inability to definitely describe the microscopic aspects of physical reality.%N
+Einstein conducted many thought experiments that criticized quantum mechanics
+and troubled his opponent Niels Bohr (one of the founders of quantum mechanics).

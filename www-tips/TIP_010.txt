@@ -1,0 +1,10 @@
+
+ＧＰＳ
+Ｇｌｏｂａｌ　Ｐｏｓｉｔｉｏｎｉｎｇ　Ｓｙｓｔｅｍ
+人工衛星を使って、三次元空間の受信者
+（人間、船や飛行機、自動車など）の位置を
+求めるためのシステム。
+</pre>
+<pre>
+Global Positioning System%N
+A system which uses man-made satellites to calculate the position of a receiver (a person, boat, plane, car, etc.) on a 3D grid system which spans the entire Earth.

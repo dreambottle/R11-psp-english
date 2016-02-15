@@ -1,0 +1,20 @@
+
+ベル測定
+すでに孤立しているふたつの粒子を
+絡み合いの状態にして、
+ふたつの粒子を区別できないように
+（絡み合いの状態を維持しつつ）同時に
+観測する方法。
+ふたつの粒子を同時にビームスプリッタ
+（これにはハーフミラー等が用いられる）に
+達しさせなければいけないため、
+技術的に非常に難しい。
+</pre>
+<pre>
+A method of placing an isolated pair of particles in an entangled state,
+and then observing both of them at the same time in a way that doesn't
+permit them to be distinguished from each other (in order to maintain the
+entanglement).%N
+Since the particles must be passed through a beam splitter
+(such as a half-silvered mirror) at exactly the same time, 
+this is extremely difficult in practice.

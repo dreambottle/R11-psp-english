@@ -1,0 +1,2114 @@
+
+部屋を出る。%K%P
+I left the room.
+
+リビングには誰もいなかった。%K%P
+Nobody was in the living area.
+
+しばらくのあいだ、オレは途方に暮れてしまった。%K%P
+For the time being, I was left without a clue as to what to do next.
+
+あちらの世界から、こちらの世界へ……。%K%P
+From that world to this one....
+
+転移を繰り返していると、どうしても思考が散漫になりがちだった。%K%P
+After the transfer occurred, I couldn't get my train of thought back on track.
+//old: I'd gotten distracted after the transfer occurred, and my line of thought had been instantly diffused.
+
+頭の中のスイッチを、すぐに切り替えることができないのだ。%K%P
+The switch inside my head isn't something that can be turned on or off easily.
+
+避難小屋のことと、スフィアのこと、両方を同時に考えることはできない。%K%P
+I couldn't think about both the shelter cabin and SPHIA at the same time.
+
+そして、オレは今、スフィアにいる。%K%P
+And right now, I'm at SPHIA.
+
+だからスフィアのことだけを考えればよい。%K%P
+So I'll stick to thinking about SPHIA.
+
+あまりにも単純な理屈だが、きちんと反芻しなければ気持ちの整理をつけることができなかった。%K%P
+It's a rather simple line of reasoning, but if I don't start to think over all the information pertaining to this place, I won't be able to get my thoughts in order.
+
+悟「さてと……」%K%P
+Now then...
+
+オレは閑散とした室内を改めて見まわしてみた。%K%P
+I calmly surveyed the room.
+
+内海とは正午前に話しているから、次にやるべきことは、ゆにと犬伏から情報を訊き出すことだ。%K%P
+I'd already spoken to Utsumi before noon, so my next task was to talk to Yuni and Inubushi.
+
+オレはまず……。%K%p
+First, I'll....
+
+ゆにの部屋へ
+Go to Yuni's room
+
+犬伏の部屋へ
+Go to Inubushi's room
+
+ゆにの部屋に向かった。%K%P
+I headed over to Yuni's room.
+
+犬伏の部屋に向かった。%K%P
+I headed over to Inubushi's room.
+
+ゆに「どうぞ」%K%P
+Come in!
+
+ノックをすると、中からゆにの声が……。%K%P
+When I knocked, I heard Yuni's voice from within....
+
+オレはドアを開いて、室内に入った。%K%P
+I opened the door and entered the room.
+
+部屋の中にはゆにと、それから内海の姿もあった。%K%P
+Both Yuni and Utsumi were there.
+
+ふたりはベッドに並んで腰を下ろし、オレの方を見ていた。%K%P
+They were sitting side by side on the bed. They both turned to look at me.
+
+内海「それじゃあ、ゆにくん、私は行くわね」%K%P
+Well then, Yuni-kun, I'll be going now.
+
+内海がおもむろに立ち上がる。%K%P
+Utsumi slowly got to her feet.
+
+そのまま、オレのわきをすり抜けて、部屋を出ていってしまった。%K%P
+And just like that, she slipped past me and out of the room.
+
+悟「なに話してたんだ？」%K%P
+What were you talking about?
+
+オレはゆっくりとゆにのもとへと近づいていき、いま内海の座っていたところに腰を下ろした。%K%P
+I casually approached Yuni and sat down in Utsumi's place.
+
+ゆに「うん、ちょっとね」%K%P
+Oh, it was nothing.
+
+ゆに「ただの雑談だよ、雑談」%K%P
+We were just chatting.
+
+ゆに「暇つぶしに話をしてただけ」%K%P
+Just an idle conversation to kill some time.
+
+はぐらかしているように聞こえなくもない。%K%P
+He sounded like he was evading my question.
+
+とはいえ、強いて詮索するほどのことでもないと思った。%K%P
+However, it probably wasn't anything worth dragging out of him.
+
+悟「ふーん、そっか」%K%P
+Hmmmm, I see.
+
+オレはさして気にもとめずに、そう言った。%K%P
+I brushed the thought aside without letting it get to me.
+
+するとゆには……。%K%P
+And then, Yuni....
+
+ゆに「こころんは、なにしにきたの？」%K%P
+What've you come here for, Kokoron?
+
+首をちょこんと傾けながら尋ねてきた。%K%P
+He asked with a meek little tilt of his head.
+
+またか……。%K%P
+Again....
+
+うんざりしながらも、こう答えてやる。%K%P
+Fed up, I answered him.
+
+悟「今のオレは、冬川こころでは、ない」%K%P
+Right now, I am not Fuyukawa Kokoro.
+//is there any way to italicize this in-game? I think it would convey the pissed-off nuance.
+
+悟「話し方とか素振りとかでわからないか？」%K%P
+Can't you tell from the way I talk or act?
+
+ゆに「ああ、ごめん」%K%P
+Aah, sorry.
+
+ゆに「だってついさっきまでは、こころんだったから……」%K%P
+It's because you were Kokoron just a moment ago...
+
+ここにいるゆにもまた、内海や避難小屋のメンバーと同様、オレがＤＩＤであると完全に思い込んでしまっているようだった。%K%P
+The Yuni here, like Utsumi and the people at the shelter cabin, was completely convinced that I had DID.
+
+当然と言えば、当然である。%K%P
+It seemed like the obvious conclusion.
+
+時間跳躍と人格交換を繰り返しているなんて、誰が想像できるだろう。%K%P
+Who could imagine that, in reality, I was stuck in a cycle of not only personality exchanges, but time jumps too?
+
+オレ自身でさえ、いまだ理不尽だという想いは払い切れていないというのに……。%K%P
+Even now, it still felt completely irrational....
+
+ゆに「それにしても、ほんとにややこしいよね？」%K%P
+It sure is confusing, huh?
+
+悟「ああ、まったく同感だ」%K%P
+Yeah, you said it.
+
+オレがお手上げのポーズを見せると、ゆにはくすくすと笑った。%K%P
+My shoulders slumped in utter resignation. Yuni giggled quietly.
+
+無邪気な子どもの愛らしい笑みだった。%K%P
+It was the charming smile of an innocent child.
+
+オレもつられて、頬をゆるめる。%K%P
+The sight of it made my own facial muscles relax as well.
+
+ゆに「で？　ぼくになにか用？」%K%P
+And? Did you want me for something?
+
+悟「ああ、そうだ、そうだったな……」%K%P
+Ah, that's right. Let's see...
+
+オレは背後に両手をつき、足を投げ出した。%K%P
+I stretched both arms behind my head and put my feet up.
+
+悟「えっと……実はな？」%K%P
+Um... the truth is...
+
+悟「ちょっと訊いておきたいことがあって……」%K%P
+There's something I wanted to ask you...
+
+ゆに「なーに？　訊いておきたいことって……」%K%P
+Something to ask me? What is it?
+
+悟「ゆには、その……」%K%P
+Well, Yuni...
+
+悟「去年の今頃は、なにをしてた？」%K%P
+What were you doing around this time last year?
+
+ゆに「どうしてそんなこと訊くの？」%K%P
+Why do you want to know?
+
+悟「まあ、なんと言うか、暇つぶしだよ、暇つぶし」%K%P
+Well, ah, how should I say it? I'm just killing time, killing time...
+
+悟「オレも、することがないからさ」%K%P
+I don't have anything to do, after all.
+
+オレがそう告げると、ゆには腕組みをして天井を見上げた。%K%P
+At my answer, Yuni crossed his arms and looked up at the ceiling.
+
+唇を軽くかむ。%K%P
+He nibbled lightly on his lip.
+
+まばたきを何度か繰り返した。%K%P
+He started to blink repeatedly.
+
+そうしてようやく洩れた言葉は……。%K%P
+And the words that finally fell from his lips were....
+
+ゆに「ロックしてた」%K%P
+I was rocking.
+
+悟「……は？」%K%P
+...Huh?
+
+ゆに「%TS052ロックンロール%TEだよ、ロックンロール」%K%P
+%TS052Rock and roll%TE, I was rock-and-rolling.
+
+ゆに「ぼくね？　%TS053カポエラ%TEの道場に通ってるんだけど、そこのお師匠さんにこう言われたんだ」%K%P
+You know, I was attending a&#160;%TS053Capoeira%TE dojo, and the master there said to me...
+
+ゆに「『楠田くんは、もう少しリズム感を養った方がいいよ』って……」%K%P
+"You should cultivate a better sense of rhythm, Kusuda-kun"...
+
+ゆに「だから、ロックンロールを始めることにしたの」%K%P
+And that's why I started rock-and-rolling.
+
+ゆに「すごいんだよ？　ロックって……」%K%P
+Rock is amazing, you know...
+
+ゆに「革パンとか、ぴちぴちでさぁ」%K%P
+Like the leather pants! They're so shiny!
+
+悟「まて……」%K%P
+Wait...
+
+悟「意味がわからないんだが……？」%K%P
+I have no idea what you're talking about...
+
+ゆに「意味？　ロックに意味なんて求めちゃダメだよ」%K%P
+What I'm talking about? You can't just demand a meaning from rock!
+
+ゆに「ピースな愛のバイブスを、ポジティブな感じで受け止めなくちゃ」%K%P
+You've gotta accept the positive vibes of peace and love!
+
+悟「……………………」%K%P
+............
+
+ゆに「……………………」%K%P
+............
+
+しばし言葉を失う。%K%P
+I was speechless for a moment.
+
+ピースな愛のバイブスが、オレの脳みそを揺らしていた。%K%P
+The vibes of peace and love were rocking my brain.
+
+悟「えーっと……」%K%P
+Ummmm...
+
+悟「なるほど、わかった」%K%P
+I see.
+
+悟「ゆには去年の今頃、ロックンロールをしていたと……」%K%P
+So you were rock-and-rolling around this time last year...
+
+悟「これで間違いはないな？」%K%P
+Right?
+
+ゆに「うん」%K%P
+Yup.
+
+悟「場所はどこだ？」%K%P
+Where were you doing it?
+
+ゆに「自分の部屋だよ？」%K%P
+In my room.
+
+ゆにはあっさりと答えた。%K%P
+Yuni replied immediately.
+
+悟「自分の部屋？　朱倉岳ではなく？」%K%P
+In your room? Not on Mount Akakura?
+
+ゆに「アカクラダケ？　なにそれ？　キノコ？」%K%P
+Akakura? What's that? A mushroom?
+
+ゆに「ぼくねぇ、キノコが大好物なんだぁー」%K%P
+Mushrooms are my favorite, you know!
+
+満面の笑顔には一点の曇りも見当たらなかった。%K%P
+Not the slightest hint of a shadow had crossed that smiling face.
+
+嘘偽りを述べているとは思えない。%K%P
+He didn't seem to be lying.
+
+どういうことだ……？%K%P
+What did this mean...?
+
+２０１１年の今頃、ゆには確かに朱倉岳の避難小屋にいたはずだ。%K%P
+Yuni must've been in the shelter cabin on Mount Akakura around now in 2011.
+
+にもかかわらず、このわけのわからない答え……。%K%P
+However, that incomprehensible answer....
+
+遭難のショックで頭がイカレテしまったのか……？%K%P
+Did the shock of the accident cause him to go a little funny in the head...?
+
+それとも……。%K%P
+But still....
+
+朱倉岳にいたゆにと、ここにいるゆには『別人』なのか……？%K%P
+Are the Yuni of Mount Akakura and the Yuni here really "different people"...?
+
+オレはゆにの顔をじっと見つめた。%K%P
+I stared fixedly at Yuni's face.
+
+輪郭、造形、瞳の色、髪型からメガネのデザインに至るまで、なにもかもが避難小屋にいたゆにと同じだった。%K%P
+Its shape, features, eye color, from his hairstyle to the design of his glasses, everything about him was the same as the Yuni from the shelter cabin.
+
+ゆに「ど、どうしたの……？」%K%P
+W, what is it...?
+
+ゆに「ぼくの顔……なんかついてる？」%K%P
+Do I... have something on my face?
+
+どぎまぎしながら、ゆには言った。%K%P
+Yuni asked, unnerved.
+
+オレはその瞳の奥をのぞき込むようにして……。%K%P
+I gazed deep into his eyes....
+
+悟「つかぬことを訊くけど……」%K%P
+This might be a sudden question, but...
+
+悟「ゆには、双子じゃないよなぁ？」%K%P
+You're not a twin, are you, Yuni?
+
+悟「ゆにはまさか、クローンとかじゃないよなぁ？」%K%P
+You're not a clone either, are you?
+
+ゆに「ちがうよ」%K%P
+Nope.
+
+悟「じゃあ、兄弟は？」%K%P
+Do you have any siblings, then?
+
+ゆに「ううん、いない」%K%P
+Nope, none.
+
+ゆに「ぼく、ひとりっ子だから……」%K%P
+I'm an only child...
+
+悟「そうか……」%K%P
+I see...
+
+ゆに「ねえ、悟、ほんとにどうしちゃったの？」%K%P
+Hey, Satoru, what is it, really?
+
+ゆに「なんでそんなこと訊くの？」%K%p
+Why're you asking me all these things?
+
+暇つぶしだって言っただろう？
+I told you, I'm just killing time
+
+１年前におまえに似たやつを見かけたから
+Because I saw someone that looked just like you a year ago
+
+悟「だから、暇つぶしだって言っただろう？」%K%P
+I told you, I'm just killing time.
+
+ゆに「ほんとにそれだけ？」%K%P
+Is that really it?
+
+悟「ああ」%K%P
+Yeah.
+
+ゆには納得いかないといった様子で、首をひねっていた。%K%P
+Yuni tilted his head, unconvinced.
+
+そしてオレもまた、ゆにの返答に対して腑に落ちないものを感じていた。%K%P
+And I felt like there was something about Yuni's answer that didn't make sense, either.
+ 
+悟「いや、実はな？」%K%P
+Well, actually...
+
+悟「今からちょうど１年前に、おまえによく似たやつを見かけたんだよ」%K%P
+Almost exactly a year ago from today, I met a guy that looked just like you.
+
+悟「朱倉岳っていう山の、避難小屋で……」%K%P
+In a shelter cabin, on a mountain called Akakura...
+
+ゆに「ふーん……」%K%P
+Hmm...
+
+ゆに「でも、ぼくそんなところに行ったことないよ？」%K%P
+But I've never been to a place like that.
+
+ゆに「今も言ったけど、双子とかでもないし……」%K%P
+And I just said that I didn't have a twin...
+
+ゆに「今も言ったけど、クローンとかでもないし……」%K%P
+And I just said that I didn't have a clone...
+
+ゆに「きっと悟は、ぼくのソックリさんに会ったんだね？」%K%P
+You must've met someone who looked just like me, right?
+
+ゆに「ほら、よく言うでしょう？」%K%P
+You hear about it a lot, right?
+
+ゆに「世の中には、自分にうりふたつの人が３人はいるって……」%K%P
+That in this world, there are three other people who're the mirror image of you...
+
+オレは軽くうなずいて見せた。%K%P
+I gave a slight nod.
+
+けれどそれは心からの相槌ではなかった。%K%P
+But that wasn't a response from the heart.
+
+似てるとか、似てないとか、そういう次元の話ではないのだ。%K%P
+Yuni's case went far deeper than a mere physical similarity.
+
+あちらのゆにと、こちらのゆに……。%K%P
+The Yuni there, and the Yuni here....
+
+ふたりが双子でないとするならば、なんなのか？%K%P
+If they weren't twins, then what were they?
+
+あちらのゆにと、こちらのゆに……。%K%P
+The Yuni there, and the Yuni here....
+
+ふたりがクローンでないとするならば、なんなのか？%K%P
+If they weren't clones, then what were they?
+
+オレにはどう考えても同一人物にしか思えないのだが……。%K%P
+No matter how I looked at it, I couldn't think of them as anything other than the same person....
+
+だいいち『楠田ゆに』という共通した名前が、すべてを物語っているではないか。%K%P
+Besides, doesn't the fact that they both have the name "Kusuda Yuni" decide everything?
+
+もうこうなったらやむを得ない。単刀直入に訊いてしまおう。%K%P
+Now that it's come to this, I have no other choice. I've got to ask him directly.
+
+オレは思い切って、次のような質問をぶつけてみた。%K%P
+I resolved myself, and then fired off my next question.
+
+悟「ゆに、最後にひとつだけ訊かせてくれ」%K%p
+Yuni, will you answer one last question?
+
+黄泉木と鈴の名前に聞き覚えがないか尋ねる
+Ask him whether he remembers the names Yomogi and Lin
+
+どうしてスフィアにいるのか尋ねる
+Ask him why he's at SPHIA
+
+悟「黄泉木聖司……黛鈴……」%K%P
+Yomogi Seiji... Mayuzumi Lin...
+
+悟「このふたりの名前に聞き覚えはないか？」%K%P
+Do you remember ever hearing those names in the past?
+
+ゆには眉間にしわを寄せ、顎のあたりをポリポリと掻いた。%K%P
+Yuni's eyebrows furrowed as he scratched his chin.
+
+なにか不満そうな表情を浮かべたまま、静かに首を振って見せる。%K%P
+He quietly shook his head, an expression of dissatisfaction rising to his face.
+
+ゆに「誰なの？　それ」%K%P
+Who're they?
+
+その仕草や言葉の中に、欺瞞が隠されているとは思えなかった。%K%P
+Going by his words and body language, he didn't appear to be trying to deceive me.
+
+彼は本当に、黄泉木のことも、鈴のことも、知らないのだろう。%K%P
+It seemed like he really didn't know either of them.
+
+ということはつまり、ここにいるゆには、避難小屋にいたゆにとは別人ということになる。%K%P
+In other words, this means that the Yuni here and the Yuni at the shelter cabin are two different people.
+
+今オレの目の前にいる彼は、１年前の１月１７日に救助隊によって発見されたゆにではない。%K%P
+The one right here in front of me isn't the person who was found by the rescue team on January 17th a year ago.
+
+いや、ちょっと待て……。%K%P
+No, wait a second....
+
+では名前のことはどうなる？　なぜ両者の名前は一致しているんだ？%K%P
+Then what about their names? Why do the two of them have the exact same name?
+
+それに、この顔……。%K%P
+And then there's that face....
+
+まったく同一人物としか思えない姿……。%K%P
+With the way they looked, I could only think of them as the same person....
+
+オレは激しく混乱し、頭を掻き毟りたくなった。%K%P
+Beset by intense confusion, I scratched my head.
+
+その衝動をどうにかこらえながら、なおも考え続ける。%K%P
+But I somehow suppressed that impulse and continued thinking.
+
+よし、わかった、それじゃあとりあえず、こちらのゆにと、あちらのゆにを、別人だと仮定してみよう。%K%P
+Okay, I've got it. Let's assume that the Yuni here and the Yuni there are two different people.
+
+すると必然的に湧きあがってくる疑問がある。%K%P
+That leads us to the inevitable question.
+
+オレは尋ねずにはいられなかった。%K%P
+I couldn't help but ask.
+
+悟「なあ、ゆに……」%K%P
+Hey, Yuni...
+
+ゆに「ちょっと待った！」%K%P
+Wait a second!
+
+ゆにがオレの言葉を遮る。%K%P
+Yuni interrupted me in mid-sentence.
+
+ゆに「まだ質問続けるつもりなの？」%K%P
+How many more questions do you have for me?
+
+ゆに「『最後にひとつだけ』って言ったじゃん」%K%P
+You said it was "this one last question" before.
+
+悟「あ、ああ、そうだったな……」%K%P
+A, ah, that's true...
+
+ゆに「なんだか取り調べを受けてるみたいで気分が悪いんですけどぉ……」%K%P
+It feels like I'm being interrogated somehow, and I don't like it very much...
+
+ゆに「ぼく、なんか悪いことしたかなぁ？」%K%P
+Have I done something wrong?
+
+悟「いや、全然」%K%P
+No, not at all.
+
+悟「ゆには素直でいい子だ」%K%P
+You're a good, honest kid, Yuni.
+
+オレがそう告げると、彼はまんざらでもなさそうな顔をした。%K%P
+An unsatisfied expression appeared on his face.
+
+悟「こう考えてくれないかなぁ？」%K%P
+Can you think about it like this?
+
+悟「これは、オレの病気を治すためだって」%K%P
+This is to help me cure my sickness.
+
+ゆに「悟の、病気を……？」%K%P
+Your sickness, Satoru...?
+
+悟「うん」%K%P
+Yup.
+
+悟「だから、オレを助けると思って……な？」%K%P
+So think of it as helping me out... okay?
+
+ゆに「う～ん……」%K%P
+Hm～mm...
+
+ゆに「それじゃあ、ほんとにひとつだけだよ？」%K%P
+Okay, then I'll answer it, but only if it really is the last question!
+
+オレはくちもとをゆるめて、彼の頭を撫でてやった。%K%P
+I let my face loosen into a grin, and patted him on the head.
+
+悟「簡単な質問なんだ、答えてくれ」%K%P
+It's an easy question, so please answer it.
+
+ゆに「どうぞ？」%K%P
+Go ahead.
+
+悟「ゆに……」%K%P
+Yuni...
+
+悟「おまえはどうして、ここにいる？」%K%P
+Why are you here?
+
+ゆに「ど、どうしてって……」%K%P
+W, why...?
+
+ゆに「それは……それは……」%K%P
+That's... that's...
+
+ゆにの表情に陰りが射した。%K%P
+A shadow formed over Yuni's face.
+
+いや、陰りどころではない。%K%P
+No, not a shadow.
+
+それはたちまち絶望の色に染まっていった。%K%P
+It had instantly colored over with despair.
+
+先程までのおどけた表情は、もはやどこにも見当たらなかった。%K%P
+Not a single trace of his playful expression was anywhere to be found.
+
+ゆに「悟……ぼくは……ぼくは……」%K%P
+Satoru... I... I'm...
+
+死人のように蒼白い顔……。%K%P
+A face as pale as a corpse's....
+
+その頬はひくひくと不気味に引き攣っている。%K%P
+His cheek twitched in a weird way, oddly spasming.
+
+呼吸が荒くなった。%K%P
+His breathing grew labored.
+
+自分でもそれに気づいたのか、彼は一生懸命息を整えようとしていた。%K%P
+Perhaps he himself had noticed this, as he tried his hardest to return its rhythm to normal.
+
+悟「ど、どうしたんだ！？　大丈夫か！？」%K%P
+W, what is it? Are you okay?!
+
+気遣うオレの声も、彼の耳には届いていないようだった。%K%P
+But my worried voice didn't seem to reach his ears.
+
+瞳は床の一点を見つめたまま凝固している。%K%P
+His eyes were frozen to a single point on the floor.
+
+全身が激しく震え始めた。%K%P
+His entire body began to tremble violently.
+
+両手が吸い寄せられるように宙に浮かぶ。%K%P
+As though drawn to something, he raised both his hands into the air.
+
+小さな手のひらは、カギ状に折れ曲がって硬直していた。%K%P
+His small hands balled themselves into stiff claws.
+
+悟「おい、ゆに！　しっかりしろ！」%K%P
+Hey, Yuni! Hang in there!
+
+ゆにの両肩をつかんで揺すった。%K%P
+I grabbed his shoulders and shook him.
+
+あまりにも唐突な変貌に、とまどいを覚えずにはいられなかった。%K%P
+It was such a sudden change that I'd forgotten about my confusion.
+
+どうすればいいんだ……！？%K%P
+What should I do...?!
+
+どうすれば……どうすれば……！？%K%P
+What should I do... what should I do...?!
+
+悟「ちょ、ちょっと待ってろ！」%K%P
+J, just hang on for a second!
+
+悟「内海さんを呼んでくるからな！」%K%P
+I'll go call Utsumi-san!
+
+オレは彼の肩から手を放して振り返った。%K%P
+I released his shoulders and turned around.
+
+直後、腕に強烈な圧迫感――。%K%P
+As soon as I did, a strong pressure held my arm back――
+
+ゆにがオレの右腕をつかんでいた。%K%P
+Yuni had grabbed onto my right arm.
+
+ゆに「待って……悟……」%K%P
+Wait... Satoru...
+
+ゆに「ぼくを……置いてかないで……」%K%P
+Don't... leave me alone...
+
+手を振りほどくこともできずに当惑する。%K%P
+In my bewilderment, I was unable to shake him off.
+
+ゆにはぶつぶつと何かを呟いていた。%K%P
+Yuni murmured something in a soft voice.
+
+小さな小さなささやき声……。%K%P
+A small, weak voice....
+
+オレは彼のくちもとに耳を寄せた。%K%P
+I placed my ear closer to his lips.
+
+ゆに「怖いんだ……」%K%P
+I'm scared...
+
+ゆに「怖くて怖くて……押し潰されちゃいそうなんだ……」%K%P
+I'm scared, so scared... it feels like I'm going to be crushed...
+
+悟「なにが……？　なにが怖いっていうんだ……？」%K%P
+Of what...? What are you afraid of...?
+
+ゆに「この……スフィアだよ……」%K%P
+Here... SPHIA...
+
+ゆに「ねえ、悟……」%K%P
+Hey, Satoru...
+
+ゆに「ぼくはどうして、こんなところにいるの……？」%K%P
+Why am I here...?
+
+ゆに「なんで……閉じ込められなくちゃいけないの……？」%K%P
+Why am I... locked up in this place...?
+
+ゆに「早く帰りたい……」%K%P
+I want to go back...
+
+ゆに「おうちに帰りたいよぉ……」%K%P
+I want to go back home...
+
+悟「わかった、大丈夫だ、心配するな」%K%P
+Got it. Don't worry, everything will be okay.
+
+悟「オレがなんとかしてやる」%K%P
+I'll manage something.
+
+悟「必ずここから出してやるから……」%K%P
+I'll definitely get you out of here...
+
+ゆに「ほんとに……？」%K%P
+Really...?
+
+悟「ああ、約束だ」%K%P
+Yeah, it's a promise.
+
+悟「だから教えてくれないか……？」%K%P
+So, won't you tell me...?
+
+悟「ここに来る前、なにがあったんだ……？」%K%P
+Before you got here, what were you doing...?
+
+ゆに「わからないんだ……」%K%P
+I don't know...
+
+ゆに「ぼくにも……わからないんだ……」%K%P
+Even I... don't know...
+
+ゆに「ただ……」%K%P
+Except...
+
+ゆに「飛行機に……乗ってて……」%K%P
+That I... got on an airplane...
+
+ゆに「でもその飛行機が、墜落しちゃって……」%K%P
+But that airplane... crashed...
+
+飛行機が、墜落！？%K%P
+The airplane crashed?!
+
+１８便のことか！？%K%P
+Did he mean Flight 18?!
+
+だがゆには、朱倉岳や黄泉木達のことは知らないと言った。%K%P
+But Yuni said that he didn't know anything about Mount Akakura or the people trapped there.
+
+だがゆには、朱倉岳のことは知らないと言った。%K%P
+But Yuni said that he didn't know anything about Mount Akakura.
+
+どういうことなんだ……！？%K%P
+What does that mean...?!
+
+ゆに「それで……それから……それから……」%K%P
+And then... after that... after that...
+
+ゆに「気がついたら……こんなとこに……来てて……」%K%P
+When I came to... I was here... in this place...
+
+ゆに「雪の中……歩いてたはずなのに……」%K%P
+Even though... I should've been walking in the snow...
+
+ゆに「いつのまにか……このスフィアに……」%K%P
+Before I knew it... I was at this SPHIA place...
+
+瞬間、オレはすべてを悟った。%K%P
+In that instant, everything fell into place.
+
+今のゆにの発言から考えられることはただひとつ――。%K%P
+Based on what Yuni just said, I could only think of one thing――
+
+ゆにも、オレやこころと同じように転移現象に巻き込まれてしまったのだ。%K%P
+Like Kokoro and I, Yuni had become wrapped up in this transference phenomenon as well.
+
+ただし、ゆにの場合は、別人の肉体と意識が入れ替わるというものではなかった。%K%P
+But in Yuni's case, he wasn't exchanging bodies and swapping consciousnesses with another person.
+
+自分自身の身体の中に、彼の意識は飛び込んでしまったのだろう。%K%P
+He was probably exchanging consciousnesses with his own body.
+
+ゆに「悟ぅ……」%K%P
+Satoruuu...
+
+ゆに「ほんとにここから、出してくれるの？」%K%P
+Will you really get me out of here?
+
+悟「ああ、約束しただろ？」%K%P
+Yeah. I promised, right?
+
+悟「オレは約束は必ず守る男だ」%K%P
+I'm a guy who keeps his promises, no matter what.
+
+ゆに「うぅぅっ……悟ぅ……悟っ……」%K%P
+Uuuuh... Satoruuu... Satoruuu...
+
+ゆにが悲痛な声を洩らして、オレの胸に飛び込んで来る。%K%P
+Crying out in sorrow, Yuni leaped into my arms.
+
+オレは彼の小さな身体を、そっと優しく抱きしめてやった。%K%P
+I gently held his small body close.
+
+いつしか彼は、オレの腕の中で涙を流していた。%K%P
+Unaware, he continued to cry in my arms.
+
+泣きすがる彼の背中は小さい。%K%P
+The back I embraced as he cried felt so small.
+
+首筋も、肩も、壊れてしまいそうなほど弱々しかった。%K%P
+The nape of his neck and his shoulders seemed so frail, like they could break at any moment.
+
+彼は本当に、ただの子どもだった。%K%P
+He really was only a child.
+
+無邪気で、純粋で、傷つきやすい子ども……。%K%P
+An innocent, pure, and easily hurt child....
+
+彼の温もりを、息づかいを、とても愛おしく感じた。%K%P
+That living warmth felt so dear to me.
+
+オレが守ってやらなければ……。%K%P
+I had to protect him....
+
+そんな想いがふつふつと湧く。%K%P
+That feeling began to well up inside me.
+
+とめどなく頬を伝う涙……。%K%P
+His tears continued flowing unabated....
+
+そのしずくの跡が乾くまで、彼のそばにいてやろうと思った。%K%P
+I felt that I ought to be there for him until his tears dried up.
+
+時は流れ……。%K%P
+Time passed....
+
+午後４時をまわった。%K%P
+It was now 4 PM.
+
+部屋に戻ったオレはベッドに寝転んで考えごとをしていた。%K%P
+Having returned to my room, I threw myself down on the bed in deep thought.
+
+落ち着きを取り戻したゆには今、ベッドで休んでいる。%K%P
+Yuni, who'd calmed down, was now resting in his own bed.
+
+できればもう少しゆにに付き添ってやりたいところだったが、そうもいかなかった。%K%P
+I wanted to stay with Yuni for a little while longer if possible, but that wasn't an option.
+
+他にやらなければならないことが残っている。%K%P
+There were still things that I needed to do.
+
+オレは後ろ髪を引かれる思いで、ゆにのもとを離れた。%K%P
+With that nagging thought in the back of my mind, I parted with Yuni.
+
+次に向かうべき場所はすでに決まっていた。%K%P
+I'd already decided where I was going next.
+
+オレはその部屋のドアを開いた。%K%P
+I opened the door to the room.
+
+室内に入ると、犬伏景子が机の上に座っていた。%K%P
+Entering, I saw Inubushi Keiko sitting on top of the desk.
+
+両足をダラリと垂れ下げたまま、オレのことを見ている。%K%P
+She looked toward me, both her feet dangling in the air.
+
+犬伏「誰？」%K%P
+Who're you?
+
+彼女はそう言った。%K%P
+She said.
+
+『誰？』と……。%K%P
+"Who're you?"....
+
+オレは挨拶も何も抜きにして、こう尋ねずにはいられなかった。%K%P
+Even after dispensing with greetings, for her to question me like that was awfully sudden.
+
+悟「おまえ、オレのこと、知らないのか？」%K%P
+Hey, don't you know me?
+
+彼女が長い黒髪をわさわさと掻き毟って答える。%K%P
+Yanking idly on her long hair, she answered.
+
+犬伏「ああ、思い出した思い出した」%K%P
+Aah, I remember, I remember.
+
+犬伏「そう言えば、昨日会ったよね？」%K%P
+We met yesterday, come to think of it.
+
+犬伏「助けてくれるって約束したのに、結局なんにもしてくれなかった……」%K%P
+You promised that you'd protect me, but in the end, you didn't do a thing...
+
+犬伏「まあ、打たれたのはただの鎮静剤みたいだったから、別にいいけど」%K%P
+Well, all she hit me with was a tranquilizing drug, so I guess it doesn't really matter.
+
+話の内容もさることながら、その言葉づかいと態度に呆気にとられていた。%K%P
+The contents of this conversation aside, I was taken aback by her attitude and manner of speech.
+
+ゆうべの彼女の様子とはまったく違う。%K%P
+She seemed like a completely different person compared to the girl from last night.
+
+助けを求めてオレにしがみついてきた彼女……。%K%P
+The girl who'd clung to me, pleading for me to save her....
+
+その面影は、もはやどこにも見当たらなかった。%K%P
+There wasn't so much as a trace of her anymore.
+
+犬伏「あの女……内海とかいう女の手下、でしょ？」%K%P
+That woman... you're the underling of that Utsumi woman, aren't you?
+
+話の内容もさることながら、その言葉づかいと態度に呆気にとられていた。%K%P
+The contents of this conversation aside, I was taken aback by her attitude and manner of speech.
+
+ゆうべの彼女の様子とはまったく違う。%K%P
+She seemed like a completely different person compared to the girl from last night.
+
+懇願するような眼差しでオレの顔を見上げた彼女……。%K%P
+The girl who'd looked up at me with pleading eyes....
+
+その面影は、もはやどこにも見当たらなかった。%K%P
+There wasn't so much as a trace of her anymore.
+
+犬伏「名前は……？」%K%P
+And you are...?
+
+彼女が尋ねてくる。%K%P
+She asked.
+
+オレはくちを閉ざしたまま、答えることができない。%K%P
+My mouth was frozen shut. I couldn't answer.
+
+犬伏「ねえ、訊いてんでしょ？」%K%P
+Hey, you're listening, right?
+
+犬伏「ノックもしないで勝手にひとの部屋に入ってきて……」%K%P
+You entered someone else's room without knocking...
+
+犬伏「しかも、ほとんど初対面も同然だっていうのに、自己紹介もしないで……」%K%P
+Moreover, this is pretty much our first meeting, yet you won't even introduce yourself...
+
+犬伏「なによ、それ？」%K%P
+What's up with that?
+
+犬伏「失礼だと思わない？」%K%P
+Isn't it pretty rude?
+
+オレの思考はめまぐるしく回転を始める。%K%P
+Bewildered thoughts began to whirl around my head.
+
+『ほとんど初対面も同然』……彼女はそう言った。%K%P
+"This is pretty much our first meeting"... is what she'd said.
+
+ということは、彼女は冬川こころにも会っていないということか？%K%P
+Does that mean that she hasn't met Fuyukawa Kokoro either?
+
+オレの肉体がこころに操られているときも含めて、初対面も同然……そういうことだよな？%K%P
+This is our first meeting, even including the times when my body was being controlled by Kokoro... is that how it is?
+
+犬伏「なーんてね♪　うっそぴょーん♪」%K%P
+As iiiif♪ Juuust kidding♪
+
+ふいに、彼女はおどけた声をあげた。%K%P
+She said suddenly, in a bright, playful voice.
+
+声と同時に机の上から飛び降りる。%K%P
+And as it leapt from her mouth, she too jumped up from the desk.
+
+スイスイと床を滑って、オレの前へと近づいてきた。%K%P
+Gliding smoothly across the floor, she drew toward me.
+
+一度身を屈め、大きく飛び跳ねる。%K%P
+After crouching down once, she suddenly took a great hop forward.
+
+立ち上がった彼女の顔は、息の吹きかかるほどの距離にあった。%K%P
+On rising, her face was now so close to mine that my breath fanned against her cheeks.
+
+悪戯っぽい瞳の色……。%K%P
+Her eyes held an impish spark....
+
+くちもとは、なにやら企みを秘めているかのようにゆるんでいた。%K%P
+Her lips were curved in a soft grin, as if she were trying to cover up some kind of prank.
+
+オレにはわけがわからない。%K%P
+I didn't know what was what.
+
+ますます寡黙になるばかりで……。%K%P
+As if trying to act more reserved....
+
+犬伏「あなたの名前は冬川こころ」%K%P
+Your name is Fuyukawa Kokoro.
+
+犬伏「実は、知ってたんだ」%K%P
+Actually, I knew that all along.
+
+犬伏「あの、ゆにとかっていう子から聞いたの」%K%P
+I heard it from that Yuni kid.
+
+彼女が話せば話すほど、混乱の度合いは深まっていく。%K%P
+The more she said, the greater my confusion grew.
+
+謎、謎、謎……謎の渦に巻かれて窒息してしまいそうだった。%K%P
+Mystery upon mystery upon mystery... it felt like I'd be drowned in a whirlpool of them.
+
+とにかく、この情報の洪水を堰き止めなければ……。%K%P
+In the meantime, it felt like I ought to do something to dam this flood of information....
+
+一つひとつ解決していかなければ……。%K%P
+I had to resolve each issue one at a time....
+
+オレは声を振り絞るようにして言った。%K%P
+I addressed her in a strained voice.
+
+悟「オレは、こころじゃない」%K%P
+I'm not Kokoro!
+
+悟「優希堂悟だ」%K%P
+I'm Yukidoh Satoru!
+
+嫌気がさすほどくちにした、お決まりのフレーズ……。%K%P
+I'd uttered those words so many times I was getting sick of them. They could practically be my catchphrase by now....
+
+すでに条件反射的に返せるようにまでなっていた。%K%P
+Answering like that had already become a conditioned reflex.
+
+犬伏「あっ、そうだったんだ？」%K%P
+Ah, is that so?
+
+犬伏「優希堂悟……」%K%P
+Yukidoh Satoru...
+
+犬伏「ゆにの言ってたもうひとりの人格とかいうやつね？」%K%P
+That other personality that Yuni mentioned, right?
+
+悟「ちょっと待ってくれ」%K%P
+Hold on a second!
+
+悟「オレをサブ的に扱わないでくれるか？」%K%P
+Can you not treat me like I'm some sort of stand-in?
+
+悟「あくまでも、この肉体の正式な所有者は、オレなんだから」%K%P
+After all, I'm the original owner of this body.
+
+犬伏「つまり、悟がメインの人格ってこと？」%K%P
+In other words, you're the main personality, Satoru?
+
+悟「うん、うーん……」%K%P
+Hmm, hmmmmm...
+
+悟「まあ、そう思ってもらってもかまわない」%K%P
+Well, I don't mind if you think of it like that.
+
+苦々しく思いながらもそう呟いた。%K%P
+I muttered somewhat bitterly.
+
+今、この状況で、よりによって彼女に対して、転移現象のことを説明する気にはなれなかった。%K%P
+Given the current situation, I didn't feel like explaining the transference phenomenon to her, of all people.
+
+犬伏「ＯＫ、わかった」%K%P
+Okay, got it.
+
+犬伏「今のあなたは優希堂悟」%K%P
+Then the "you" right now is Yukidoh Satoru.
+
+犬伏「じゃあ、ゆうべ地下倉庫まで私を追い駆けてきたのも……？」%K%P
+Were you the one who chased me all the way to the basement yesterday...?
+
+悟「ああ、オレだ」%K%P
+Yeah, that was me.
+
+犬伏「ふーん……」%K%P
+Hmmmm...
+
+彼女は蔑むような笑みを浮かべて、チラリと視線をそらした。%K%P
+She stole a glance at me and then averted her eyes, just as quickly. A scornful smile forming on her face as she did.
+
+犬伏「ああ、そう言えば、私の名前、まだ教えてなかったよねぇ？」%K%P
+Ah, now that I think about it, I never told you my name, did I?
+
+悟「いや、知ってるよ」%K%P
+No, I already know.
+
+悟「きみの名前は……」%K%p
+Your name is...
+
+犬伏景子だろう？
+Inubushi Keiko, right?
+
+涼蔭穂鳥だろう？
+Suzukage Hotori, right?
+
+悟「犬伏景子だろう？」%K%P
+Inubushi Keiko, right?
+
+犬伏「イヌブシケイコ？」%K%P
+Eenubushee Kayko?
+//Should we just repeat Inubushi Keiko?  Satoru's line was in kanji while hers was katakana
+
+犬伏「誰よ、それ……」%K%P
+Who the heck is that...?
+
+犬伏「昔の彼女の名前か何か？」%K%P
+Your old girlfriend or something?
+
+犬伏「私の名前は涼蔭穂鳥……」%K%P
+My name is Suzukage Hotori...
+
+犬伏「間違えないでくれる？」%K%P
+Could you not get it wrong like that?
+
+その言葉を聞いて思い出した。%K%P
+Hearing that from her, I suddenly remember something.
+
+内海とゆにが『穂鳥』という名前で彼女を呼んでいたこと……。%K%P
+Utsumi and Yuni had called her by the name "Hotori"....
+
+つまり、いま目の前にいる彼女は涼蔭穂鳥の人格に支配されているということか。%K%P
+In other words, that meant that right now, the dominant personality of the girl in front of me was Suzukage Hotori.
+
+しかし、それにしては不自然なことがある。%K%P
+However, I found something unnatural about that.
+
+どうして彼女は犬伏景子のことを知らないのだ……？%K%P
+Why didn't she know about Inubushi Keiko...?
+
+戸籍上の本名であるその名前を、彼女が知らないはずはないと思うのだが……？%K%P
+Shouldn't she know the name written in her own family register...?
+
+疑問に思いながらも、オレはひとまずこう言った。%K%P
+Still harboring my doubts, I said this in the meantime.
+
+悟「そうか、きみは穂鳥なのか……」%K%P
+I see, so you're Hotori...
+
+犬伏「うん」%K%P
+Yup!
+
+こくりとうなずく彼女……。%K%P
+She nodded immediately....
+
+今ここで『おまえは犬伏景子のはずだ！』と主張したところでどうにもなるまい。%K%P
+If I tried to assert the idea that "you should be Inubushi Keiko!" as fact here and now, nothing would come of it.
+
+オレは彼女の症状を気遣いつつ、穂鳥と呼んであげることにした。%K%P
+Though I still had my apprehensions about her condition, I decided to call her Hotori.
+
+穂鳥「で？　悟は何をしにきたの？」%K%P
+And? What did you come here for, Satoru?
+
+悟「涼蔭穂鳥だろう？」%K%P
+Suzukage Hotori, right?
+
+犬伏「あれ？　なんで知ってるの？」%K%P
+Huh? How did you know that?
+
+正解だったみたいだ。%K%P
+Seems I hit the mark.
+
+いま目の前にいる彼女は涼蔭穂鳥の人格に支配されている。%K%P
+Right now, the dominant personality of the girl in front of me is Suzukage Hotori.
+
+内海やゆにの発言から、オレはそのことを察していた。%K%P
+That's what I'd concluded from Utsumi and Yuni's remarks.
+
+恐らく、彼女は長いあいだ穂鳥のままでいるのだろう。%K%P
+She's probably been Hotori for a while now.
+
+犬伏景子の人格は、隠されたままで……。%K%P
+Having concealed her Inubushi Keiko personality in the meantime....
+
+穂鳥「まっ、いっか」%K%P
+Well, whatever.
+
+穂鳥「そう、私の名前は涼蔭穂鳥」%K%P
+That's right, my name's Suzukage Hotori.
+
+穂鳥「稲穂の穂に、パタパタパタァ～の鳥」%K%P
+The "ho" from "inaho" (ear of rice) with the pitter-pattering of "tori" (bird).
+
+穂鳥「かわいい名前でしょ？」%K%P
+It's a cute name, isn't it?
+
+穂鳥「ちゅんちゅん、ちゅんちゅん」%K%P
+Chirp chirp, chirp chirp!
+
+彼女は手のひらをくちばし状にすぼめて、オレの胸元を突付いてきた。%K%P
+She made the shape of a beak with her hand, and began to peck it at my chest.
+
+こういう女性にオレは弱い。%K%P
+I'm weak against girls like her.
+
+弱いというのは、対処の仕方に困るという意味だ。%K%P
+And when I say weak, I mean that I have trouble figuring out how to deal with them.
+
+手首をつかんでやめさせるわけにもいかないし……。%K%P
+It wasn't like I could just grab her wrist to make her stop....
+
+オレは困惑しながらも、彼女のなすがままにされていた。%K%P
+Bewildered though I was, she had me at her mercy.
+
+穂鳥「で？　悟は何をしにきたの？」%K%P
+And? What did you come here for, Satoru?
+
+手のひらをくちばし状にしたまま、それをパクパクと開いて彼女は訊いてきた。%K%P
+She asked that while flapping her hand open and shut, as if the beak was talking.
+
+悟「いや、ちょっと、話がしたかっただけだよ」%K%P
+Nothing, I just wanted to talk for a while.
+
+彼女が確かにＤＩＤであると判明した今、事前に訊こうと思っていた内容はすでに解決してしまっていた。%K%P
+Now that I'd established that she really did suffer from DID, I knew what I wanted to ask her.
+
+けれど、この部屋に入ってきてから新たに生まれた謎はある。%K%P
+But a new mystery had been born the moment I entered this room.
+
+オレはその疑問を投げかけてみた。%K%P
+I tried to put forth some of my doubts.
+
+悟「なあ、穂鳥……」%K%P
+Hey, Hotori...
+
+悟「どうしてさっき、嘘なんかついたんだ？」%K%P
+Why did you lie just now?
+
+穂鳥「嘘？」%K%P
+Lie?
+
+悟「オレの名前、知らないようなふりしてただろ？」%K%P
+You acted like you didn't know my name, right?
+
+穂鳥「ああ、あれね？　ちょっとからかってみただけよ」%K%P
+Oh, that? I just wanted to tease you a little.
+
+穂鳥「悟って……こんなこと言うのもなんだけど……」%K%P
+Satoru... you may be talking all sensible right now, but...
+
+穂鳥「頭オカシイんでしょう？」%K%P
+You're actually not quite right in the head, are you?
+
+穂鳥「ＤＶＤ、だっけ？」%K%P
+You've got... DVD, wasn't it?
+
+悟「ＤＩＤ、乖離性同一性障害」%K%P
+DID, actually. Dissociative Identity Disorder.
+
+穂鳥「そっかそっか」%K%P
+That's it, that's it.
+
+穂鳥「その、カイリセイなんちゃらかんちゃらに、なってるんだよね？」%K%P
+You have that dissociadoodiithingy thing, right?
+
+悟「うん、まあ、そういうことだ」%K%P
+Yeah, I guess that's right.
+
+説明するのも面倒だったので、おざなりに答えてやる。%K%P
+I answered her with that, since explaining it in detail would've been too much of a hassle.
+
+穂鳥「だから、私が知らないふりをしたら、どんな反応返すのかなぁ～と思って」%K%P
+That's why I was wondering how you'd react if I pretended not to know you～
+
+穂鳥「いわゆる好奇心ってやつ？」%K%P
+Just basic curiosity, I guess?
+
+悟「…………」%K%P
+......
+
+穂鳥「あっ、その顔、怒っちゃった？」%K%p
+Ah, that face... are you angry?
+
+ちょっとな
+A bit
+
+いや
+No
+
+悟「ちょっとな」%K%P
+A bit.
+
+穂鳥「ええー！　やだやだやだぁー！」%K%P
+What?! No, no, no～!
+
+穂鳥「怒んないでぇー！」%K%P
+Don't get angry～!
+
+悟「いや、別に」%K%P
+No, not really.
+
+穂鳥「うそだー！　絶対怒ってるもん、その顔ー！」%K%P
+You're lying～! You're definitely angry! Look at your face!
+
+穂鳥「やだやだやだぁ！　怒んないでぇ～！」%K%P
+No no no～! Don't be angry～!
+
+穂鳥「ごめんなり～、なのであり～」%K%P
+I most deeply and sincerely apologize～, I really do～
+
+ぺこり、彼女は両手を胸の前であわせて頭を下げた。%K%P
+She clapped her hands and dipped her head in a courtly bow.
+
+やはり、オレには扱い方がよくわからない。%K%P
+Unsurprisingly, I was having a hard time figuring out how to deal with her.
+
+腕組みをして、視線を窓の方に向けた。%K%P
+I crossed my arms and looked out the window.
+
+彼女はなおも頭を下げ続けている。%K%P
+But she still remained there with her head bowed.
+
+悟「わかったよ」%K%P
+I get it!
+
+悟「もういいから、顔をあげてくれ」%K%P
+Enough. Raise your head already.
+
+穂鳥「えっ？　じゃあ許してくれるの？」%K%P
+What? Then you're going to forgive me?
+
+悟「ああ」%K%P
+Yeah.
+
+穂鳥「ほんとに？　怒ってない？」%K%P
+Really? You're not mad?
+
+悟「うん」%K%P
+Nope.
+
+オレがそう告げると、彼女は満面の笑みを浮かべてその場で一回転して見せた。%K%P
+Once I told her that, she spun around in delight, wearing a wide smile across her face.
+
+穂鳥「わ～い！　よかった！」%K%P
+Yay～! Thank goodness!
+
+そんなに嫌われるのがいやなら、最初から冷やかすような真似なんてしなければいいのに……。%K%P
+If she hated the thought of anyone disliking her so much, then she shouldn't have mocked me like that in the first place....
+
+オレには彼女の言動が理解できなかった。%K%P
+I couldn't understand her demeanor.
+
+その後……。%K%N
+Afterward....
+
+オレは彼女にふたつの質問をした。%K%N
+I presented her with two questions.
+
+どこからが真実で、どこまでが嘘なのか、判然としなかったからだ。%K%N
+It wasn't clear how much of what she said was the truth, though.
+ 
+それぞれの問いと答えは次の通り。%K%P
+The questions and answers were as follows.
+
+Ｑ１：穂鳥はゆにからオレの名前を聞いたというが、それは本当なのか？%K%N
+Q1: Is it true that you heard my name from Yuni?
+
+Ａ１：本当である。%K%N
+A1: It's true indeed.
+
+穂鳥（犬伏景子）とオレは、ずっと前からこの施設にいたはずだ。%K%N
+Hotori (Inubushi Keiko) and I had supposedly been in this facility for a while now.
+
+にもかかわらず、穂鳥はゆにから聞くまで、オレの名前さえ知らなかったという。%K%N
+However, until she'd heard it from Yuni, Hotori didn't even know my name.
+
+穂鳥の人格は、昨日まで表に現われることはなかった、ということか……？%K%N
+Did that mean that the Hotori personality hadn't surfaced until yesterday...?
+
+ともかく、これにより『ほとんど初対面も同然』という彼女の発言は真実だったことになる。%K%P
+At any rate, this meant that when she said "this is pretty much our first meeting," it was the truth.
+
+Ｑ２：では、冬川こころの意識とは対面したことはないのか？%K%N
+Q2: Then, have you ever met the Fuyukawa Kokoro personality?
+
+Ａ２：ない。%K%N
+A2: Nope.
+
+『ない』と彼女は言った。%K%N
+"Nope," she said.
+
+オレのことをＤＩＤだと思い込んでいるのは、ゆにや内海からそう聞かされたからである。%K%N
+Her previous impression (that I had DID) was solely based on what Yuni and Utsumi had told her.
+
+実際に、冬川こころの意識と会話したことはないみたいだった。%K%N
+In actuality, she had never spoken to Fuyukawa Kokoro's consciousness herself.
+
+どういうことだろう……？%K%N
+What did this mean...?
+
+こころは意図的に穂鳥の存在を避けているということか……？%K%P
+Did Kokoro purposely try to avoid Hotori...?
+
+以上２点がオレの質問だった。%K%N
+The above two points were the source of my confusion.
+
+無論、彼女の言ったことがすべて真実とは限らない。%K%N
+Of course, I couldn't take everything Hotori said to be the absolute truth.
+
+「とにかく、繰り返すけど、ここでは誰の言うことも信じてはいけないの」%K%N
+Anyway, let me repeat myself. Don't trust anything anyone says here.
+
+オレは昨日聞いた内海の言葉を思い出した。%K%P
+I remembered the words Utsumi said yesterday.
+
+しかし……。%K%N
+But....
+
+それではいったい何を信じればいいというのか……？%K%N
+Then what was she saying that I should believe...?
+
+懐疑論者は%TS054懐疑論%TEをも懐疑する。%K%N
+A skeptic must also doubt&#160;%TS054skepticism%TE itself.
+
+そんなものは建設的とはいえないだろう。%K%N
+I can't say that it's very constructive, though.
+
+オレは微かに疑問の余地を残しながらも、今の穂鳥の発言はすべて受け入れることにした。%K%P
+Though I'd still leave myself a little room for doubt, I decided to accept everything Hotori said.
+
+穂鳥「質問は、それだけ？」%K%P
+Is that everything?
+
+悟「うん、今のところは……」%K%P
+Yes, for now...
+
+穂鳥「そう」%K%P
+Okay.
+
+穂鳥「じゃあ、次は私のお願い、聞いてくれる？」%K%P
+Then would you do something for me now?
+
+悟「お願い？」%K%P
+What?
+
+穂鳥「ちょっとこっちきて？」%K%P
+Come here a sec.
+
+いきなり、穂鳥はぐんっとオレの腕を引き寄せた。%K%P
+Without warning, Hotori had taken my arm.
+
+そのまま部屋の奥に向かって歩いていく。%K%P
+With a firm hold on me, she pulled me further into the room.
+
+オレはなす術もなく、ふらふらと彼女に導かれていった。%K%P
+Completely helpless, I stumbled as she led me.
+
+ベッド……。%K%P
+The bed....
+
+その前で立ち止まり、彼女はオレの方を向いた。%K%P
+Stopping in front of it, she turned to face me.
+
+悟「な、なんだ……？」%K%P
+W, what...?
+
+悟「どうしたんだよ、突然……」%K%P
+What are you doing...?
+
+穂鳥「いいから」%K%P
+Hush...
+
+うろたえるオレの首筋に、彼女は腕をまわしてきた。%K%P
+As I stood there confused, she proceeded to wrap her arms around my neck.
+
+身体をぴったりと寄せてくる。%K%P
+She drew our bodies right up against each other.
+
+この状況は……。%K%P
+This situation is....
+
+この状況は……？%K%P
+This situation is...?
+
+穂鳥「ふふふっ」%K%P
+Ehehe...
+
+穂鳥「なに怯えてるの？」%K%P
+What're you so afraid of?
+
+穂鳥は艶やかに微笑んだ。%K%P
+Hotori wore a charming smile.
+
+片方の手のひらで、オレの髪をそっと撫でている。%K%P
+Her hand began to softly stroke my hair.
+
+悟「お、お願いって……なんだよ……？」%K%P
+W, what do you want...?
+
+穂鳥「わからない？」%K%P
+Don't you know?
+
+ゴクリと唾を飲み込んだ。%K%P
+I swallowed my saliva with a gulp.
+
+いや、飲み込もうとした。%K%P
+No, rather, I tried to swallow.
+
+けれど、くちの中がカラカラに干乾びていて、唾液など１滴たりとも出てはこない。%K%P
+But the inside of my mouth was bone dry.
+
+穂鳥「別に、たいしたことじゃないの」%K%P
+It's nothing big.
+
+穂鳥「簡単なことなんだ」%K%P
+It's easy.
+
+穂鳥「すぐに……」%K%P
+It'll be...
+
+穂鳥「終わること……」%K%P
+Over really quick...
+
+穂鳥「でも……」%K%P
+But...
+
+穂鳥「時間をかけようと思えば……」%K%P
+If you feel like going on for longer...
+
+穂鳥「いつまででも……」%K%P
+You can do it for as long as you want...
+
+穂鳥「明日の……」%K%P
+Until tomorrow...
+
+穂鳥「朝まででも……」%K%P
+Morning...
+
+穂鳥「……ね？」%K%P
+...Okay?
+
+彼女の瞳は淫らに濡れている。%K%P
+Her pupils shimmered licentiously.
+//or "indecently"
+
+声も、手のひらも、唇も……。%K%P
+As did her voice, her hands, her lips....
+
+悟「な、なにが言いたいんだ……？」%K%P
+W, what are you trying to say...?
+
+かすれた声を絞り出す。%K%P
+I squeaked out, my voice cracking.
+
+彼女が鼻先に息をかけた。%K%P
+She exhaled through her nose in a little puff.
+
+ふーっと……ともし火を吹き消すように……。%K%P
+Gently... as if to blow out a burning candle's flame....
+
+その吐息までもが、なまめかしく色づいて見えた。%K%P
+Even that breath had a coquettish air.
+
+穂鳥「なにも言いたくなんてない」%K%P
+I'm not trying to say anything.
+
+穂鳥「なにも言わなくても済むことが、したいの」%K%P
+You don't have to say anything either. You can do it without a word. And I want you to.
+//old: I want you to do it. You don't even have to say a thing.
+
+彼女が耳元でささやく。%K%P
+She whispered in my ear.
+
+その身体からは甘い匂いが立ち昇っていた。%K%P
+A sweet scent rose from her body.
+
+くらくらと目眩がするほどの芳醇な香り。%K%P
+It was a mellow fragrance, potent enough to make me dizzy.
+
+匂いがオレの理性を惑わせる。%K%P
+She was destroying my reason with a simple aroma.
+
+下腹部から昇りつめてくる衝動は、もう抑えることができそうもなかった。%K%P
+It didn't feel like I could contain the impulses rising up from my nether regions any longer.
+
+穂鳥「ねえ？　いいでしょう？」%K%P
+Okay? You'll do it, won't you?
+
+オレは……。%K%p
+I....
+
+承諾する
+Consent
+
+拒絶する
+Refuse
+
+こくりと小さくうなずいた。%K%P
+Gulping, I gave a small nod.
+
+すると……。%K%P
+And then....
+
+穂鳥「わーい♪　やったね♪」%K%P
+Yaay♪ All right♪
+
+突如、穂鳥は飛び退くようにオレのそばを離れた。%K%P
+All of a sudden, Hotori jumped away from me.
+
+床の上で小躍りを始める。%K%P
+She started bouncing on the bed in joy.
+
+穂鳥「あのねぇ～、実はねぇ～、バスタブの中が汚れちゃってるのぉ～」%K%P
+Well～, the truth is, the inside of my bathtub is all dirty～
+
+穂鳥「だから、洗っといてくれない？」%K%P
+Soooo... would you wash it for me?
+
+そう言った。%K%P
+That was all she said.
+
+オレは彼女の豹変ぶりに、言葉を失っていた。%K%P
+Her sudden and complete change left me speechless.
+
+穂鳥「ん？　どうしたの？」%K%P
+Hm? What's up?
+
+穂鳥「今さら『ヤダ』なんて言わないよねぇ～？」%K%P
+You can't be thinking of backing out now, right～?
+
+穂鳥「ちゃんとうなずいたところ、見たんだから～」%K%P
+I saw you nod, you knoowww～!
+
+悟「…………」%K%P
+......
+
+穂鳥「あっ、それともなに？」%K%P
+Ah, or is it something else?
+
+穂鳥「なんか変なことでも想像しちゃった？」%K%P
+Were you fantasizing about something weird?
+
+穂鳥「やだ～ん、もう、悟ったら～ん」%K%P
+Oh my goooodness～, shame on you, Satoru～
+
+腰をくねくねと揺らしながら踊り続ける彼女……。%K%P
+She wiggled and swung her hips as she kept on dancing around me....
+
+その姿を見せつけられて、オレは自分の浅はかさを思い知った。%K%P
+Watching her, I realized how thoughtless I'd just been.
+
+穂鳥「じゃ、頼んだわよぉー！」%K%P
+Well then, I'll leave it to you!
+
+言い残して彼女が部屋を出ていく。%K%P
+Leaving only those words, she left the room.
+
+室内には寒々しい吹雪の音だけが残った。%K%P
+Inside, only the desolate sound of the snowstorm could be heard.
+
+悟「ったく、なんでこんなことしなきゃいけないんだよ……」%K%P
+Dammit, why do I have to be the one to do this...?
+
+オレは額についた泡を手の甲で拭いながら、呟いた。%K%P
+I muttered as I wiped the sweat off my forehead.
+
+確かに、穂鳥の言った通り、作業自体は極めて『簡単なこと』だった。%K%P
+Sure, as Hotori had said, the work itself was "easy."
+
+『すぐに終わること』でもあった。%K%P
+And she'd been telling the truth when she said "it'll be over really quick."
+
+『時間をかけようと思えば、明日の朝まででも』続けられないことはない。%K%P
+And it's not like her saying that "if you wanted to take your time, you could do it until tomorrow morning" was a lie either.
+
+ただし、彼女の言葉にはひとつだけ誤りがあった。%K%P
+However, there was just one thing wrong with what she'd said.
+
+悟「ちっきしょー、まんまとやられたよなぁ……」%K%P
+Damn it all! She really got me good...
+
+こんな作業……愚痴でもこぼさなければ、とてもじゃないがやっていられなかった。%K%P
+This work... you'd never be able to get it done if you weren't allowed to complain about it.
+
+オレにとっては『なにも言わなくても済むこと』ではなかったのだ。%K%P
+To me, this definitely wasn't something that "you could do without saying a word."
+
+それにしても……。%K%P
+But, even so....
+
+オレはバスタブを洗いながら考えた。%K%P
+I thought to myself while I washed out the tub.
+
+涼蔭穂鳥のこと……。%K%P
+About Suzukage Hotori....
+
+気になることならいくつもあった。%K%P
+There were plenty of things that bothered me.
+
+オレのことを『初対面も同然』と言ったこと。%K%P
+"It's pretty much our first meeting," she'd said.
+
+臆することなくオレに対して誘惑の姿勢を見せたこと。%K%P
+And yet she'd turned on the seduction with me without showing the slightest hesitation.
+
+しかし実は、一番気になっているのはそんなことではなく……。%K%P
+But in actuality, what bothered me the most wasn't that....
+
+オレの彼女に対する印象の変化……そこにあった。%K%P
+It was... how much my impression of her had changed.
+
+犬伏景子は阿波墨の病院で１２人もの人間の命を奪った。%K%P
+Inubushi Keiko took the lives of twelve people at that hospital in Awazumi.
+
+穂鳥の人格が直接手を下したわけではないにせよ、%K%P
+Even if it wasn't the Hotori personality herself with blood on her hands,
+//old: Even if it wasn't directly carried out by the hands of the Hotori personality,
+
+その裏側には戦慄するほどの残虐性や狂気といったものが潜んでいるはずだった。%K%P
+somewhere on the reverse side of that personality, a shudder-inducing cruelty and madness are said to lurk.
+
+だが、オレにはどうしても実感がわかないのだ。%K%P
+However, I felt no fear when I spoke to her. I couldn't understand it.
+//check, lit. "However, I could not understand my true feelings (toward her?) no matter what"
+
+確かに、彼女の挙動の中には病的な部分が垣間見える。%K%P
+There were definitely plenty of abnormal things about her conduct.
+
+けれど、１２人もの人間を次々に殺していくなんて……。%K%P
+But for her to kill those twelve people, one after another....
+
+そんなこと、彼女にできるわけがないと思った。%K%P
+I couldn't believe she was capable of something like that.
+
+本来であれば、たかだか数十分程度の会話では、真実の姿なんて見えないものなのかも知れない。%K%P
+Normally, a few minutes of conversation wouldn't be enough for me to understand her true nature.
+
+でも……。%K%P
+But....
+
+オレは彼女を信じたかったのだ。%K%P
+I wanted to believe in her.
+
+どうしてそんなことを考えるようになったのか、自分でもよくわからない。%K%P
+Why I've begun to think that, even I don't know.
+
+彼女の魅惑的な仕草にヤラれてしまったから……だろうか……？%K%P
+Could it be... because I've fallen prey to her charms...?
+
+悟「…………」%K%P
+......
+
+一瞬、手が止まった。%K%P
+I suddenly stopped what I was doing.
+
+オレの内部には悶々とした塊が蠢いていた。%K%P
+A bundle of anxiety writhed within me.
+
+その塊を振り払うかのように、オレはさらに力を込めてバスタブをゴシゴシと磨き続けた。%K%P
+As thought trying to shake it loose, I threw myself back into scrubbing the bathtub with renewed vigor.
+
+時は流れ……。%K%P
+Time passed....
+
+午後４時をまわった。%K%P
+It was now 4 PM.
+
+部屋に戻ったオレはベッドに寝転んで考えごとをしていた。%K%P
+I'd returned to my room to throw myself down on the bed, in deep thought.
+
+バスルームの掃除を終え、部屋を出た。%K%P
+I left after I finished cleaning the bathroom.
+
+いつまでも穂鳥のことだけを考えているわけにはいかない。%K%P
+I couldn't go on thinking about Hotori forever.
+
+他にもやらなければならないことが残っていた。%K%P
+There were things I needed to do.
+
+次に向かうべき場所はすでに決まっていた。%K%P
+I'd already decided where I was going next.
+
+オレは気分を切り替えるために大きく深呼吸を繰り返し……。%K%P
+In order to clear my head, I took a deep breath....
+//old: In order to fix my mood, I took a deep breath....
+
+その部屋のドアの前に立った。%K%P
+And stood in front of the door.
+
+悟「ふざけるのもいいかげんにしろ！」%K%P
+Quit screwing around!
+
+穂鳥を突き飛ばして立ち上がった。%K%P
+I thrust her away and stood up straight.
+
+悟「なに考えてんだか知らないが、からかうのはやめろ！」%K%P
+I don't know what's running through your head, but you'd better stop playing with me!
+
+悟「すべての男が本能だけで生きてると思ったら大間違いだぞ！」%K%P
+If you believe that all men are easy to manipulate, you've got another thing coming!
+
+悟「少なくともオレは、そんなヤツじゃない！」%K%P
+At the very least, I'm not that kind of guy!
+
+悟「遊びで誰とでも寝るようなヤツじゃないんだ！」%K%P
+I'm not the kind of guy who'd fool around with just anyone!
+
+ベッドの上……。%K%P
+On the bed....
+
+オレに弾かれて仰向けになっていた彼女は……。%K%P
+Lying face-up after I'd snapped at her....
+
+穂鳥「くっ、くくっ……」%K%P
+Hee, kehe...
+
+穂鳥「きゃはははははははは♪」%K%P
+Kyahahahahahahahaha♪
+
+突如、大声をあげて笑い出した。%K%P
+She suddenly laughed out loud.
+ 
+穂鳥「うーっ、うーっ、お腹痛い、お腹痛いよぅ……」%K%P
+Aha, haha, my stomach hurts, it hurts!
+
+ベッドの上でのたうちまわる彼女……。%K%P
+She writhed with laughter on the bed....
+
+放心状態に陥るオレ……。%K%P
+I was absolutely dumbstruck....
+
+穂鳥「はぁ、はぁ、はぁ……」%K%P
+Hah, hah, hah...
+
+穂鳥「死むー！　死むー！　笑い死むー！」%K%P
+I'm gonna die! I'm gonna die! I'm gonna die laughing!
+
+穂鳥「『すべての男が本能だけで生きてると思ったら大間違いだぞ！』」%K%P
+"If you believe that all men are easy to manipulate, you've got another thing coming!"
+
+穂鳥「ぶはははははははは♪　あほだ、あほだ、あほすぎる、あほすぎる……」%K%P
+Buhahahahahahahaha♪ Stupid, stupid, too stupid, too stupid...
+
+穂鳥「なぁーに真に受けちゃってんだかねぇ～、ほんとにもう……」%K%P
+Just what were you thinking about, honestly～
+
+悟「…………………………」%K%P
+...............
+
+穂鳥「ひぃ、ひぃ、ふぅ……」%K%P
+Hiii, hiii, huu...
+
+穂鳥「ひぃ、ひぃ、ふぅ……」%K%P
+Hiii, hiii, huu...
+
+穂鳥「ラマーズ法」%K%P
+Lamaze style.
+ 
+穂鳥「ぷっ、ぷぷっ……」%K%P
+Puhu, puhuhu...
+
+穂鳥「わきゃきゃきゃきゃきゃきゃきゃきゃきゃ♪」%K%P
+Wahahahahahahahahaha♪
+
+いつまでも笑い続ける彼女を残し、オレは部屋を後にした。%K%P
+I left her rolling around on the bed and returned to my room.
+
+今の穂鳥の挙動……。%K%P
+Hotori's behavior today....
+
+オレを嘲笑したつもりだったのだろうが、不思議と怒りはわいてこなかった。%K%P
+Perhaps she'd purposely treated me with scorn, but for some reason, I wasn't angry at all.
+
+むしろ、心からの憐憫の情を抱いた。%K%P
+Rather, I felt really sorry for her.
+
+明らかに、彼女の精神は病んでいる。%K%P
+It's clear that she's mentally ill.
+
+一見すると、ただのわがままな女の子にも思えたりするが、実際にはそうではないだろうと思った。%K%P
+At first glance, she appeared to be just an ordinary selfish girl, but it wasn't as simple as that.
+
+ひとを小馬鹿にして笑い転げる姿の陰に、根深い病いが隠されていることをオレは見抜いていた。%K%P
+As I watched her make fun of others, only to fall down laughing at the hilarity of it, I could see through her facade to the deep-rooted sickness it hid.
+
+涼蔭穂鳥……。%K%P
+Suzukage Hotori....
+
+オレは彼女を救ってやれるだろうか？%K%P
+Would I be able to save her?
+
+いつまでもそのことが頭を離れなかった。%K%P
+I couldn't stop thinking that.
+
+時は流れ……。%K%P
+Time passed....
+
+午後４時をまわった。%K%P
+Soon it was 4 PM.
+
+部屋に戻ったオレはベッドに寝転んで考えごとをしていた。%K%P
+I'd returned to my room to throw myself down on the bed, deep in thought.
+
+しかし、このまま彼女のことを考え続けているわけにはいかない。%K%P
+However, I couldn't go on thinking about her forever.
+
+他にもやらなければならないことが残っている。%K%P
+There were still things I had to do.
+
+次に向かうべき場所はすでに決まっていた。%K%P
+I'd already decided where I was going next.
+
+オレは気分を切り替えるために大きく深呼吸を繰り返し……。%K%P
+In order to clear my head, I took a deep breath....
+//old: In order to fix my mood, I took a deep breath....
+
+その部屋のドアの前に立った。%K%P
+And stood in front of the door.
+
+まずは穂鳥のことだが……。%K%P
+First off was Hotori....
+
+これは、オレがいくら考えたところで解決できる問題ではない。%K%P
+It was a problem that couldn't be resolved no matter how much I thought about it.
+
+スイッチを切り替えて、転移現象の方に焦点を移す。%K%P
+Flipping the switch, I turned my focus to the transference phenomenon.
+
+この現象を解明するための手がかりとなるのが、ゆにの存在だった。%K%P
+There was a clue that could be the key to unfolding it, and that was Yuni's existence.
+
+オレはゆにのことを考えた。%K%P
+I thought about Yuni.
+
+ゆには転移現象に巻き込まれている。%K%N
+Yuni had gotten caught up in the transference phenomenon too.
+
+オレやこころと同じように……。%K%N
+The same as Kokoro and I....
+
+しかし、異なるところがひとつだけあった。%K%N
+However, he differed from us in one aspect.
+
+ゆにの意識は、たった１度だけしか転移していないのだ。%K%N
+Yuni's consciousness had only transferred once.
+
+避難小屋とスフィア、それぞれのゆにの言動を比べてみれば、このことは自明だった。%K%N
+If you compare the speech and behavior of the two Yunis at the shelter cabin and SPHIA, that much was evident.
+
+人格的には、こちらのゆには常にこちらのゆにで、あちらのゆには常にあちらのゆになのだ。%K%N
+In terms of personality, the Yuni at SPHIA was consistently "the Yuni here," and the Yuni at the shelter cabin's Yuni was always "the Yuni there."
+
+場所を基準にして、両者の発言には信頼度の高い一貫性が見られる。%K%P
+In terms of location, the behavior of the two had always been highly consistent.
+
+つまり、こういうことだ。%K%N
+In other words, it's like this.
+
+今スフィアにいるゆに……その肉体に宿っているのは、本来ならば避難小屋にいたはずのゆにの意識であり……%K%N
+The Yuni in SPHIA at this very moment... the one who had originally dwelled in that body... has the consciousness of the Yuni of the shelter cabin.
+//possible alt. the one who originally had ownership of that body’
+
+避難小屋のゆに……その肉体に宿っているのは、スフィアにいたはずのゆにの意識なのである。%K%N
+And as for the Yuni in the shelter cabin... the one who's supposed to be dwelling inside that body... he has the consciousness of the Yuni of SPHIA.
+
+転移によって、両者の意識はくるりと逆転してしまった。%K%N
+Their consciousnesses had been switched in the transfer.
+
+もっと簡単に言えば、彼は時間跳躍（及び空間移動）をしただけだ、と言ってしまってもよい。%K%P
+To put it more simply, he had only experienced a time jump (as well as a spatial one).
+
+このスフィアにいるゆには、避難小屋にいるゆによりも、１歳だけ年を取っている。%K%N
+The Yuni at SPHIA was only a year older than the Yuni at the shelter cabin.
+
+当然、身長だって違うだろうし、細胞を構成する物質だって大部分は異なるだろう。%K%N
+Naturally, their height probably differed, as well as the makeup of a large portion of their cells.
+
+けれど、遺伝子的には両者は同じ個体なのだ。%K%N
+But in terms of genes, they were the same individual.
+
+だから彼については『人格交換現象』というのは、省いて考えてもかまわないように思う。%K%N
+That's why, regarding Yuni, it would probably be okay to omit the "personality exchange phenomenon" concept.
+
+実際には人格交換したのだろうが、両者のＤＮＡは同一なのだから、単に時間跳躍しただけだと考えても支障ないだろうということだ。%K%P
+It may actually be a personality exchange, but because the two possessed the same DNA, it wouldn't be too difficult to consider it a time-only jump.
+
+さて、そこでだ。%K%N
+Well then, that's the question.
+
+やはり問題になってくるのは『なぜ、このスフィアにゆにの肉体が存在するのか』である。%K%N
+The problem became, "Why did Yuni's body exist here at SPHIA in the first place?" after all.
+
+もちろん、ここにいるゆにに訊いたところで、どうにもならない。%K%N
+Of course, nothing will come of it even if I were to ask the Yuni here.
+
+彼は２０１１年のゆに……。%K%N
+He's the Yuni of 2011....
+
+不運にも転移現象に巻き込まれてしまった犠牲者に過ぎないのだから……。%K%N
+Because he's nothing but a victim who had the misfortune of getting caught up in the transference phenomenon....
+
+従って、この問いを投げかけるべき対象は、あちらのゆにということになる。%K%P
+Consequently, the one who should be the target of this question is the Yuni over there.
+
+２０１１年の朱倉岳にいる、２０１２年のゆに……。%K%N
+The Yuni of 2012, the one who was at the Mount Akakura of 2011....
+
+いま思えば、確かにあいつの言動は怪しすぎるような気がする。%K%N
+Now that I thought about it, it certainly did feel like his behavior was kind of suspicious.
+
+彼が２０１２年のゆにだとするなら、どうして時間跳躍したことを平然と受け入れているんだ？%K%N
+If he was the Yuni of 2012, then why did he so calmly accept the time jump?
+
+しかも、彼はあたかも２０１１年のゆにであるかのように振る舞っている。%K%N
+Moreover, he'd been behaving as if he were the Yuni of 2011.
+
+恐らく、彼は嘘をついているのだろう。%K%N
+He was most likely deceiving us.
+
+あいつは何かを知っているに違いない。%K%N
+That guy definitely knows something.
+
+オレはそう思った。%K%N
+That's what I thought.
+
+次に転移したときには、直接問い質してみよう。%K%P
+I should try asking him directly the next time I transfer.
+
+考えごとをしているうちに、外はすっかりと暗くなっていた。%K%P
+While I was pondering this to myself, it'd gotten completely dark outside.
+
+次にすべきことは……。%K%P
+Next I need to....
+
+悟「そうだ、こころに返信を書かなければ」%K%P
+That's right. I have to reply to Kokoro.
+
+オレは机の前に座ってペンを取った。%K%P
+I sat in front of my desk and picked up the pen.
+
+おい、頼むよ、こころ！%K%N
+Hey, come on, Kokoro!
+
+『午後１時７分転移』……。%K%N
+"Transfer at 1:07 PM"....
+
+これだけか？　たったこれだけなのか？　おまえの言いたいことは……。%K%N
+That's it? That's all there is? Is this all you wanted to say...?
+
+確かに、返信としては素晴らしく要領を得ている。%K%N
+Certainly, as a reply, what you wrote was wonderfully concise.
+
+オレが頼んだことには、ひとまずちゃんと答えてくれてるからな。%K%N
+You replied perfectly with what I asked, after all.
+
+イラストを添えた意味も、なんとなくわかったし……。%K%P
+I somehow understood what the illustration you attached meant too....
+
+でもな？%K%N
+But, you know?
+
+たった１行だけの文章ってーのは、あまりにも素っ気なさ過ぎるんじゃないか？%K%N
+Isn't writing only one sentence a little bit cold?
+//lit. blunt/curt, but none of those sounded as good
+
+もうちょっと、なんと言うか、具体的なことを書いて欲しいんだ。%K%N
+Can't you, I don't know, write something with a little more depth?
+
+お互い直接対面することはできないが、幸いなことに、こうして情報交換することはできるわけだし……。%K%N
+We can't meet in person, but at least we're lucky enough to be able to exchange information... right?
+
+これを活用しない手はないだろう？　そう思わないか？%K%N
+Wouldn't anyone try to make use of this? You agree, right?
+
+オレ達は、いわばパートナーみたいなもんなんだぞ？%K%P
+We're kind of like partners, you know?
+
+そのときふと、ドアをノックする音が聞こえた。%K%P
+Suddenly, at that moment, I heard a knock on the door.
+
+悟「はい」%K%P
+Yes?
+
+悟「えーと……ちょっと待ってくれ」%K%P
+Umm... can you wait a moment?
+
+オレはドアの外に向かって声をかけ、メッセージの続きを急いで書き足した。%K%P
+Calling out to whoever was on the other side of the door, I hurriedly continued writing my message.
+
+すまん、客が来たみたいだ。%K%N
+Sorry, seems like a guest has arrived.
+
+続きは後で書くよ。%K%N
+I'll continue writing later.
+
+あ、そうそう、書き忘れないうちにひとつだけ。%K%N
+Ah, right, before I forget to write it.
+
+避難小屋のボイスレコーダー、もう聞いてくれたか？%K%N
+Did you already listen to the voice recorder in the shelter cabin?
+
+念の為、ここにも書いておくことにする。%K%P
+I'm mentioning it again here just in case.
+
+オレは、誰かに狙われてるらしい……。%K%N
+It looks like someone's after me....
+
+気をつけてくれ。%K%N
+Be careful.
+
+オレも、避難小屋にいるときには、おまえの身体のことを最優先で考えるから。%K%N
+While I'm in the shelter cabin, I consider your body my top priority too.
+
+それじゃあ、頼んだぞ、こころ。%K%P
+Well then, I'm counting on you, Kokoro.
+
+オレはペンを置き、部屋のドアへと向かった。%K%P
+I put down my pen and headed to the door.
+
+ノブに手をかけて、手前に引く。%K%P
+I turned the knob and pulled the door open.
+
+開かれた扉の向こう……。%K%P
+On the other side of the open door....
+
+そこに立っていたのは内海だった。%K%P
+...was Utsumi, standing before me.
+
+彼女は胸元に両手を添え、なにやら不安げな眼差しを向けていた。%K%P
+She had both hands folded before her chest as she looked at me with a face full of anxiety.

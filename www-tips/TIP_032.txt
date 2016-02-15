@@ -1,0 +1,10 @@
+
+フライトレコーダー
+飛行高度など、飛行に関するデータを自動的に
+時刻とともに記録する装置。
+耐熱・耐震性の堅牢な箱に納められている。
+</pre>
+<pre>
+(a.k.a. Black Box)%N
+An aviation device that automatically records speed, altitude, and other information about the flight in real time.%N
+Housed in a very sturdy casing which makes it highly resistant to damage by fire or force trauma.

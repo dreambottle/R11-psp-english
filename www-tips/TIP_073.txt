@@ -1,0 +1,36 @@
+
+同時に発生させたふたつの粒子
+具体的な操作としては次のようなものがある。
+ホウ酸バリウムのような
+光学的に非線形な性質をもつ結晶に
+ＵＶレーザー光をぶつけた場合、
+ひとつの光子が波長の長いふたつの光子に
+分裂することがある。
+また、分裂したそれぞれの光子は、ふたつの
+円錐に沿って、初めのＵＶレーザーを軸として
+対称的に飛んでいく。
+
+ふたつの円錐が交わるところでは、ふたつの
+光子を区別できない%TS070絡み合いの状態%TEにある。
+この絡み合いの光子対については偏光が互いに
+直交していることは分かっているが、
+それぞれの偏向角が具体的にどうなっているかを
+知ることはできない。
+このようにして絡み合いにある光子を作成する。
+この方法はパラメトリックダウンコンバージョンと
+呼ばれている。
+</pre>
+<pre>
+As an example of an established method, the following procedure exists.%N
+When the UV laser beam interacts with a crystal of
+non-linear optical material such as barium borate,
+each single photon splits into two other photons with long wavelengths.
+These split photons travel along the contours of two
+cones that, in turn, are symmetric about the initial beam.%P
+
+The points where the contours of the two cones intersect have photons
+in the state of&#160;%TS070entanglement%TE, i.e. there is no distinction as to
+their origins there. What is known about these entangled photons is
+that their polarization is mutually orthogonal, however it is impossible
+to definitely know their respective deflection angles.%N
+This method of creating entangled photons is called parametric down-conversion.

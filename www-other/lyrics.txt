@@ -1,0 +1,625 @@
+
+{
+   #35999, ''
+   35999, ''
+   #35999, ''
+   35999, ''
+
+}
+
+{
+   #0, '真っ白の太陽は　今なにを見つめるの？'
+   0, 'masshiro no taiyou wa / The pure white sun,'
+   495, 'ima nani wo mitsumeru no? / What is it looking down on now?'
+   #this line has too much screen time EVEN when divided into two, therefore it had to be like this.
+
+   #780, ''
+   890, ''
+   890, ''
+
+   #1170, '作詞／作曲：志倉千代丸　編曲：磯江俊道'
+   1170, 'Lyrics/Composition: Shikura Chiyomaru'
+   #1170, '歌：ＫＡＯＲＩ'
+   1170, 'Arrangements: Isoe Toshimichi  Vocals: KAORI'
+
+   #1410, ''
+   #1410, ''
+   1415, ''
+   1415, ''
+
+   #1510, '大きすぎるこの宇宙で　例えば何かが叫んで'
+   1550, 'ookisugiru kono uchuu de'
+   1550, 'For example, if something were to scream out'
+
+   1784, 'tatoeba nanika ga sakende'
+   1784, 'Inside this too-big universe,'
+
+   #1978, 'でもそれはきっと小さくて　誰にも気づかれない'
+   2018, 'demo sore wa kitto chiisakute'
+   2018, 'It would still be too small'
+
+   2245, 'dare ni mo kizukarenai'
+   2245, 'For anyone to notice it.'
+
+   #2433, '無限に続いてく景色も　優しい嘘なら'
+   2473, 'mugen ni tsuzuiteku'
+   2473, 'If this scenery that stretches on forever'
+
+   2700, 'keshiki mo yasashii uso nara'
+   2700, 'Is a gentle lie too,'
+
+   #2888, '命の意味さえどこかに　紛れてしまうよ'
+   2928, 'inochi no imi sae'
+   2928, 'Even the meaning of life'
+
+   3168, 'dokoka ni magireteshimau yo'
+   3168, 'Gets lost somewhere along the way.'
+
+   3413, ''
+   3413, ''
+
+   #3444, 'Ｔｈｅ\x01ｔｉｍｅ\x01ｗａｓ\x01ｐｒｏｐｈｅｓｉｅｄ'
+   3486, 'The time was prophesied'
+
+   #3664, 'ｔｈａｔ\x01ｗｉｌｌ\x01ａｐｐｒｏａｃｈ\x01ｓｕｒｅｌｙ．'
+   3717, 'that will approach surely.'
+
+   #3888, 'Ｔｈｅ\x01ｓｏｕｌ\x01ｔｈａｔ\x01ｗａｓ\x01ｌｅｆｔ\x01ｉｎ\x01ｔｈｅ\x01ｗｏｒｌｄ'
+   3940, ''
+   3940, ''
+   3941, 'The soul that was left in the world'
+
+   #4119, 'ｗｈｅｒｅ\x01ｉｔ\x01ｗａｓ\x01ｔｏｏ\x01ｃｏｌｄ．'
+   4179, 'where it was too cold.'
+
+   #4356, '真っ白の太陽は　今なにを見つめるの？'
+   4408, ''
+   4408, ''
+   4409, 'masshiro no taiyou wa / The pure white sun,'
+   4873, 'ima nani wo mitsumeru no? / What is it looking down on now?'
+   #see the note at the top
+
+   #5263, 'Ｉ\x01ｗａｎｔ\x01ｔｏ\x01ｓｌｅｅｐ．\x01Ｉ\x01ｗａｎｔ\x01ｔｏ\x01ｓｌｅｅｐ\x01ｄｅｅｐｌｙ．'
+   5314, ''
+   5314, ''
+   5315, 'I want to sleep. I want to sleep deeply.'
+
+   #5718, 'Ｉ\x01ｗａｎｔ\x01ｔｏ\x01ｓｌｅｅｐ．\x01Ｉ\x01ｗａｎｔ\x01ｔｏ\x01ｓｌｅｅｐ\x01ｄｅｅｐｌｙ．'
+   5775, 'I want to sleep. I want to sleep deeply.'
+
+   #6600, ''
+   6600, ''
+   #7800, ''
+   7800, ''
+}
+
+{
+#[0x60:24,34,1]: '作詞／作曲：志倉千代丸　編曲：磯江俊道'
+#[0x60:24,34,1]: 'Lyrics/Composition: Shikura Chiyomaru  Arrangements: Isoe Toshimichi'
+#[0x60:24,34,1]: 'Lyrics/Composition: Shikura Chiyomaru'
+
+#[0x60:24,34,2]: '歌：皆川純子'
+#[0x60:24,34,2]: 'Arrangements: Isoe Toshimichi    Vocals: Minagawa Junko'
+#[0x60:24,34,2]: 'Vocals: Minagawa Junko'
+
+   0, 'Lyrics/Composition: Shikura Chiyomaru'
+   0, 'Arrangements: Isoe Toshimichi    Vocals: Minagawa Junko'
+
+   #720, ''
+   #720, ''
+   240, ''
+   240, ''
+
+   #1066, '偽りの中で　何かがホントで'
+   1113, 'itsuwari no naka de nanika ga honto de'
+   1113, 'There's truth to be found in a lie.'
+
+   #1315, '慣れてそのうち染まったら'
+   1350, 'narete sono uchi somattara'
+   1350, 'The moment you grow used to it, it flows into you.'
+
+   #1563, '少しは楽になれると信じて　今は叫ばずに過ごそう'
+   1595, ''
+   1595, ''
+   1603, 'sukoshi wa raku ni nareru to shinjite'
+   1603, 'Believing it'll be a little better soon,'
+
+   1822, 'ima wa sakebazu ni sugosou'
+   1822, 'For now, I can hold back my screams.'
+
+   #2068, '生まれついたエナジー　頼りない君のささやき'
+   2067, ''
+   2067, ''
+   2084, 'umaretsuita energy'
+   2084, 'My innate energy,'
+
+   2300, 'tayorinai kimi no sasayaki'
+   2300, 'Your unreliable whisper.'
+
+   #2553, '無機質なるセオリー　ぼんやりと宙に舞うけど'
+   2545, ''
+   2545, ''
+   2569, 'mukishitsu naru theory'
+   2569, 'Inorganic theories'
+
+   2768, 'bonyari to chuu ni mau kedo'
+   2768, 'Mindlessly waver in the air, but...'
+
+   #3003, '深い洞窟目指して　賢者よ導きたまえ'
+   3013, ''
+   3013, ''
+   3041, 'fukai doukutsu mezashite kenja yo'
+   3041, 'Guide me, O wise man,'
+
+   3286, ''
+   3286, ''
+   3295, 'michibikitamae'
+   3295, 'Into the deepest cave.'
+
+   #3507, '黒い夜には　白い星があり'
+   3540, ''
+   3540, ''
+   3553, 'kuroi yoru ni wa'
+   3553, 'In the pitch-black sky,'
+
+   3798, ''
+   3798, ''
+   3868, 'shiroi hoshi ga ari'
+   3868, 'There are white stars.'
+
+   #3985, 'キミの光もその一つになる'
+   4034, 'kimi no hikari mo'
+   4034, 'Your light too'
+
+   4279, ''
+   4279, ''
+   4313, 'sono hitotsu ni naru'
+   4313, 'Will become one of them.'
+
+   #4475, '仰ぎ見る空　笑ってるみたい'
+   4513, 'aogimiru sora'
+   4513, 'The sky is looking upward'
+
+   4758, ''
+   4758, ''
+   4831, 'waratteru mitai'
+   4831, 'And laughing, it seems.'
+
+   #4959, 'それなら\x01Ｉ\x01ｗｒａｐ\x01ｉｔ\x01ｋｉｎｄｌｙ\x01このままでいい'
+   4999, 'sore nara I wrap it kindly'
+   4999, 'So I wrap it up kindly,'
+
+   5244, ''
+   5244, ''
+   5247, 'kono mama de ii'
+   5247, 'And it's fine as it is.'
+
+   #5520, ''
+   #5760, ''
+   5492, ''
+   5492, ''
+
+   #6475, '千年一度の　奇跡を起こしてみてよ'
+   6503, 'sennen ichido no kiseki wo okoshite'
+   6503, 'Go on and try to bring about your once-in-a-lifetime miracle,'
+
+   6742, 'mite yo sore nara shinjiru kara'
+   6742, 'So that I can believe in you.'
+
+   #6964, '約束とか　夢の続きとか　ちょっと今時ないよね'
+   6987, ''
+   6987, ''
+   7006, 'yakusoku to ka yume no tsuzuki to ka'
+   7006, 'Promises and sequential dreams,'
+
+   7251, ''
+   7251, ''
+   7270, 'chotto imadoki nai yo ne'
+   7270, 'I'm not getting many of those these days.'
+
+   #7474, '生まれつきのベイビー　言い訳はいつもそれだけ'
+   7484, 'umaretsuki no baby'
+   7484, 'Natural-born baby,'
+
+   7703, 'iiwake wa itsumo sore dake'
+   7703, 'With the same excuse as always.'
+
+   #7950, 'どことなくクレイジー　何気ない作り笑い'
+   7948, ''
+   7948, ''
+   7960, 'dokotonaku crazy'
+   7960, 'There's something crazy'
+
+   8187, 'nanigenai tsukuriwarai'
+   8187, 'about that nonchalant forced smile.'
+
+   #8404, 'なんだ知らずに大人になったね　嘘もつけるよ'
+   8432, ''
+   8432, ''
+   8436, 'nanda shirazu ni otona ni natta ne'
+   8436, 'Before I knew it, I'd become an adult;'
+
+   8681, ''
+   8681, ''
+   8691, 'uso mo tsukeru yo'
+   8691, 'See, I can lie now too.'
+
+   #8916, '朝日が昇り　そしてまた落ちる'
+   8936, ''
+   8936, ''
+   8952, 'asahi ga nobori'
+   8952, 'The morning sun rises'
+
+   9197, ''
+   9197, ''
+   9263, 'soshite mata ochiru'
+   9263, 'And then sets again.'
+
+   #9387, 'キミの影さえ形を変えて'
+   9429, 'kimi no kage sae'
+   9429, 'Even your shadow'
+
+   9674, ''
+   9674, ''
+   9714, 'katachi wo kaete'
+   9714, 'Changes shape.'
+
+   #9872, '悪意の夢は　終わって始まる'
+   9904, 'akui no yume wa'
+   9904, 'And the wicked dream'
+
+   10149, ''
+   10149, ''
+   10226, 'owatte hajimaru'
+   10226, 'Begins from its ending.'
+
+   #10359, 'それなら\x01Ｉ\x01ｗｒａｐ\x01ｉｔ\x01ｋｉｎｄｌｙ\x01そのままでいい'
+   10412, 'sore nara I wrap it kindly'
+   10412, 'So I wrap it up kindly,'
+
+   10646, 'kono mama de ii'
+   10646, 'And it's fine as it is.'
+
+   #10920, ''
+   #11160, ''
+   10891, ''
+   10891, ''
+
+   #12520, 'どんな命も　意味があるように'
+   12547, 'donna inochi mo'
+   12547, 'We're all enveloped in light'
+
+   12792, ''
+   12792, ''
+   12867, 'imi ga aru you ni'
+   12867, 'At the moment of our birth,'
+
+   #12988, '生まれゆく瞬間　光につつまれ'
+   13026, 'umareyuku toki'
+   13026, 'So that our lives'
+
+   13271, ''
+   13271, ''
+   13313, 'hikari ni tsutsumare'
+   13313, 'Can have meaning.'
+
+   #13472, 'そこから先が　どんな景色でも'
+   13509, 'soko kara saki ga'
+   13509, 'From that point on,'
+
+   13754, ''
+   13754, ''
+   13825, 'donna keshiki demo'
+   13825, 'No matter what awaits me,'
+
+   #13963, 'いつかは\x01Ｉ\x01ｗｒａｐ\x01ｉｔ\x01ｋｉｎｄｌｙ\x01その場所に還る'
+   13999, 'itsuka wa I wrap it kindly'
+   13999, 'One day, I'll wrap it up kindly'
+
+   14241, 'sono basho ni kaeru'
+   14241, 'And return to that place.'
+
+   #14431, '黒い夜には　白い星があり'
+   14463, 'kuroi yoru ni wa'
+   14463, 'In the pitch-black sky,'
+
+   14708, ''
+   14708, ''
+   14782, 'shiroi hoshi ga ari'
+   14782, 'There are white stars.'
+
+   #14909, 'キミの光もその一つになる'
+   14947, 'kimi no hikari mo'
+   14947, 'Your light too'
+
+   15192, ''
+   15192, ''
+   15231, 'sono hitotsu ni naru'
+   15231, 'Will become one of them.'
+
+   #15393, '仰ぎ見る空　笑ってるみたい'
+   15431, 'aogimiru sora'
+   15431, 'The sky is looking upward'
+
+   15676, ''
+   15676, ''
+   15742, 'waratteru mitai'
+   15742, 'And laughing, it seems.'
+
+   #15885, 'それなら\x01Ｉ\x01ｗｒａｐ\x01ｉｔ\x01ｋｉｎｄｌｙ\x01このままでいい'
+   15924, 'sore nara I wrap it kindly'
+   15924, 'So I wrap it up kindly,'
+
+   16160, 'kono mama de ii'
+   16160, 'And it's fine as it is.'
+
+   #16200, ''
+   #16200, ''
+   16405, ''
+   16405, ''
+}
+
+{
+   #120, 'たいちょー！　黄泉木たいちょー！'
+   120, 'Captain! Captain Yomogi!'
+   #240, 'どうしたんだー！？　ゆに隊員！'
+   240, 'What's wrong, Private Yuni?!'
+
+   #360, 'すさまじい財宝を発見したであります！'
+   360, 'We have recovered an awesome treasure!'
+   #480, 'なにー！？　財宝だとー！？'
+   480, 'Whaaat?! Treasure?!'
+
+   #600, 'はい！　これであります！'
+   600, 'Yes sir! It's this, sir!'
+   #720, 'ほほぅ、これは『リメンバー１１』とかいう'
+   720, 'Oho, if it isn't the game'
+
+   #840, 'ゲームソフトではないか……'
+   840, '\"Remember11\"!'
+   #960, '黄泉木たいちょー、さっそく再生してみましょー'
+   960, 'Captain Yomogi, let's try and play it at once!'
+
+   #1080, '待て、ゆに隊員。'
+   1080, 'Wait, Private Yuni...'
+   #1200, 'このディスクには'
+   1200, 'There may be'
+
+   #1320, '罠が仕掛けられているのかも知れん'
+   1320, 'traps within this game disc!'
+   #1440, '罠……ですか？'
+   1440, 'Traps... sir?'
+
+   #1560, 'ああ、そうだ。あるいは、ゲーム専用のものだから、'
+   1560, 'Yes, that's right. Or, since this is a piece of game software,'
+   #1680, 'ＣＤプレイヤーでは'
+   1680, 'I fear that the CD player'
+
+   #1800, '再生してはならないという恐れもある'
+   1800, 'won't be able to play it!'
+   #1920, 'しかしたいちょー！'
+   1920, 'But, Captain!'
+
+   #2040, '自分は聴きたいであります！'
+   2040, 'I wish to try!'
+   #2160, 'このディスクに何が録音されているのか、'
+   2160, 'I must see for myself'
+
+   #2280, '確かめずにはいられません！'
+   2280, 'if there's anything recorded on this disc!'
+   #2400, 'うーむ……'
+   2400, 'Hmmmmmmmmh...'
+
+   #2520, 'たとえ罠だとしても、自分が犠牲になります！'
+   2520, 'And even if there are traps, I'll gladly sacrifice myself!'
+   #2640, 'ですから……'
+   2640, 'So...'
+
+   #2760, '待て！　ゆに隊員！　早まるな！'
+   2760, 'Wait, Private Yuni! Don't be rash!'
+   #2880, 'パカッ、カシャッ、シャコンッ……ぽちっとな……'
+   2880, 'Bakaaan, cashaaan, shakonnn... it went "click," yo...'
+
+   #3000, 'たいちょーー！　黄泉木たいちょーー！'
+   3000, 'Caaaptain! Captain Yomogiiii!'
+   #3120, 'どうしたんだー！？　ゆに隊員！'
+   3120, 'What's wrong, Private Yuni?!'
+
+   #3240, 'すーさーまーじぃーーー財宝を、発見したであります！'
+   3240, 'We have recovered an aaaaaawesome treasure!'
+   #3360, 'なにー！？　おパンツだとー！？'
+   3360, 'What?! Panties, you say?!'
+
+   #3480, 'ノンノン'
+   3480, 'Non non.'
+   #3600, '隊長のお好きな、おパンツではありません'
+   3600, 'Not panties, which you love so dearly, Captain.'
+
+   #3720, 'これであります！'
+   3720, 'It's this!'
+   #3840, 'ほほぅ、これは『リメンバー１１』とかいう'
+   3840, 'Oho, isn't this the soccer game'
+
+   #3960, 'サッカーゲームではないか……'
+   3960, '\"Remember11\"?'
+   #4080, '国立を目指して戦った、あの熱き１１人は今……'
+   4080, '"Those fervent eleven, who never wavered in their struggle towards the Nationals, must now face..."'
+
+   #4200, 'とかいうやつだったよな？'
+   4200, '...or however it went, right?'
+   #4320, '全然違いますっ！'
+   4320, 'Completely wrong!'
+
+   #4440, 'まあいいや、とにかくたいちょー、'
+   4440, 'Oh well. Anyway, Captain,'
+   #4560, 'さっそく再生してみましょー'
+   4560, 'let's try playing it at once――'
+
+   #4680, '待て、ゆに隊員。'
+   4680, 'Wait, Private Yuni!'
+   #4800, 'このディスクには'
+   4800, 'There may be'
+
+   #4920, '縄が仕掛けられているのかも知れん'
+   4920, 'ropes within this game disc!'
+   #5040, '縄……ですか？'
+   5040, '...Ropes... sir?'
+
+   #5160, 'ああ、そうだ'
+   5160, 'Yeah, that's right.'
+   #5280, 'いろんな縛り方があるぞ？'
+   5280, 'There's all kinds of ways to tie something up with ropes, you know?'
+
+   #5400, '例えば、亀の甲羅のような――'
+   5400, 'For example, like the pattern on the shell of a tortoise――'
+   #5520, 'あほか、このオッサン……'
+   5520, 'Have you finally gone senile, you old fart?'
+
+   #5640, 'えーっと、隊長のことはほっといてと……'
+   5640, 'Ummmm, well then, never mind the captain, let's...'
+   #5760, '待て！　ゆに隊員！　早まるな！'
+   5760, 'Wait! Don't be hasty, Private Yuni!'
+
+   #5880, 'パカッ、カシャッ、シャコンッ……ぽちっとな……'
+   5880, 'Bakaaan! Cashaaan! Shakooonnn! ...it went "click," yo...'
+   #6000, 'たいっちょーーー！　黄泉木たいっちょーーー！'
+   6000, 'Captaaaaaain! Captain Yomoooooogi!'
+
+   #6120, 'どないしたんやー！？　ゆに隊員！'
+   6120, 'What on earth's the matter, Private Yuni?!'
+   #6240, 'すーーーーさーーーーまーーーーじぃーーーーーーー'
+   6240, 'We have recoveeeeeeeeered'
+
+   #6360, '財宝を、発見したであります！'
+   6360, 'an aaaaaaaaaaaaaaaaaweeeeeeeeesooooooooommmme treasure!'
+   #6480, 'なにー！？　オポッサムだとー！？'
+   6480, 'What?! An opossum, you say?!'
+
+   #6600, 'ノンノン'
+   6600, 'Non non,'
+   #6720, 'いま隊長の肩に乗っている、'
+   6720, 'Not the opossum'
+
+   #6840, 'オポッサムではありません'
+   6840, 'that's sitting on your shoulder right now, Captain.'
+   #6960, 'これであります！'
+   6960, 'It's this!'
+
+   #7080, 'ほほぅ、これは『リメンバー１１』とかいう――'
+   7080, 'Ohooooh, if it isn't \"Remember11\"――'
+   #7200, 'はい、ゲームソフトであります。'
+   7200, 'Yes, the game.'
+
+   #7320, 'さっそく再生してみましょー'
+   7320, 'Let's play it at once!'
+   #7440, '待て、ゆにたん'
+   7440, 'Wait, Yuni-tan!'
+
+   #7560, 'このディスクには穴があいているかも知れん'
+   7560, 'There may be holes within this game disc!'
+   #7680, '穴……ですか？　確かに、あいてますけど'
+   7680, 'Holes... sir? Well, there certainly is one, but...'
+
+   #7800, 'いろんな使い方があるぞ？'
+   7800, 'There are many uses for a hole like that, you know?'
+   #7920, '例えば、亀の頭に被せて、くるくるくる～っとな、'
+   7920, 'For example, putting it on a tortoise's head and then like wooshswooshwoosh!'
+
+   #8040, 'まわしてみたりとか'
+   8040, 'Spinning it like crazy.'
+   #8160, 'あーあーあー、聞こえない聞こえない……'
+   8160, 'LA LA LA LA, I'm not listening anymore, not listening...!'
+
+   #8280, 'このあほ隊長のことはほっといてと……'
+   8280, 'Let's leave this idiot captain alone...'
+   #8400, 'さむらいて！　ゆにたん！'
+   8400, 'Weight! Yuni-tan!'
+
+   #8520, 'ポリウレタン！　ポリウレタン！'
+   8520, 'Polyurethane! Polyurethane!'
+   #8640, 'パカッ、カシャッ、シャコンッ……ぽちっとな……'
+   8640, 'Bakaaan! ...cashan! Shakooonnnnnn! ...IT WENT "CLICK," YO!'
+
+   #8760, 'たいっちょーーーー！　黄泉木たいっちょーーーー！'
+   8760, 'Captaaaaaain! Captain Yooooomooooooooooooogiiii!'
+   #8880, 'どぎゃんしたとね！？　ゆにどん！'
+   8880, '¿Que pasa, Don Yuni?'
+
+   #9000, 'すんげーすんげー、激レアアイテムを、'
+   9000, 'We found an awesome, astounding ultra cool,'
+   #9120, '発見したであります！'
+   9120, 'super rare item!'
+
+   #9240, 'ただし、おパンツでも、オポッサムでもありません'
+   9240, 'Which is of course neither panties nor an opossum.'
+   #9360, 'なにー！？黛のセミヌードだとー！？'
+   9360, 'What?! Semi-nude photos of Mayuzumi, you say?!'
+
+   #9480, '見たくねー！　見たくねー！　全然見たくねー！'
+   9480, 'I don't want to see them! I don't want to see them! I REALLY don't want to see them!'
+   #9600, 'むしろ萎える'
+   9600, 'In fact, I'm going limp just thinking about it...'
+
+   #9720, 'あん！？　なんか言った！？'
+   9720, 'Eh?! Did you say something just now?!'
+   #9840, 'まあまあ、落ち着いて、黛案内人'
+   9840, 'Now now, calm down, Pathfinder Mayuzumi.'
+
+   #9960, 'それよりも――ババーン！　これであります！'
+   9960, 'More importantly――TADAAAAAH! It's this!'
+   #10080, 'ほほぅ、これは『マリンバ１１楽坊』とかいう'
+   10080, 'Ohhohh, isn't this the CD released by the famous new marimba band that everyone's talking about,'
+
+   #10200, '今話題のマリンバ集団のＣＤだな？'
+   10200, '\"Marimba11\"?!'
+   #10320, '違います！'
+   10320, 'Wrong!'
+
+   #10440, 'でも、もうそれでもいいです、この際……'
+   10440, 'But really, who even cares at this point?'
+   #10560, 'とにかく再生してみましょー'
+   10560, 'Anyway, let's try and play it!'
+
+   #10680, '待ちんしゃい、ゆにどん、'
+   10680, 'Espera, Don Yuni!'
+   #10800, 'この席とっとっとー、この席とっとっとー'
+   10800, 'There arriba, there arriba!'
+
+   #10920, 'このディスクには、２羽鶏がいるのかも知れん'
+   10920, 'There may be two chickens within this disc!'
+   #11040, '鶏……ですか？'
+   11040, 'Chickens... sir?'
+
+   #11160, 'ああ、いろんな種類がいるぞ？'
+   11160, 'Yeah, there are many kinds, you know?'
+   #11280, 'チキンとか、鶏とかな……？'
+   11280, 'Like domestic fowl, or poultry...?'
+
+   #11400, '………………………………一緒じゃん……'
+   11400, '............They're exactly the same...'
+   #11520, 'あほはほっといてと……'
+   11520, 'Let's forget about this idiot and...'
+
+   #11640, '待たんかい！　ゆにどん！'
+   11640, 'Alto! Don Yuni!'
+   #11760, 'ぷち熟女！　ぷち熟女！'
+   11760, 'Wicki-wicki-waah, wicki-wicki-WUT!'
+
+   #11880, 'パカッ、カシャッ、シャコンッ……ぽちっとな……'
+   11880, 'Bakaan! Cashaaan! Shakonnn! ...it went "click," yo...'
+   #12000, 'たいっっっちょーーーーーーーーーーーーー！'
+   12000, 'Caaaaaaaaaaaaaaaaaaptaaaaaaaaaaaaaaaaaaaaaain!'
+
+   #12120, '黄泉木たいっちょーーーーーーーーーーーーーーーー！'
+   12120, 'Captain Yoooooooooooooooomooooooooooooooooooooogiiiiiiiiiiiiiiiiiiiiii!'
+   #12240, 'おしまい'
+   12240, 'The End.'
+
+   #12360, '作：シナリオアップ直後の槻潮　鋼'
+   12360, 'Writer: Tsukishio Hagane'
+   #12487, ''
+   12487, ''
+
+   #12600, ''
+   12600, ''
+}

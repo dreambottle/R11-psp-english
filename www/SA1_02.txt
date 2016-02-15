@@ -1,0 +1,760 @@
+
+悟「うあぁぁぁぁぁぁぁぁっ！！」%K%P
+Uwaaaaaaaaah!!
+
+男「どうしたんだ！　おい！　しっかりしろ！」%K%P
+What happened?! Hey, settle down!
+
+悟「ぐあぁぁぁぁぁぁぁぁっ！！」%K%P
+Gwaaaaaaaaah!!
+
+男「落ち着け！　落ち着くんだ！」%K%P
+Calm down! Just calm down!
+
+男「ったく、いったい何があったって言うんだ！」%K%P
+Geez, can't you just tell me what the hell is wrong with you?!
+
+悟「あ、ああぁぁぁ……ううぅぅぅ……ぅぅぅ……」%K%P
+A, Aaaaah... Uuuuuh... uuuh...
+
+男「そうだ、もう大丈夫だ、なにも心配要らない、な？」%K%P
+That's right, everything's fine now, so no need to worry, okay?
+
+悟「はぁ、はぁ、はぁ、はぁ」%K%P
+Haa, haa, haa, haa...
+
+悟「はぁ…はぁ…はぁ…はぁ…」%K%P
+Haa... haa... haa... haa...
+
+悟「はぁ……はぁ……はぁ……はぁ……」%K%P
+Haah... haah... haah... haah...
+
+悟「ここは……」%K%P
+Where...
+
+悟「……どこだ？」%K%P
+...am I?
+
+気がつくと、オレは見知らぬ場所にいた。%K%P
+When I came to, I was in an unfamiliar place.
+
+板張りの床にペタンと腰を下ろし、背中を後方の壁に押しつけている。%K%P
+I was sitting on a wooden floor, with my back pressed against a wall.
+
+いや、正確には『押しつけられている』と言った方がいいだろうか。%K%P
+No, it would be more appropriate to say that I was "being pressed."
+
+押しつけているのは正面の人物、岩のようにゴツゴツとした恐ろしく巨大な男だった。%K%P
+The one holding me in place was a giant of a man, startlingly large and rugged as a rock.
+
+オレは身を反らして彼の顔を見上げた。%K%P
+I craned my body upward to look at his face.
+
+彼はオレの両肩をガッシリとつかみながら、不安げな眼差しを向けていた。%K%P
+Despite his firm grip on my shoulders, his face wore a troubled expression.
+
+どこか見覚えのある顔立ち……。%K%P
+I remembered that face from somewhere....
+
+おぼろげではあるが、記憶の片隅に残像のごとくその面影は刻み込まれていた。%K%P
+It's faint, but his face was etched like an afterimage into a corner of my memory.
+
+悟「あんた、誰だっけ……？」%K%P
+Who are you...?
+
+悟「どこかで見かけたような気がするんだが……」%K%P
+I feel like I've seen you somewhere before, but...
+
+尋ねると、男は息を呑んでオレのことを凝視した。%K%P
+As I asked that, the man caught his breath and stared at me.
+
+悟「やっぱり、どっかで逢ったよなぁ？」%K%P
+As I thought, we've met somewhere before, right?
+
+男「…………」%K%P
+......
+
+悟「それとも、人違いか？」%K%P
+Or am I mistaking you for someone else?
+
+男「…………」%K%P
+......
+
+悟「なあ、訊いてんだろ、オッサン」%K%P
+Hey, can you hear me, old man?
+
+男は我に返ったようにまばたきを繰り返し……。%K%P
+The man blinked repeatedly, as if finally coming to his senses....
+
+男「……大丈夫……なのか？」%K%P
+...Are you... all right?
+
+悟「あ？」%K%P
+Ah?
+
+男「発作は、もう、おさまったんだよな？」%K%P
+Have your spasms settled down?
+
+悟「発作？」%K%P
+Spasms?
+
+男「今まで滅茶苦茶に暴れまくってたじゃないか……」%K%P
+You were having a violent fit...
+
+男「オカシクなっちまったんじゃないかと思って心配したんだぞ？」%K%P
+I was pretty worried. I thought you'd lost it.
+
+男はそろりそろりとオレの両肩から手を放した。%K%P
+The man slowly let go of my shoulders.
+
+男「まあ、あんなことが起こった後だからね」%K%P
+Well, you have been through quite an ordeal.
+
+男「きっと怖い夢でも見たんだろうけれど……」%K%P
+I'm sure you've been having some pretty scary dreams, but...
+
+夢……。あの鮮血のように紅い悪夢……。%K%P
+Dreams.... That nightmare, as red as fresh blood....
+
+思い返しただけでも身の毛がよだつ。%K%P
+Even just thinking about it made me shudder.
+
+そうか、オレは悪夢にうなされて暴れていたのか。%K%P
+I see, so I was struggling because of a nightmare.
+
+まったく、ガキみたいだな……。%K%P
+Really, just like a little kid....
+
+オレは自嘲気味に口元をゆるめると、何も言わずに小さく首を振った。%K%P
+Sneering in self-derision, I replied by shaking my head a little.
+
+まあ、夢のことはどうでもいい。%K%P
+Well, I suppose the dream doesn't matter.
+
+それよりも今は、ここがどこなのか、状況を把握するほうが先決だ。%K%P
+More importantly, my top priority was to find out where I was and what was happening.
+
+オレは山のように立ちはだかった男を押しのけ、ぐるりとあたりを見まわしてみた。%K%P
+Pushing aside the mountain of a man who was blocking me, I tried having a look around.
+
+荒削りの木材に囲まれた空間、小さな窓、無骨なストーブ、飾り気のないテーブル……。%K%P
+A room enfolded in rough-hewn wood, a small window, a crude stove, a plain table....
+
+テーブルの前には、ひとりの女性の姿があった。%K%P
+Before the table stood the figure of a woman.
+
+髪をアップに束ねたその女性は、丸太の椅子に腰を下ろし、寒さにガタガタと震えていた。%K%P
+The woman, who wore her hair in an updo, was shivering as she sat on a wooden chair.
+
+悟「鈴！」%K%P
+Lin!
+
+とっさにくちをついて出た言葉……。%K%P
+The word came to my lips instantly....
+
+その名前を叫ばずにはいられなかった。%K%P
+I couldn't help but cry out her name.
+
+なぜならオレは、彼女のことを知っていたから。%K%P
+Because I knew her.
+
+忘れるわけがなかった。%K%P
+I could never forget her.
+
+忘れようとしても忘れられない記憶として、彼女との想い出はオレの脳裏に鮮やかに焼きついていた。%K%P
+The memories we made together were burned so clearly into my mind that I couldn't forget them even if I tried.
+
+オレと彼女（黛鈴）は、２年間にも及ぶ長い歳月を共に分け合い過ごしてきたのだ。%K%P
+Lin and I had gone out for two whole years.
+
+悟「鈴！　鈴！」%K%P
+Lin! Lin!
+
+悟「どうしたんだよ！　なんでおまえがこんなところに！」%K%P
+What happened?! Why are you here?!
+
+声をあげながら、オレは彼女のもとへと駆け寄っていった。%K%P
+Raising my voice, I rushed over to her.
+
+鈴は大きく目を見開き、眉をつりあげていた。%K%P
+Lin's eyes opened wide and her eyebrows arched.
+ 
+頬がこわばっているのは緊張のためだろうか？%K%P
+Was it the sudden tension that made her face stiffen like that?
+
+オレと彼女が逢ったのは１年半ぶり……。%K%P
+For the two of us to suddenly meet again after a year and a half apart... and in a place like this....
+
+この間、オレ達は一切の連絡を絶っていた。%K%P
+We hadn't spoken to one another since we broke up.
+
+顔を見かけたこともなければ、声を聞いたことも、噂を耳にしたこともなかった。%K%P
+We hadn't caught a single glimpse of the other, heard each others' voices, or paid any mind to any rumors about one another.
+
+久し振りの再会に戸惑いを覚えるのは当然のことと言えた。%K%P
+I'd say feeling bewildered by our first reunion in a long time was natural.
+
+かく言うオレ自身も、彼女の前に立ったはいいが、次の言葉を見失っていた。%K%P
+So I stood stock still in front of her, not knowing what to say.
+
+オレと鈴は無言のまま見つめあった。%K%P
+Lin and I stared at each other silently.
+
+居心地の悪い空気が、ふたりの間を満たしていた。%K%P
+The atmosphere between us grew awkward and tense.
+
+オレは……。%K%p
+I....
+
+『どうしてこんなところに……？』
+"Why are you here...?"
+
+『久し振りだな……』
+"It's been a while..."
+
+悟「鈴……」%K%P
+Lin...
+
+悟「どうしておまえが……こんなところに……？」%K%P
+Why are you... here...?
+
+同じ質問を繰り返した。%K%P
+I repeated the question.
+
+それ以外に妥当な言葉が見つからなかったのだ。%K%P
+I couldn't find a way to say it any better than that.
+
+いや、よくよく考えてみれば、今の発言自体も適当なものとは言えなかった。%K%P
+But now that I think about it carefully, what I said just now wasn't accurate at all.
+
+なぜ彼女がここにいるのか……。%K%P
+Why is she here...?
+
+その理由を問う前に、オレ自身がここにいる理由がわからないからだ。%K%P
+I shouldn't go asking her a question like that when I don't even know why I'm here myself.
+
+悟「鈴……久し振りだな……」%K%P
+Lin... it's been a while...
+
+悟「あれからどうしてたんだ……？」%K%P
+What've you been up to since then...?
+
+悟「連絡ぐらい、くれればよかったのに……」%K%P
+If you'd at least gotten in touch...
+
+悟「ほら、約束しただろ？」%K%P
+Look, didn't we promise?
+
+悟「オレ達は……その……別離れても……」%K%P
+That even if we... um... were to part...
+
+悟「別離れても、普通の友達で、いようって……」%K%P
+Even if we were to part, that we'd still remain friends...
+
+悟「なのにおまえは……」%K%P
+And yet, you...
+
+黛「ちょっと待って！」%K%P
+Stop right there!
+
+黛「あんた、ケンカ売ってんの？」%K%P
+Are you looking for a fight or something?
+
+ふいに、鈴がくちを開いた。%K%P
+Abruptly, Lin began to speak.
+
+黛「なれなれしく『おまえ』なんて呼ばないでくれる？」%K%P
+Don't you address me in that buddy-buddy tone!
+
+彼女は威圧的な眼差しでオレのことを睨みつけていた。%K%P
+She leveled a menacing glare at me.
+
+黛「それに……名前……」%K%P
+And... my name...
+
+黛「どうしてあんたが私の名前を知ってるのよ？」%K%P
+How do you know my name?
+
+黛「まさか、盗み聞きしてたの？」%K%P
+You weren't eavesdropping or something, were you?
+
+黛「私がこの男に名前を教えたとき、あんたほんとは意識があったんでしょ？」%K%P
+Were you actually awake when I told this guy my name just now?
+
+黛「今までは、気を失ったふりをしてただけで……」%K%P
+You were just pretending to be unconscious until now...
+
+黛「ねえ、どうなの！？　答えなさいよ！」%K%P
+So, how'd you know?! How?! Tell me!
+
+答えなさいと言われても、答えようがなかった。%K%P
+Even if she ordered me to answer, I couldn't.
+
+どこか見知らぬ国の言語を聞いているようで、意味がまったく理解できない。%K%P
+The words she said may as well have been in some unknown language for all I understood them.
+
+悟「お、おい、どうしちまったんだよ、鈴……」%K%P
+H, hey, what's wrong, Lin...?
+
+悟「まさかオレのこと、忘れたわけじゃ……」%K%P
+You couldn't have... forgotten about me...?
+
+黛「忘れる！？　忘れようにも忘れようがないわ！」%K%P
+Forget?! I couldn't even if I wanted to!
+
+黛「だって私、初めっからあんたのことなんて知らないもの！」%K%P
+Because I don't even know you to begin with!
+
+悟「知らない……？」%K%P
+Don't know...?
+
+悟「知らないってどういうことだ……？」%K%P
+What do you mean, you don't know me...?
+
+黛「どういうことも何もないわよ」%K%P
+I mean exactly what I said.
+
+黛「あんたみたいなやつに会った覚えは１度もないって言ってんの！」%K%P
+I'm saying that I've never so much as laid eyes on you before!
+
+悟「そんな……」%K%P
+That's...
+
+思わぬ言葉を返されて、オレは激しく取り乱した。%K%P
+Hearing those utterly unexpected words left me completely astounded.
+
+まさか、鈴がオレのことを忘れてしまうなんて……。%K%P
+No... you really did forget about me...?
+
+黛「ねえ？　もしも私が、突然この世界から消えてしまったらどうする？」%K%P
+Hey... What would you do if I suddenly disappeared from this world?
+
+悟「鈴のいる世界を見つけるよ」%K%P
+I would search for the world where you were.
+
+黛「じゃあ、その世界が見つからなかったとしたら？」%K%P
+Then, what if you couldn't find that world?
+
+悟「そうだな……」%K%P
+Well...
+
+悟「たぶん、見つかるまで探し続けると思う」%K%P
+I'd probably keep on searching until I found it.
+
+黛「ふふっ、嘘ばっかり」%K%P
+Huhu, you liar.
+
+黛「ひとの心は移ろいやすいものなのよ？」%K%P
+Isn't a person's heart something that changes easily?
+
+黛「永遠に燃え続ける炎なんてないの」%K%P
+No flame keeps burning forever.
+
+悟「それじゃあ、鈴だったら……？」%K%P
+Then, what about you...?
+
+悟「もしも突然、この世界からオレの存在が消え失せてしまったとしたら、どうする？」%K%P
+If I suddenly disappeared from this world, what would you do?
+
+黛「そうね……」%K%P
+Hmm, let's see...
+
+黛「熱いシャワーを浴びて、強いお酒を飲んで、ツキノワグマみたいに何ヶ月も眠るわ」%K%P
+I would have a hot shower, drink some strong sake, and then go sleep for months and months like a black bear.
+
+黛「きっと半年も経てば、あなたのことなんて忘れてしまうもの」%K%P
+And once six months had passed, I'd forget all about you.
+
+悟「なるほど……」%K%P
+I see...
+
+黛「なにか御不満でも？」%K%P
+Are you unhappy with that?
+
+悟「いや、別に……」%K%P
+No, not at all...
+
+黛「そう」%K%P
+Really?
+
+黛「でも、いま私が言ったことは本心よ」%K%P
+Well, what I said just now were my true feelings.
+
+黛「だから逢いたいと思うの」%K%P
+That's why I want to stay with you.
+
+黛「毎日でも、四六時中でも、できることなら１秒も眠らずに、ずっとあなたのことを見つめていたい」%K%P
+Every day, 24/7, without sleeping for even a second if I could... I want to look at you forever.
+
+黛「少しでも目をそらしたら、すぐにあなたのことを忘れてしまうような気がするから……」%K%P
+Because I get the feeling that if I looked away from you for even a moment, I would end up forgetting about you right away...
+
+黛「くちづけをするのも、身体を重ねるのも、そう……」%K%P
+Things like kissing you, sleeping with you... yeah...
+
+黛「私はあなたを失いたくないの」%K%P
+I don't want to lose you.
+
+黛「身体のどこかに、あなたがいたことの証を刻みつけておきたいのよ」%K%P
+I want to engrave the proof that you exist into every part of my body.
+
+悟「…………」%K%P
+......
+
+黛「…………」%K%P
+......
+
+悟「…………」%K%P
+......
+
+黛「ねえ？　もう一度だけ……」%K%P
+Hey? Just once more...
+
+黛「あなたを刻んで？」%K%P
+Can I engrave you into me...?
+
+悟「鈴……」%K%P
+Lin...
+
+オレは彼女の前に茫然と立ち尽くしていた。%K%P
+I stood still and silent in front of her.
+
+彼女は後れ毛をそっとかきあげると、何も言わずにオレの元を離れていった。%K%P
+Gently smoothing back a stray hair, she walked away from me without another word.
+
+『半年も経てば、あなたのことなんて忘れてしまうもの』%K%P
+"Once six months had passed, I'd forget all about you."
+
+彼女がそう言ったのは、今から数年前のことだ。%K%P
+Several years ago, she said those words to me.
+
+そして今、その言葉は現実のものとなった。%K%P
+And now, they'd become a reality.
+
+心にぽっかりと開いた空虚な穴……。%K%P
+A gaping hole opened within my heart....
+
+喪失感はオレの全身から力を奪っていった。%K%P
+A feeling of loss stole the energy from my body.
+
+男「どういうことだ？」%K%P
+What's this?
+
+男「きみ達は、その、知り合いなのか？」%K%P
+Do you two, uh, know each other?
+
+男は腕組みをしながら、オレと鈴を交互に見た。%K%P
+Folding his arms, the man looked from me to Lin and back again.
+
+黛「知り合いなわけないでしょう！」%K%P
+No, we don't!
+
+黛「さっきからそう言ってるじゃない！」%K%P
+I just said that, didn't I?!
+
+男「まあまあ、そうムキになるなって」%K%P
+Now now, don't get so angry.
+
+男「単なる誤解だろ？　よくあることじゃないか……」%K%P
+Maybe it's just a misunderstanding? It's not uncommon...
+
+黛「ふんっ」%K%P
+Hmph.
+
+鈴はそっぽを向いて、ベッドの下段に腰を下ろした。%K%P
+Lin turned away and went to sit down on the bottom bunk.
+
+すると……。%K%P
+Then....
+
+少年「誤解？　誤解なんかじゃないよ」%K%P
+Misunderstanding? There's no misunderstanding.
+
+ふいに届いた声……。%K%P
+Suddenly, I heard a voice....
+
+少年「ただこの人は……」%K%P
+This person...
+
+少年「忘れちゃってるだけなんだから……」%K%P
+...just forgot...
+
+オレは声の聞こえてきた方へと振り向いた。%K%P
+I turned in the direction of the voice.
+
+２段ベッドの上段……。%K%P
+On the top bunk....
+
+その少年はベッドのふちに両手をついて、オレ達のことを見下ろしていた。%K%P
+...was a boy, perched with both hands on the edge of the bed, looking down at us.
+
+どこかで見たことのある顔だ。%K%P
+A face I'd seen somewhere before.
+
+『見たことのある』というよりも、オレにとっては馴染み深い親しみのある顔に思えた。%K%P
+No, more than just a face that "I'd seen." It was a face I should've been very familiar with.
+
+けれど、それ以上のことは何も思い出すことができない。%K%P
+However, I couldn't remember anything beyond that.
+
+どこで会ったのか、いつ見かけたのか、向こうはオレのことを知っているのか……？%K%P
+Where we met, when I saw him, whether or not he knows me too...
+
+詳細なことは何ひとつわからなかった。%K%P
+I don't remember a thing.
+
+ただぼんやりと『オレはこの少年を知っている』という感覚だけが、胸の片隅に広がっていた。%K%P
+Nonetheless, the feeling that "I know this boy" was spreading somewhere deep within my chest.
+
+黛「ちょっと、聞き捨てならないわねぇ」%K%P
+Hold on just a minute! I can't ignore that!
+
+黛「あんた今『忘れちゃってるだけ』って、そう言ったでしょう？」%K%P
+Did you just say I forgot?
+
+鈴は跳ねるように立ち上がると、少年の真下に向かって歩いていった。%K%P
+Lin got up suddenly and walked over to stand right below the boy.
+
+黛「私はぁ、何度も言うようだけど、忘れてるわけじゃなくて！」%K%P
+As I've already said, over and over again, I haven't forgotten a thing!
+
+少年「違うってば」%K%P
+You're wrong.
+
+黛「……えっ？　……違う？」%K%P
+...Eh? ...Wrong?
+
+黛「違うって何が違うのよ」%K%P
+What am I wrong about?!
+
+少年「ぼくは、鈴のことを言ったんじゃないんだ」%K%P
+I wasn't talking about you, Lin.
+
+黛「私のことじゃないなら……誰のことを……？」%K%P
+Then if it wasn't me, who...?
+
+少年は眉間にシワを寄せ、奥歯をギリリと噛みしめた。%K%P
+The boy gritted his teeth, frowning.
+
+視線をうつむけたまま、左腕をゆっくりと宙に掲げる。%K%P
+Still looking down, he slowly raised his left hand.
+
+少年「この人だよ！」%K%P
+It's you!
+//"them" as a gender-neutral pronoun doesn't really work grammatically here
+
+敵意に満ちた言葉とともに、彼はその細い指先をオレの方へと向けた。%K%P
+With hostility in those words, he pointed his slender finger at me.
+
+オレの方へ……？%K%P
+Me...?
+
+どういうことだ？%K%P
+Why?
+
+オレは何も忘れてなんかいない。%K%P
+I hadn't forgotten anything.
+
+記憶を失っているのは鈴の方で……。%K%P
+Lin's the one who lost her memory....
+
+男「まったく、まいったな……」%K%P
+Really, I give up...
+
+男「きみ達は、いったいどういう関係なんだ？」%K%P
+How the hell are all of you related?
+
+男「僕にはきみ達の言ってることがさっぱり……」%K%P
+What are you talking about...?
+
+男「理解できないよ」%K%P
+I don't have the slightest clue.
+
+理解できないのはオレも同じだった。%K%P
+Neither do I.
+
+何かが狂っている……。%K%P
+Something's wrong here....
+
+とてつもなく巨大な陰謀に巻き込まれているような気がした。%K%P
+I had the feeling that I'd been swallowed up into a ridiculously intricate plot.
+
+根拠なんてない。%K%P
+I have no basis for this.
+
+ただ漠然とした予感が、不安が、胸の中で渦を巻いているのだった。%K%P
+And yet, a vague premonition, a growing sense of unease, swirled inside my chest.
+
+男「なあ、誰かちゃんと説明できるやつはいないのか？」%K%P
+Look, is there anyone here who can explain what's going on?
+
+男「この険悪なムードを引きずったまま、ひと晩をともに過ごすのは嫌だろう？」%K%P
+Leaving things as they are with everyone in a bad mood won't make for a good night's sleep, eh?
+
+男の問いかけに答える者はなかった。%K%P
+No one responded.
+
+鈴はこれみよがしに視線をそらして、大きく深くため息をついた。%K%P
+Lin ostentatiously averted her eyes before heaving a great sigh.
+
+少年は……。%K%P
+The boy....
+
+何も言わずにベッドを飛び降りると、オレのわきをすり抜けて、玄関の方へと向かった。%K%P
+Without saying anything, he jumped down and walked past me, heading for the doorway.
+
+男「おい、どこに行くんだ、ゆに！」%K%P
+Hey, where're you going, Yuni?!
+
+男「話はまだ終わったわけじゃ……」%K%P
+We aren't done talking yet...!
+
+ゆに……。%K%P
+Yuni....
+
+聞いたことのある名前だ。%K%P
+A name I'd heard before.
+
+少年の顔と名前は、オレの意識の奥深いところでピタリと一致した。%K%P
+The name and face of the boy were etched deep into my consciousness.
+
+やはりオレは彼のことを知っているらしい。%K%P
+It seems I really do know him well.
+
+なぜ知っているのかは、依然として定かではなかったけれど……。%K%P
+But I'm still not sure how I know him....
+
+ゆに「どこにも行かないよ」%K%P
+I'm not going anywhere.
+
+ゆに「行きたくったって、行けるわけないじゃないか」%K%P
+I couldn't even if I wanted to.
+
+ゆには部屋の隅で立ち止まると、背中を向けたままそう言った。%K%P
+Yuni stopped in a corner of the room, turning away as he spoke.
+
+彼の足元には長方形の穴があった。%K%P
+There was a rectangular hole at his feet.
+
+穴には階下へと続く木製のハシゴがかけられている。%K%P
+Affixed to the side of the hole was a wooden ladder leading downward.
+
+ゆに「薪を取りに行くだけだよ」%K%P
+I'm just going down to get some firewood.
+
+ゆに「夜中になったら、今よりももっと寒くなるから……」%K%P
+It'll get a lot colder when night falls...
+
+黛「待ちなさいよ」%K%P
+Wait a sec.
+
+ハシゴに手をかけたゆにを、鈴がすかさず呼び止めた。%K%P
+Lin stopped Yuni as he placed a hand on the ladder.
+
+黛「そのコート、いいかげん脱いだら？」%K%P
+Will you take that coat off already?
+
+ゆに「…………」%K%P
+......
+
+黛「私のなのよ？　返してよ」%K%P
+It's mine, you know. Give it back.
+
+ゆに「やだ」%K%P
+No.
+
+ゆに「拾ったんだから、ぼくのものだ」%K%P
+I found it, so it's mine.
+
+黛「なによ、そのデタラメな論理は……」%K%P
+What kind of bullshit reason is that?
+
+黛「遺失物法第１条、知らないの？」%K%P
+Do you know how the first paragraph of the Lost Property Act goes?
+//note: can anyone point me to a good site that has the contents of this law, preferably with an official translation? I'm coming up blank and I need to fact-check.
+//relevant link available on the project's main page
+
+黛「他人の遺失したる物件を拾得したる者は、すみやかに……」%K%P
+Upon finding a lost article belonging to another person, the finder should with all due haste, return the article to the person who lost it...
+
+黛「遺失者、または所有者、その物件回復の請求権を有する者に、その物件を返還し、または警察署長にこれを差し出すべし」%K%P
+...or turn it over to either its lawful owner or other possessor with the legal right to claim the article. It should otherwise be turned in to the nearest police station.
+
+ゆに「ただし法令の規定により、私に所有所持することを禁したる物件は、返還するの限りにあらず」%K%P
+However, there's nothing in that law that demands that prohibited materials be returned to their owner.
+
+黛「は？　なに言っちゃってるわけ？」%K%P
+Huh? What the hell are you talking about?
+
+黛「そのコートは『所有所持することを禁したる物件』でも何でもないでしょう？」%K%P
+How is that coat "prohibited materials"?
+
+男「あっ……」%K%P
+Uh...
+
+黛「なによ？」%K%P
+What?
+
+男「お取り込み中のところすまないが、ひとつ気になったことがあるんで訊いてもいいかな？」%K%P
+Sorry to interrupt you in the middle of this, but can I ask you about something that's been bothering me?
+
+黛「？」%K%P
+?
+
+ゆに「？」%K%P
+?
+
+男「ゆにはそのコート、どこで拾ったんだっけ？」%K%P
+Yuni, where did you find that coat?
+
+ゆに「そ、それは……えーと……」%K%P
+T, that's... err...
+
+ゆに「機体の、残骸の中から……」%K%P
+In the wreckage... of the plane...
+
+男「そいつはオカシイだろ？」%K%P
+Strange, isn't it?
+
+男「きみは墜落の衝撃で機外へと放り出され、気がついたときには雪原の中に……」%K%P
+You were thrown out of the plane from the impact of the crash, awoke in the snow...
+
+ゆに「もう、うるさいなぁ！」%K%P
+Sheesh, just shut up already!
+
+ゆに「わかったよ！　脱げばいいんでしょ、脱げば！」%K%P
+I get it! I'll take it off, I'll take it off!
+
+ゆには男の話を遮って、だぶだぶのコートを脱ぎ捨てた。%K%P
+After interrupting the man in mid-argument, Yuni resignedly removed the coat that was hanging off him.
+
+ゆに「ほら、返すよ！」%K%P
+Look, I'm giving it back!
+
+脱いだコートをくしゃくしゃに丸め、鈴に向かって放り投げる。%K%P
+Rolling up the coat, he tossed it toward Lin.
+//he didn't toss it to her - more like threw it at her
+
+黛「もう、乱暴に扱わないでくれる？」%K%P
+Could you handle it a bit more gently, please?
+
+黛「高かったんだからね、このカシミヤのコート」%K%P
+Cashmere coats don't come cheap.
+
+鈴はぶつぶつと文句を言いながら、受け取ったコートをパタパタとはたいた。%K%P
+As Lin muttered a complaint, she gently patted off her reclaimed coat.
+
+そんな彼らのやり取りを、オレは黙って傍観していた。%K%P
+I just kept silent as I watched their exchange from the sidelines.
+
+割って入る余地などあろうはずもなかった。%K%P
+Not that there had been any room for me to cut in, even if I'd wanted to.
+
+機体？　残骸？　墜落の衝撃？%K%P
+Plane? Wreckage? Impact?
+
+こいつらは何の話をしてたんだ？%K%P
+What were they talking about?
+
+混乱はますます募るばかりだった。%K%P
+My confusion only deepened.

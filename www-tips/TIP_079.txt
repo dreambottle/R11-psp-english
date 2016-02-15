@@ -1,0 +1,19 @@
+
+ユニタリ変換
+ユニタリ空間上の任意の２ベクトルに対し、
+線型変換前後のエルミート積の値を
+保存するような変換のこと。
+ユニタリとはｎ＊ｎの行列Ｍの随伴行列を
+Ｍ＊と表すときに、Ｍ＊Ｍ＝ＭＭ＊＝Ｅを
+満たすような要素を複素数に持つ
+正方行列のこと。
+ただし、Ｅはｎ次の単位行列。
+</pre>
+<pre>
+In a unitary space, a linear transformation which preserves the value of
+the Hermitian inner product of two arbitrary vectors before and after the
+transformation.%N
+Suppose we denote the adjoint of an n-by-n matrix M as M*.%N
+Then M is unitary if it is a complex-valued square matrix
+fulfilling the equation M*M = MM* = E, where E is the identity
+matrix of order n.

@@ -1,0 +1,16 @@
+
+拒絶反応
+身体には、異物を排除するための防御の仕組み
+＝免疫が備わっている。
+移植手術などによって他人の臓器を移植する
+場合、身体にとっては異物である移植臓器を
+排除しようと免疫が働いてしまう。
+その免疫による攻撃を、拒絶反応と呼ぶ。
+</pre>
+<pre>
+The refusal of the body to accept transplanted foreign tissue; 
+a defensive reaction meant to protect it against infection.%N
+When an organ or similar tissue from another person is transplanted, 
+it is viewed as a foreign substance by the immune system, 
+which will attempt to destroy the tissue and expel it from the body.%N
+This type of immune system attack is called rejection.

@@ -1,0 +1,10 @@
+
+シナプス
+ニューロン同士をつなげる役割を持つ。
+神経細胞は、このシナプスを通して信号を
+やりとりすることとなる。
+</pre>
+<pre>
+A communication method between neurons.%N
+Neurons send messages to each other
+via synapses.

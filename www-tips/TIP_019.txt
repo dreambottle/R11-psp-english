@@ -1,0 +1,8 @@
+
+ブラウザ
+インターネット上のホームページの情報を
+表示するための閲覧ソフト。
+</pre>
+<pre>
+A software application that retrieves, traverses and displays the information resources 
+from various sources such as web servers or the Internet on web pages.

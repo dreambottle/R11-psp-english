@@ -1,0 +1,365 @@
+
+ 9ea6c: （Ｓａｔ）
+
+ 9ea78: （Ｆｒｉ）
+
+ 9ea84: （Ｔｈｕ）
+
+ 9ea90: （Ｗｅｄ）
+
+ 9ea9c: （Ｔｕｅ）
+
+ 9eaa8: （Ｍｏｎ）
+
+ 9eab4: （Ｓｕｎ）
+
+# 9eac0: 日
+ 9eac0: .
+
+# 9eac4: 月
+ 9eac4: .
+
+# 9ec68: タイトルに戻ります。よろしいですか？%Nはい%Nいいえ
+ 9ec68: Are you sure you want to return to the title screen?%NYes%NNo
+
+# 9eca0: セーブ%Nロード%Nクイックセーブ%Nクイックロード%Nオプション%NＴＩＰＳ%Nタイトル
+ 9eca0: Save%NLoad%NQuick Save%NQuick Load%NOptions%NTIPS%NTitle
+
+# 9ecf0: ゲームプレイ時間　
+ 9ecf0: Ｐｌａｙ　ｔｉｍｅ
+
+# 9ed14: 総プレイ時間　
+ 9ed14: Ｔｏｔａｌ　ｔｉｍｅ
+
+ 9ed24: ／
+
+# 9ed28: （Ｄｅｂｕｇ）シーンＭＥＳ数：　
+ 9ed28: （Ｄｅｂｕｇ）Scene MES no.:　
+
+# 9ed50: シーンメッセージ達成率：
+ 9ed50: Ｍｅｓｓａｇｅｓ　（ｓｃｅｎｅ）：
+
+# 9ed70: （Ｄｅｂｕｇ）全ＳＥＬ数：　
+ 9ed70: （Ｄｅｂｕｇ）Total SEL no.:　
+
+# 9ed90: （Ｄｅｂｕｇ）全ＭＥＳ数：　
+ 9ed90: （Ｄｅｂｕｇ）Total MES no.:　
+
+# 9edb0: 全メッセージ達成率：
+ 9edb0: Ｍｅｓｓａｇｅｓ　（ｔｏｔａｌ）：
+
+# 9edc8: はいけいーーー
+ 9edc8: Backgroundーーー
+
+# 9ee04: ここからゲームを再開しますか？%Nはい%Nいいえ
+ 9ee04: Resume the game from here?&#160;%NYes%NNo
+
+# 9ee34: 　　　　　　　　　ＢａｃｋＪａｍｐ
+ 9ee34: 　　　　　　　　　Ｂａｃｋ Ｊｕｍｐ
+
+ 9f056: 潯%I
+
+ 9f05b:&#160;;
+
+ 9f05f: （Sat）
+
+ 9f068: （Fri）
+
+ 9f070: （Thu）
+
+ 9f078: （Wed）
+
+ 9f080: （Tue）
+
+ 9f088: （Mon）
+
+ 9f090: （Sun）
+
+ 9f288: Ｐｌａｙ　Ｔｉｍｅ　%s
+
+ 9f2a0:&#160;%4d
+
+ 9f2a4: Ｓａｖｅ　Ｄａｔｅ　%s
+
+ 9f2bc: ＦＩＬＥ　%s
+
+# 9f2d0: プログレッシブ出力でよろしいでしょうか？%N１０秒以内に”はい”を選択しない場合は%N自動的にＮＴＳＣ出力に切り替わります%Nはい%Nいいえ
+ 9f2d0: Enable progressive output?%NWill automatically revert to ＮＴＳＣ output%Nif not confirmed within 10 seconds.%NYes%NNo
+
+# 9f358: プログレッシブ出力に変更しますか？%Nはい%Nいいえ
+ 9f358: Switch to progressive output?%NYes%NNo
+
+# 9ffdd: −操作設定のカスタマイズ−%NＴｙｐｅ  Ａ &#160;%NＴｙｐｅ  Ｂ
+ 9ffdd: −Customize controls−%NＴｙｐｅ  Ａ &#160;%NＴｙｐｅ  Ｂ
+
+# a0017: 操作設定を変更することができます。%NＴｙｐｅ  Ａ：ＳＴＡＲＴボタンでシステムメニュー呼出し、%N　　　　　□ボタンでスキップＯＮ／ＯＦＦ切り替え。%N〔『Ｔｙｐｅ  Ｂ』はこれらの操作が逆になります〕%N
+ a0017: Select the control type.%NＴｙｐｅ  Ａ：ＳＴＡＲＴ Button calls system menu,%N　　　　　□ Button switches skip mode ＯＮ／ＯＦＦ.%N〔『Ｔｙｐｅ  Ｂ』 is a reverse of this〕%N
+
+# a00f5: 振動によるゲーム演出の切り替えができます。
+ a00f5: Switch vibration on or off for a different play experience.
+#the best I could make out of it
+#lol it's times like this you can tell it's a PS2 port - Sheeta
+
+# a017c: ノベルパートの選択肢やルームパートのポインタ、%N場所移動パートのエリアシンボルに出現する、%Nナビゲーションキャラクターの表示設定を%N変更する事ができます。
+ a017c: Change the appearance of the Navigation Character%Nwhich appears as a pointer at choice times,%Nand as an area symbol when moving to a different location.
+#&quot;room parts&quot; is what it literally says, no idea what that is without the context
+# These are probably leftovers from its PS2 history.  They may not even be displayed in game.
+#they're not afaik. Deleting 'room parts' unless anyone finds some - Sheeta
+
+# a0339: ゲーム起動時にプログレッシブ出力設定を変更する%Nオプションを必ず表示するようにします。%N〔起動時にＳＥＬＥＣＴボタンを押し続けてた場合も%Nオプションが表示されます〕
+ a0339: Set the progressive output settings menu%N to appear at game launch.%N〔It will also appear if you press and hold%Nthe ＳＥＬＥＣＴ button at launch.〕
+
+# a076c: 分
+ a076c: m.
+
+# a0770: 時間
+ a0770: h.
+#just saw this &quot;10Time&quot; appear somewhere in the menu so lettsu try changing it to &quot;h.&quot;
+
+# a0778: 総プレイ時間　　　　　　
+ a0778: Ｔｏｔａｌ　ｔｉｍｅ　
+
+# a0794: 選択肢完成度　　　
+ a0794: Ｃｈｏｉｃｅｓ　　
+
+ a07a8: ％）
+
+ a07b0: （
+
+ a07b4:&#160;%5d
+
+# a07b8: メッセージ完成度　
+ a07b8: Ｍｅｓｓａｇｅｓ
+
+# a07cc: ＪｕｋｅＢｏｘ達成度　　
+ a07cc: ＪｕｋｅＢｏｘ　
+
+# a07e8: Ａｌｂｕｍ達成数　　　　
+ a07e8: Ａｌｂｕｍ　　　
+
+# a0804: ＴＩＰＳ達成数　　　　　
+ a0804: ＴＩＰＳ　　　　
+
+# a0820: シーンタイトル達成数　　
+ a0820: Ｓｃｅｎｅｓ
+
+# a083c: エンディング達成数　　　
+ a083c: Ｅｎｄｉｎｇｓ　　
+
+ a0858: １／
+
+ a0860: −Ｒｅｓｕｌｔ−
+
+ a0877: A２／
+
+# a0880: −エンディングリスト−
+ a0880: −Ｅｎｄｉｎｇｓ−
+
+ a0898: ３／
+
+# a08a0: −シーンタイトルリスト−
+ a08a0: −Ｓｃｅｎｅｓ−
+
+ a08bc: ４／
+
+# a08c4: −ＴＩＰＳリスト−
+ a08c4: −ＴＩＰＳ−
+
+# a0928: データが破損しています
+ a0928: The data is corrupted
+
+ a0940: Ｎｏ　Ｆｉｌｅ
+
+# a0950: 編集中のデータを破棄して%N元の状態に戻してもよろしいですか？%Nはい%Nいいえ
+ a0950: Discard data in edit.%NAre you sure?%NYes%NNo
+
+# a09a0: 現在の状態をセーブファイル%N書き込んでもよろしいですか？%Nはい%Nいいえ
+ a09a0: Save current state.%NAre you sure?%NYes%NNo
+
+# a09e8: 複写%N張り付け%N削除%N書き込み%N元に戻す
+ a09e8: Copy%NPaste%NDelete%NWrite%NReturn
+
+# a0a18: システムデータがありません%Nもう１度チェックしますか？%Nはい%Nいいえ
+ a0a18: System data not found.%NCheck again?%NYes%NNo
+
+ a0a60: 『Ｒｅｍｅｍｂｅｒ１１　−ｔｈｅ
+ a0a81: Sａｇｅ
+ a0a89: Sｏｆ
+# a0a8f: Sｉｎｆｉｎｉｔｙ−』の%Nシステムデータが破損しています%Nもう１度チェックしますか？%Nはい%Nいいえ
+ a0a8f: Sｉｎｆｉｎｉｔｙ−』's%Nsystem data is corrupted.%NCheck again?%NYes%NNo
+
+# a0af8: 再書き込みが失敗しました%Nもう１度チェックしますか？%Nはい%Nいいえ
+ a0af8: Failed to rewrite.%NCheck again?%NYes%NNo
+
+# a0b40: 同時に開けるファイル数を%N越えているので開けません%Nもう１度チェックしますか？%Nはい%Nいいえ
+ a0b40: Cannot open:%Ntoo many open files.%NCheck again?%NYes%NNo
+
+ a0ba0: 『Ｒｅｍｅｍｂｅｒ１１　−ｔｈｅ
+ a0bc1: Sａｇｅ
+ a0bc9: Sｏｆ
+# a0bcf: Sｉｎｆｉｎｉｔｙ−』の%Nファイルが破損しています%Nもう１度チェックしますか？%Nはい%Nいいえ
+ a0bcf: Sｉｎｆｉｎｉｔｙ−』's%Nfile is corrupted.%NCheck again?%NYes%NNo
+
+ a0c30: 『Ｒｅｍｅｍｂｅｒ１１　−ｔｈｅ
+ a0c51: Sａｇｅ
+ a0c59: Sｏｆ
+# a0c5f: Sｉｎｆｉｎｉｔｙ−』の%Nファイルがありません%Nもう１度チェックしますか？%Nはい%Nいいえ
+ a0c5f: Sｉｎｆｉｎｉｔｙ−』's%Nfile not found.%NCheck again?%NYes%NNo
+
+# a0cb8: データセーブには１１０ＫＢ以上の空き容量が必要です%Nもう１度チェックしますか？%Nはい%Nいいえ
+ a0cb8: 110KB or more free space is needed to save the data.%NCheck again?%NYes%NNo
+ #ouch, I feel bad for whoever gets this one - Sheeta
+
+# a0d18: もう１度チェックしますか？%Nはい%Nいいえ
+ a0d18: Check again?%NYes%NNo
+
+# a0d44: 成功%Nもう１度チェックしますか？%Nはい%Nいいえ
+ a0d44: Done.%NCheck again?%NYes%NNo
+
+# a0d74: セーブファイルを上書きしています。%Nお待ちください
+ a0d74: Overwriting the save file.%NPlease wait.
+
+ a0da8: 『Ｒｅｍｅｍｂｅｒ１１　−ｔｈｅ
+ a0dc9: Sａｇｅ
+ a0dd1: Sｏｆ
+# a0dd7: Sｉｎｆｉｎｉｔｙ−』の%Nファイルが破損しています%Nファイルを上書きしてもよろしいですか？%Nはい%Nいいえ
+ a0dd7: Sｉｎｆｉｎｉｔｙ−』's%Nfile is corrupted.%NOverwrite the file?%NYes%NNo
+
+# a0e40: 上書きに失敗しました%N
+ a0e40: Failed to overwrite.%N
+
+# a0e58: 新規ファイルの作成に失敗しました%N
+ a0e58: Failed to create a new file.%N
+
+# a0e7c: フォーマットに失敗しました%N
+ a0e7c: Failed to format.%N
+
+# a0e9c: ロードに失敗しました%N
+ a0e9c: Failed to load.%N
+
+# a0eb4: セーブに失敗しました%N
+ a0eb4: Failed to save.%N
+
+# a0ed0: 時刻が正しく取得できませんでした%N強制的に書き込みますか？%Nはい%Nいいえ
+ a0ed0: Could not get the time.%NIgnore and write?%NYes%NNo
+
+# a0f20: ディスクの空き容量が不足しています%Nデータセーブには１１０ＫＢ以上の空き容量が必要です%Nこのままではセーブができません%Nもう１度チェックしますか？%Nはい%Nいいえ
+ a0f20: Not enough disk space.%N110KB or more free space is needed to save the data.%NCannot save.%NCheck again?%NYes%NNo
+
+ a0fc8: 『Ｒｅｍｅｍｂｅｒ１１　−ｔｈｅ
+ a0fe9: Sａｇｅ
+ a0ff1: Sｏｆ
+# a0ff7: Sｉｎｆｉｎｉｔｙ−』の%Nファイルがありませんでした%Nデータセーブには１１０ＫＢ以上の空き容量が必要です%Nもう１度チェックしますか？%Nはい%Nいいえ
+ a0ff7: Sｉｎｆｉｎｉｔｙ−』's%Nfile not found.%N110KB or more free space is needed to save the data.%NCheck again?%NYes%NNo
+
+# a1090: ディスクが挿入されていません%Nデータセーブには１１０ＫＢ以上の空き容量が必要です%Nもう１度チェックしますか？%Nはい%Nいいえ
+ a1090: No disc.%N110KB or more free space is needed to save the data.%NCheck again?%NYes%NNo
+
+# a110c: セーブする場所を選んでください
+ a110c: Select save slot.
+
+# a112c: ロード完了
+ a112c: Loading complete.
+
+# a1138: セーブ完了
+ a1138: Saving complete.
+
+# a1148: このデータをロードしますか？%N（＊これ以降のクイックロードデータは削除されます）%Nはい%Nいいえ
+ a1148: Load this file?%N（＊All newer Quick Load files will be deleted）%NYes%NNo
+
+# a11a8: このデータをロードしますか？%N（＊クイックロードデータは削除されます）%Nはい%Nいいえ
+ a11a8: Load this file?&#160;%N（＊Quick Load files will be deleted）%NYes%NNo
+
+# a1200: 上書きしてもよろしいですか？%Nはい%Nいいえ
+ a1200: Overwrite?%NYes%NNo
+
+# a122c: データを読み込んでいます%Nお待ちください
+ a122c: Loading data.%NPlease wait.
+
+# a1258: データを書き込んでいます%Nお待ちください
+ a1258: Saving data.%NPlease wait.
+
+# a1288: システムデータが破損しています%Nシステムデータを上書きしてもよろしいですか？%Nはい%Nいいえ
+ a1288: System data is corrupted.%N Overwrite system data?%NYes%NNo
+
+# a12e4: システムデータをセーブしてもよろしいですか？%Nはい%Nいいえ
+ a12e4: Save system data?%NYes%NNo
+
+# a1320: セーブしなくてもよろしいですか？%Nはい%Nいいえ
+ a1320: Don't save?%NYes%NNo
+
+# a1350: ファイルを作成しています。%Nお待ちください
+ a1350: Creating new file.%NPlease wait.
+
+ a1380: 『Ｒｅｍｅｍｂｅｒ１１　−ｔｈｅ
+ a13a1: Sａｇｅ
+ a13a9: Sｏｆ
+# a13af: Sｉｎｆｉｎｉｔｙ−』の%Nファイルがありません%Nファイルを作成してもよろしいですか？%Nはい%Nいいえ
+ a13af: Sｉｎｆｉｎｉｔｙ−』's%Nfile not found.%NCreate file?%Nはい%Nいいえ
+
+# a1414: フォーマットをしています。%Nディスクを絶対抜かないでください
+ a1414: Formatting.%NCAUTION: Do not remove the disc.
+
+# a1458: ディスクがフォーマットされていません%Nフォーマットしますか？%Nはい%Nいいえ
+ a1458: The disk is unformatted.%NFormat it?%NYes%NNo
+
+# a14a4: チェック中%Nお待ちください
+ a14a4: Checking.%NPlease wait.
+
+# a14f0: このデータをプレイしますか？%N（＊クイックロードデータは削除されます）%Nはい%Nいいえ
+ a14f0: Start from here?%N（＊Quick Load files will be deleted）%NYes%NNo
+
+ a1548: ？？？？？？？？？？？？？？？？？？？%N？？？？？？？？？？？？？？？？？？？%N？？？？？？？？？？？？？？？？？？？%N？？？？？？？？？？？？？？？？？？？
+
+ a15e8: ＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+
+# a163b: Gみんなからのメッセージ
+ a163b: GMessage from everyone
+
+ a1654: Ｌｖ∞
+
+# a165c: 悟からのメッセージ
+ a165c: Message from Satoru
+
+ a1670: Ｌｖ９
+
+# a1678: こころからのメッセージ
+ a1678: Message from Kokoro
+
+ a1690: Ｌｖ８
+
+# a1698: ゆにからのメッセージ・その２
+ a1698: Message from Yuni・No.2
+
+ a16b8: Ｌｖ７
+
+# a16c0: 穂鳥からのメッセージ
+ a16c0: Message from Hotori
+
+ a16d8: Ｌｖ６
+
+# a16e0: 内海からのメッセージ
+ a16e0: Message from Utsumi
+
+ a16f8: Ｌｖ５
+
+# a1700: ゆにからのメッセージ・その１
+ a1700: Message from Yuni・No.1
+
+ a1720: Ｌｖ４
+
+# a1728: 黛からのメッセージ
+ a1728: Message from Mayuzumi
+
+ a173c: Ｌｖ３
+
+# a1744: 黄泉木からのメッセージ
+ a1744: Message from Yomogi
+
+ a175c: Ｌｖ２
+
+# a1764: ＫＩＤお子様劇場・第１１幕
+ a1764: ＫＩＤ Children's Theatre・Act XI
+
+ a1780: Ｌｖ１
+

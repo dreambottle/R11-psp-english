@@ -1,0 +1,31 @@
+
+レキセニン
+ベンゾジアゼピン系抗不安剤。
+ＢＺＤ受容体、共合するＧＡＢＡ−Ａ受容体に結合し、
+抑制系の神経を刺激してリラックス状態にする。
+効果は主に抗不安作用、鎮静催眠作用、
+筋緊張緩和作用、抗痙攣作用などがある。
+抗不安（静穏）作用は強力で、
+平均的抗不安剤の約５倍程度といわれている。
+
+服用後最高血中濃度は１時間後。
+作用発現速度はやや速め。
+血中半減期は６〜２０時間、
+作用時間は短〜中間型に分類される。
+服用後の眠気がマイナートランキライザーとしては
+弱いので重宝される。
+</pre>
+<pre>
+Benzodiazepine, an anti-anxiety agent.%N
+Binds to BZD receptors, as well as GABA-A receptors,
+suppresses nerve stimulation and puts the body in a relaxed state.%N
+Results in anxiolytic (anti-anxiety), sedative-hypnotic (sleep-inducing),
+muscle relaxant and anticonvulsant action.%N
+Its anxiolytic (tranquilizer) effect is so powerful, it is said that it is five times more potent than average anti-anxiety drugs.%P
+
+After taking the drug, the highest concentration in the bloodstream will be achieved after an hour.%N
+The manifestation of its effects is somewhat sped up.%N
+Its half life within the bloodstream is 6〜20 hours.%N
+The drug is classified as having short to medium-term effects.%N
+It is a very useful drug, because its drowsiness side effect
+for a minor tranquilizer is relatively weak.

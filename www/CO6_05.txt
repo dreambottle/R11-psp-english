@@ -1,0 +1,605 @@
+
+こころ「それって……前に聞いた時、壊れてたヤツ？」%K%P
+Didn't you say... that the radio was broken?
+
+ゆに「あの時は濡れてただけだよ」%K%P
+It had just gotten wet before.
+
+ゆに「ラジオの裏の蓋開けて、乾かしたから……ひょっとしたら聞けるかも」%K%P
+I opened the cover and let it dry out... maybe we can listen to it now.
+
+こころ「濡れたら壊れちゃうものじゃないの？」%K%P
+Didn't it break BECAUSE it got wet?
+
+ゆに「あれ、こころん知らないの？」%K%P
+Oh, don't you know, Kokoron?
+
+ゆに「電化製品を水洗いして修理するって言う方法もあるんだよ」%K%P
+There's a way of fixing electronic appliances after they get wet.
+
+ゆにはラジオのつまみをいじりながら、%K%P
+While fiddling with the radio's dial, Yuni said,
+
+ゆに「ちゃんと乾かしてあげれば、ショートしない限り元に戻るんだ」%K%P
+If you dry them properly, as long as there are no short circuits, they'll be fine.
+
+スピーカーから、ザザッとノイズが聞こえてきた。%K%P
+The speaker picked up some static.
+
+ゆに「ほらね？」%K%P
+See?
+
+ゆには、チューニングをいじっていたが……%K%P
+Yuni tried to tune it, but...
+
+ゆに「あれ？　おかしいなあ」%K%P
+Huh? That's weird...
+
+ゆに「聞こえないや」%K%P
+I can't hear anything.
+
+こころ「やっぱり、濡れたせいで……」%K%P
+As I thought, because it got wet...
+
+ゆに「う～ん。そうなのかな？」%K%P
+Uh～m. Is that it?
+
+ゆにはラジオの上部についている赤いランプを指さした。%K%P
+Yuni pointed at a red light near the upper part of the radio.
+
+ゆに「ほら、ココのダイオードが切れてる」%K%P
+Look, this diode is broken.
+
+こころ「電球切れ？」%K%P
+The bulb broke?
+
+ゆに「電球とダイオードは別だよ。電球みたいに切れたりしないの」%K%P
+A diode and a light bulb are two different things. A diode doesn't break like a light bulb.
+
+ゆに「これが消えてるってことは、内部の線のどこか切れてるのかもしれない……」%K%P
+It might be a cut wire inside the diode that's the problem...
+
+それにしても、ゆにはよく平気でいられるなぁ、と私は思った。%K%P
+In any case, Yuni was quite calm and collected.
+
+私なんか、救助が来るか来ないか、心配で不安で、どうしようもないのに。%K%P
+Yet I could only feel hopeless, anxious, and insecure about whether help was on its way or not.
+
+黛だってふさぎ込んでしまったし……%K%P
+Even Mayuzumi is moping around...
+
+黄泉木もあれから沈黙している。頭の中で葛藤が渦巻いているのだろう。%K%P
+Yomogi hasn't said a word since that incident, either. I guess he has his own troubles to deal with as well.
+
+ゆにはこんなにも強い子だったのか……。%K%P
+Is Yuni just pretending to be strong...?
+
+いや、待てよ。%K%P
+No, wait.
+
+ラジオを聞こうとしているってことは、外の世界の状況を知ろうとしての行動かもしれない。%K%P
+As he tries to fix the radio, he's trying to listen in to news from the outside world.
+
+私達のことがニュースで伝えられていないかどうか。%K%P
+To see if the media is reporting anything about us.
+
+やっぱり、ゆにも不安なのだ。%K%P
+Of course Yuni is uneasy as well.
+
+そう結論づけ、私は納得した。%K%P
+I nodded my head in agreement with the conclusion that I had come to.
+
+ゆに「う～～～～～～～～ん」%K%P
+U～～～～～～～～mm...
+
+ラジオをいじくりながら、なおも悩んでいるゆに。%K%P
+As he tampered with the radio, Yuni's frown grew deeper.
+
+ゆに「どこかにぶつけたのかな？」%K%P
+Did it get hit by something before?
+
+ラジオは妙に傷だらけだった。%K%P
+The radio was covered with weird scratches.
+
+前面にはヒビも入っている。%K%P
+There was a crack in the front of it as well.
+
+こころ「…………あれ？」%K%P
+......Eh?
+
+私は、そのラジオの様子に見覚えがあった。%K%N
+I recognized that radio.
+
+でも、どこで？%K%N
+But from where?
+
+%N
+そうだ。一昨日のことだ。%K%N
+That's right. The day before yesterday.
+
+穂鳥との格闘になった時、私は手近にあったラジオを投げつけてしまったのだ。%K%N
+During my fight with Hotori, I had thrown the first thing that had come to hand, a radio, at her.
+
+ちょうど手に触れたから、咄嗟の判断で。%K%N
+I made the decision on the spur of the moment.
+
+そのときに傷ついた……？%K%P
+Is that when it was damaged...?
+
+……ちょっと待って。%K%N
+...Wait a moment.
+
+どうして、スフィアで壊れたのと同じように、こちらにあるラジオにもヒビが入っているの？%K%N
+Why is the radio here cracked just like the one in SPHIA?
+
+それだけじゃない。%K%N
+Not only that.
+
+お守りのこと。%K%N
+There's the charm, too.
+
+スフィアで内海にもらったお守りを、避難小屋のゆにも持っていた。%K%N
+The charm he received from Utsumi in SPHIA... the Yuni of the shelter cabin had it as well.
+
+それに加えて……%K%P
+Additionally...
+
+私は、ゆにの前髪をかきあげた。%K%P
+I combed Yuni's bangs upward.
+
+ゆに「どうしたの？」%K%P
+What's wrong?
+
+キョトンとしたゆにの額には、古いキズがある。%K%P
+As Yuni stared blankly at me, I could see an old wound was on Yuni's forehead.
+
+これは、先日、穂鳥に傷つけられたものではないのか？%K%P
+Isn't this the injury that Hotori gave him the other day?
+
+それが治っているということは……どういうこと？%K%P
+It's all healed now... what does it mean?
+
+やっぱり、ここにいるゆには……？%K%P
+Where is this Yuni from...?
+
+こころ「ねえ、ゆに……」%K%P
+Hey, Yuni...
+
+以前、一度、尋ねようと思ったことを、ついに聞いてみることにした。%K%P
+I mustered up my courage and asked the question I've been wanting to ask all this while.
+
+私は慎重に言葉を選んで、ラジオのことやキズのことを話した。%K%P
+I chose my words carefully and started to talk about the radio and the wound.
+
+その間、ゆには無言だった。%K%P
+Meanwhile, Yuni stayed silent.
+
+歳に似合わない妙に大人びた顔で、私を見つめている。%K%P
+With a strangely mature face that didn't suit his age, he looked at me.
+
+黄泉木や黛に聞こえないように声を潜めながら、私は自分の体験を説明した。%K%P
+While keeping my voice low so that neither Yomogi nor Mayuzumi could hear, I explained what I had experienced.
+
+そして、思い切って、尋ねた。%K%P
+Then, strengthening my resolve, I asked him.
+
+こころ「ゆに……」%K%P
+Yuni...
+
+こころ「あなたは、スフィアに行ったことがあるんじゃないの？」%K%P
+Have you ever been to SPHIA?
+
+こころ「未来から、来たんじゃないの？」%K%P
+Did you... come from the future?
+
+ゆに「……そんなわけ……」%K%P
+...That's...
+
+こころ「でも、そう考えればつじつまの合うことがあるの」%K%P
+But, if you think about it, it makes sense.
+
+こころ「ゆに、私が死体を見るって占いで言ったよね？」%K%P
+Yuni, when you read my palm, you said I'd see a corpse.
+
+こころ「私、本当に見たの。スフィアで」%K%P
+And I did see one. In SPHIA.
+
+ゆに「…………」%K%P
+......
+
+こころ「それって、予言じゃなくて、本当のことじゃないの？」%K%P
+That... wasn't a prediction. You knew it would happen. 
+
+こころ「ゆには、未来のことを知っていたから、そんなことが言えたんじゃないの？」%K%P
+Yuni, you said that because you know the future, right?
+
+ゆには、答えない。%K%P
+Yuni didn't answer.
+
+ただ、黙って私を見つめている。%K%P
+He just silently stared at me.
+
+こころ「それだけじゃない」%K%P
+Not only that.
+
+こころ「ほら、あの新聞のこと。私達の死亡記事が書かれていた新聞」%K%P
+See, that newspaper. The newspaper with the article about our deaths.
+
+こころ「あれって……本物だって言ってたよね？」%K%P
+You said... that it was real, right?
+
+こころ「ゆには……私達があの記事通り死んじゃうって知ってたから」%K%P
+Yuni... you knew that we would die like in the article.
+
+こころ「だから、あんなこと言ったんじゃないの？」%K%P
+Is that why you said it?
+
+こころ「ううん。ひょっとしたら、あの新聞自体、ゆにが持ってきたんじゃ……」%K%P
+No, wait. Perhaps you brought the newspaper here yourself...
+
+こころ「ほら、あの新聞のこと。私達の死亡記事が書かれていた新聞」%K%P
+See, that newspaper. The newspaper with the article about our deaths.
+ 
+こころ「あれって……本物だって言ってたよね？」%K%P
+You said... that it was real, right?
+
+こころ「ゆには……私達があの記事通り死んじゃうって知ってたから」%K%P
+Yuni... you knew that we would die like in the article.
+
+こころ「だから、あんなこと言ったんじゃないの？」%K%P
+Is that why you said it?
+
+こころ「ううん。ひょっとしたら、あの新聞自体、ゆにが持ってきたんじゃ……」%K%P
+No, wait. Perhaps you brought the newspaper here yourself...
+
+ゆに「…………」%K%P
+......
+
+なおも黙っている彼の肩を掴み私は声を荒げた。%K%P
+Losing my patience, I grabbed Yuni, who had been silent all this time, by his shoulders, raising my voice as I continued.
+
+こころ「お願い！　なんとか言ってよ！」%K%P
+Please! Say something!
+
+こころ「お願いだから！　私達、どうなるの！？」%K%P
+Please, Yuni! What's going to happen to us?!
+
+ゆにの懐から、何かがヒラリと落ちた。%K%P
+Something fell lightly from his breast pocket.
+
+白い、フワリとした、綿毛のような何か。%K%P
+Something white, soft, like down.
+
+それを拾う私。%K%P
+I picked it up.
+
+こころ「これは……」%K%P
+This is...
+
+それは、あの日……ゆにと初めてあったあの日、私の髪の毛についていたホワイトグースの羽。%K%P
+The feather of a white goose that was stuck in my hair that day... the day I first met Yuni.
+
+天使の、羽。%K%P
+The angel's... feather.
+
+なぜならその方が、ロマンティックだから……。%K%P
+Because those simple words would have been so incredibly romantic....
+
+私の混乱はさらに極まった。%K%N
+My confusion has reached its limits.
+
+御守り、壊れたラジオ、額の傷……。%K%N
+The charm, the cracked radio, the cut on his forehead....
+
+でも、天使の羽を彼は持っている。%K%N
+And he has the angel's feather.
+
+%N
+「そう、記念だよ」%K%N
+Yes, a memento.
+
+「こころんと出逢ったことを、忘れないようにするための……」%K%P
+So that I don't ever forget that I met Kokoron...
+
+ゆにの目を見る。%K%P
+I looked into Yuni's eyes.
+
+その視線は虚ろだった。%K%P
+His eyes were hollow.
+
+何を見ているのか、わからない。%K%P
+I don't know what he was looking at.
+
+何も見ていないのかも知れない。%K%P
+Perhaps he wasn't looking at anything.
+
+こころ「ゆに……あなた……」%K%P
+Yuni... you...
+
+――Ｗｈｏ　ａｒｅ　ｙｏｕ？%K%P
+――Ｗｈｏ　ａｒｅ　ｙｏｕ？
+
+こころ「あなたは……」%K%P
+You...
+
+こころ「あなたは……誰？」%K%P
+You... who are you?
+
+こころ「あなた、何者なのっ！？」%K%P
+Who are you?!
+
+突然、大きな声を出した私に驚き、黄泉木が顔を上げた。%K%P
+All of a sudden, Yomogi raised his face, surprised at my abruptly loud voice.
+
+黄泉木「おい、どうしたんだ……」%K%P
+Hey, what's wrong...
+
+その刹那――%K%P
+At that instant――
+
+ゆに「うわあああああああ！！！」%K%P
+UWAAAAAAAA!!!
+
+ゆにが、奇声をあげて駆けだしてベッドから飛び降りた。%K%P
+Yuni let out a strange scream, jumped out of his bed, and broke into a run.
+
+止めるまもなく、扉を開く。%K%P
+He opened the door before I could stop him.
+
+こころ「ダメ！」%K%P
+No!
+
+冷たい空気が扉から飛び込んでくる。%K%P
+Cold air rushed into the room.
+
+外は、猛吹雪だ。%K%P
+There was a roaring blizzard outside.
+
+その荒れ狂う吹雪の中に、ゆには飛び出していった。%K%P
+Yuni flew out into the raging storm.
+
+こころ「ゆに！」%K%P
+Yuni!
+
+私は慌てて彼の後を追う。%K%P
+I chased after him in a panic.
+
+ゆには避難小屋の前に立っていた。%K%P
+Yuni was standing in front of the shelter cabin.
+
+横殴りに吹き付ける雪の中、空を仰いで立ちつくしている。%K%P
+The driving snow striking his face, he stood there, looking up at the sky.
+
+こころ「どうしちゃったの！？　ゆに！」%K%P
+What's wrong?! Yuni!
+
+ゆに「…………」%K%P
+......
+
+何も答えなかった。%K%P
+He didn't answer.
+
+こころ「ゆにってば……！」%K%P
+Hey, Yuni...!
+
+吹き付ける雪に顔を庇いながら、もう一度呼びかける。%K%P
+While shielding my face from the whirling snow, I called out to him again.
+
+どうしたって言うんだろう？%K%P
+What happened?
+
+私が尋ねたことが、よくなかったの？%K%P
+Did my question cause this?
+
+彼にとって、なにかのトラウマになってるの？%K%P
+Was it traumatic to him?
+
+こころ「もう、訊かないから！　だから、戻ってきて！」%K%P
+I won't ask any more! So please, come back inside!
+
+私の呼びかけに、ゆには、ゆっくりと顔をこちらへ向けた。%K%P
+Hearing my desperate appeal, Yuni slowly turned his head toward me.
+
+猛吹雪の中でゆには――%K%P
+And in the furious storm, Yuni――
+
+笑っていた。%K%P
+smiled.
+
+ゆに「かーごめ、かーごめ」%K%P
+Kagome, kagome...
+
+ゆに「かーごのなーかのとーりーは」%K%P
+The bird within the cage...
+
+ゆに「いーつ、いーつ、でーやーる」%K%P
+When oh when will you come out?
+
+ゆに「よーあーけーのーばーんにぃ」%K%P
+In the evening lit by the dawn...
+
+ゆに「つーるとかーめがすーべった」%K%P
+The crane and the turtle slipped and fell...
+
+こころ「………………………………」%K%P
+..................
+
+ゆに「うしろのしょーめんだーれ？」%K%P
+Who's that behi――ind you?
+
+強まる吹雪が、彼を覆い尽くしていく。%K%P
+He was swallowed by the raging storm.
+
+黄泉木「何をしてるんだ！」%K%P
+What're you doing?!
+
+黄泉木は吹雪の中へ飛び出していき、小屋の前に立つゆにを抱きかかえる。%K%P
+Yomogi rushed outside and caught Yuni, who was still standing in front of the cabin.
+
+黄泉木「また、低体温症になるぞ！」%K%P
+You want to get hypothermia again?!
+
+黄泉木は、ゆにを抱いて戻ってくる。%K%P
+Yomogi grabbed Yuni and returned to the cabin with him.
+
+私は身体全体をぶつけるようにして、扉を閉めた。%K%P
+To shut the door, I had to practically throw my whole body's weight against it.
+
+黄泉木「何があった！？」%K%P
+What happened?!
+
+こころ「わかりません。突然、飛び出していって……」%K%P
+I don't know. All of a sudden, he went flying out...
+
+ゆには目を閉じていた。%K%P
+Yuni had his eyes closed.
+
+気を失っているのだろうか？%K%P
+Had he lost consciousness?
+
+黄泉木「低体温症になると幻覚を見たり、暴れ出したりするんだ」%K%P
+When you're suffering from hypothermia, you can hallucinate, grow restless, and...
+
+黄泉木「その症状かもしれない」%K%P
+That outburst might have been from those symptoms.
+
+黄泉木は、ゆにの頬に自分の手の甲を押し当てた。%K%P
+Yomogi laid the back of his hand against Yuni's cheek.
+
+首元や脇の辺りを触る。%K%P
+He touched his neck and the area around his armpit.
+
+黄泉木「幸い、体温はそれほど奪われていない」%K%P
+Luckily, his temperature didn't drop that much.
+
+抱えていたゆにを、黄泉木はそっとベッドに寝かした。%K%P
+Yomogi gently laid Yuni down on the bed.
+
+顔を辛そうに歪めて、肩を竦める。%K%P
+A pained expression contorting his face, he shrugged his shoulders.
+
+黄泉木「申し訳ないが……」%K%P
+I'm sorry...
+
+黄泉木「さっきと同じように温めてやってくれないか？」%K%P
+Will you warm him like you did before?
+
+こころ「……わかりました」%K%P
+...All right.
+
+私はぐったりとしているゆにを抱き、毛布をかぶった。%K%P
+I embraced the senseless Yuni and wrapped us up in the blankets.
+
+せっかく暖まっていた手足は、また氷のように冷たい。%K%P
+The limbs that we had painstakingly warmed up earlier were once again cold like ice.
+
+黄泉木は、自分の毛布を差し出しながら、%K%P
+Meanwhile, Yomogi presented us with his own blankets as he said,
+
+黄泉木「眠いようなら、冬川さんも寝てくれ」%K%P
+If you're sleepy, you should rest too, Fuyukawa-san.
+
+こころ「でも……」%K%P
+But...
+
+黄泉木「曇っているが、一応太陽が昇っている。多少は気温が上がるだろう」%K%P
+It's cloudy, but the sun has more or less risen. The temperature will rise a little.
+
+黄泉木「昼間のうちに、体力を取り戻そう」%K%P
+While it's daytime, we should try to regain our strength.
+
+こころ「黄泉木さんは……？」%K%P
+Ah, Yomogi-san...?
+
+黄泉木は腕時計を指さした。%K%P
+Yomogi pointed at the wristwatch.
+
+黄泉木「しばらく経ったら、交替してくれ」%K%P
+Please change places with me in a little while.
+
+こころ「それじゃ……起こしてください」%K%P
+Then... please wake me up. 
+
+黄泉木は黛のベッドを見上げた。%K%P
+Yomogi looked up at Mayuzumi's bed.
+
+いつの間にか、彼女も眠っていた。%K%P
+At some point, she had fallen asleep.
+
+黛「…………」%K%P
+......
+
+弱々しい寝息が聞こえてくる。%K%P
+We could hear her weak breathing.
+
+黄泉木は黛の首筋に触れた。%K%P
+Yomogi touched the nape of her neck.
+
+心拍を確かめたのだろう。%K%P
+Is he checking her heart rate?
+
+口元に手を翳し、呼吸も確認する。%K%P
+He also placed his hand in front of her mouth to confirm that she was breathing.
+
+黄泉木「黛も、少し眠らせよう」%K%P
+Let's let Mayuzumi rest a little. too.
+
+黄泉木「消耗が酷そうだ」%K%P
+She seems to be exhausted.
+
+黄泉木は黛のベッドに手を伸ばし、ゴソゴソと何かしていた。%K%P
+Yomogi reached out and started to rummage around Mayuzumi's bed.
+
+恐らく、毛布をかけ直してあげたのだ。%K%P
+He was probably fixing her blankets.
+
+そしてベッドへと戻る。%K%P
+Then he returned to my bedside.
+
+黄泉木「……眠るんだ」%K%P
+...Sleep.
+
+黄泉木「また、夜が来る。それまでの間……」%K%P
+Night will come again. Until then...
+
+私は、ゆにを抱きしめて目を閉じた。%K%P
+I held Yuni tight and closed my eyes.
+
+ゆには本当に『未来のゆに』なのか……？%K%P
+Is this Yuni really "the Yuni from the future"...?
+
+聞きたかったけれど、彼は逃げ出してしまった。%K%P
+I wanted to know, but he had run away.
+
+もう、聞くことはできない。%K%P
+I can't ask him anymore.
+
+これ以上、ゆにに負担を掛けるわけにはいかないから。%K%P
+I don't want to burden him further.
+
+こころ「…………」%K%P
+......
+
+目を閉じたまま、私はゆにの髪に顔を埋めた。%K%P
+With my eyes closed, I buried my face in Yuni's hair.
+
+真実はなんなの……？%K%P
+What is the truth...?
+
+あの新聞は、本物じゃないの……？%K%P
+That newspaper... isn't real...?
+
+私達……生きていけるの……？%K%P
+Can we... stay alive...?
+
+いろいろな疑問が、私の脳裏を掠めていく。%K%P
+Lots of problems swept through my mind.
+
+しかし……%K%P
+But...
+
+やがて私は、眠りに落ちた。%K%P
+Before long, I fell asleep.
+
+生まれたての子どものような、深い、深い眠りに――――%K%P
+Like that of a newborn baby, a deep, deep sleep――――

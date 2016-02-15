@@ -1,0 +1,10 @@
+
+ニューロン
+神経細胞の一つの固まり。
+神経細胞体・樹状突起・軸索から成る。
+刺激を受容・伝達する機能をもつ。
+</pre>
+<pre>
+A bundle of nerve cells.%N
+Composed of a cell body, an axon, and dendrites.%N
+Receives and transmits stimuli.

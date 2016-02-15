@@ -1,0 +1,11 @@
+
+ホストコンピューター
+接続されている二台以上のコンピューターのうち、
+大容量をもち主演算・制御を受け持つ
+上位コンピューター。
+</pre>
+<pre>
+In a network of two or more interconnected computers, 
+the most powerful computer in the group, which
+performs most of the computations and network control, 
+is known as the host computer.

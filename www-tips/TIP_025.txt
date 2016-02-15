@@ -1,0 +1,9 @@
+
+クライアント
+接続されている２台以上のコンピューターのうち、
+ホストコンピューターから指示を受ける側の
+端末を指す。
+</pre>
+<pre>
+In a system consisting of two or more interconnected computers,
+the client is a terminal that receives commands from the host computer.

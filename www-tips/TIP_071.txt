@@ -1,0 +1,18 @@
+
+不確定性原理
+量子力学において、粒子の位置と運動量、
+エネルギーと時間などの一組の物理量について、
+その両者を同時に正確に測定し、決定することは
+できないことをいう。
+ふたつの測定値の不確定さの積は
+プランク定数に比例する一定値より
+小さくなり得ないという不確定関係が成り立つ。
+1927年ハイゼンベルクによって導かれた。
+</pre>
+<pre>
+In quantum mechanics, the uncertainty principle states that, regarding a particle's position and momentum,
+energy and time, and other pairs of physical properties, one
+cannot accurately measure and determine both pairs simultaneously.%N
+The uncertainty relationship, which states that &quot;the product of the uncertainty of the two values
+cannot be smaller than a fixed proportion of Planck's constant&quot; holds true.%N
+It was derived by Werner Heisenberg in 1927.

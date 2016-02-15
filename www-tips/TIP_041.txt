@@ -1,0 +1,45 @@
+
+ＤＳＭ
+Diagnostic and Statistical Manual of Mental Disorders
+アメリカ精神医学会が発行している
+『精神障害の診断と統計マニュアル』。
+後ろにつく数字は、版数を表している。
+ＤＳＭ−Ⅰ(1952)、ＤＳＭ−Ⅱ(1968)、
+ＤＳＭ−Ⅲ(1980)、ＤＳＭ−Ⅲ−Ｒ(1987)、
+ＤＳＭ−Ⅳ(1994)までが発行されている。
+このマニュアルは、いわば『精神病の診断早見表』
+である。
+
+精神病は、個人によって様々な形態があり、
+病名を診断することが難しい。
+診察をする医師によって判断が異なる場合も
+出てくる。
+そのような不具合をなくすため、
+表に現れた症状だけを元に病名を判断する
+指針として、ＤＳＭは用いられる。
+患者から症状を聞き、ＤＳＭに照らし合わせれば、
+経験の浅い医師にも診断を下すことができ、
+適切な治療が施せる。
+</pre>
+<pre>
+The Diagnostic and Statistical Manual of Mental Disorders%N
+A handbook of diagnostic criteria for mental disorders
+published by the American Psychiatric Association.%N
+The title is followed by its revision number.%N
+Published editions so far include the%N
+DSM-I (1952), DSM-II (1968),%N
+DSM-III (1980), DSM-III-R (1987), and%N
+DSM-IV(1994).%N
+This manual is, so to speak, a &quot;simplified guide to the diagnosis of mental illnesses.&quot;%P
+
+Mental illnesses may affect a person in many forms,
+and are notoriously difficult to diagnose.
+It is also not uncommon for separate examining doctors 
+to differ in their diagnoses.
+To help eliminate such errors, the DSM is used as a guide
+for doctors to determine the name of the illness based on observed symptoms.%N
+By asking the patient certain questions, such as about said patient's condition, and checking their responses against the data in the DSM, 
+even an inexperienced doctor can establish a diagnosis
+and begin appropriate treatment.%P
+
+Note: Since the time the story of Remember11 takes place, there have been two further editions of the DSM: the DSM-IV-TR (2000), an expansion of the DSM-IV with updated diagnostic codes and extra information on each diagnosis, and the upcoming DSM-V (planned for 2012).

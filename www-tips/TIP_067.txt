@@ -1,0 +1,26 @@
+
+量子力学
+素粒子・原子・分子などの微視的な系に
+適用される力学。
+『%TS063シュレディンガー方程式%TE』にしたがう状態を導入、
+観測によって得られる測定値との間に
+確率的な解釈を行うことで、
+粒子がもつ波動と粒子の二重性、
+測定における不確定関係などを矛盾なく
+説明する。
+
+量子力学は粒子および粒子集団を扱う
+現代物理学の基礎理論として、
+一方では原子核論・物性論へ、
+また一方で素粒子論・場の理論へと進展した。
+</pre>
+<pre>
+The study of molecules, atoms and subatomic particles; in short, the dynamics of matter and energy on a microscopic level.%N
+It introduced the principles in the&#160;%TS063Schrödinger equation%TE,
+conducted probabilistic explanations between values that can be obtained from observation,
+postulated the wave-particle duality of matter, 
+and explained the uncertainty relationship in measurements.%P
+
+Quantum mechanics serves as the theoretical foundation of modern physics, which concerns particles as well as particle bodies.%N
+Additionally, it paved the way for the development of the physical/atomic theory,
+elementary particle theory, and the field theory.

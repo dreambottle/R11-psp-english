@@ -1,0 +1,28 @@
+
+ＳＰＨＩＡ／スフィア
+Specified Psychiatric Hospital for Isolation and Aegis
+2007年の刑法改正により全国各地に新設された
+特別精神病院。
+重大な犯罪行為をした精神障害者に
+適切な治療を施し社会復帰させることを
+目的とする。
+施設の構造や治療内容は患者のプライバシーを
+尊重し一切明かされていない。
+公開されているのはその場所のみである。
+犬伏景子が収容されているスフィアは
+北海道の%TS004青鷺島%TE　（あおさぎじま）にある。
+正式名称：
+隔離と保護のための特定精神医療施設。
+</pre>
+<pre>
+Specified Psychiatric Hospital for Isolation and Aegis%N
+Since the revision of the penal code in 2007, special psychiatric hospitals were constructed 
+in various regions across the country.%N
+The purpose of these facilities was to administer proper treatments 
+to those who are suffering from mental illnesses and have committed serious crimes, 
+so they can be reintegrated into society.%N
+The layout of these facilities and the course of treatments there 
+are undisclosed to respect the privacy of the patients.%P
+All that's known about these facilities are their locations.
+SPHIA, the facility in which Inubushi Keiko is institutionalized, 
+is located on Hokkaido's&#160;%TS004Aosagi Island%TE.

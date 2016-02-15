@@ -1,0 +1,15 @@
+
+波動関数
+粒子の状態を記述する空間座標と時間の関数。
+シュレディンガー方程式、
+あるいはディラック方程式を満たし、
+量子力学的粒子の波動性を保証する。
+波動関数の絶対値の二乗から粒子の存在確率が
+与えられ、この意味で確率振幅とも呼ばれる。
+</pre>
+<pre>
+The wave function is a function of space coordinates and time that describes the current state of a particle.%N
+It satisfies the Schrödinger equation and possibly the Dirac equation,
+and proves the wave property of quantum particles.%N
+From the square of its absolute value, it can give the existing probability of a particle.%N
+In this sense, the wave function is referred to as the probability amplitude.

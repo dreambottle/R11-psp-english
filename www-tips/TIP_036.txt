@@ -1,0 +1,10 @@
+
+標本
+統計で、ある集団（母集団）の
+全部についてではなく、一部を抜き出して
+調査する場合の、その抜き出された個々の資料。
+サンプル。
+</pre>
+<pre>
+A statistics term, meaning a subset of a population which is used
+for collecting information; may or may not be representative of the population as a whole.

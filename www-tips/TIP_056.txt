@@ -1,0 +1,19 @@
+
+ロールシャッハテスト
+投影法による人格検査のひとつ。
+インクのシミを落として作った左右対称の
+あいまいな図形を示し、
+なにに見えるかを言わせて人格の特徴を
+診断するもの。
+スイスの精神医学者
+ロールシャッハ（Hermann R.1884-1922）の考案。
+</pre>
+<pre>
+A type of projective psychological test.%N
+The subject of the test is first asked
+to interpret a series of cards with ambiguous,
+bilaterally symmetric inkblot designs.
+The answers are then analyzed so as to try and
+determine that person's personality characteristics.%N
+Invented by Rorschach (Hermann R., 1884-1922),
+a Swiss psychologist.

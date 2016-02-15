@@ -1,0 +1,22 @@
+
+太陽風
+太陽から太陽系空間に放出されている
+プラズマの流れ。
+主に電子と陽子から成り、
+速さは毎秒約350〜700キロメートル。
+彗星が太陽の反対側へ尾を引くのは太陽風で
+吹き飛ばされるためである。
+地磁気のために地球上には到達しないが、
+磁気嵐・極光・電離層の乱れなどは太陽風が
+要因となって起こる。
+</pre>
+<pre>
+A stream of plasma which emanates from the upper atmosphere of the sun.
+It is composed mainly of electromagnetic waves and protons,
+and moves at speeds of 350-700 kilometers per second.%N
+Comets which leave trails tracing to the far side of the sun 
+are blown there by the solar wind.%N
+It does not reach as far as the surface of the Earth 
+and thus has no effect on terrestrial magnetism; 
+however, magnetic storms, the aurora borealis, or disruptions in the ionosphere 
+are all caused by this solar wind.

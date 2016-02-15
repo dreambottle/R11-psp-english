@@ -1,0 +1,584 @@
+
+？？「やめて！　来ないで！　近づかないで！」%K%P
+Stop! Get away! Get away!
+
+声はリビングの奥、窓に向かって右側の部屋から聞こえてきた。%K%P
+As we dashed into the living area, a voice could be heard from the room on the right, facing the window.
+
+扉が勢いよく開かれる。%K%P
+The door flew open.
+//uh, if the door flew open, it can't be in the same room. Reverting above line - Sheeta
+
+中から飛び出してきたのは……。%K%P
+And the one who rushed out was....
+
+悟「犬伏景子……？」%K%P
+Inubushi Keiko...?
+
+白いブラウスに紺色のスカート、足には黒いストッキング……。%K%P
+A white blouse, an indigo skirt, legs clad in black stockings....
+//her skirt definitely looks purple in the game, so I changed the description from "deep blue" to "indigo," which is a common translation of koniro (紺色).
+
+胸のあたりまで伸びたストレートヘア、透き通るように白い肌……。%K%P
+Straight black hair that fell to her chest, white skin so pale it was almost transparent....
+
+間違いない。彼女は犬伏景子だ。%K%P
+There's no mistake. It's Inubushi Keiko.
+
+オレの記憶の中では、彼女の容姿と『犬伏景子』という名前は等号によって結ばれていた。%K%P
+In my memory, the name "Inubushi Keiko" was linked to the figure of this girl.
+
+けれど……。%K%P
+However....
+
+ゆに「ホトリ！　どうしたんだよ！　なにがあったんだ！」%K%P
+Hotori! What's wrong? What happened?!
+
+ゆにはその名を呼んで、彼女のもとへと駆け寄っていった。%K%P
+Yuni ran over to her, calling her name.
+
+景子ではなくホトリ……？　なぜ……？%K%P
+Not Keiko, but Hotori...? Why...?
+
+ゆに「ホトリ！　待ってよ、ホトリ！」%K%P
+Hotori! Wait, Hotori!
+
+ゆにの声など、彼女の耳には届いていないようだ。%K%P
+But Yuni's voice wasn't reaching her.
+
+彼女は長い黒髪を振り乱しながら、リビングの端から端へと駆け抜けていった。%K%P
+She ran in a zigzag across the room, shaking her head violently all the while and sending her long black hair into disarray.
+
+オレはただただ茫然とその場に立ち尽くすばかりで……。%K%P
+I just stood there, completely dumbfounded....
+
+すると――。%K%P
+And just then――
+
+内海「優希堂くん！　彼女捕まえて！」%K%P
+Yukidoh-kun! Catch her!
+
+次に現われたのは内海だった。%K%P
+Utsumi suddenly appeared.
+
+内海は、女の子が飛び出してきたのと同じ部屋から姿を見せた。%K%P
+She'd come flying out of the same room, right after the girl called Hotori.
+
+ふたりで格闘でもしたのだろうか、内海の銀髪は荒々しく乱れていた。%K%P
+The two of them had probably been in a scuffle, seeing as Utsumi's hair was rather disheveled.
+
+内海カーリー、先程ゆにの話の中に登場した人物。%K%P
+Utsumi Kali, the person Yuni mentioned earlier.
+
+オレは彼女のことを知っていて、どうやら彼女もオレのことを……。%K%P
+I know her, and she seems to know me too....
+
+内海「ねえ！　聞こえないの！？　早く追い駆けてよ！」%K%P
+Hey! Are you listening?! Quick, go after her!
+
+悟「…………」%K%P
+......
+
+内海「優希堂くん！」%K%P
+Yukidoh-kun!
+
+悟「…………」%K%P
+......
+
+内海「優希堂くん！！」%K%P
+YUKIDOH-KUN!!
+
+鬼気迫るようなその声に、オレの思考は妨げられた。%K%P
+That bloodcurdling shriek blocked all my thoughts.
+
+もういくら考えてもラチがあかないだろう。%K%P
+No matter how much I tried to think, I made no progress at all.
+
+悩めども悩めども、ますます記憶の迷路にはまり込んでいくだけだ。%K%P
+The more I worried, the deeper I lost myself in this labyrinth of memories.
+
+この瞬間、オレは一切の思考を放棄した。%K%P
+So at that moment, I gave up on thinking completely.
+
+とにかく今は、内海の指示に従って――。%K%P
+What I should be doing right now is following Utsumi's directions――
+
+決断を下したあとの行動は素早かった。%K%P
+My actions after reaching this decision were quick.
+
+ダイニングスペースに飛び込んで、女の子の姿を捜す。%K%P
+Leaping into the dining area, I started looking for the girl.
+
+いない……。%K%P
+Not here....
+
+どこに行った？%K%P
+Where'd she go?
+
+視線をめぐらせていると、背後から階段を駆け下りる音が届いた。%K%P
+As I looked, I heard someone run down the stairs behind me.
+
+悟「倉庫か！」%K%P
+The storeroom!
+
+オレはしなやかにフロアを蹴って、地下倉庫を目指した。%K%P
+I nimbly kicked off from the floor and made for the basement storeroom.
+
+コンクリートに囲まれたその空間に明かりはなかった。%K%P
+It was pitch black down there. 
+
+闇の向こうからゴウゴウと重々しい響きが聞こえてくる。%K%P
+A heavy rumbling sound echoed in the darkness.
+
+身体の芯を揺さぶるような機械的な低音だった。%K%P
+It was a low, mechanical sound that jolted my body to the very core.
+
+音の正体はわからない。%K%P
+I didn't know what it really was.
+
+だが今は、そんなことにかまっている場合ではなかった。%K%P
+But now wasn't the time to worry about that.
+
+悟「どこだ……！」%K%P
+Where...?
+
+悟「彼女はどこに……！？」%K%P
+Where did she...?!
+
+オレは壁伝いに闇の中を探って、照明のスイッチを入れた。%K%P
+Fumbling along the wall in the darkness, I finally hit the light switch.
+
+天井から白い光が降り注ぐ。%K%P
+White light poured down from the ceiling.
+
+彼女の姿を求めて、あたりを見まわしていると……。%K%P
+As I looked around, searching for her....
+
+ゆに「悟ぅ、こっちだよ、こっちこっちぃ」%K%P
+Satoru! This way, this way!
+
+ささやくような小さな声が、オレの背中に届いた。%K%P
+A small whisper from behind me reached my ears.
+
+振り返る。%K%P
+I turned around.
+
+ゆにが棚の陰から半身を出して、こちらに向かって手招きしていた。%K%P
+Yuni beckoned to me, leaning halfway out from between the shelves.
+
+オレは彼のもとへと駆け寄った。%K%P
+I rushed over to him.
+
+ゆに「ほら、あそこ」%K%P
+Look, over there.
+
+ゆにの指先は、積み上げられたダンボール箱の向こう側を指し示している。%K%P
+Yuni was pointing behind a pile of cardboard boxes.
+
+黒いローファーと２本の足が、そこからわずかにのぞいて見えた。%K%P
+Two legs ending in a pair of black loafers were partially visible.
+
+ゆにはどうしていいのかわからないといった感じで、どぎまぎしていた。%K%P
+Yuni was nervous, not knowing what to do.
+
+胸の前で両手をあわせて、オレの出方をうかがっている。%K%P
+Clasping his hands in front of his chest, he awaited further instruction.
+
+オレは彼の肩に手のひらを乗せ、ここで待っていろ、と無言の合図を送った。%K%P
+I placed a hand on his shoulder, and signaled "wait here" in silence.
+
+コクリ……ゆにがうなずく。%K%P
+...Yuni nodded.
+
+オレは彼をその場に残して、ダンボールのそばに近づいていった。%K%P
+Leaving him there, I approached the cardboard boxes from the side.
+
+慎重な足取りで、細心の注意を払いながら、ゆっくりと、ゆっくりと……。%K%P
+Moving with great discretion and caution, slowly, slowly....
+
+しかし次の瞬間――！%K%P
+However, in the next instant――
+
+犬伏「いやぁぁぁぁぁぁぁぁぁぁぁぁ！」%K%P
+Nooooooooooooooooooooo!
+
+叫び声とともに、目の前のダンボール箱が音を立てて崩れ落ちてきた。%K%P
+Together with her scream, the pile of cardboard boxes came tumbling down, right before my eyes.
+
+ひらりと身をかわし、床の上に転がる。%K%P
+I quickly dodged them and rolled across the floor.
+
+すかさず立ち上がったオレの視線は、逃げていく彼女の後ろ姿をしっかりと捉えていた。%K%P
+I stood up immediately, my eyes fixed on the back of the fleeing girl.
+
+悟「待て！　待ってくれ！」%K%P
+Wait! Hold up!
+
+声を張り上げて追い駆ける。%K%P
+I gave chase as I raised my voice.
+
+彼女は立ち並んだ棚の間を縫うように、右へ左へと逃走を続けた。%K%P
+Weaving her way left and right through the row of shelves, she continued her escape.
+
+犬伏「やめて！　来ないで！　来ないで！」%K%P
+Stop it! Go away! Go away!
+
+彼女の肩が棚にぶつかる。%K%P
+Her shoulders suddenly bumped into a stack of shelves.
+
+棚に置かれていた雑品が、バラバラと床の上に転がり落ちた。%K%P
+The sundries placed upon them tumbled down and scattered asunder on the ground.
+
+オレはそれらの障害物を飛び越えて、ひたすら彼女の後を追い駆けた。%K%P
+Jumping over those obstacles, I pursued her in earnest.
+
+やがて……。%K%P
+Finally....
+
+ようやく、彼女を追いつめた。%K%P
+At last, I cornered her.
+
+倉庫の隅に向かって、じりじりと後ずさっていく彼女……。%K%P
+Facing the corner of the storeroom, she slowly stepped back....
+
+犬伏「いや、いや、いや……！」%K%P
+No, no, no...!
+
+首を激しく振って拒絶の態度を示す。%K%P
+Furiously shaking her head, she vehemently resisted me.
+
+彼女は明らかに怯えていた。%K%P
+She was clearly frightened.
+
+恐怖のあまり理性を失っているようだ。%K%P
+Like she'd lost her head from some overwhelming terror.
+
+オレは無闇に彼女を刺激しないよう適切な距離を保って話しかけた。%K%P
+I spoke to her while maintaining an appropriate distance, refraining from inciting her recklessly.
+
+悟「大丈夫だ、とにかく落ち着いてくれ……」%K%P
+It's all right, so come on, please calm down...
+
+悟「オレは何もしない、危害を加えるつもりはないんだ……」%K%P
+I won't do anything, and I have no intention of harming you...
+
+犬伏「いや、やだ、行きたくない、行きたくない、行きたくない……」%K%P
+No, no, I don't want to go, I don't want to go, I don't want to go...
+
+行きたくない？　どこに？%K%P
+Don't want to go? Where?
+
+意味はわからなかったが、こう言わざるを得なかった。%K%P
+I couldn't understand her, but I obviously couldn't say so.
+
+悟「心配するな、どこにも連れて行ったりしないよ」%K%P
+Don't worry, I won't take you anywhere.
+
+悟「オレはただ……」%K%p
+I...
+
+内海さんに捕まえるように言われたから
+was told by Utsumi-san to catch you
+
+助けにきただけなんだ
+just came to help
+
+悟「内海さんに、捕まえるように、言われたから」%K%P
+was told by Utsumi-san to catch you.
+
+犬伏「やっぱり……！」%K%P
+Then...!
+
+犬伏「あなたもあの女の仲間なのね！」%K%P
+You're her accomplice too!
+
+悟「違う、仲間とかそういうんじゃなくて……」%K%P
+No, it's not like that...
+
+するとそのとき……。%K%P
+As soon as I said that....
+
+ゆに「悟！」%K%P
+Satoru!
+
+背後にゆにの声。%K%P
+Yuni's voice came behind me.
+
+思わず振り返る。%K%P
+I turned around instinctively.
+
+彼女はその隙を見逃さなかった。%K%P
+She didn't miss it.
+
+オレのわきをすり抜けて逃げ出そうとした。%K%P
+She slipped past me from the side and made to run away again.
+
+けれどそうはさせない。%K%P
+But I wouldn't let her.
+
+オレはとっさに彼女の腕をつかんで引き止めた。%K%P
+I promptly caught her by the arm.
+
+そのまま、流れるように彼女の身体を抱き寄せる。%K%P
+Like that, I embraced her firmly, pinning her to the spot.
+
+犬伏「いやっ！　やめて！　放して！　放してよぉ！」%K%P
+No! Stop! Let me go! Let me goooo!
+
+悟「いいから落ち着け！」%K%P
+Listen to me! Get a grip!
+
+悟「いったい何があったっていうんだ！」%K%P
+Tell me what's wrong!
+
+犬伏「いやだ！　いやだ！　いやだ！　いやだ！　いやだ！」%K%P
+No! No! No! No! No!
+
+この状況ではまともな会話はできそうもない。%K%P
+There was no way I could hold a proper conversation with her now.
+
+オレは黙って彼女の身体を抱きしめていた。%K%P
+Ceasing my questions, I held onto her as tightly as I could without hurting her.
+
+それでもなお、彼女は抵抗をあきらめない。%K%P
+But she didn't give up on resisting.
+
+ジタバタとオレの腕の中でもがき続けた。%K%P
+She continued struggling and flailing in my arms.
+
+その頭越しに、誰かが近づいてくるのが見えた。%K%P
+From over her head, I could see someone approaching.
+
+内海だ。%K%P
+It was Utsumi.
+
+コツコツと硬質な足音を響かせながら、ゆっくりとこちらに向かって歩いてくる。%K%P
+She walked toward us slowly, her heavy footsteps resonating against the floor.
+ 
+その右手には、メタリックな輝きを放つ銃のようなものが握られていた。%K%P
+Her right hand was holding something that gave off a metallic radiance, something that looked like a gun.
+
+犬伏「助けて……」%K%P
+Help me...
+
+犬伏「誰か私を……助けて……」%K%P
+Someone... help me...
+
+胸に少女の呟きが響く。%K%P
+The girl's whimpers resounded against my chest.
+
+内海は少女の背後に立った。%K%P
+Utsumi stood behind the girl.
+
+犬伏「お願い……」%K%P
+Please...
+
+犬伏「助けて……助けて……」%K%P
+Help me... help me...
+
+少女が懇願するような眼差しでオレの顔を見上げた。%K%P
+The girl looked up at me with pleading eyes.
+
+その直後、内海は彼女の首筋に銃口をあてがい――。%K%P
+Utsumi quickly held the muzzle to the back of her neck――
+
+悟「助けにきただけなんだ」%K%P
+I just came to help.
+
+オレがそう告げると、彼女の表情はにわかに変化を見せた。%K%P
+After I'd said that, her expression showed a visible change.
+
+犬伏「助けに、きた……？」%K%P
+You came to help...?
+
+疑わしげな瞳の奥に、ほのかな明かりが灯る。%K%P
+Deep inside her questioning eyes, a faint light came forth.
+
+悟「そうだよ、オレは敵でもなんでもない」%K%P
+That's right, I'm not your enemy.
+
+悟「きみの味方だ、きみを守りたいんだ」%K%P
+I'm your ally. I want to protect you.
+
+悟「だから……」%K%P
+So...
+
+犬伏「お願い！　助けて！」%K%P
+Please! Help me!
+
+犬伏「私……！　私……！　私……！」%K%P
+I...! I...! I...!
+
+突如、彼女は悲痛な声をあげながら、オレの胸へと飛び込んできた。%K%P
+All of a sudden, she threw herself against my chest, raising her voice in sorrow.
+
+悟「えっ！？」%K%P
+Eh?!
+
+思わぬ展開にとまどいを覚える。%K%P
+I lost my bearings at this unexpected development.
+
+しかしこのまま突き放すわけにもいくまい。%K%P
+However, as it is, I had no reason to push her away.
+
+オレは彼女の身体をしっかりと抱きとめてやった。%K%P
+I held her still in my arms.
+
+犬伏「怖いの……怖いの……」%K%P
+I'm scared... I'm scared...
+
+犬伏「このままじゃ私……死んじゃうかも知れない……」%K%P
+If it keeps going, I... could die...
+
+犬伏「だから……お願い……」%K%P
+So... please...
+
+犬伏「助けて……助けて……助けて……」%K%P
+Help me... help me... help me...
+
+悟「大丈夫だよ、もう大丈夫だ、安心しろ……」%K%P
+It's all right. It's all right now, so calm down...
+
+犬伏「いやだ……いやだ……」%K%P
+No... no...
+
+犬伏「私を見捨てないで……」%K%P
+Don't leave me...
+
+犬伏「置き去りにしないで……」%K%P
+Don't leave...
+
+悟「そんなことするもんか……」%K%P
+I won't...
+
+悟「ずっとそばにいてやるよ……」%K%P
+I'll be with you the whole time...
+
+悟「オレがおまえを守ってやる、助けてやる」%K%P
+I'm going to protect you, to help you.
+
+悟「だからとにかく落ち着くんだ……な？」%K%P
+So, at any rate, calm down... okay?
+
+犬伏「うぅぅ……怖いよぅ……怖いよぅ……」%K%P
+Uuuu... I'm scared... so scared...
+
+この状況ではまともな会話はできそうもなかった。%K%P
+There was no way I could hold a proper conversation with her now.
+
+オレは黙って彼女の身体を抱きしめてやった。%K%P
+I silently embraced her as tightly as I could, making sure I didn't hurt her.
+
+ふと、その頭越しに、誰かが近づいてくるのが見えた。%K%P
+Suddenly, from over her head, I saw someone approaching.
+
+内海だ。%K%P
+It was Utsumi.
+
+コツコツと硬質な足音を響かせながら、ゆっくりとこちらに向かって歩いてくる。%K%P
+She walked toward us slowly, her heavy footsteps resonating against the floor.
+ 
+その右手には、メタリックな輝きを放つ銃のようなものが握られていた。%K%P
+Her right hand was holding something that gave off a metallic radiance, something that looked like a gun.
+
+内海は少女の背後に立った。%K%P
+Utsumi stood behind the girl.
+
+犬伏「お願い……」%K%P
+Please...
+
+犬伏「私を……助けて……」%K%P
+Help... me...
+
+少女が懇願するような眼差しでオレの顔を見上げる。%K%P
+The girl looks up at me with pleading eyes.
+
+その直後、内海は彼女の首筋に銃口をあてがい――。%K%P
+Utsumi quickly held the muzzle to the back of her neck――
+
+その引き金をひいた。%K%P
+And pulled the trigger.
+
+何のためらいも見せず、無言のまま……。%K%P
+Without any hesitation, in silence....
+
+力を失った少女……。%K%P
+The girl lost her strength....
+
+オレの腕をすり抜けて、床の上にぐしゃりと倒れ込んだ。%K%P
+Slipping from my grasp, she collapsed to the floor with a thud.
+
+悟「こ、こ、こ、殺したのか……？」%K%P
+D, d, d, did you just kill her...?
+
+内海「おもしろい冗談ね？」%K%P
+Yet another joke?
+
+悟「冗談……？」%K%P
+Joke...?
+
+内海「さっ、いいからこの子を部屋まで運んでちょうだい」%K%P
+Now then, please carry her to her room.
+
+動揺するオレをよそに、内海は淡々と答えた。%K%P
+Utsumi said, paying no attention to my shock.
+
+悟「でも……」%K%P
+But...
+
+内海「この程度の分量じゃ死なないわよ」%K%P
+It's hardly enough to kill her.
+
+悟「分量、って？」%K%P
+Enough...?
+
+内海「はぁ……」%K%P
+Haah...
+
+内海はため息をつくと、右手の銃をオレに向かって放り投げた。%K%P
+Utsumi sighed and threw the gun she held to me.
+
+内海「鎮静剤よ、あなたに打ったのと同じもの」%K%P
+Tranquilizers. The same ones I hit you with.
+
+オレは受け取ったその物体をまじまじと眺めてみた。%K%P
+I stared fixedly at the object she just handed to me.
+
+確かにそれは、弾丸を発射するような構造にはできていなかった。%K%P
+It definitely wasn't capable of firing bullets.
+
+背中の部分には空になったアンプルが装着されている。%K%P
+An emptied ampule was mounted on the back.
+
+銃の形をした注射器であることがわかった。%K%P
+I quickly understood that it was an injector shaped like a gun.
+
+内海「じゃあ、頼んだわよ」%K%P
+Well then, I'll leave her to you.
+
+それだけ言って、内海はその場を去ってしまった。%K%P
+Saying nothing more, Utsumi walked away.
+
+悟「…………」%K%P
+......
+
+ゆに「…………」%K%P
+......
+
+取り残されたオレとゆに……。%K%P
+Yuni and I, who were left behind....
+
+床に横たわった少女を見下ろす。%K%P
+looked down at the girl lying on the floor.
+
+念の為、少女の口元に耳を寄せてみた。%K%P
+Just to be sure, I put my ear near her mouth.
+
+規則正しい呼吸の音が聞こえる。%K%P
+She was breathing. I could hear it.
+
+オレは少女の傍らにひざまずいたまま、ゆにの方へと視線を向けた。%K%P
+As I knelt beside the girl, I turned my eyes to Yuni.
+
+ゆにはゴムぞうりみたいに顔を歪めて、作り笑いを浮かべていた。%K%P
+About as naturally as a piece of lifeless rubber, Yuni's face twisted itself into a forced smile.

@@ -1,0 +1,616 @@
+
+どうやらここは倉庫のようだ。%K%P
+Apparently this place is being used as a storeroom.
+
+等間隔に並んだ棚の上には、食糧や燃料、医薬品、日用雑貨、各種備品、等々が整然と置かれていた。%K%P
+There are provisions, fuel, medical supplies, miscellaneous daily supplies, all sorts of equipment, and so on, evenly spaced and neatly placed on the shelves.
+
+天井にはむき出しになったパイプが伸びている。%K%P
+There's a bare pipe stretched across the ceiling.
+
+コンクリートの壁面には窓がひとつもなかった。%K%P
+There wasn't a single window in the concrete walls.
+
+こころ「地下、かぁ……」%K%P
+A basement, huh...
+
+ここが地下だとするなら、さっきまでいたフロアは１階だということになる。%K%P
+If this is the basement, then that would mean the floor I was just on was the first floor.
+
+もっとも、あの外界へと通じる扉が正面玄関だとすれば当然のことだが……。%K%P
+But then again, the door leading outside should have made that obvious....
+
+薄々感づいていたことではあるが、何もかもが未知の私にとってはこれも大切な確認作業のひとつだった。%K%P
+I was only beginning to comprehend things little by little, but because I had no idea what was up with the situation I was now in, even this was an important discovery to me.
+
+どこからか唸るような音が聞こえる。%K%P
+I heard a sound like a groan coming from somewhere.
+
+身体の芯を揺さぶるような機械的な低音だった。%K%P
+A low, mechanical tone that shook me to my core.
+
+音の正体はわからない。%K%P
+I didn't know what the sound was.
+
+ひとまず音のことは考えないことにして、私は立ち並んだ棚の間を縫うように歩いた。%K%P
+Ignoring it for now, I slid into the spaces between the shelves as if weaving myself through a crowd in rush hour.
+
+広さは上のフロアと同じぐらいだろう。%K%P
+It was about as wide as the floor above.
+
+別に変わったところはなかったし、誰かが物陰に隠れているというようなこともなかった。%K%P
+There weren't any places I could call interesting, and I didn't think anyone could be hiding anywhere around here.
+
+いや……。%K%P
+Wait....
+
+微かに物音が聞こえた。%K%P
+I heard a faint sound.
+
+小さな動物が走りまわるような音だ。%K%P
+It sounded like a small animal running around.
+
+ネズミでも棲みついているのだろうか？%K%P
+Perhaps a rat that had settled in here?
+
+私はネズミが……。%K%p
+When it comes to rats, I....
+
+苦手だ
+Can't handle them
+
+苦手ではない
+Can handle them
+
+大の苦手だった。%K%P
+REALLY can't handle them.
+
+こんなところでバッタリと遭遇したら卒倒してしまいかねない。%K%P
+If I ran across one in a place like this, I'd probably faint right away.
+
+私はそそくさとその場を立ち去ることにした。%K%P
+I made it my priority to get away from this place.
+
+特に苦手というわけではない。%K%P
+I wouldn't say that I can't handle rats.
+
+けれど、わざわざ探し出して捕獲したところで何の得にもならないだろう。%K%P
+However, I had no interest in looking for one so I could capture it.
+
+私は１階へと戻ることにした。%K%P
+I returned to the first floor.
+
+階段をのぼりきる直前、ひとの気配を感じた。%K%P
+But before I could finish climbing the stairs, I felt someone's presence.
+
+キッチンに出てみると、ダイニングチェアに腰を下ろした女の子の姿があった。%K%P
+As I glanced out from the kitchen, I saw the figure of a girl sitting silently in a dining chair.
+
+彼女はうなだれていた。%K%P
+The girl had her head bowed.
+
+ここからでは横顔しかわからなかったが、あの褐色の女性でないことだけは確かだった。%K%P
+I couldn't make out her face from here, but I was pretty certain it wasn't the brown-skinned woman I'd met earlier.
+
+私は少しホッとした。%K%P
+I tried to loosen up.
+
+こころ「あの、すみません……」%K%P
+Um, excuse me...
+
+声をかけながら近づいていく。%K%P
+Calling out, I approached her.
+
+こころ「ちょっとお尋ねしたいことがあるんですけど……」%K%P
+There's something I'd like to ask you...
+
+彼女は反応を示さない。%K%P
+The girl showed no reaction.
+
+身動きひとつせずに硬直していた。%K%P
+She merely sat there without moving a muscle.
+
+まるで初めからその場所に置かれていた何かのオブジェみたいに見えた。%K%P
+As if she had been carefully placed there by someone, like a figure at a wax museum.
+
+こころ「あのぉ……」%K%P
+Um...
+
+こころ「ごめんなさい、聞いてます？」%K%P
+I'm sorry, are you listening?
+
+私は彼女の傍らに立つと、腰を屈めてその顔をのぞき込んだ。%K%P
+I stood right beside her and bent over to take a look at her face.
+
+こころ「っ！？」%K%P
+...?!
+
+強く息を呑んで飛び退く。%K%P
+I gasped sharply and jumped back.
+
+飛び退いた先には階段があった。%K%P
+I dashed back to where the stairs were.
+
+一歩間違えば足を踏みはずすところだった。%K%P
+Misstepping, my foot slipped.
+
+とっさに手すりをつかんで体勢を立て直す。%K%P
+I gripped the handrail for a moment to regain my balance.
+
+もう片方の手は口元へ――。%K%P
+My other hand was already covering my mouth――
+
+唇を押さえていなければ大声をあげてしまいそうだった。%K%P
+If not for that, I think I surely would have screamed.
+
+（そんなバカな……！）%K%P
+(That's impossible...!)
+
+（なんで……！？）%K%P
+(Why...?!
+
+（どうして『彼女』が……こんなところに……！？）%K%P
+(Why was "that girl"... in a place like this...?!
+
+『彼女』はバレエのターンのようにしなやかな曲線を描いて振り向いた。%K%P
+"She" turned as delicately as a ballerina to face me.
+
+間違いない。%K%P
+There's no mistake.
+
+いま私の目の前にいる女の子は確かに『彼女』だ。%K%P
+The girl in front of me was unmistakably "her."
+
+阿波墨市の病院で１２人の罪のない人々を殺した『彼女』……。%K%P
+"That girl," who had murdered twelve innocent people in a hospital in Awazumi City....
+
+――犬伏景子。%K%P
+――Inubushi Keiko.
+
+私がその顔を忘れるわけがなかった。%K%P
+There's no way I could possibly forget that face.
+
+『どうも』とでも言うように、犬伏は軽く頭を下げた。%K%P
+As if to say "hello," Inubushi slightly nodded her head.
+
+私もぎこちない動作で会釈を返す。%K%P
+I awkwardly returned a nod.
+
+何か言わなければ……。%K%P
+I have to say something....
+
+そうは思いつつも声の出し方がわからなかった。%K%P
+I knew exactly how I felt, but it seemed as if I had completely forgotten how to speak out loud.
+
+それは喉につかえた異物のせいでも、カラカラに干乾びた唇のせいでもなかった。%K%P
+Such situations are often attributed to a lump in the throat, or the lips becoming too dry.
+
+本当に、私は発声の方法というものを忘れてしまっていたのだ。%K%P
+But this was different; I had literally forgotten how to utter a word.
+ 
+目の前には日本の犯罪史を塗り替えた連続殺人鬼がいる。%K%P
+In front of my eyes was the murderous monster, the serial killer who had singlehandedly rewritten the definition of crime in Japan.
+
+少しでも気を許せば、次の瞬間には私が１３人目の犠牲者になってしまうかも知れない。%K%P
+I felt that if I were to let my guard down for even a moment, I could easily become the thirteenth victim.
+
+心臓は暴れるように脈打ち、四肢の末端にはピリピリと電流が走っていた。%K%P
+My heart was pounding hard, and my skin was tingling as if an electric current were running through it.
+
+こころ「…………」%K%P
+......
+
+犬伏「…………」%K%P
+......
+
+居心地の悪い沈黙が続く。%K%P
+The awkward silence continues.
+
+犬伏は無表情のまま私のことをじっと見ていた。%K%P
+Inubushi kept staring at me expressionlessly.
+
+その顔からは何を考えているのかまったく読み取ることができない。%K%P
+Her face was devoid of any emotion; it was hard to tell if she was thinking anything at all.
+
+私は平静を装うべく必死に笑みを浮かべて見せた。%K%P
+I tried to hide my panic behind a calm smile.
+//Old: I calmly hid my frantic face by putting on a smile.
+
+うまく笑えない。%K%P
+I don't think I was much good at it.
+
+ふたつの頬はロウで塗り固められたみたいにこわばっていた。%K%P
+Both my cheeks became stiff like plaster.
+
+すると……。%K%P
+Then....
+
+彼女が微笑みを返した。とても自然な笑顔に見えた。%K%P
+The girl returned the smile.  It was a very natural, sincere smile.
+
+私の警戒心は少しだけゆるんだ。%K%P
+I thought it was safe to let my guard down a bit.
+
+もちろん気を抜いてはいけないことなどわかっている。%K%P
+Of course, not so far as to let her read me like a book.
+
+けれど、こんな穏やかな微笑みを見せられてはどうしようもないのだった。%K%P
+But after seeing such a gentle smile, there was really little I could do.
+
+理性では強固な防壁を築きながらも、本能的な好奇心は抑えることができない。%K%P
+Although my reasoning was trying hard to build up a strong, impenetrable wall, my instinctive curiosity took the best of me.
+
+私は今、防壁を乗り越えて危険な一歩を踏み出そうとしていた。%K%P
+I was climbing over the protective wall and taking a step forward into danger.
+
+こころ「犬伏さん……」%K%P
+Inubushi-san...
+
+こころ「あなた、犬伏景子さん、ですよね？」%K%P
+You're... Inubushi Keiko-san, right?
+
+緊張のせいか声が震えていた。%K%P
+My voice quivered and gave away my nervousness.
+
+彼女は黙ったままだ。%K%P
+The girl stayed silent.
+
+何を言っているのかわからないといった感じできょとんとしている。%K%P
+As if she didn't understand what I had just said.
+
+こころ「犬伏さんでしょう？」%K%P
+Inubushi-san, right?
+
+同じ質問を繰り返したが、彼女は首を傾げるばかりだった。%K%P
+I asked the same question again, but the girl just tilted her head.
+
+まさか、人違い……？%K%P
+It couldn't be... a different person...?
+
+いや、そんなはずはない。%K%P
+No, that's impossible.
+
+彼女の顔立ちは、あのファイルに載っていた写真そのものなのだ。%K%P
+She looks exactly like the girl from the photo in the file.
+
+私は……。%K%p
+I....
+
+『とぼけても無駄ですよ』
+"It's no use playing dumb."
+
+遠まわしに尋ねる
+Ask indirectly
+
+こころ「とぼけても無駄ですよ」%K%P
+It's no use playing dumb.
+
+こころ「私……知ってるんです」%K%P
+I... I know what you did.
+
+こころ「阿波墨で起きた……事件のこと……」%K%P
+I know... about the incident at Awazumi...
+
+こころ「一般には犯人の顔写真なんて公表されてないですけど……」%K%P
+Even though your photo wasn't publicly released like most other criminals'...
+
+こころ「でも私は知ってるんです」%K%P
+I know what you did.
+
+こころ「何て言うか……その……」%K%P
+How should I say this... umm...
+
+こころ「関係者しか見せてもらえない事件の報告書を、あるひとに頼み込んで貸してもらって……」%K%P
+I have a certain report that was only released to parties directly involved with the incident. A friend lent it to me as a favor...
+
+こころ「もちろん違法だってことぐらいわかってますよ？」%K%P
+Actually, was doing that even legal?
+
+こころ「だけどどうしても、私は事件のことが知りたかったんです」%K%P
+But I was very curious about the details of the incident.
+
+こころ「今ではあの報告書に記述されていたことはすべて頭の中に入ってます」%K%P
+And by now, I know everything there is to know about you.
+
+こころ「あなたがいつどこで生まれ、どんな環境で育ち、これまで何をしてきたのかも、全部……」%K%P
+When and where you were born, what kind of environment you were brought up in, what you've done up until now, all of it...
+
+こころ「当然、あなたに姉妹がいないことも知ってます」%K%P
+Of course, I also know you have no sisters.
+
+こころ「だからとぼけても、無駄なんです……」%K%P
+So it's no use playing innocent with me...
+
+こころ「人違いなんてことは、あり得ないもの」%K%P
+There's no way in hell I could mistake you for anyone else.
+
+私は、むしろ恐怖心を押し隠すためにも一気にまくし立てた。%K%P
+My words jumped out quickly, one after the other, tumbling and stumbling as my fear pushed them out of my mouth.
+
+言い終えて、彼女の顔色をうかがう。%K%P
+I turned my attention to her face, looking for a reaction.
+
+こころ「あの……何て言えばいいのか……その……」%K%P
+Umm... how should I say this... umm...
+
+こころ「あなたは……阿波墨市で起きた……事件の……」%K%P
+You were... the one behind the incident at Awazumi...
+
+こころ「えーと……」%K%P
+Umm... 
+
+こころ「……ですよね？」%K%P
+...right?
+
+こころ「違いますか？」%K%P
+Or am I wrong?
+
+彼女は何か考え込むような素振りを見せてから、小さく首を振った。%K%P
+She looked as if she was lost in thought, but then shook her head gently.
+
+こころ「嘘、嘘でしょう？」%K%P
+Y, you're lying, right?
+
+こころ「私、知ってるんですよ？」%K%P
+I... I know all about it, okay?
+
+こころ「実はその……あの事件のこと……ちょっと調べてて……」%K%P
+The truth is... I did some research... regarding the incident...
+
+彼女の反応をうかがうように、途切れ途切れに言葉を繋いだ。%K%P
+As if trying to gauge her reaction, I slowly stuttered through that sentence.
+
+犬伏景子はなおも口を閉ざしたままだった。%K%P
+But Inubushi Keiko just kept looking at me with her mouth shut.
+
+動揺した様子はない。%K%P
+She didn't even look the least bit flustered.
+
+不思議そうに首を傾げながらチラリと視線をそらす。%K%P
+She tilted her head as if in wonder and gave me a quick glance, then averted her gaze.
+
+そらした視線が再び私の方へと向けられたそのとき――。%K%P
+She threw me a second glance, and at that moment――
+
+彼女は突然、いきりたったかのように力強く立ち上がった。%K%P
+As if having lost her temper, the girl stood up forcefully.
+
+グングンとこちらに向かって近づいてくる彼女……。%K%P
+She turned my way and started walking vigorously toward me....
+
+たじろいでズリズリと後ずさる私……。%K%P
+Flinching, my face twitched as I shrank away....
+
+あっという間に壁際へと追い詰められてしまった。%K%P
+In what seemed like a moment, she had my back up against the wall.
+
+それでも彼女は歩みを止めない。%K%P
+And even then, the girl didn't stop moving.
+
+防壁を乗り越え、警戒網を突破し、%N私の%TS106パーソナルスペース%TEへと踏み込んでくる。%K%P
+Breaking through my protective wall and ignoring all my warning sensors, she entered my&#160;%TS106personal space%TE.
+
+もうどうすることもできない。%K%P
+There was nothing more to be done.
+
+何をされたとしても抵抗不可能な距離だった。%K%P
+She was at a distance that would make any kind of resistance futile.
+
+こころ「ど、どうするつもり……？」%K%P
+Wh, what are you doing?
+
+声を絞り出した直後――。%K%P
+Immediately after I squeezed out those words――
+
+彼女は私の両肩をガッシリとつかんだ。%K%P
+The girl firmly gripped both my shoulders.
+
+私はとっさに悲鳴をあげようとした。%K%P
+I tried to scream.
+
+大きく息を吸い込む。%K%P
+I took a deep breath.
+
+しかし声をあげる間もなく、私の唇は彼女の手のひらによって塞がれてしまった。%K%P
+But before I could let out a sound, the girl covered my lips with her palm.
+
+絶体絶命――。%K%P
+It's all over――
+
+覚悟を決めた私はきつくまぶたを閉じた。%K%P
+I braced myself and squeezed my eyelids tightly shut.
+
+何も起きない……。%K%P
+Nothing happened....
+
+恐る恐る目を開いてみる。%K%P
+Timidly, I open my eyes.
+
+よく見ると、彼女は今にも泣き出しそうな顔をしていた。%K%P
+Now that I look carefully, her face looks as if she's on the verge of breaking down in tears.
+
+うるんだ瞳が懸命に何かを訴えている。%K%P
+Her moist pupils seemed to be eagerly appealing to me for something.
+
+どういうことだろう？%K%P
+Just what is this supposed to mean?
+
+意味はわからなかったが、殺意や敵意のないことだけは明らかだった。%K%P
+I didn't know what was going on, but at least I didn't feel any danger or hostility.
+
+私は硬直した身体から少しずつ少しずつ力を抜いていった。%K%P
+My stiff body slowly regained its power to move.
+
+同時に彼女も私の唇から手のひらを離す。%K%P
+At the same time, the girl removed her hand from my lips.
+
+こころ「な、なに……？」%K%P
+Wh, what...?
+
+こころ「なにが……言いたいの……？」%K%P
+What is it... that you want to say...?
+
+彼女は懇願するような眼差しを向けたまま、ぷるぷるとぷるぷると首を振った。%K%P
+While giving me a look, which was apparently asking me for something, the girl shook her head back and forth.
+
+こころ「えっ？　どうしたの？」%K%P
+Huh? What is it?
+
+尋ねてみても言葉は返ってこない。%K%P
+Even when trying to ask for something, the girl spoke no words.
+
+しきりに首を振るばかりで……。%K%P
+Again, all she does is shake her head....
+
+こころ「それじゃわからないじゃない」%K%P
+I won't be able to understand if you keep silent like that.
+
+こころ「なにか、なにか言ってよ……」%K%P
+Say something, anything...
+
+すると、彼女は指先で自分の喉をさし示した。%K%P
+The girl pointed to her own throat.
+
+もう片方の手は宙を扇ぐようにパタパタと振られている。%K%P
+While doing so, her other hand is flapping and waving as if fanning the air.
+
+ジェスチャー？%K%P
+A gesture?
+
+だとするなら、この動作は恐らく……。%K%P
+If that's it, this action probably means....
+
+こころ「声が、出ないってこと？」%K%P
+You... can't speak?
+
+うんうんうん、彼女は何度も何度もうなずいて見せた。%K%P
+Yes, yes, yes, the girl nods over and over again.
+
+つまり、失語症に陥っている、ということか。%K%P
+In short, she isn't able to speak.
+
+けれどあの報告書には、そんな事実は一切記載されていなかったはずだが……？%K%P
+However, that wasn't all she wanted to tell me...?
+
+思いをめぐらせていると、彼女は手のひらをこちらに向けた。%K%P
+After I had deciphered her last thought, the girl had stuck out the palm of her hand toward me.
+
+『ここで待ってて』という意味らしい。%K%P
+"Wait here" is what this probably meant.
+
+こころ「うん、わかったけど……」%K%P
+Okay, I get it, but...
+
+こころ「どこ行くの？」%K%P
+Where are you going?
+
+彼女は答えずに私の元を離れた。%K%P
+Without answering, the girl left my side.
+
+キッチンの中央でキョロキョロとあたりを見まわしている。%K%P
+She's looking around the kitchen restlessly, in search of something.
+
+やがて何かを見つけたのか、部屋の四隅にある扉のうちのひとつに向かって走っていった。%K%P
+Suddenly, looking as if she had found something, she ran to one of doors in the four corners of the room.
+
+扉の中へと姿を消す彼女……。%K%P
+The girl's figure disappeared behind the door....
+
+それは先ほど私が入った部屋だった。%K%P
+It was a room I had entered before.
+
+それは正面玄関に向かって右側にある扉で、ここからだと最も近い位置にあった。%K%P
+The door was to the right of the main entrance; the closest to me at the moment.
+
+しばらくして、彼女は部屋を飛び出してきた。%K%P
+After a few moments, the girl jumped out of the doorway.
+
+何か慌てた様子で大きく手招きしている。%K%P
+Looking confused, she beckons me over.
+
+こころ「えっ？　なにかあったの？」%K%P
+Eh? Did something happen?
+
+私は彼女の元へと駆け寄った。%K%P
+I rushed over to her.
+
+痛っ、痛たたたたたたたたっ……。%K%P
+Ow, owowowowow....
+
+忘れかけていた痛みに襲われ、危うく膝をつきそうになる。%K%P
+The pain I had forgotten about was most likely coming from my limping knee.
+
+なんとか持ち直して、開け放たれた扉のそばまでたどりついた。%K%P
+Somehow rallying my strength, I managed to reach the open door.
+
+そして、彼女に導かれるがまま小部屋の中へと……。%K%P
+The girl went inside, as if calling for me to come with her....
+
+室内には、私達ふたり以外には誰もいなかった。%K%P
+There was nobody inside the room besides us.
+
+さっき見た時と何も変わった様子はない。%K%P
+Nothing had changed since I'd last been here.
+
+私は視線をめぐらせてあたりを探ってから、犬伏景子に向かって首を傾げて見せた。%K%P
+After I had glanced around the room, Inubushi Keiko tilted her neck as if to point at something.
+
+彼女の右手には黒いサインペンが、左手にはＡ６サイズのメモ用紙が握られていた。%K%P
+She had a black felt-tip pen in her right hand and a size A6 memo pad in her left.
+
+きっとこの部屋のどこかで見つけたのだろう。%K%P
+She had most likely found them somewhere in this room.
+
+彼女はそのメモ用紙を壁に押し当てると、黒いサインペンを走らせた。%K%P
+She pushed the memo pad against the wall, and started to write with the black felt-tip pen.
+
+書き終わる前に、私はその文章をのぞき込んだ。%K%P
+Before she finished writing, I took a peek at the lines she had already scrawled on the page.
+
+そこにはこう書かれていた。%K%P
+I could make out the following:
+
+『言いたいことはたくさんある』%K%N
+There are lots of things I want to tell you.
+
+『でもその前に』%K%N
+But before that.
+
+『あそこを見て』%K%P
+Look over there.
+
+こころ「あそこって？」%K%P
+Over there?
+
+彼女はサインペンの先端で、部屋の隅を指し示した。%K%P
+With the tip of the pen, she pointed to the corner of the room.
+
+こころ「ん？」%K%P
+Hm?
+
+特に気になるものは何もない。%K%P
+There was nothing that felt particularly special about that area.
+
+すると今度は大きく背伸びをして、彼女はサインペンを高く掲げた。%K%P
+Stretching, she held the pen high.
+
+ペン先はベッドの向こう側を指し示している。%K%P
+The tip of the pen pointed toward a bed on the other side of the room.
+
+誰か隠れているとでも言うのだろうか？%K%P
+Was she trying to say there was someone hiding over there?
+
+私は疑問を感じながらも、彼女の指示に従って部屋の奥へと進んでいった。%K%P
+Feeling uneasy, I advanced toward the back of the room, following her directions.
+
+ベッドサイドをまわり込んで窓際に立つ。%K%P
+I went around to the side of the bed facing the window and stopped.
+
+そのときだった――。%K%P
+It was at that moment――
+
+もぞもぞと蠢く何かが私の視界に飛び込んできた。%K%P
+Something wriggling jumped into my field of vision.
+
+私は反射的に首を向けた。%K%P
+Instinctively, I turned my head toward it.
