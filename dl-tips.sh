@@ -1,6 +1,6 @@
 #!/bin/bash
 TEXTDIR=www-tips
-mkdir $TEXTDIR
+mkdir -p $TEXTDIR
 
 LIST=`wget 'http://tlwiki.org/index.php?title=Remember11_-_the_age_of_infinity' -O - |\
       perl -lne '/<b><a href="[^" ]+title=R11:(TIP[A-Z0-9_]+\.txt)/ and print $1'`
