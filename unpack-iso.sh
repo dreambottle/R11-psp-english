@@ -6,4 +6,3 @@ ISO_FILE=iso/Remember11-jap.iso
 echo "Extracting ISO."
 7z x $ISO_FILE -oiso_extracted/
 
-cp iso_extracted/PSP_GAME/SYSDIR/BOOT.BIN BOOT.BIN

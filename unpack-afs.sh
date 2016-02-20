@@ -1,33 +1,47 @@
 #!/bin/bash
 # extract all the japanese gametext.
-# this script only has to be run once, it isn't part of the patcher.
+# 
 GIMCONV="./tools/GimConv/GimConv.exe"
-UNBIP="./decompressbip"
-AFSDIR="iso_extracted/PSP_GAME/USRDIR"
+DECOMPRESS="./decompressbip"
+
+RES_DIR="iso_extracted/PSP_GAME/USRDIR"
+WORK_DIR="./workdir"
+
 
 unpack_afs () {
-	./repack_afs $AFSDIR/$PKG.afs /dev/null /dev/null $PKG/ || exit 1
+	./repack_afs $WORK_DIR/$PKG.afs /dev/null /dev/null $PKG/ || exit 1
 }
 
+mkdir -p $WORK_DIR
+mv iso_extracted/PSP_GAME/SYSDIR/BOOT.BIN $WORK_DIR/BOOT.BIN
+#mv iso_extracted/PSP_GAME/SYSDIR/EBOOT.BIN $WORK_DIR/EBOOT.BIN
+
+cp $RES_DIR/mac.afs $WORK_DIR/mac.afs
+cp $RES_DIR/etc.afs $WORK_DIR/etc.afs
+cp $RES_DIR/init.bin $WORK_DIR/init.bin
+
 PKG=mac
+rm -rf $PKG/
 unpack_afs
-for i in $PKG/*.BIP ; do
-	f=`basename $i .BIP`
-	$UNBIP $PKG/$f{.BIP,.SCN} || exit 1
+
+for i in text/mac-en-pc/[A-Z0-9]*_[0-9]*.txt ; do
+	f=`basename $i .txt`
+	$DECOMPRESS $PKG/$f{.BIP,.SCN} || exit 1
 done
+$DECOMPRESS $PKG/SHORTCUT{.BIP,.SCN} || exit 1
 
 PKG=etc
+rm -rf $PKG/
 unpack_afs
-for i in $PKG/*.T2P ; do
-	f=`basename $i .T2P`
-	$UNBIP $PKG/$f{.T2P,.GIM} || exit 1
-	$GIMCONV $PKG/$f.GIM -o $f.png -r11
-done
+#for i in $PKG/*.T2P ; do
+#	f=`basename $i .T2P`
+#	$DECOMPRESS $PKG/$f{.T2P,.GIM} || exit 1
+#	$GIMCONV $PKG/$f.GIM -o $f.png -r11
+#done
 for i in $PKG/*.FOP ; do
 	f=`basename $i .FOP`
-	$UNBIP $PKG/$f{.FOP,.FNT} || exit 1
-	#$GIMCONV $PKG/$f.FNT -o $f.png -r11
+	$DECOMPRESS $PKG/$f{.FOP,.FNT} || exit 1
+	#TODO convert font to editable format
 done
-# todo omit maskXXX.T2P files - those are of TIM2 format and not required
-rm -f $PKG/mask*.GIM
 
+$DECOMPRESS $WORK_DIR/init.bin $WORK_DIR/init.dec
