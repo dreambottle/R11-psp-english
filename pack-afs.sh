@@ -30,7 +30,7 @@ cp -f $WORKDIR/init.recompressed.bin $ISO_RES_DIR/init.bin
 
 #BOOT.BIN
 #TODO leave backup copy somewhere
-tools/armipsd src/boot-patches.asm
+./tools/armips src/boot-patches.asm
 #rm -f $ISO_BIN_DIR/BOOT.BIN
 rm -f $ISO_BIN_DIR/EBOOT.BIN
 cp -f $WORKDIR/BOOT.bin.patched $ISO_BIN_DIR/EBOOT.BIN
