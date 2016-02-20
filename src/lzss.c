@@ -14,7 +14,6 @@ PC-VAN      SCIENCE
 NIFTY-Serve PAF01022
 CompuServe  74050,1022
 **************************************************************/
-
 #define N         4096  /* size of ring buffer - must be power of 2 */
 #define F         18    /* upper limit for match_length */
 #define THRESHOLD 2     /* encode string into position and length
@@ -50,9 +49,8 @@ decompress_lzss(uint8_t *dst, uint8_t *src, uint32_t srclen)
 
 	dst = dststart;
 	srcend = src + srclen;
-	for (i = 0; i < N - F; i++)
-		text_buf[i] = ' ';
 	r = N - F;
+	memset(text_buf, 0, r);
 	flags = 0;
 	for (; ; ) {
 		if (((flags >>= 1) & 0x100) == 0) {
