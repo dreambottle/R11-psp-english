@@ -9,6 +9,7 @@ WORK_DIR="./workdir"
 
 
 unpack_afs () {
+	echo Unpacking $PKG.afs
 	./repack_afs $WORK_DIR/$PKG.afs /dev/null /dev/null $PKG/ || exit 1
 }
 
@@ -23,7 +24,6 @@ cp $RES_DIR/init.bin $WORK_DIR/init.bin
 PKG=mac
 rm -rf $PKG/
 unpack_afs
-
 for i in text/mac-en-pc/[A-Z0-9]*_[0-9]*.txt ; do
 	f=`basename $i .txt`
 	$DECOMPRESS $PKG/$f{.BIP,.SCN} || exit 1

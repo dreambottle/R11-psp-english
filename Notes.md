@@ -6,11 +6,11 @@ Special Sequences
 ============
 
 %N - New line
+%K - wait for keypress
+%P - pagebreak
 %LC - Align to center
 %LR - Align to right
-%K, %P - Unknown; some kind of control sequences
-
-%K%P, %N%P are often used in the end of strings
+%TS[3 digits][text]%TE - links text to TIPS
 
 
 BOOT.BIN
