@@ -1,0 +1,910 @@
+
+地下室はひんやりとしていた。%K%P
+The basement felt pleasantly cool.
+
+薄暗い中を、懐中電灯を使って細かく調べていく。%K%P
+I used a pocket flashlight to examine the inside of the dimly-lit room in detail.
+
+配電盤は、天井付近にあった。下からではよく見えない。%K%P
+The switchboard was near the ceiling. I couldn't see it very well from below.
+//note: Is there a better word for this than switchboard? It seems like what she's describing is like the box in your house where the switches for the circuit breakers and others stuff are. I can't think of what to call it though >_<
+
+こころ「脚立とか無いのかな？」%K%P
+Isn't there a footstool or anything?
+
+ゆに「そこの段ボールに足をかければ、手が届くよ」%K%P
+If you step up on that cardboard box, you'll be able to reach it.
+
+う～ん、段ボールでは心許ないような気もするけど……%K%p
+Hm～mm, a cardboard box feels so unreliable, though...
+
+脚立を探す
+Look for a footstool
+
+段ボールに昇る
+Climb up on the cardboard box
+
+私は踏み台になりそうなものを探した。%K%P
+I searched for something that looked like it could be used as a footstool.
+
+ちょうど良さそうな高さの木製の箱を見つけたので、それを脚立の代わりにする。%K%P
+I just so happened to find a wooden box of appropriate height, so I used it in place of a footstool.
+
+配電盤を覗き込んだ。%K%P
+I peered into the switchboard.
+
+特に怪しい痕跡はなかった。%K%P
+There was nothing particularly suspicious there.
+ 
+スイッチにはホコリがついていたのだが、ゆにの細い指の跡が一つ付いているだけ。%K%P
+The switches were covered in dust, but there was only one with an imprint left by Yuni's thin finger.
+
+他の人間が触ったような痕跡はない。%K%P
+There were no signs that it had been touched by other people.
+
+やはり、地震によってブレーカーが落ちたのだろうか？%K%P
+Was the breaker tripped by the earthquake after all?
+
+私は首をひねりながら、木箱の上から飛び降りた。%K%P
+While tilting my head, I jumped down from the wooden box.
+
+着地する瞬間、バランスを崩す。%K%P
+At the moment I landed, I lost my balance.
+
+こころ「とあっ！？」%K%P
+Uwah?!
+
+私は、無様にもお尻から着地してしまった。痛くて涙が出た。%K%P
+I made a decidedly unsightly landing, falling on my bottom. Tears of pain sprang to my eyes.
+
+こころ「いたたた……」%K%P
+Owww...
+
+私は、段ボールに足をかけて、配電盤を覗き込んだ。%K%P
+I put my foot on the cardboard box and peered into the switchboard.
+
+特に怪しい痕跡はなかった。%K%P
+There was nothing particularly suspicious there.
+
+スイッチにはホコリがついていたのだが、ゆにの細い指の跡が一つ付いているだけ。%K%P
+The switches were covered in dust, but there was only one with an imprint left by Yuni's thin finger.
+
+他の人間が触ったような痕跡はない。%K%P
+There were no signs that it had been touched by other people.
+
+やはり、地震によってブレーカーが落ちたのだろうか？%K%P
+Was the breaker tripped by the earthquake after all?
+
+私は、段ボールから降りようとした時――%K%P
+The moment I tried to get down from the cardboard box――
+
+すぼっ。%K%P
+Thunk.
+
+段ボールに足がめり込んだ。%K%P
+My foot sank into the box.
+
+こころ「わっわっ！　うわっ！」%K%P
+Wawah! Uwaah!
+
+バランスを崩してしまった私は……%K%P
+I, who had lost my balance...
+
+こころ「きゃあああ！」%K%P
+Kyaaaa!
+
+床にたたきつけられた。%K%P
+was thrown to the floor.
+
+キズを負っていた左腕を強打してしまう。%K%P
+My injured left arm was hit hard.
+
+こころ「いやぉッ！」%K%P
+Gya!
+
+あまりの痛みに目から星が出た。%K%P
+The pain made me see stars.
+
+ヘンな叫びを上げてしまう。%K%P
+A weird scream issued from my mouth.
+
+追い打ちを掛けるように、段ボールが崩れ、倒れ込んでくる。%K%P
+As if to strike the final blow, the cardboard boxes began to collapse and crash down on me.
+
+こころ「うにゃにゃにゃっ！？」%K%P
+Unyayaya?!
+
+あわれ、下敷きになってしまう私。%K%P
+When it was over, I was pinned underneath them.
+
+ゆに「だ、大丈夫～？」%K%P
+A, are you okay?
+
+こころ「大丈夫じゃない……痛たた」%K%P
+No, I'm not... Oww.
+
+ゆにに助け出された私は、あまりの痛みにしばらく口をきくこともできなかった。%K%P
+As Yuni helped me up, the pain rendered me briefly unable to speak.
+
+ゆに「もうっ、ドジだなあ」%K%P
+Geez, you're so clumsy.
+
+ゆに「こころんって、ホントにハタチ？　実は子どもなんじゃないの？」%K%P
+Are you really twenty, Kokoron? Are you sure you're not really a child?
+
+苦笑混じりのゆにのセリフに、私はデジャブにも似た感覚を覚えた。%K%P
+Responding to Yuni's line with a wry smile, I feel a sensation similar to deja vu.
+
+避難小屋の地下倉庫で、同じようなセリフを聞いたのだ。%K%P
+I had heard a similar line in the basement of the shelter cabin.
+
+こころ「ねえ、ゆに？」%K%P
+Hey, Yuni?
+
+ゆに「なに？」%K%P
+What?
+
+私は、敢えて同じ質問をしてみた。%K%P
+I challenged him with the same question.
+
+こころ「あなた、双子じゃないわよね？」%K%P
+You're not a twin, right?
+
+こころ「あなた、クローンじゃないわよね？」%K%P
+You're not a clone, right?
+
+こちらのゆには、なんと答えるだろう。%K%P
+I wonder what the Yuni here will answer.
+
+ゆに「違うよ。双子じゃないってば」%K%P
+No. I told you, I'm not a twin.
+
+ゆに「違うよ。クローンじゃないってば」%K%P
+No. I told you, I'm not a clone.
+
+ゆに「さっきも同じこと訊いたよね？」%K%P
+You just asked me that before, right?
+
+ドキッとした。%K%P
+My heart jumped.
+
+思わず、まじまじとゆにの顔を見つめてしまう。%K%P
+I unintentionally began staring hardly at Yuni's face.
+
+こころ「さっき？　さっきっていつ？」%K%P
+Before? Before as in when?
+
+ゆに「さっきはさっきだよ」%K%P
+Before as in before.
+
+それがいつのことなのか問いただしても、さっきとしか答えてくれなかった。%K%P
+When I asked him when he meant, he only replied with "before."
+
+何度も同じことを聞くなといった風情だ。%K%P
+It seems that that was all he was going to reply with, no matter how many times I asked.
+
+仕方なく、私は質問を変えた。%K%P
+Left with no other choice, I changed the question.
+
+こころ「あなたは、私のこと、ちゃんと知ってるのよね？」%K%P
+You really do know who I am, right?
+
+ゆに「えっ？」%K%P
+Eh?
+
+こころ「冬川こころのこと、覚えてるでしょう？」%K%P
+You remember Fuyukawa Kokoro, right?
+
+とたんに、ゆにの表情が曇る。%K%P
+Yuni's face instantly clouded over.
+
+ゆに「う、うん……」%K%P
+Y, yeah...
+
+声のトーンも、さっきまでの元気がなくなってしまう。%K%P
+The tone of his voice was devoid of the energy he'd had just before.
+
+ゆに「ぼく、飛行機に乗ってて……」%K%P
+I... got on the airplane...
+
+ゆに「そしたら墜落しちゃって……」%K%P
+And then it crashed...
+
+ゆに「こころんが、ぼくのこと守ってくれて……」%K%P
+Kokoron was... protecting me...
+
+ゆに「でも、いつの間にか、ここに……」%K%P
+But, before I realized, I was here...
+
+ゆに「気がついたら、こんなところに来てて……」%K%P
+When I came to, I was in this place...
+
+ゆに「こころんはいなくて……すごく寂しくて……」%K%P
+Kokoron wasn't here... and I was really lonely...
+
+やっぱり。%K%P
+Just as I thought.
+
+私は確信した。%K%P
+I was convinced. 
+
+ゆに「ねえ。ほんとに今の悟は、こころんなの？」%K%P
+Hey. Is Satoru really Kokoron right now?
+
+ゆには、いまにも泣き出しそうだった。%K%P
+Even then, Yuni appeared as if he was about to cry.
+
+メガネの奥の瞳が、潤んでいる。%K%P
+Behind his glasses, his eyes began to grow wet.
+
+かわいそうなゆに。%K%P
+Poor Yuni.
+
+こんな小さな子には、あまりに酷な状況だ。%K%P
+A child this small, thrown into such an unfair situation.
+
+私は抱きしめてあげようとした。%K%P
+I felt like taking him in my arms.
+
+でも、こらえた。%K%P
+However, I endured it.
+
+抱きしめたら、私まで泣いてしまいそうだったから。%K%P
+Because if I hugged him, then I might have started to cry too.
+
+こころ「ほら、男の子なんだから、めそめそしないの」%K%P
+Come on, don't start whimpering. You're a boy, after all.
+ 
+わざと明るく言ってあげる。%K%P
+I intentionally tried to use a bright tone.
+
+ゆには複雑そうな表情をした。%K%P
+Yuni's expression grew complex.
+
+優希堂悟の中に『冬川こころ』が入っている――その違和感を、そう簡単には払拭できないのだろう。%K%P
+"Fuyukawa Kokoro" had entered Yukidoh Satoru――it was probably too difficult to erase that sense of incompatibility.
+
+ゆに「な、泣いてないもんっ」%K%P
+I, I wasn't crying.
+
+涙を隠すように急に踵を返し、ゆにはそのまま階段を駆け上っていった。%K%P
+As if trying to hide his tears, Yuni suddenly turned on his heel and ran up the stairs.
+
+静かになった地下倉庫で、私は唇を噛む。%K%P
+Alone inside the now-quiet basement, I bit my lip.
+
+やっぱりゆには、テレポートをしている。%K%P
+As I thought, Yuni was teleporting.
+
+そのタイミングまではわからないけれど、たぶん、私達が入れ替わるのと同じサイクルである可能性が高い。%K%P
+I didn't know if the timing was the same, but there was a high possibility that it was the same cycle as when we changed places.
+
+つまり私は、一方のゆにとだけしかコンタクトが取れないということになる。%K%P
+In other words, I never broke contact with this one Yuni.
+
+もう一方のゆには、悟とだけコンタクトが取れるか、もしくは最初から存在していないか。%K%P
+And another Yuni never broke contact with Satoru, or maybe there had never been another Yuni in the first place.
+
+う～ん、頭がこんがらがってくる。%K%P
+M～mm, this is getting so confusing.
+
+このことは、悟に確かめておいたほうがよさそうだった。%K%P
+It would be better to try to confirm this with Satoru.
+
+彼なら、なんらかの解答を導いてくれるかもしれない。%K%P
+Since it's him, he may have been able to reach some sort of answer.
+
+こころ「悟、かぁ……」%K%P
+Satoru, huh...
+
+この状況において、やはりなんと言っても最大の信頼をおけるのは、悟だけ。%K%P
+In this situation, no matter what anyone says, the only one I can put my absolute trust in is Satoru.
+
+目に見えない、会うこともできない悟だけ。%K%P
+Only Satoru, whom I'm unable to see or meet.
+
+ねえ……。%K%P
+Hey....
+
+あなたは、どんな人なの？%K%P
+What kind of person are you?
+
+私は包帯の巻かれた左腕に触れる。%K%P
+I touched the bandage wrapped around my left arm.
+
+悟の自傷行為でないということは、私には確信できた。%K%P
+I was certain that Satoru's wound wasn't self-inflicted.
+
+理由はない。%K%P
+There was no reason.
+
+それは私の直感だった。%K%P
+It was based on my intuition.
+
+あの暗闇の中で感じた恐怖を思い出し、ぶるりと身体を震わす。%K%P
+My body shivered on remembering the fear I had felt in the darkness.
+
+違う。%K%P
+No, that was wrong.
+
+絶対に、自傷行為なんかじゃない。%K%P
+There was no way it was a self-inflicted wound.
+
+こころ「ごめんなさい」%K%P
+I'm sorry.
+
+こころ「ちょっと、傷つけちゃったね」%K%P
+It looks like I hurt you a bit.
+
+こころ「守ってあげられなかったね」%K%P
+I couldn't protect you.
+
+私は温もりを確かめるように、そっと左腕をさすった。%K%P
+As if confirming the presence of its warmth, I silently rubbed my left arm.
+
+悟が使っている個室に戻る。%K%P
+I returned to Satoru's private room.
+
+入り口付近に、乾いた血痕が残っている。%K%P
+A dry bloodstain remained near the entrance.
+
+苦々しい思いを感じながら、ベッドに腰を降ろした。%K%P
+With that unpleasant feeling, I sat down on the bed.
+
+机の上にメモが置いてあるのを見つけた。%K%P
+I found a note left on top of the desk.
+
+悟からのメッセージだ。%K%P
+It was a message from Satoru.
+
+私は慌ててメモを手に取った。%K%P
+Panicking, I pick up the note.
+
+%N%N%N%N
+%LCおい、頼むよ、こころ！%K%P
+Hey, come on, Kokoro!
+
+いきなり怒られた。%K%P
+He was mad all of a sudden.
+
+こころ「なによぉ」%K%P
+Whaat?!
+
+ちょっとムッとした。%K%P
+I got a little angry.
+
+殴り書きの文章はさらに続く。%K%P
+The scrawled sentences continued.
+
+『午後１時７分転移』……。%K%N
+"Transfer at 1:07 PM"....
+
+これだけか？　たったこれだけなのか？　おまえの言いたいことは……。%K%N
+That's it? That's all there is? Is this all you wanted to say...?
+
+確かに、返信としては素晴らしく要領を得ている。%K%N
+Certainly, as a reply, what you wrote was wonderfully concise.
+
+オレが頼んだことには、ひとまずちゃんと答えてくれてるからな。%K%N
+You replied perfectly with what I asked, after all.
+
+イラストを添えた意味も、なんとなくわかったし……。%K%P
+I somehow understood what the illustration you attached meant too....
+
+でもな？%K%N
+But, you know?
+
+たった１行だけの文章ってーのは、あまりも素っ気なさ過ぎるんじゃないか？%K%N
+Isn't writing only one sentence a little bit cold?
+
+もうちょっと、なんと言うか、具体的なことを書いて欲しいんだ。%K%N
+Can't you, I don't know, write something with a little more depth?
+
+お互い直接対面することはできないが、幸いなことに、こうして情報交換することはできるわけだし……。%K%N
+We can't meet in person, but at least we're lucky enough to be able to exchange information... right?
+
+これを活用しない手はないだろう？　そう思わないか？%K%N
+Wouldn't anyone try to make use of this? You agree, right?
+
+オレ達は、いわばパートナーみたいなもんなんだぞ？%K%P
+We're kind of like partners, you know?
+
+こころ「くすくす」%K%P
+Heehee.
+
+思わず吹き出してしまった。%K%P
+I unintentionally burst into laughter.
+ 
+うん。怒りたい気持ち、わかる。%K%P
+Yep. I understood why he'd gotten angry.
+
+すまん、客が来たみたいだ。%K%N
+Sorry, seems like a guest has arrived.
+
+続きは後で書くよ。%K%N
+I'll continue writing later.
+
+あ、そうそう、書き忘れないうちにひとつだけ。%K%N
+Ah, right, before I forget to write it.
+
+避難小屋のボイスレコーダー、もう聞いてくれたか？%K%N
+Did you already listen to the voice recorder in the shelter cabin?
+
+念の為、ここにも書いておくことにする。%K%P
+I'm mentioning it again here just in case.
+
+オレは、誰かに狙われてるらしい……。%K%N
+It looks like someone's after me....
+
+気をつけてくれ。%K%N
+Be careful.
+
+オレも、避難小屋にいるときには、おまえの身体のことを最優先で考えるから。%K%N
+While I'm in the shelter cabin, I consider your body my top priority too.
+
+それじゃあ、頼んだぞ、こころ。%K%P
+Well then, I'm counting on you, Kokoro.
+
+メッセージの『すまん、客が来たみたいだ』の部分が気になった。%K%P
+The part that says "Sorry, seems like a guest has arrived" bothers me.
+ 
+客……。%K%P
+Guest....
+
+その客が、悟を襲った犯人だろうか。%K%P
+Was that guest the culprit that was after Satoru?
+
+こころ「う～ん…………」%K%P
+Hm～mm......
+
+考えてもしょうがない。%K%P
+It was no use just thinking about it.
+
+私は机の前に腰を降ろし、本気の返信に取り組むことにした。%K%P
+I sat down in front of the desk, and attempted a serious reply.
+
+ペンを取り、新しいメモを広げる。%K%P
+I picked up a pen and started a new note.
+
+まっさらなメモ用紙。%K%P
+I used a fresh sheet of paper.
+
+こころ「なんて書き出しがいいのかな……？」%K%P
+Where to start...?
+
+またこの問題にぶつかってしまった。%K%P
+I had run into this problem again.
+
+そもそも手紙なんて書くのは苦手なのよね。%K%P
+I wasn't very good at writing letters in the first place.
+
+書き出し……書き出し……ねえ……？%K%P
+Write... write... right...?
+
+前略？%K%N
+Salutations?
+
+草々？%K%N
+Please forgive the lateness of my reply?
+
+本日はお日柄もよく？%K%P
+I hope this letter finds you well?
+//note: this and the above two are formal expressions used in letter-writing. I tried to replace them with English equivalents.
+
+こころ「堅苦しいかなあ」%K%P
+That's kind of formal.
+
+かと言って、『Ｄｅａｒ悟』なんて恥ずかしくてやってられない。%K%P
+But with that said, something like "Dear Satoru" was way too embarrassing.
+
+こころ「あはは、なに迷ってるんだかなあ、私ったら」%K%P
+Ahaha, what am I hesitating for?
+
+なんだか妙に照れくさい。%K%P
+It was somehow strangely awkward.
+
+小学校の頃、初めてラブレターを書いたときのことを思い出す。%K%P
+I recalled when I was in elementary school, writing my first love letter.
+
+当時、私の両親は携帯を買ってくれなかった。%K%P
+In those days, my parents wouldn't buy me a cell phone.
+
+だから、メールなんて無縁の女の子だったのだ。%K%P
+Therefore, I was a girl unfamiliar with e-mail.
+
+好きな男の子に気持ちを伝えるため、便箋にアナログの文字をしたためたんだっけ。%K%P
+In order to convey my feelings to the boy I liked, I wrote a letter analog, on stationery.
+
+ドキドキしながら、一文字一文字、気合いを入れて書いていたあの頃の気持ち。%K%P
+With my heart pounding, into every letter of every line, I poured my entire spirit into what I wrote.
+
+懐かしくもあり、気恥ずかしくもある。%K%P
+Remembering it made me feel nostalgic, but embarrassed at the same time.
+
+ちなみに、その恋が成就したかどうかは……そっと胸の内にしまっておこう。%K%P
+By the way, as to whether my love was requited or not... I'll silently lock that up in my heart.
+
+こころ「さてと……」%K%P
+Now then...
+
+昔の思い出に浸っている場合じゃない。%K%P
+Now was not the time to get lost reminiscing.
+
+私はペンを持った左手に力を込めた。%K%P
+I held my pen and put strength into my left hand.
+
+こころ「痛っ！」%K%P
+Ouch!
+
+そう言えば、左腕は怪我をしてるんだった。%K%P
+Come to think of it, my left arm was hurt.
+
+左利きなのに……。%K%P
+Even though I'm left-handed....
+
+これじゃ、文字なんて書けない。%K%P
+I wouldn't be able to write anything like that.
+
+仕方がないので、ペンを右手に持ち替えた。%K%P
+With no other option, I held the pen in my right hand.
+
+書き出しについては、素直に、なおかつシンプルに行くことにした。%K%P
+For the opening sentence, I decided to go with something simple and straightforward.
+
+%N%N%N%N
+%LCハヅメマツテユーキドサソ%K%P
+NICE TO MEET YOU YUKIDOH-SAN
+
+ミミズののたくったような字になってしまった。%K%P
+The characters looked like wiggling earthworms.
+
+こころ「うわぁ、読めたものじゃないわ」%K%P
+Uwa, it's completely unreadable.
+
+メモ用紙をクシャクシャと丸め、ぽーんと後ろに投げ捨てた。%K%P
+I crunched up the memo paper into a ball and threw it behind me.
+
+かと言って、利き腕では書けない。%K%P
+But even so, my dominant arm was useless right now.
+
+私はため息をついた。%K%P
+I let out a sigh.
+
+もう一度チャレンジしてみる。%K%P
+I took another stab at it.
+
+%N%N%N%N
+%LC初＆＃して※♪＃うさ♀%K%P
+Ni＆＃me※♪＃ou♀
+//???
+//I think it's trying to show how bad the writing is
+
+こころ「ああん、うまく書けないよぅ～」%K%P
+Aaggh, I can't wriiite～
+
+泣きたくなった。%K%P
+I felt like crying.
+
+こころ「こうなったら勢いよ、うん。勢いさえあれば、ニュアンスは伝わるはず」%K%P
+In this situation, I'll use my spirit, yep. If I write with spirit, I should be able to get all the nuances across!
+
+無理矢理自分に言い聞かせて、悪戦苦闘しつつ書き始めた。%K%P
+I forced myself to go on, struggling against myself to continue writing.
+
+はじめましてユーキドーさん。%K%N
+Nice to meet you, Yukidoh-san.
+
+えーと、なにから書けばいいのかな……。%K%N
+Umm, I wonder what I should write....
+
+書きたいことがあまりにもたくさんありすぎて、うまくまとめられそうもありません。%K%N
+There are so many things I wanted to write, I can't seem to bring it all together very well.
+
+見ればわかると思うけど、文字も、こんな感じだし……。%K%N
+You could probably tell just by looking, but my handwriting is like this, too....
+
+読みにくいかも知れませんが、許してください。%K%P
+This might be difficult to read, so please forgive me.
+
+まず、大事なことを伝えておくことにします。%K%N
+First off, I'll report all the important things to you.
+
+このメモ用紙にあったメッセージは、全部読みました。%K%N
+I've read all the messages that you left me on this notepad.
+
+避難小屋のボイスレコーダーの方は、まだ途中までしか聞いてません。%K%N
+I was only able to listen to half of your message on the voice recorder left at the shelter cabin.
+
+でも『何者かに命を狙われてるらしい』って、そこまでは、ちゃんと聞きました。%K%P
+But I was at least able to listen up to "It seems someone's after me."
+
+それで、左腕のことなんですけど……。%K%N
+And, about your left arm....
+
+私の、あなたの、左腕を斬りつけたのは……。%K%N
+The one who cut my, your, left arm....
+
+その『何者か』が……やったことで……。%K%N
+That "someone"... was the one who did it....
+
+その人は、私の、あなたの、命を奪おうとして……。%K%N
+That person tried to take away my, your, life....
+
+つまり、そういうことなんですよね……？%K%N
+In other words, that's how it is, right...?
+
+でも、その『何者か』って、いったい誰なんですか？%K%N
+But just who is that "someone"?
+
+もう少し詳しく教えてください。%K%N
+Please explain in a little more detail.
+
+悟の身に、なにが起きたのか……。%K%N
+What's happening with Satoru's body....
+
+どうして狙われてるなんて思うようになったのか……。%K%P
+Why it is that you believe someone is after you....
+
+それとも、避難小屋のボイスレコーダーの方に、このことは入ってるのかな？%K%N
+Or then, did you say that on the shelter cabin's voice recorder too?
+
+まだ途中までしか聞いてないのでわかりません。%K%N
+I was only able to hear part of it, so I don't know.
+
+もしもあっちに吹き込んでいないようなら、回答お願いします。%K%N
+If by chance you didn't record it there, please reply here.
+
+あ……でも……その犯人のことなんだけど……。%K%N
+Ah... but... about the culprit....
+
+実は……心当たりが……ないわけでもなくて……。%K%P
+The truth is... it's not as if... I don't have any ideas....
+
+ここで、私は続きを書くのをためらった。%K%P
+Here, I hesitated to continue writing.
+
+書いていいことなのかどうか、自信が持てなかった。%K%P
+I wasn't confident enough to think that it was okay to write this.
+
+でも、とにかく私と悟との間でしっかりと情報を共有しなければ、解ける謎も解けなくなってしまうだろう。%K%P
+But, in the meantime, if Satoru and I didn't properly share all our information between us, mysteries we would have been able to solve together would go unsolved.
+
+結局、迷った末に書くことにした。%K%P
+In the end, I stopped hesitating and continued to write.
+
+ためらっててもしょうがないから、一応書いておきます。%K%N
+There's no reason to beat around the bush, so I'll just go ahead and write it.
+
+涼蔭穂鳥――。穂鳥ちゃん……。%K%N
+Suzukage Hotori――Hotori-chan....
+
+彼女がＤＩＤなのは知ってますよね？%K%N
+You're aware that she has DID, right?
+
+今のところは、ずっと『穂鳥』のままで人格が固定してるけど……。%K%N
+Recently, she's been fixed in her "Hotori" personality, though....
+
+でも、いつ隠された人格が目覚めたとしても、おかしくはないと思います。%K%N
+However, I don't think it'd be unusual for her hidden personality to awaken at any time.
+
+隠された人格っていうのは、彼女の中にいる別の人格のこと……。%K%P
+And by her hidden personality, I mean the other personality within her....
+
+阿波墨の病院で１２人を殺した人格……。%K%N
+The personality that killed twelve people in Awazumi Hospital....
+
+もしかしたらその人格が……悟のことを……。%K%N
+It may be possible... that that personality is targeting you, Satoru....
+
+っていっても、別に確証があるわけではありません。%K%N
+I say that, but it's not as if I have any decisive evidence.
+
+確証がないのにこんなことを書いてしまうのは、いけないことなのかも知れないけど……。%K%N
+It might not be appropriate to write things like this even though I don't have any real evidence....
+
+それでもやっぱり、警戒するに越したことはないと思うので……。%K%N
+Even so, I don't think it would be going overboard to just give a warning....
+
+念の為、気をつけてください。%K%P
+Be careful, just in case. 
+
+次は、ゆにのこと――。%K%N
+Next, about Yuni――
+
+とても複雑で……うまく言えないんだけど……。%K%N
+It's extremely complicated, so... I can't say it very well....
+
+うーんと……うーんと……どうしよっかなぁ……。%K%N
+Mmm... hmmmm... What should I do....
+
+えーっと……そうだなぁ……。%K%N
+Umm... that's right....
+
+うん、まずはこのことを、訊いておくことにしよう。%K%P
+Okay, first, there's something I need to ask you.
+
+悟は『楠田ゆに』という名前の少年に会ったことがありますか？%K%N
+Have you ever met a young boy by the name of "Kusuda Yuni"?
+
+っていうのはね？　私は今、こんなことを考えてるからなの。%K%N
+You know? Right now, I'm thinking this:
+
+『ゆには、もしかしたらテレポートしてるのかも知れない』%K%N
+That "maybe Yuni is teleporting."
+
+テレポートっていうのは、意識と肉体が一緒になって転移してるって意味。%K%N
+Teleporting, as in both his body and consciousness are transferring together.
+
+で、そのテレポートのタイミングは、私と悟が転移する時とピッタリ同じなの。%K%P
+And, the timing of his teleportation is at the exact same as when Satoru and I transfer.
+
+言ってること、わかる……？%K%N
+Do you get what I'm trying to say...?
+
+つまり、私が朱倉岳に帰ると同時に、ゆにも、意識と肉体が混ざった状態で朱倉岳に飛んでくるってこと。%K%N
+In other words, at the same time that I transfer back to Mount Akakura, Yuni's mind and body jump back to Mount Akakura as well.
+
+だってそうじゃなければ、ゆにが同時に２人も存在することを説明できないんだもん。%K%N
+Because, if that isn't so, I can't explain how Yuni could exist as two people at the same time.
+
+だから私の予想では、悟はゆにに１度も会ったことがないんじゃないかって……そんな気がしてるんです。%K%P
+That's why, by my prediction, "Satoru shouldn't have met Yuni even once"... that's what I thought.
+
+実際のところはどっちなんですか？%K%N
+Which is it really?
+
+悟はゆにに、会ったことがあるのか、ないのか……。%K%N
+Have you met Yuni, or haven't you....
+
+教えてください。%K%P
+Please tell me.
+
+えーっと……えーっと……それからそれから……。%K%N
+Um... um... And, and....
+
+教えてほしいことは、あと２つあります。%K%N
+I have two more things I want you to tell me.
+
+ひとつめは、スフィアのこと――。%K%N
+The first is about SPHIA――
+
+悟は私なんかよりもずっとこの施設に詳しいはずでしょう？%K%N
+Satoru should know much more than I do about this facility, right?
+
+だからスフィアのこと、詳しく教えてください。%K%N
+That's why I want you to tell me everything about SPHIA.
+
+外に出る方法とか、外部との通信手段とか……。%K%N
+Like how to get outside, and how to communicate with the outside world....
+
+ふたつめは、避難小屋のこと――。%K%N
+The second is about the shelter cabin――
+
+私が留守にしてるあいだの小屋の状況……。%K%N
+In the time that I'm away from the cabin....
+
+なにか重要なことがあったら教えてください。%K%P
+Please tell me if anything important happens.
+
+あ……ごめんなさい。%K%N
+Ah... I'm sorry.
+
+なんか『教えてください教えてください』って、そんなことばっかり書いちゃってますね？%K%N
+It feels like all I'm writing is "please tell me please tell me" and things like that, huh?
+
+申し訳ないので、こちらからも報告を……。%K%N
+As an apology, here's the report....
+
+まずは地震のこと――。%K%N
+First, about the earthquake――
+
+スフィアで地震が起きました。%K%N
+An earthquake occurred at SPHIA.
+
+そのせいでブレーカーが落ちて、停電になっちゃって……。%K%N
+Because of that, the breaker was tripped, and a blackout occurred....
+
+今はもう直ったけどね。%K%P
+It's fixed now, though.
+
+それから転移の時間――。%K%N
+And the times of transfer――
+
+言われたとおり、ちゃんと調べておいたので、下にまとめておきます。%K%N
+I checked properly, just like you told me, so here they are below:
+
+『午後０１時０７分：スフィアに転移、%N午後０１時４０分：避難小屋に戻る』%K%N
+1:07 PM: Transferred to SPHIA, 1:40 PM: Returned to the shelter cabin
+
+『午後０６時０３分：スフィアに転移、%N午後０６時３６分：避難小屋に戻る』%K%N
+6:03 PM: Transferred to SPHIA, 6:36 PM: Returned to the shelter cabin
+
+『午後０７時３３分：スフィアに転移』%K%N
+7:33 PM: Transferred to SPHIA
+
+というわけで、１、２、３、４、５……。%K%N
+So that means, 1, 2, 3, 4, 5....
+
+５回目（２往復半）の転移を経て、現在に至ります。%K%N
+Transfer has occurred five times (2.5 round trips), and at present I'm still here.
+
+なんだかバラバラの時間に思えるけど、法則性なんてあるのかなぁ？%K%P
+It looks like the times are all over the place, but do you think there's a pattern?
+
+さて、最後にひとつだけ……。%K%N
+Well then, one last thing....
+
+私もこっちの世界でできる限りのことをするから……。%K%N
+I'll do as much as I can while I'm in this world, so....
+
+悟も私の身体……よろしく頼みます。%K%N
+Satoru too... please take care of my body.
+
+こっちもこっちで大変だけど、あっちもあっちで深刻な事態になっちゃってるわけで……。%K%N
+Things are pretty bad here, but it's a serious situation there too....
+
+こんなことを言うのは変かも知れないけど……。%K%N
+It might be kind of weird to say this, but....
+
+お願いです。どうか死なないでください。%K%N
+Please. Try not to die.
+
+私も悟の身体は、どんなことがあっても守り抜くから……。%K%N
+No matter what happens, I'll protect your body until the very end....
+
+だから悟も私の身体……守ってください。%K%P
+So, you too, Satoru... Please protect my body.
+
+生きて、絶対に生き延びて……。%K%N
+Live, survive....
+
+ふたりで一緒に、このヘンテコな現象から脱け出して……。%K%N
+The two of us together, we'll escape from this weird phenomenon....
+
+それからそれから……えっと……。%K%N
+And then, and then... um....
+
+そのあとのことは……なにも考えてないけど……。%K%N
+I can't think of anything else....
+
+とにかく私は……。%K%N
+Anyway, I....
+
+私は……あなたに逢える日を……待ってます……。%K%N
+I'm... waiting for the day... I can meet you....
+
+いつか必ず……どこかで……。%K%P
+For sure... Somewhere, we'll....
+
+というわけで、こころんからのメッセージはこれにて終了とさせていただきます。%K%N
+So then, this is where Kokoron will end her message.
+
+乱文雑文御容赦ください。%K%N
+Kindly forgive the roughness of my writing.
+
+では、また……。%K%P
+Later then....
+
+追伸――。%K%N
+P.S.――
+
+私の身体に変なことしたら、絶対許さないんだから！%K%N
+If you do anything weird to my body, I'll never forgive you!
+
+あんまりさわっちゃダメだからね！　むしろ触るな！%K%N
+Don't touch it too much, okay?! Rather, don't touch it at all!
+
+追伸２――。%K%N
+P.P.S.――
+
+そう言えば、大事なことを書き忘れてた！%K%N
+Come to think of it, I forgot to write something important!
+
+――新聞のこと。%K%N
+――About the newspaper.
+
+悟も見たでしょう？%K%N
+You saw it too, right Satoru?
+
+避難小屋に新聞が置い　　　　　　　　　%K%P
+The newspaper that was in the shelter cabin                

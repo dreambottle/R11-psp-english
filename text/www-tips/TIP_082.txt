@@ -9,7 +9,7 @@
 と判断したため、対象からは省いた。
 </pre>
 <pre>
-The portion analyzed is the record beginning at &quot;the moment of my fall from the clock tower on the 11th: past 4:00 PM&quot;
-and ending at &quot;the moment of the final transfer on the 15th: 10:53 PM.&quot;%N
-The exact aggregate duration turns out to be &quot;a little less than 103 hours.&quot;%N
+The portion analyzed is the record beginning at "the moment of my fall from the clock tower on the 11th: past 4:00 PM"
+and ending at "the moment of the final transfer on the 15th: 10:53 PM."%N
+The exact aggregate duration turns out to be "a little less than 103 hours."%N
 Even if examined further, any other data has been deemed insignificant and omitted.

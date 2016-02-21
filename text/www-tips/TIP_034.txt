@@ -8,6 +8,6 @@
 </pre>
 <pre>
 A cellular telephone which works by way of communication satellites.%N
-&quot;Connecting you from anywhere in the world&quot; was the catchphrase.%N
+"Connecting you from anywhere in the world" was the catchphrase.%N
 However, in practice, due to different company systems, types of available satellites and so on, 
 there are cases in which signal availability is limited to certain areas.

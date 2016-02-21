@@ -25,4 +25,4 @@ The layout of these facilities and the course of treatments there
 are undisclosed to respect the privacy of the patients.%P
 All that's known about these facilities are their locations.
 SPHIA, the facility in which Inubushi Keiko is institutionalized, 
-is located on Hokkaido's&#160;%TS004Aosagi Island%TE.
+is located on Hokkaido's %TS004Aosagi Island%TE.

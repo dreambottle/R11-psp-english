@@ -133,13 +133,13 @@ First, for example let's suppose that the transfer occurs at 1:00.%N
 —— 1:00%N
 Kokoro's mind comes to SPHIA.%N
 There, she looks at the incorrect alarm clock.%N
-She mistakes the mistaken time it shows, which is &quot;1:33,&quot;
+She mistakes the mistaken time it shows, which is "1:33,"
 for the actual time of the transfer.%N
 Then, 66 minutes later, after two more transfers have occurred....%P
 —— 2:06%N
 Kokoro's mind returns to the shelter cabin.%N
 There, she looks at her wristwatch.%N
-She sees the correct time of the transfer, which is &quot;2:06.&quot;%N
+She sees the correct time of the transfer, which is "2:06."%N
 Seeing as she had transferred to SPHIA at 1:33
 and returned to the shelter cabin at 2:06, she thinks
 that she spent 33 minutes at SPHIA.%P
@@ -154,16 +154,16 @@ one more hour has passed.%P
 —— 3:06%N
 Kokoro's mind is at SPHIA....%N
 She looks at the alarm clock.%N
-She mistakes the incorrect time it shows, &quot;3:39,&quot;
+She mistakes the incorrect time it shows, "3:39,"
 for the actual time of the transfer.%N
 What's important here is the fact that each and every time,
-&quot;she cannot confirm what the time was directly before the transfer.&quot;%P
+"she cannot confirm what the time was directly before the transfer."%P
 That's why, here, each time she is led to think
 that the time of her stay at the shelter cabin
 is an hour and 33 minutes——regardless of the fact
 that, in reality, no longer than a hour actually passes.%N
 Then this process repeats....%N
-At &quot;4:12,&quot; she'll return to the shelter cabin,
+At "4:12," she'll return to the shelter cabin,
 check the correct time against her wristwatch,
 and assume that she was at SPHIA for 33 minutes.%P
 So then, what happens in my case?%N
@@ -176,13 +176,13 @@ Then, 33 minutes later....%P
 —— 1:33%N
 My mind goes to the shelter cabin....%N
 I check Kokoro's wristwatch and see the correct time.%N
-I can see that the time of the transfer was &quot;1:33.&quot;%N
+I can see that the time of the transfer was "1:33."%N
 33 more minutes pass....%N
 %N
 —— 2:06%N
 My mind returns to SPHIA.%N
 There, I look at my wristwatch.%N
-I see the correct time of the transfer, &quot;2:06.&quot;%P
+I see the correct time of the transfer, "2:06."%P
 Seeing as I have transferred to the shelter cabin at 1:33,
 and returned to SPHIA at 2:06, I think
 that the time I have spent at the shelter cabin is 33 minutes.%N
@@ -202,30 +202,30 @@ Then, 33 minutes later....%P
 —— 3:39%N
 My mind goes to the shelter cabin....%N
 I check Kokoro's wristwatch and see the correct time.%N
-I can see that the time of the transfer was &quot;3:39.&quot;%N
+I can see that the time of the transfer was "3:39."%N
 What's important here is the fact that each and every time,
-&quot;I cannot confirm what the time was directly before the transfer.&quot;%P
+"I cannot confirm what the time was directly before the transfer."%P
 That's why, here, each time I'm led to think
 that the time of my stay at SPHIA
 is an hour and 33 minutes——regardless of the fact
 that, in reality, no longer than a hour actually passes.%N
 Then this process repeats....%N
-At &quot;4:12,&quot; I'll return to SPHIA,
+At "4:12," I'll return to SPHIA,
 check the correct time on my wristwatch,
 and assume that I was at the shelter cabin for 33 minutes.%P
 Thus, the times of the transfers that Kokoro writes
 in the notepad would be as follows.%N
 %N
-&quot;1:33: Transferred from the shelter cabin to SPHIA&quot;%N
-&quot;2:06: Transferred from SPHIA to the shelter cabin&quot;%N
-&quot;3:39: Transferred from the shelter cabin to SPHIA&quot;%N
-&quot;4:12: Transferred from SPHIA to the shelter cabin&quot;%P
+"1:33: Transferred from the shelter cabin to SPHIA"%N
+"2:06: Transferred from SPHIA to the shelter cabin"%N
+"3:39: Transferred from the shelter cabin to SPHIA"%N
+"4:12: Transferred from SPHIA to the shelter cabin"%P
 While the times of my own measurements would be as follows....%N
 %N
-&quot;1:33: Transferred from SPHIA to the shelter cabin&quot;%N
-&quot;2:06: Transferred from the shelter cabin to SPHIA&quot;%N
-&quot;3:39: Transferred from SPHIA to the shelter cabin&quot;%N
-&quot;4:12: Transferred from the shelter cabin to SPHIA&quot;%N
+"1:33: Transferred from SPHIA to the shelter cabin"%N
+"2:06: Transferred from the shelter cabin to SPHIA"%N
+"3:39: Transferred from SPHIA to the shelter cabin"%N
+"4:12: Transferred from the shelter cabin to SPHIA"%N
 %N
 Therefore, since these possess the perfect symmetry of a mirror image,
 both I and Kokoro were led to believe that we were transferring

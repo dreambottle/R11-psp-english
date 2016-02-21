@@ -62,6 +62,6 @@ the Surface: Displeased with the flaws born from Satoru's%N
 Enomoto Naoya mainly appears in the SPHIA side of the story.%N
 He is Satoru's colleague.%N
 Together with Satoru, he created the space-time warping device
-and executed the &quot;project.&quot;%N
+and executed the "project."%N
 He continues to monitor the progress of the plan
 from beneath SPHIA.

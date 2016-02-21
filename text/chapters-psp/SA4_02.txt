@@ -1,0 +1,907 @@
+
+ドアの開く音が聞こえた。%K%P
+I heard the sound of a door opening.
+
+予想通り、内海が姿を現したのだ。%K%P
+Just as I'd expected, Utsumi appeared.
+
+彼女は闇の中を滑るように、キッチンに向かって歩いていった。%K%P
+Almost gliding through the darkness, she headed toward the kitchen.
+
+オレは気配を殺しながら、彼女の後を追った。%K%P
+Doing my best to hide my presence from her, I followed.
+
+内海はシンクの前に屈み込んでいた。%K%P
+Utsumi leaned down in front of the sink.
+
+下の戸棚を開き、なにかを探しているようだ。%K%P
+She appeared to be searching for something in the cupboard below it.
+
+悟「なにやってるんだ？　そんなとこで……」%K%P
+What're you doing here...?
+
+オレはひっそりと声をかけた。%K%P
+I said quietly.
+
+彼女の背中がビクンと震える。%K%P
+Startled, she jumped.
+
+内海「なにって……別に」%K%P
+What? What do you... well, nothing, really.
+
+内海「ちょっと喉が渇いたから、水でも飲もうと思って」%K%P
+I was just a little thirsty, so I thought I'd get a drink of water.
+
+彼女はゆっくりと身を起こした。%K%P
+She slowly stood back up.
+
+シンクの下の戸棚は開け放たれたままになっている。%K%P
+The door of the cupboard was hanging open.
+
+悟「そんなとこには、コップもペットボトルも置いてないはずだが……？」%K%P
+There shouldn't be any cups or bottled water down there, though....
+
+彼女の唇は動かない。%K%P
+Her lips betrayed no movement.
+
+何も言わずにキッチンの隅へと歩いていった。%K%P
+She silently walked over to the opposite corner of the kitchen.
+
+食器棚の中からグラスを取り出す。%K%P
+And took a glass from the cupboard.
+
+内海「あなたこそ、どうしてここに？」%K%P
+So, what are you doing here?
+
+背中を向けたまま、彼女は尋ねてきた。%K%P
+She asked, her back to me.
+
+表情はわからない。%K%P
+I couldn't see her expression.
+
+ただ声だけが、少しだけうわずっているように聞こえた。%K%P
+But there was the very slightest tremor in her voice.
+
+オレは……。%K%p
+I....
+
+『オレも喉が渇いたから』と答える
+Answer "I was thirsty too"
+
+『あなたを見張ってたんだ』と答える
+Answer "I came to watch over you"
+
+悟「オレも、喉が渇いたから……」%K%P
+I was actually thirsty too...
+
+そう答えた。%K%P
+I answered.
+
+内海「そう、偶然ね？　こんな時間に一緒に起きるなんて……」%K%P
+I see. What a coincidence, for both of us to get up so early for the same thing...
+
+振り返った彼女の手には、ふたり分のグラスが握られていた。%K%P
+When she turned around, she held two glasses in her hands.
+
+内海「座ったら？」%K%P
+Won't you have a seat?
+
+うながされ、席につくオレ。%K%P
+As urged, I pulled out a chair.
+
+彼女は続いて冷蔵庫の方へと近づいていき、その扉を開いた。%K%P
+She made her way over to the fridge and opened the door.
+
+中から取り出されたものは、ミネラルウォーターの入ったペットボトルだった。%K%P
+She took out a bottle of mineral water from inside.
+
+そう言えば……。%K%P
+Come to think of it....
+
+オレは思い出した。%K%P
+Something had occurred to me.
+
+冷蔵庫は各個人の部屋にも設置されているのだ。%K%P
+Each of us had a personal fridge in our rooms.
+
+ミネラルウォーターも、その中に保存されている。%K%P
+And they all had mineral water in them, too.
+
+喉が渇いただけなら、わざわざキッチンにまで足を運ぶ必要はない。%K%P
+There was no need for her to drag herself all the way to the kitchen just for a drink of water.
+
+彼女が嘘をついていることは明らかだった。%K%P
+She was obviously lying.
+
+もっとも、戸棚の中を物色している時点で、そんなことはすでにわかり切っていたけれど……。%K%P
+But I'd known that the moment I saw her looking in the cupboard....
+
+内海「飲むでしょう？」%K%P
+You wanted a drink, right?
+
+彼女はテーブルの上にグラスをふたつ置き、それぞれの中に水を注いだ。%K%P
+She put the two glasses down on the table and poured water into each.
+
+内海「どうぞ」%K%P
+Here.
+
+オレの前に差し出されたグラス。%K%P
+She placed one of the glasses in front of me.
+
+『喉が渇いたから』と答えてしまった手前、断るわけにはいかなかった。%K%P
+I'd told her "I was thirsty too," so there was no way for me to refuse.
+
+オレはそれを一気に飲み干した。%K%P
+I drank it all in one gulp.
+
+悟「あなたを、見張ってたんだ……」%K%P
+I came to watch over you...
+
+そう答えた。%K%P
+I answered.
+
+内海「見張ってた……？　なぜ……？」%K%P
+Watch over me...?  Why...?
+
+悟「あなたはこの時間に必ず姿を見せる、そう思ったからだ」%K%P
+Because I thought that you'd definitely show up at this hour.
+
+内海「なにが言いたいのか、よくわからないんだけど……」%K%P
+I'm afraid I don't understand what you mean...
+
+振り返った彼女の手には、ふたり分のグラスが握られていた。%K%P
+When she turned around, she held two glasses in her hands.
+
+内海「とにかく、座ったら？」%K%P
+Anyway, won't you have a seat?
+
+うながされ、席につくオレ。%K%P
+As urged, I pulled out a chair.
+
+彼女は続いて冷蔵庫の方へと近づいていき、その扉を開いた。%K%P
+She made her way over to the fridge and opened the door.
+
+中から取り出されたものは、ミネラルウォーターの入ったペットボトルだった。%K%P
+She took out a bottle of mineral water from inside.
+
+悟「内海さん、喉が渇いたなんて……嘘だろ？」%K%P
+Utsumi-san... you were lying about being thirsty, weren't you?
+
+悟「冷蔵庫はあなたの部屋にもあるし、ミネラルウォーターもその中に保存されてるはずだ」%K%P
+There's a fridge in your room, and there should be mineral water in it.
+
+悟「喉が渇いただけなら、わざわざキッチンにまで足を運ぶ必要はない」%K%P
+There was no need for you to drag yourself all the way to the kitchen just for a drink of water.
+
+オレがそう告げると、彼女は薄っすらと笑みを浮かべて見せた。%K%P
+A thin smile formed on her face as I confronted her.
+
+内海「切らしちゃってたのよ」%K%P
+I ran out.
+
+内海「もう残ってなかったの」%K%P
+There wasn't any water left.
+
+内海「だから、ここに……」%K%P
+That's why I came here...
+
+内海「そんなことより、あなたも飲まない？」%K%P
+But anyway, won't you have a drink?
+
+彼女はテーブルの上にグラスをふたつ置き、それぞれの中に水を注いだ。%K%P
+She put the two glasses down on the table and poured water into each.
+
+内海「どうぞ」%K%P
+Here.
+
+オレの前に差し出されたグラス。%K%P
+She placed one of the glasses in front of me.
+
+オレはそれを……。%K%p
+I....
+
+飲んだ
+Drink it
+
+断った
+Refuse
+
+一気に飲み干した。%K%P
+...drank it all in one gulp.
+
+断った。%K%P
+...refused.
+
+彼女の言動は怪しさに満ちている。%K%P
+Her behavior was way too suspicious.
+
+もしかしたら、彼女が背中を向けているあいだに、何か薬品を混入したかも知れない。%K%P
+It was possible that she'd drugged the water while her back was turned.
+
+そう思ったのだ。%K%P
+That's what I thought.
+
+オレはグラスを押し返した。%K%P
+I pushed the glass away.
+
+彼女は眉根を寄せて、軽く首を傾げた。%K%P
+She furrowed her brow and tilted her head slightly.
+
+内海「要らないの？」%K%P
+You don't want it?
+
+悟「ああ、悪いけど……」%K%P
+Yeah, sorry...
+
+内海「そう……」%K%P
+I see...
+
+小さく呟いて、オレの傍らへと歩み寄ってくる。%K%P
+With that soft whisper, she walked over to me, narrowing the distance between us.
+
+彼女は自分のグラスを握りしめたまま、オレの正面に立った。%K%P
+She stood in front of me, gripping her own glass tightly in both hands.
+
+その視線は透明な液体の方へと向けられている。%K%P
+She stared at the transparent liquid inside.
+
+動かない……。%K%P
+We didn't move....
+
+オレも、彼女も……。%K%P
+Neither she nor I stirred....
+
+あたりは不穏な空気に包まれていた。%K%P
+An air of unease enveloped us.
+
+暗がりの向こうに微かな息づかいだけが聞こえる。%K%P
+Beyond the darkness that separated us, I could barely hear the faint sound of her breathing.
+
+闇の中にぼんやりとたたずむ彼女の姿は、さながら正体をなくした生霊のようだった。%K%P
+Standing there wordlessly in the dark, she resembled nothing so much as a malicious spirit that had wandered free of its earthly body.
+//http://en.wikipedia.org/wiki/Ikiry%C5%8D
+
+彼女の身体からは、温もりのようなものが一切感じられなかった。%K%P
+I couldn't feel the slightest warmth from her.
+
+そしてとうとう、彼女は一度もグラスにくちをつけぬまま、それをテーブルの上に置いてしまった。%K%P
+And, at last, without once raising the glass to her lips, she put it back down on the table.
+
+悟「飲まないのか？」%K%P
+Aren't you going to drink it?
+
+内海「ええ」%K%P
+No.
+
+悟「どうして……？」%K%P
+Why...?
+
+内海「どうしてだと思う？」%K%P
+Why do you think?
+
+オレは彼女の表情をうかがった。%K%P
+I looked at her face.
+
+彼女は椅子に座ったオレのことを、高い位置から見下ろしていた。%K%P
+She stood over me, looking down at me as I sat at the table.
+
+悟「なにか……」%K%P
+Is that...
+
+悟「なにか、都合の悪いものが、入ってるから、かな……？」%K%P
+Is that... because there's something bad in it, perhaps...?
+
+内海「違うわ」%K%P
+That's not the reason.
+
+悟「じゃあ、なぜ……？」%K%P
+Then why...?
+
+内海「私が飲みたかったのは、水じゃなかったの」%K%P
+It wasn't water that I wanted to drink.
+
+内海「こんなものを飲んでも、私の渇きは癒えないのよ」%K%P
+Something like this can't quench my thirst.
+
+ひっそりと告げられた言葉……。%K%P
+Whispered words....
+
+彼女の瞳の色が読めない。%K%P
+I couldn't read her eyes.
+
+眼窩は陰りにまぎれて空虚な穴のように落ち窪んで見えた。%K%P
+Her eye sockets were veiled in shadow, looking blank and hollow as though her eyes had dropped out, leaving only empty cavities.
+
+内海「ねえ？　優希堂くん……」%K%P
+You know, Yukidoh-kun...
+
+細い指先が、グラスの方へと伸びていく。%K%P
+She extended a thin finger toward the glass.
+
+彼女はそのふちをやわらかくなぞり、液体に指先を浸した。%K%P
+She traced its outer rim, then dipped her fingers into the liquid.
+
+手前に向かって静かに傾け、引き倒す。%K%P
+She slowly tipped it toward me, until it fell over.
+
+水が流れた。%K%P
+The water began to spill out.
+
+テーブルの上を這うように広がっていく。%K%P
+It spread across the table, as if crawling.
+
+やがてそれはテーブルの端からひとすじの糸となって床の上にこぼれ落ちた。%K%P
+Finally, it reached the edge and ran off, dripping to the floor in a thin stream.
+
+オレはその光景を黙って見ていた。%K%P
+I watched all this in silence.
+
+しずくの行方に目を奪われていた。%K%P
+I was captivated by the falling drops of water.
+
+すると、そのときだった――！%K%P
+And at that instant――!
+
+チクリと刺すような痛みを首筋に覚えた。%K%P
+Something stabbed the back of my neck.
+
+一瞬にして視界が白く染まる。%K%P
+There was a piercing pain that momentarily dyed my vision white.
+
+まばゆい閃光が弾けて目の前で砕け散った。%K%P
+A dazzling light flashed before me, then shattered into pieces.
+
+視界はすぐに元に戻った。%K%P
+My vision soon returned.
+
+だが先程とは構図が異なっている。%K%P
+However, the scene my eyes beheld was slightly different from the one I'd just left.
+
+あたりの景色が直角に傾いていた。%K%P
+My line of sight was tilted at a right angle.
+
+頬には硬いフロアの感触がある。%K%P
+I could feel the hard floor against my cheek.
+
+どうやらオレは、うつ伏せになって倒れ込んでしまったらしい。%K%P
+I'd fallen face-down onto the ground.
+
+とっさに起き上がろうとしたが、腕にも足にも力は入らなかった。%K%P
+I tried to pick myself up, but couldn't put any power into my arms or legs.
+
+物理的に動かせなかったのではなく、その動かし方自体が、よくわからなくなってしまったのだ。%K%P
+It was still physically possible for me to move, but I couldn't remember how.
+
+なにが起きたのだろう……？%K%P
+What'd just happened...?
+
+意識が朦朧としていて、考えをまとめることができない。%K%P
+My consciousness was hazy, and I couldn't string my thoughts together.
+
+あたりを探ろうとするが、首が言うことをきいてくれないのでどうすることもできなかった。%K%P
+I wanted to look around me, but my neck wouldn't move the way I commanded it to, so there was nothing I could do.
+
+ただ眼球だけをギョロリと動かすことができた。%K%P
+All I could move was my eyeballs, which I darted around frantically.
+
+見上げると、オレのそばに内海が立ち尽くしていた。%K%P
+I looked up, and saw Utsumi standing stock still beside me.
+
+右手には見覚えのある何かが握りしめられている。%K%P
+Her right hand was clutching an object that I remembered seeing before.
+
+銃のような形をしたメタリックの物体……。%K%P
+An object shaped like a gun....
+
+穂鳥を撃ったのと同じ、注射用の銃だった。%K%P
+An injection gun, the same one she shot Hotori with.
+
+内海「誰にも邪魔なんてさせない」%K%P
+I won't let anyone interfere.
+
+内海「この計画は、誰にも止められないの」%K%P
+No one can stop my plan.
+
+計画……。%K%P
+Plan....
+
+やはりオレの思惑は的中したようだ。%K%P
+My prediction had hit the mark.
+
+彼女は穂鳥を、犬伏を殺すためにこのスフィアに……。%K%P
+This woman came to SPHIA to kill Hotori――no, Inubushi....
+
+悟「くっ……」%K%P
+Kuh...
+
+悟「ううっ……」%K%P
+Uugh...
+
+なにか言おうとしたのだが、声が喉にかかって絞り出すこともできなかった。%K%P
+I wanted to say something, but I couldn't get my voice to leave my throat.
+
+うかつだった……。%K%P
+I was careless....
+
+なぜ警戒を怠ってしまったんだ……。%K%P
+Why did I ignore the signs...?
+
+一瞬でも気をゆるめてしまった自分の不甲斐なさに腹が立った。%K%P
+I felt disgusted at myself for letting my guard down for even a second.
+
+これでは何のために彼女を見張っていたのかわからない。%K%P
+What was the point of even coming here to watch over her?
+
+内海「安心して……？」%K%P
+Don't worry...
+
+内海「しばらく動けなくなるだけだから」%K%P
+You won't be able to move for a while, but that's all.
+
+声が遠く聞こえた。%K%P
+Her voice was getting more and more distant.
+
+徐々に意識が薄れていく。%K%P
+Little by little, my consciousness began to fade.
+
+内海「さようなら、優希堂くん」%K%P
+Goodbye, Yukidoh-kun.
+
+言い残し、彼女はオレの視界から姿を消した。%K%P
+With those parting words, she disappeared from view.
+
+このまま彼女を行かせてはならない……。%K%P
+I couldn't just let her go like this....
+
+穂鳥を殺させてはならないのだ！%K%P
+I couldn't let her kill Hotori!
+
+このときから、自らの内部に潜む魔物との壮絶な闘いが始まった。%K%P
+A grand struggle against the demon lurking inside me had now begun.
+
+薄れゆく意識を繋ぎとめ、必死の抵抗を試みる。%K%P
+I struggled frantically, trying to grasp hold of my dimming consciousness.
+
+まず、指先に全神経を集中した。%K%P
+First, I tried focusing all my nerves into my fingertips.
+
+かろうじて小指だけが動いた。%K%P
+I was barely able to move my pinkie.
+
+その感覚を忘れないうちに、薬指、中指、ひとさし指と、順番に指令を送っていった。%K%P
+Quickly, so as not to forget that sensation, I fired off commands to my ring, middle, and index fingers.
+
+全身にかけられた呪いを少しずつ少しずつ解いていく。%K%P
+Using this method like a magic spell, I turned my entire body back on, little by little.
+
+地道な作業が続いた。%K%P
+I tirelessly continued my work.
+
+やがて手のひらが動くようになり、腕が持ち上がるようになり、足も言うことをきいてくれるようになった。%K%P
+Eventually, I found myself able to move my hands up to my palms; then the feeling returned to my arms, and gradually, I regained control of my feet.
+
+とは言え、まだ身を起こすことはできない。%K%P
+Although, that said, I was still unable to lift my body.
+
+オレは床の上を這いずって、内海の後を追った。%K%P
+I crawled along the floor, chasing after Utsumi.
+
+悟「くっそぉぉぉ……」%K%P
+Dammiiiiit...!
+
+声が自然とあふれた。%K%P
+The word leaked out before I could think.
+
+どうやら声帯の機能も回復の兆しを見せ始めたらしい。%K%P
+My vocal cords seemed to be showing signs of recovery.
+
+オレに打たれたのは、たぶん強力な鎮静剤だろう。%K%P
+She probably shot me with a powerful tranquilizer.
+
+にもかかわらず、こうして身動きが取れるようになったのはなぜか……？%K%P
+In spite of that, why could I still move like this...?
+
+もしかしたら、この種の鎮静剤をオレは過去に何度も投与されていたのかも知れない。%K%P
+It could be that this specific type of tranquilizer had already been administered to me several times in the past.
+
+だから、薬に対する耐性がついて、こんなふうに……。%K%P
+So my resistance to the drug was already quite high....
+
+考えているうちに、なんとかリビングまでたどりついた。%K%P
+As I pondered that, I'd somehow managed to reach the living area.
+
+穂鳥の部屋の前に内海が立っている。%K%P
+Utsumi was standing at the door to Hotori's room.
+
+その右手にはキラリと輝くなにかが見えた。%K%P
+Something glinted in her right hand.
+
+オレは壁伝いによろよろと立ち上がった。%K%P
+I stood up, leaning unsteadily against the wall.
+
+一歩ずつ一歩ずつ、彼女の元へと近づいていく。%K%P
+One step at a time, I began to approach her.
+
+彼女はまだ、オレのことには気づいていない。%K%P
+She hadn't noticed me yet.
+
+物音を立てぬように、慎重に慎重に足を運んでいった。%K%P
+I moved forward with the utmost care, trying not to make a sound.
+
+少しでも気をゆるめれば、再びくずおれてしまいそうだった。%K%P
+If I lose focus, even for a second, I'll fall over.
+
+視界はグラグラと歪んで渦を巻いている。%K%P
+My vision warped and swirled dizzily.
+
+目に映るものはおぼろげにかすんでいて、向かうべき方角が確かなのかどうかもわからなかった。%K%P
+The images reflected in my eyes were vague and hazy, so I wasn't sure if I was even heading in the right direction.
+
+壁の感触だけを頼りに、闇の中を進む。%K%P
+Relying only on the feel of the wall beneath my fingers, I continued through the darkness.
+
+すぐそこまで内海の背中は迫っていた。%K%P
+Finally, I drew right up behind Utsumi.
+
+彼女がドアノブに手をかけた。%K%P
+Her hand was on the doorknob.
+
+ゆっくりとそれを押し下げる。%K%P
+Slowly, she began to turn it.
+
+直後――。%K%P
+And right after that――
+
+目にもとまらぬ素早さで、オレは彼女の手首をつかんでいた。%K%P
+Faster than the eye could see, I grabbed her wrist.
+
+内海「はっ……！」%K%P
+Hah...!
+
+そのまま、しなだれかかるように彼女の身体に覆いかぶさる。%K%P
+Never releasing my hold, I covered her body with mine, as though in an embrace.
+
+勢いあまって、オレと彼女はもつれあうように床の上を転がった。%K%P
+The momentum carried me to the floor, bringing her down along with me, and we rolled across the floor in a tangle.
+
+別に意図したわけではないが、結果的にオレは彼女を押し倒すことになってしまった。%K%P
+I hadn't planned on it, but I ended up pinning her down.
+
+仰向けのまま横たわる彼女……。胸の上にのしかかるオレ……。%K%P
+She, lying face-up on the floor.... And I, right on top of her....
+
+全体重をかけられて、彼女はオレの下で苦しそうにあえいでいた。%K%P
+She struggled below me, all my body weight pressing down against her.
+
+その右手には、鋭利な輝きを放つ刃物がある。%K%P
+In her right hand was a horribly sharp knife.
+
+料理用の包丁だった。%K%P
+A kitchen knife.
+
+オレがダイニングで倒れ伏しているあいだに、戸棚の中から抜き出したのだろう。%K%P
+She'd probably pulled it out of the cupboard after I fell over in the dining area.
+
+オレは彼女の手首をしっかりと握りしめて放さなかった。%K%P
+I held her tightly by the wrists, refusing to let go.
+
+身体は依然として古ぼけたブリキのオモチャみたいに錆び付いていたが、手のひらの力だけはゆるめるわけにはいかなかったのだ。%K%P
+My body felt like an old tin toy with its parts rusted together, but the strength of my hands, at least, never wavered.
+
+内海「どいて……！」%K%P
+Move...!
+
+内海「放して……！」%K%P
+Let me go...!
+
+内海「なにするのよ……！」%K%P
+What are you doing...?!
+
+悟「いいや……放さない……」%K%P
+No... I won't let go...
+
+悟「オレの意識がここにあるうちは……」%K%P
+As long as I'm here...
+
+悟「誰も……」%K%P
+I won't...
+
+悟「誰も……殺させたりなんか……しないからな……」%K%P
+I won't... let anyone... die...!
+
+ミシミシと関節をきしませながら、身体を引き剥がした。%K%P
+My joints creaking, I pulled away from her.
+
+左手で彼女の手首を押さえつけたまま、逆の手のひらで刃物を奪い取る。%K%P
+Pinning her wrists with my left hand, I pulled the knife from her with my right.
+
+奪い取ったそれを、リビングの奥に向かって放り投げた。%K%P
+Then I hurled it away into the living area.
+
+乾いた音を立てて、包丁は闇の中へと消え失せた。%K%P
+With a dry sound, the kitchen knife disappeared into the darkness.
+
+安堵のためだろうか、音を耳にしたとたん、激しい脱力感に襲われた。%K%P
+Maybe it was because of the relief I felt, but as soon as I heard that noise, I was attacked by an overwhelming sense of exhaustion.
+
+彼女の隣に力無く転がる……。%K%P
+I rolled powerlessly to the floor beside her....
+
+そんなオレに対して、彼女は休息のひとときなど与えてはくれなかった。%K%P
+She didn't even allow me a moment of rest.
+
+いきなりオレの胸ぐらに飛びかかると、荒々しく上体をつかみ起こした。%K%P
+She suddenly sprang onto me, grabbed me by the torso and pulled me violently to my feet.
+
+内海「どうして邪魔するのよ！」%K%P
+Why are you interfering?!
+
+内海「あなたには関係ないことじゃない！」%K%P
+This has nothing to do with you!
+
+内海「なのに、なんで！　なんで！　なんで！」%K%P
+So why?! Why?! Why?!
+
+彼女がオレの身体を強く揺さぶる。%K%P
+She shook me back and forth.
+
+オレには抗う力は残っていない。%K%P
+I didn't have enough strength left to fight back.
+
+なされるがまま、間の抜けた人形のように首をゆらゆらと振っていた。%K%P
+I went limp, my head lolling on my shoulders like a doll's.
+
+内海「どうしてみんなわかってくれないの！？」%K%P
+Why doesn't anyone understand?!
+
+内海「あの女は殺されても当然の人間なのよ！？」%K%P
+That girl is a natural-born killer!
+
+内海「いえ、人間なんかじゃないわ！」%K%P
+No, she's not even a girl, not even human!
+
+内海「あいつは悪魔よ！」%K%P
+She's a demon!
+
+内海「彼女をこのまま生かしておいたら、もっと犠牲者が出るに決まってる！」%K%P
+If you let her live, I guarantee there'll be even more victims!
+
+内海「なのに……」%K%P
+So...
+
+内海「なぜ……！？」%K%P
+Why...?!
+
+内海「なんでみんな、彼女のことをかばおうとするの……！？」%K%P
+Why does everyone always try to protect her..?!
+
+内海「どうしてあいつは、今でもこんなところでのうのうと生きていられるのよ！」%K%P
+How can you allow a demon like her to live a carefree, everyday life?!
+
+内海「潤一は……」%K%P
+Even though Junichi was...
+
+内海「あの子は……あんな酷い殺され方をしたっていうのに……」%K%P
+...even though he... was killed so horribly...
+
+内海「私は絶対許さない」%K%P
+I'll never forgive her.
+
+内海「許さない、許さない、許さない……」%K%P
+I'll never, never, never forgive her...
+
+内海「殺してやるわ、必ず……」%K%P
+I'll kill her, no matter what...!
+
+遂に本性をあらわにした内海……。%K%P
+Utsumi had finally revealed her true nature....
+
+普段の穏やかな表情は根こそぎ剥ぎ取られ、鬼神の面影だけがそこにぺたりと張りついていた。%K%P
+Her calm face had been torn away, replaced with that of a demon.
+
+長い銀髪は無造作に乱れ、ふたつの瞳孔は病的なまでに見開かれている。%K%P
+Her long silver hair was disheveled, her pupils abnormally wide.
+
+褐色の肌に浮かんだまだら模様……。%K%P
+A pattern of hives had begun to mar her brown skin....
+
+顔面を覆い尽くした暗紫色のひび割れは、さながら死斑を思わせた。%K%P
+Livid veins spread cracks across her face, shrouding it until she looked no different than a corpse.
+
+そこにあったのは、血の通わぬ冷酷な殺人鬼の相貌だった。%K%P
+The only things visible there were the warped features of a cruel murderous monster, all human blood frozen and immobile in her veins.
+
+内海は穂鳥を指して悪魔と呼んだが、今は彼女自身がその魔物に取り憑かれてしまっている。%K%P
+As if Utsumi had summoned a demon to claim Hotori, but found herself possessed instead.
+
+彼女にしてみれば崇高な復讐劇を演じようとしたつもりなのかも知れないが、%K%P
+The way she looked, you could almost believe she was playing the part of the villain in some tragic melodrama, but...
+
+そんなものは心神耗弱状態による発作的な衝動殺人となんら変わることはない。%K%P
+The murderous aura she now emanated was no different from that of a mental patient capable of flying into a killing rage at any moment.
+
+憎悪や怨念といった感情は、ある種の病いである。%K%P
+A hatred and a grudge this strong could almost certainly be considered an illness.
+
+本来人間の持ち合わせているはずの正常な機能を奪うという意味に於いてそうなのだ。%K%P
+An illness to which, over time, an ordinary human being might succumb.
+
+であるとするならば、内海は病いに駆り立てられ、自らの欲望を発露せんが為にひとりの女の子を手にかけようとしたということになる。%K%P
+And if that was true, Utsumi was most likely attempting to expel the sickness from her body by killing Hotori.
+
+阿波墨で起きた事件と、どこに違いがあるというのか……。%K%P
+How was that any different from what Hotori had done during the Awazumi incident...?
+
+そこには崇高な理想なんてものはカケラも存在しない。%K%P
+There wasn't even a fragment of anything like a great ideal here.
+
+あるのはただ、腐臭に満ちた惨たらしい狂気だけだ。%K%P
+You could even say she was driven only by the mad brutality festering inside her.
+
+オレはそんな彼女のことを憐れに思った。%K%P
+I pitied her.
+
+怒りや憎しみのような感情は一切わいてこなかった。%K%P
+Her condition didn't inspire even the slightest feeling of anger or hatred within me.
+
+やるせない哀しみだけが、胸に降り積もっていった。%K%P
+Only a deep, deep sadness.
+
+悟「ゴクンゴクンゴクンゴクン」%K%P
+*gulp* *gulp* *gulp* *gulp*
+//any other suggestions?
+
+空になったグラスをテーブルの上に戻す。%K%P
+I returned the empty glass to the tabletop.
+
+そんなオレの様子を、彼女はうわめづかいにじっとうかがっていた。%K%P
+She watched me with upturned eyes as I drank.
+
+眼窩の陰りにまぎれて、瞳の色が見えない。%K%P
+Her face was veiled in shadow, so I couldn't see into her eyes.
+
+水の入ったグラスに唇をつけてはいるが、それを飲み込むような素振りはまったく見せなかった。%K%P
+She'd raised the glass to her lips, yet made no move to drink from it.
+
+動きを止めた彼女……。%K%P
+She stood there frozen....
+
+暗がりの向こうに微かな息づかいだけが聞こえる。%K%P
+Beyond the darkness that separated us, I could barely hear the faint sound of her breathing.
+
+闇の中にぼんやりとたたずむその姿は、さながら正体をなくした生霊のようだった。%K%P
+Standing there wordlessly in the dark, she resembled nothing so much as a wraith that had wandered free of its earthly body.
+//used a different word here since it's not as readily apparent how ominous she'd acting
+
+彼女の身体からは、温もりのようなものが一切感じられなかった。%K%P
+I couldn't feel the slightest warmth from her.
+
+悟「ど、どうしたんだ……？」%K%P
+W, what's wrong...?
+
+息を詰めて彼女に尋ねる。%K%P
+I held my breath as I asked her.
+
+彼女は水の入ったグラスから唇を離した。%K%P
+She moved the glass away from her lips.
+
+そのまま、なにも言わずにグラスを傾ける彼女……。%K%P
+And without saying a word, she turned her hand and tipped it....
+
+びちゃびちゃと惨たらしい音を立てて、液体はフロアに散った。%K%P
+The liquid inside made a splashing sound as it hit the floor, filling me with an icy dread.
+
+悟「ま、まさか……」%K%P
+I, it can't be...
+
+不安に駆り立てられたオレは、あわてて身体中をまさぐった。%K%P
+Propelled into action by a sudden anxiety, I frantically patted my own body.
+
+異変がないかどうか確かめるために……。%K%P
+In order to see if anything was wrong....
+
+内海「憐れね……」%K%P
+How pitiful...
+
+ふいに、彼女がくちを開いた。%K%P
+She suddenly spoke.
+
+うろたえるオレのことを見下ろすように立ち尽くしながら……。%K%P
+As she looked down, watching my floundering, immobile....
+ 
+内海「無力な人間は……憐れ……」%K%P
+A powerless human is so... pitiful...
+
+悟「なにが……言いたいんだ……？」%K%P
+What are you... trying to say...?
+
+内海「結局、あなたにはどうすることもできなかった、そうでしょう？」%K%P
+In the end, you couldn't do a thing, could you?
+
+鼓動が早鐘のごとく鳴り響いている。%K%P
+Panic rang out in my head like an alarm bell.
+
+指先が、オレの意思に反してバタバタとテーブルの上を踊り始めた。%K%P
+The tips of my fingers began to tap out an unconscious rhythm on the table.
+
+痙攣……。%K%P
+Convulsions....
+
+その発作を抑えようと、オレは両手を強く握りしめた。%K%P
+I clenched my hands together to stop the spasms.
+
+内海「この計画は、誰にも邪魔させない」%K%P
+I won't let anyone interfere with my plan.
+
+内海「誰にも止めることはできない」%K%P
+No one can stop me.
+
+内海「前にも、教えたわよね？」%K%P
+I told you before, right?
+
+そんなことを聞いた覚えはない。%K%P
+I don't remember hearing anything like that.
+
+だが今は、彼女と問答を続けている場合ではなかった。%K%P
+But now wasn't the time to question her.
+
+とにかく一刻も早く、飲み下してしまったものを吐き出さなければ！%K%P
+I needed to throw up that water right now!
+
+オレは跳ねるように席を立った。%K%P
+I sprang out of my chair.
+
+立ちあがった……つもりだった……。%K%P
+Or at least... I wanted to....
+
+けれど……。%K%P
+But....
+
+オレの身体は床の上にへばりついてしまった。%K%P
+My body had adhered to the floor.
+
+四肢の神経は完全に麻痺し、制御不能に陥っている。%K%P
+My extremities were completely numb, and were out of control.
+
+指先どころか、唇も、舌も、まぶたさえも動かすことができない。%K%P
+And it wasn't just my fingertips either――my lips, tongue, and even my eyelids wouldn't move.
+
+頭の中は石の塊をねじ込まれたように重かった。%K%P
+My head was heavy, like a stone clod had been driven into it.
+
+どこかで経験したことのある感覚……。%K%P
+I had the sudden sense that I'd experienced this feeling before....
+//old:A sense that I'd felt this somewhere before came seeping into my memory....
+
+しかしそれがどこで経験したものなのか、いつ覚えたものなのか、もはやオレには思い出すことができなかった。%K%P
+However, I couldn't recall when and where anymore.
+
+内海「安心して……？」%K%P
+Don't worry...
+
+内海「あなたを、殺すつもりはないから」%K%P
+I'm not planning to kill you...
+
+声が遠く聞こえる。%K%P
+Her voice sounded far away.
+
+徐々に徐々に遠ざかっていく。%K%P
+Little by little, it drifted even further.
+
+オレはその声をつかみ取ろうと懸命に腕を伸ばした。%K%P
+Trying to grab hold of that voice, I reached out with all my might.
+
+内海「さようなら、優希堂くん」%K%P
+Goodbye, Yukidoh-kun.
+
+意識が薄れていく……。%K%P
+My consciousness was weakening....
+
+消えていく……消えていく……。%K%P
+Fading... fading....
+
+やがて何も見えなくなった。%K%P
+And before long, I couldn't see anything.
+
+光の届かぬ泥濘の底へと、オレの意識は呑み込まれていった。%K%P
+I floated to the bottom of a quagmire where no light would ever reach, my consciousness completely swallowed.

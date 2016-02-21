@@ -13,6 +13,6 @@
 In quantum mechanics, the uncertainty principle states that, regarding a particle's position and momentum,
 energy and time, and other pairs of physical properties, one
 cannot accurately measure and determine both pairs simultaneously.%N
-The uncertainty relationship, which states that &quot;the product of the uncertainty of the two values
-cannot be smaller than a fixed proportion of Planck's constant&quot; holds true.%N
+The uncertainty relationship, which states that "the product of the uncertainty of the two values
+cannot be smaller than a fixed proportion of Planck's constant" holds true.%N
 It was derived by Werner Heisenberg in 1927.

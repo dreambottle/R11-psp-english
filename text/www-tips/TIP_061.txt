@@ -17,7 +17,7 @@
 量子力学の入門の格好のキーワードとなった。
 </pre>
 <pre>
-Refers to &quot;Schrödinger's Cat,&quot; a thought experiment
+Refers to "Schrödinger's Cat," a thought experiment
 intended as a critique of quantum probability theories
 proposed by Bohr and Heisenberg (the so-called Copenhagen interpretation).%N
 Suppose that a cat was put in a box equipped with a mechanism

@@ -1,0 +1,444 @@
+
+オレは目を閉じると、これまで自分が把握してきたことを頭の中で反芻した。%K%P
+I closed my eyes and thought over everything I'd come to understand thus far.
+
+それから、静かな口調で語り始めた。%K%P
+After that, I softly resumed speaking.
+
+命題Ｒのことを……。%K%P
+About my proposition R....
+
+ｒ１：人格交換について――。%K%P
+r1: The personality exchange――
+//not a mistake; the line here says "exchange," the one in the previous script "transfer"
+
+ｒ２：青鷺島と朱倉岳、それぞれの場所で達成すべき目的について――。%K%P
+r2: My goals at both Aosagi Island and Mount Akakura――
+
+ｒ３：内海と穂鳥について――。%K%P
+r3: Utsumi and Hotori――
+
+榎本はｒ１については、とても興味深そうに、時折相づちを打ちながら聞いていた。%K%P
+In regards to r1, Enomoto took great interest in it, and I even managed to come across new realizations from time to time as I listened to him speak.
+
+けれどｒ２とｒ３については、さして興味がないといったふうに聞き流しているような素振りを見せていた。%K%P
+However, he had no interest in r2 and r3, and it seemed like he was ignoring me outright when I brought them up.
+
+オレが話し終えると、榎本は椅子にもたれながら……%K%P
+Once I finished, Enomoto leaned back in his chair...
+
+榎本「ブラボー」%K%P
+Bravo!
+
+と言って軽く拍手をした。%K%P
+And congratulated me with a smattering of light applause.
+
+榎本「いや、見事だ」%K%P
+No, that was truly splendid.
+
+榎本「よくもまあ、限られた情報の中からそこまで導き出せたものだ」%K%P
+You did well in deriving that much from such limited information.
+
+榎本「素晴らしい」%K%P
+Magnificent.
+
+悟「…………」%K%P
+......
+
+榎本「青鷺島と朱倉岳の転移」%K%P
+A transfer between Aosagi Island and Mount Akakura.
+
+榎本「青鷺島から朱倉岳への転移は、その発生時刻に規則性はなく、完全なランダム」%K%P
+The transfers from Aosagi Island to Mount Akakura do not occur at predetermined intervals, but completely at random.
+
+榎本「しかし、朱倉岳から青鷺島への転移の場合は３３分間という時間内で『現象』は維持され、元に戻る」%K%P
+However, when it comes to the transfers from Mount Akakura to Aosagi Island, the "phenomenon" maintains for a duration of 33 minutes before changing back.
+
+榎本「この転移は、同時並行的に発生するのではなく、１年間のブランクを挟んで行なわれる」%K%P
+These transfers do not occur at the exact point in time, but rather, with a period of one year in between them.
+
+榎本「つまり、２０１１年と２０１２年の間で行われている」%K%P
+In other words, they happen between the periods of 2011 and 2012.
+
+悟「要するに、時間跳躍と人格交換を一緒に行なってるということなんだろ？」%K%P
+Which would mean that the time jump and the personality exchange happen together, right?
+
+榎本はサングラスのブリッジを指で持ち上げると、ゆっくりとうなずいた。%K%P
+Enomoto used his finger to push the bridge of his sunglasses up his nose, then slowly nodded.
+
+榎本「その通りだ」%K%P
+Precisely.
+
+榎本「大枠については、だがね」%K%P
+On the outside, that is.
+
+それは、オレの推理がただの憶測ではなく、限りなく真実に近いところまで行き着いていたことを示していた。%K%P
+That meant that my reasoning wasn't just mere speculation, and that it wasn't too far from the truth.
+
+悟「それでも、いくつかわからないことがある」%K%P
+Even so, there are a number of things that I don't understand.
+
+悟「いや、わからないことの方が多いと言ってもいい」%K%P
+No, you could say there are a whole lot of things I don't understand.
+
+榎本「それはそうだろう、当然だ」%K%P
+Well, that's a matter of course.
+//old: Of course, isn't that obvious?
+
+悟「まずは、なぜこんな現象が起きたのか」%K%P
+To start with, what's causing this phenomenon?
+
+榎本「ふっ、いきなり核心をついてきたね」%K%P
+Heh, cutting straight to the chase, eh?
+//old: so you want to get to the heart of the matter right away
+
+榎本「まあ、いいだろう」%K%P
+Fine, I suppose.
+
+榎本は椅子から立ち上がると、スパコンらしき大型のマシンへと歩み寄っていった。%K%P
+Enomoto stood up from his chair and walked toward the supercomputer.
+
+榎本「『装置』のおかげさ」%K%P
+It's because of this "device."
+
+と言って、榎本は大型マシンに手を触れた。%K%P
+Saying that, Enomoto placed his hand on it.
+
+榎本「『装置』の処理によって、この『現象』は起きている」%K%P
+Because of the processes of this "device," the "phenomenon" is allowed to occur.
+
+榎本「説明は以上だ」%K%P
+Explanation over.
+
+悟「悪いが、ちっともわからない」%K%P
+Sorry, but I have no idea what you mean.
+
+悟「『装置』ってなんだ？　どういう仕組みなんだ？」%K%P
+What is this "device"? How does it work?
+
+悟「そもそも、そんな大がかりな装置があったとして、仮に停電にでもなったらどうするつもりなんだ？」%K%P
+In the first place, you must have a lot of blackouts with such a large-scale device, right? What do you do then?
+
+悟「それで『現象』は止まったりしないのか？」%K%P
+Does that put a stop to the "phenomenon"?
+
+悟「中途半端な状態――例えば人格交換の途中で『装置』が停止してしまったら、とんでもない事故になってしまうんじゃないのか？」%K%P
+What if it was in mid-operation――for example, if the "device" stopped while a personality exchange was still occurring, it'd be very bad, wouldn't it?
+
+榎本「まあ待てよ。立て続けに質問しないでくれないかね。順番に行こうじゃないか」%K%P
+Slow down for a moment. Could you not ask so many questions at a time? Let's go in order, all right?
+
+榎本「まず後者についてだが、心配はいらない」%K%P
+First, about the latter issue, there's no need for concern.
+
+榎本「このスフィアには発電機が設置されている」%K%P
+SPHIA is equipped with its own generator.
+
+榎本「自家発電ってやつだ」%K%P
+A personal power supply, in other words.
+
+榎本は左側の鉄扉の向こう側を顎でしゃくった。%K%P
+Enomoto inclined his jaw toward an iron door to his left.
+
+そちらの空間に、それはあるのだろう。%K%P
+With this much space, it might actually be possible.
+
+榎本「しかも、いざというときには予備電源に切り替わるようになっている」%K%P
+Moreover, if worse comes to the worst, it will switch to a backup power supply.
+
+榎本「予備電源でも数十時間は稼働できる」%K%P
+The backup supply is sufficient to provide several hundred hours' worth of electricity.
+
+榎本「９９．９９９９９９９９９％、事故は起こりえない」%K%P
+The probability of an accident occurring is 0.000000001%.
+
+榎本「次に前者についてだが……」%K%P
+Next, about the former of your two main concerns...
+
+榎本「細かい説明はあとにさせてくれないか？」%K%P
+Can the details wait until later?
+
+榎本「順を追って説明しないと、こちらもやりにくいんでね」%K%P
+If I don't explain it in order, it'll be more difficult for me.
+
+悟「……わかったよ」%K%P
+...Understood.
+
+悟「疑問は他にもまだある」%K%P
+I still have other questions.
+
+――月のこと。%K%P
+――About the moon.
+
+２０１１年のはずの朱倉岳と、２０１２年であるはずの青鷺島で見た月は同じ形だった。%K%P
+The phase of the moon was the same at both the Mount Akakura of 2011 and the SPHIA of 2012.
+
+正確には、どちらも２０１２年のそれだった。%K%P
+More specifically, they were both in the correct phase for the year 2012.
+
+――海のこと。%K%P
+――About the ocean.
+
+朱倉岳に於いて、すりばち状の窪地をのぼりつめたときに海が見えた。%K%P
+At Mount Akakura, after climbing out of the bowl-shaped hollow, I saw an ocean there.
+
+しかも、青鷺島で、スフィアの正面ゲートを開くと、そこに待っていたのも海だった。%K%P
+Moreover, at Aosagi Island, when I opened the front gate of SPHIA, there was an ocean waiting there for me as well.
+
+悟「どういうことなんだ？」%K%P
+What does it mean?
+
+榎本「それを解く前に、ひとつ言っておくことがある」%K%P
+Before I answer that, there's something that I must say.
+
+榎本「きみは勘違いをしている」%K%P
+You seem to be misunderstanding.
+
+悟「勘違い？」%K%P
+Misunderstanding?
+
+榎本「きみ達は人格交換――人格が転移をしているんじゃない」%K%P
+It's not a personality exchange that you two are undergoing――your personalities aren't what's being transferred.
+
+榎本「本当に転移しているのは……」%K%P
+What's really being transferred...
+
+榎本「空間」%K%P
+...is space.
+
+悟「えっ！？」%K%P
+Huh?!
+
+榎本「空間自体が転移しているんだよ」%K%P
+Space itself is being transferred.
+
+榎本「正確に言えば、空間が時間を飛び越えて転移している。つまりは……」%K%P
+To be specific, it's space that leaps through time and is transferred. In other words...
+
+榎本「時空間転移だ」%K%P
+It's a space-time transfer.
+
+悟「時空間……転移……」%K%P
+Space-time... transfer...?
+
+榎本「そうだ」%K%P
+Yes.
+
+そう言って榎本は再び椅子に腰掛け、キーボードを操作し始めた。%K%P
+Having said that, Enomoto once again took a seat and began typing something out on the keyboard.
+
+すると近くのモニターに、ある映像が映し出された。%K%P
+As he did, images began to appear on a nearby monitor.
+
+榎本「きみの導き出した推理とは、つまりこういうことだろう？」%K%P
+In other words, the reasoning you've been able to derive goes something like this, doesn't it?
+
+榎本「２０１１年の朱倉岳にいる冬川こころ……それと２０１２年の青鷺島にいるきみ――優希堂悟」%K%P
+Fuyukawa Kokoro, who exists at the Mount Akakura of the year 2011, and you――Yukidoh Satoru, who exists on Aosagi Island in the year 2012.
+ 
+榎本「それぞれの意識が肉体から乖離し、時空を飛び越え、互いに入れ替わる」%K%P
+Both of your consciousnesses are released from their respective bodies, jump through space, and enter into each other's.
+
+榎本「こんなふうにね」%K%P
+Just like this.
+
+榎本「そして、きみは２０１１年の冬川こころの肉体に憑依し、逆に冬川こころはきみの肉体に憑依する」%K%P
+And so, you possess the body of Fuyukawa Kokoro in the year 2011, and likewise, Fuyukawa Kokoro possesses yours.
+
+榎本「人格交換」%K%P
+A personality exchange.
+
+榎本「こう考えたわけだろう？　違うかい？」%K%P
+This is how you thought of it, right? Or am I wrong?
+
+悟「そうだ」%K%P
+That's right.
+
+悟「だが、それでは説明のつかないことがある」%K%P
+However, there are things that this doesn't explain.
+
+榎本「月と海のことだろう？」%K%P
+You're referring the moon and the ocean, correct?
+
+悟「ああ」%K%P
+Yeah.
+
+榎本「当然だ、矛盾するとも」%K%P
+Of course, they're contradictions.
+
+榎本は鼻で笑いながら言った。%K%P
+Enomoto snickered.
+
+榎本「繰り返すが、きみは勘違いをしている」%K%P
+I'll say it once more, but you've been misunderstanding.
+
+榎本「この考え方は間違っているんだよ」%K%P
+This line of thinking is incorrect.
+
+悟「時空間転移、とか言ったな……」%K%P
+A space-time transfer, you said...
+
+悟「それはいったい……？」%K%P
+Just what does that mean...?
+
+榎本「こういうことさ」%K%P
+This.
+
+再度キーボードを叩く榎本。%K%P
+Enomoto tapped at the keyboard again.
+
+モニターに別の映像が表示された。%K%P
+The monitor began to display a different image.
+
+榎本「２０１１年、朱倉岳、冬川こころ」%K%P
+The year 2011, Mount Akakura, Fuyukawa Kokoro.
+
+榎本「２０１２年、青鷺島、優希堂悟」%K%P
+The year 2012, Aosagi Island, Yukidoh Satoru.
+
+榎本「この初期条件は、先程と同じだ」%K%P
+The initial conditions are the same as before.
+
+榎本「しかし、ここから先が違う」%K%P
+But here's where it differs.
+
+榎本「きみ達に起きている現象は、人格の移動ではないのだ」%K%P
+In the phenomenon that you're currently experiencing, it's not your personality that transfers.
+
+悟「さっき、空間自体が転移してるとか言ってたな」%K%P
+You said it was space itself transferring before, didn't you?
+
+榎本「そう」%K%P
+Yes.
+
+榎本「空間……朱倉岳の避難小屋を中心とした半径１１０ｍ」%K%P
+A space... with a radius of 110 meters, with the Mount Akakura Emergency Shelter Cabin in the center.
+
+榎本「それと、青鷺島のスフィアを中心とした半径１１０ｍ」%K%P
+And Aosagi Island's SPHIA as the center of a space with the same radius of 110 meters.
+
+榎本「その半径１１０ｍの球体に含まれる空間が転移しているのさ」%K%P
+Everything within the 110-meter radius of this sphere is transferred.
+
+榎本「この球体の中に含まれるありとあらゆる物質が、２０１１年と２０１２年のそれぞれの２点間に於いてゴッソリと入れ替わる」%K%P
+Every last thing within the two spheres changes places between the same two points, between the years 2011 and 2012.
+
+榎本「こんなふうに」%K%P
+Just like this.
+
+榎本「これが『時空間転移』と呼ばれる現象だ」%K%P
+This is the phenomenon called the "space-time transfer."
+
+榎本「こうすることで、避難小屋の半径１１０ｍの円……」%K%P
+Like this, you have a 110-meter spherical enclosure around the shelter cabin...
+
+榎本「仮に『サークル』とでも呼ぼうか」%K%P
+Or you could just call it a "circle" instead.
+
+榎本「すると、避難小屋のサークル外に、青鷺島の海が広がっていることになる」%K%P
+And so, outside the shelter cabin's circle lies the ocean of Aosagi Island.
+
+悟「ちょ、ちょっと待てよ！」%K%P
+W, wait a second!
+
+悟「オレとこころのことはどうなる？　オレの肉体とこころの肉体はなぜ入れ替わってしまうんだ？」%K%P
+What about me and Kokoro? Why are my body and Kokoro's switching places?
+
+悟「それに、月のことはどうなる？」%K%P
+And what about the moon?
+
+悟「オレが１３日に見た月は、どちらも２０１２年のものだった。間違いない」%K%P
+The moon I saw on the 13th was the same one as the one in the year 2012, no matter how I looked at it!
+
+榎本「きみ達は例外なんだ」%K%P
+You two are the exception.
+
+悟「例外……だと？」%K%P
+An... exception?
+
+榎本「きみ達の意識は転移せずに、その場に残留しているんだ」%K%P
+Your consciousnesses don't transfer. They remain in their original space.
+
+悟「残留……？」%K%P
+Remain...?
+
+榎本「見たまえ」%K%P
+Watch.
+
+榎本がモニターを指し示す。%K%P
+Enomoto pointed to the monitor.
+
+いつの間にか別の映像が映し出されていた。%K%P
+The image had changed without me noticing.
+
+榎本「転移の際、きみと冬川こころの意識だけは、肉体から乖離して、その場に残留する」%K%P
+On the verge of a transfer, your and Fuyukawa Kokoro's consciousnesses alone separate from their bodies and remain in place.
+
+榎本「きみの意識は２０１２年の青鷺島に、冬川こころの意識は２０１１年の朱倉岳に」%K%P
+Your consciousness at Aosagi Island in the year 2012, and Fuyukawa Kokoro's at Mount Akakura in the year 2011.
+
+榎本「そして、きみ達の意識を除いた物質と他の人間達だけが転移をする」%K%P
+And while your consciousnesses separate from their bodies and remain, everyone else is completely transferred.
+
+榎本「肉体というウツワを失くしたきみと冬川こころの意識は、新たにやってきた代替品としてのウツワの中へと、それぞれ憑依する」%K%P
+After having lost the containers you call "bodies," you and Fuyukawa Kokoro entered these backup containers of the other's bodies and possessed them.
+
+榎本「すると……」%K%P
+Which....
+
+榎本「こうなるわけだ」%K%P
+...looks a bit like this.
+
+悟「…………」%K%P
+......
+
+榎本「きみは冬川こころの肉体に……冬川こころはきみの肉体に……」%K%P
+You in Fuyukawa Kokoro's body... and Fuyukawa Kokoro in your body...
+
+榎本「どうだい？　頭のいいきみならもう理解できただろう？」%K%P
+Well? As sharp as you are, you understand by now, don't you?
+
+榎本「これが、きみ達の身に起きた転移現象の正体だ」%K%P
+This is the truth of the transference phenomenon you're undergoing.
+
+悟「だ、だから……オレは常に２０１２年の月を見てたわけなのか……」%K%P
+T, that's why... I always saw the year 2012's moon...
+
+榎本「その通りだ」%K%P
+Precisely.
+
+榎本はうなずきながら、そう言った。%K%P
+Enomoto said, nodding as he did.
+
+悟「なんで……オレ達だけが、オレ達の意識だけが残留するんだ……わけが、わからない」%K%P
+Why... why it's only our consciousnesses that remain... I don't understand.
+
+それはただの呟きだった。%K%P
+I said, barely above a whisper.
+
+榎本「さてね」%K%P
+Who knows?
+
+榎本「どういうわけかな」%K%P
+I wonder what it means.
+
+オレは榎本の答えなどすでに期待はしていなかった。%K%P
+I hadn't expected Enomoto's response.
+
+オレの頭の中は混乱の極致にあった。%K%P
+The inside of my head was in total chaos.
+
+疑問が氷解したと思ったら、新たな疑問が生じ、さらに疑問が疑問を果てることなく生み出していく……。%K%P
+As soon as one question was solved, another rose to take its place, and another, and another, continuing on without end....
+
+謎が解明しても、それは新たな謎を呼び起こすだけなのだ。%K%P
+Solving one puzzle only brought forth another.
+
+際限がない。謎が尽きない。%K%P
+There was no end. These mysteries were inexhaustible.
+
+どこまでも……どこまでも……。%K%P
+On and on... on and on....
+
+ぐるぐるぐるぐる堂々巡り……。%K%P
+Around and around it went in an endless circle....

@@ -17,7 +17,7 @@
 Refers to a new unit of information content, different from
 the classical bit (information represented by a binary digit,
 0, off, or 1, on) used in modern computers (von Neumann machines).%N
-A physical state in which &quot;0&quot; and &quot;1&quot; overlap (a quantum superposition) 
+A physical state in which "0" and "1" overlap (a quantum superposition) 
 is treated as an operational unit.%N
 %N
 Also known as a qubit. Computers that use them are called

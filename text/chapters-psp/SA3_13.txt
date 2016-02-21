@@ -1,0 +1,250 @@
+
+あたりの景色は一瞬にしてすり換わった。%K%P
+My surroundings changed in an instant.
+
+暗闇……。なにも見えない。%K%P
+Darkness.... I couldn't see a thing.
+
+ただ全身に、布のようなものが覆い被さっているのがわかった。%K%P
+But I could feel something like a piece of cloth covering me.
+
+オレはあわててそれを払いのけた。%K%P
+Startled, I swept it away.
+
+悟「オレの部屋だ……」%K%P
+This is my room...
+
+そんなことは確かめるまでもなくわかった。%K%P
+I could tell instantly.
+
+転移が発生したのはこれで何度目になるだろう……？%K%P
+How many transfers does this make...?
+
+いつもタイミングを見計らうかのように、それは大事な場面で起こった。%K%P
+They always seemed to occur whenever something important was going on, as if their timing had been chosen deliberately.
+//TELL US ABOUT IT! Remember 11 would be, like several hours shorter otherwise - Sheeta
+
+腕時計を取り出し、時刻を調べる。%K%P
+I took the wristwatch from my pocket and checked the time.
+
+悟「１０時４８分か……」%K%P
+10:48, huh...?
+
+呟きながら、時計をポケットに戻した。%K%P
+Muttering that, I returned the watch.
+
+直前まで、こころはなにをしていたのだろう……？%K%P
+What was Kokoro doing until just now...?
+
+毛布をかぶってベッドに……。%K%P
+In bed, with the blanket over her head....
+
+悟「ってことは、眠ってたのか……？」%K%P
+Does that mean she was sleeping...?
+
+机の前に向かい、メモ用紙をつかみ取る。%K%P
+I turned to the desk and grabbed the notepad lying there.
+
+新しいメッセージは記されていなかった。%K%P
+There weren't any new messages.
+
+オレは思うところあって、外に出た。%K%P
+I thought of something, and went outside.
+
+正面ゲートに向かってまっすぐ伸びた通路……。%K%P
+The pathway stretching all the way to the front gate....
+
+そこを歩きながら、まずは月を確認する。%K%P
+As I walked, I looked up at the moon for confirmation.
+
+臥し待ち月……。%K%P
+Waning gibbous....
+
+その口のような形とあいまって、なんだか笑われているような気がした。%K%P
+Its shape resembled an open mouth, making it almost seem like it was laughing hysterically.
+//rewriting because waning gibbous =/= crescent - Sheeta
+
+ゲートの前に立つ。%K%P
+I stood before the gate.
+
+どのようにして開けるのだろうかとしばらくあたりを探っていると、左側に小さな操作パネルのようなものが見つかった。%K%P
+Trying to figure out how to open it, I noticed a small control panel to the left.
+
+どうやらロックを制御するカードリーダーの端末らしい……。%K%P
+It appeared to be a computerized card reader that controlled the lock....
+
+深く彫り込まれた溝の形状から、そうであることはすぐにわかった。%K%P
+The deep slot in the side made me realize immediately what it was.
+
+悟「カードリーダー？」%K%P
+A card reader?
+
+今日のオレは頭の回転が早い。%K%P
+The wheels in my head were turning a little more quickly today.
+
+この冷ややかな月光のせいだろうか？　月は人間の精神に大きな作用を及ぼすと言うし……。%K%P
+Is it because of the chilly moonlight? They say that the moon has a great effect on the workings of the human mind, after all....
+//check for wording
+
+ともかく、オレは『カードリーダー』という響きから、即座にある解答を導き出した。%K%P
+At any rate, as soon as the image of the "card reader" appeared in my mind, a solution immediately followed.
+
+ポケットに手を突っ込み、答えを抜き出す。%K%P
+I plunged my hand into my pocket and pulled it out.
+
+昨日部屋で見つけたＩＤカードだった。%K%P
+It was the ID card I'd found in my room yesterday.
+
+もしかしたら、これを使えば開くのではないだろうか？%K%P
+Maybe it'll open if I use this?
+
+期待しつつ、カードをリーダーの溝に滑らせた。%K%P
+With great anticipation, I slid the card through the reader. 
+
+いとも簡単に開いたものだから、いささか拍子抜けしてしまう。%K%P
+It was a little anticlimactic how easily it had opened.
+
+オレは端末からカードを抜き取り、ゲートをくぐった。%K%P
+I removed my card from the terminal and left through the gate.
+
+ほのかな解放感……。%K%P
+A faint sense of liberation....
+
+けれど、それだけだった。%K%P
+However, that was all.
+
+『やっと出られたぜ！』と叫びたくなるほどの感動など、わいてはこなかった。%K%P
+"I'm finally free!"... I didn't feel the impulse to yell anything like that.
+
+よくよく想い起こしてみれば、オレはこれまで『どうにかしてスフィアを脱出しよう』というような企みは少しも抱いたことがなかった。%K%P
+Come to think of it, the idea of developing a plan to "free myself from SPHIA somehow" never occurred to me.
+
+『転移現象から脱け出したい』と思ったことなら何度もあるけれど……。%K%P
+Even though I've thought "I want to free myself from this transference phenomenon" on many occasions....
+
+そのことと、避難小屋のことと、オレを狙ってる犯人のこと……この３つを考えるだけで精一杯だったのだ。%K%P
+Between that, the shelter cabin, and the killer chasing me... I've had my hands more than full with those three things alone.
+
+正面ゲートもあっけなく開いてしまったし……。%K%P
+I hadn't been able to open the main gate before, anyway....
+
+『スフィアを出ることに成功した』という現実は、さほどオレに喜びをもたらしてはくれなかった。%K%P
+The reality of "actually being able to leave SPHIA" didn't bring me any great joy.
+
+さて、ところでここは、言うまでもなく海岸である。%K%P
+Now then, it went without saying that this was the coast.
+
+正面ゲートから歩いて１分も経たない距離にそれはあった。%K%P
+There it was, just a minute's walk from the main gate.
+
+美しい白砂の渚が、東西に長く伸びている。%K%P
+The beautiful white sand of the shoreline stretched out from east to west.
+
+スフィアは青鷺島という孤島にあるのだから、ここに海があることは別に不思議なことでもなんでもなかった。%K%P
+SPHIA was on Aosagi Island, so there was nothing strange about the ocean being here.
+
+しかし、だ……。%K%P
+But....
+
+オレの眼前には幾重にも折り重なるようなうねり……。茫々たる海原の色は漆黒……。%K%P
+Before my eyes were gently rolling waves.... The jet-black depths of the ocean....
+
+月明かりに舐められたうねりはぬらぬらとあでやかな光沢を放ち、見上げれば、こぼれ落ちそうな星空が広がっている。%K%P
+The soft moonlight kissing the waves with its glossy brilliance, and the starry sky that felt as though it would fall at any moment.
+
+遥か彼方には空と海を分かつ１本のライン……。%K%P
+Far off in the distance, the point where the horizon divided sea and sky....
+
+弓なりの海岸線……。寄せては返す白波……。%K%P
+The bow of the coastline.... Whitecaps that broke against the shore....
+
+そして、子守歌のような細波の旋律……。%K%P
+And the faint ripple of the waves, like a lullaby....
+
+何もかもがそっくりそのままだった。%K%P
+It was a perfect copy.
+
+朱倉岳で見た海の景色と寸分違わず同じだった。%K%P
+This was the same landscape I'd seen at Mount Akakura.
+
+悟「…………………………」%K%P
+...............
+
+もはや声も出ない。%K%P
+I found myself unable to speak.
+
+なにか禍々しい事態が着々と進行している……。%K%P
+Some frightening reality was steadily approaching....
+
+そんな不吉な予感だけが胸の中で渦を巻いていた。%K%P
+Only that ominous premonition remained, coiling in my chest like a whirlpool.
+//more literally "swirling in my chest"
+
+部屋に戻ったオレは、ベッドに仰向けになって思索を続けていた。%K%P
+I returned to my room and lay face-up on my bed, speculating.
+
+月のこと……。海のこと……。%K%P
+The moon.... The ocean....
+
+なにが起きているのだかさっぱりわからない。%K%P
+I had no idea what was happening.
+
+まるでたちの悪い暗黒魔法にでもかけられているような気分だった。%K%P
+It was like some black magic had been cast upon me.
+
+理不尽だという意味に於いてもそうだし、呪わしいという意味に於いてもそうだ。%K%P
+Everything about this was so totally irrational, I couldn't help feeling like I'd been cursed.
+
+この呪いを解くためには、思い切ってスフィアを脱出してしまえばいい。%K%P
+If I wanted to escape from this curse, I should just gather my resolve, forget about everything and make my escape from SPHIA.
+
+ＩＤカードはポケットの中にあるし……。%K%P
+The ID card was still in my pocket, after all....
+
+やろうと思えばいつでもそれを実行に移すことはできる。%K%P
+If I wanted to, I could go forth with this plan at any time.
+
+けれど、いつでも実行できるからこそ、オレはこうしてスフィアに舞い戻ってきたのだった。%K%P
+However, it's because I could go forth with it at any time that I returned to SPHIA.
+
+腹立たしい事態だけれど、今ここで逃げるわけにはいかないのだ。%K%P
+It's irritating, but I can't run away from here yet.
+
+逃げたら、こころのことはどうなる……？%K%P
+If I did, what would happen to Kokoro...?
+
+鈴のことは……？　黄泉木のことは……？%K%P
+To Lin...? To Yomogi...?
+
+このまま行けば、３人は１月１７日に雪崩に巻き込まれて死んでしまうことに……。%K%P
+If I left them now, they'd be caught up in an avalanche and die on January 17th....
+
+彼らを見捨てるわけにはいかなかった。%K%P
+I couldn't abandon them.
+
+そんなこと、オレには絶対にできない。%K%P
+There's no way I would do something like that.
+
+それに、スフィアでオレを狙っている犯人のこともある。%K%P
+And then there was the matter of the murderer pursuing me.
+
+転移現象の謎も依然として残されたままだ。%K%P
+And I still had plenty of questions about the transference phenomenon.
+
+これらのモヤモヤとした謎を、すべて忘れ去ることなんて、オレにはやはりできなかった。%K%P
+It was impossible for me to just forget all about these mysteries, after all.
+
+これはオレの性分だ。%K%P
+It's just the way I am.
+
+すべてが解明されるまで、なにがなんでも居座ってやる。%K%P
+Until everything's been resolved, I'll stay here, come what may.
+
+そうでなければ納得いかない。%K%P
+I'd never be satisfied if I didn't.
+
+脱出は、そのあとでも遅くはあるまい。%K%P
+It'd be fine for me to make my escape after that.
+
+ＩＤカードさえ持っていれば、いつでもそれは可能なのだから……。%K%P
+Because the possibility remained open to me as long as I had my ID card....

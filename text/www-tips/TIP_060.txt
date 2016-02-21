@@ -27,23 +27,23 @@
 誤訳されることはなかったかも知れない。
 </pre>
 <pre>
-Kokoro had said that these are &quot;beautiful words.&quot;%N
+Kokoro had said that these are "beautiful words."%N
 However, in reality, this phrase is not exactly
 something one should be very awestruck by.%N
 %N
-&quot;Seagull&quot; in Russian would be &quot;chayka.&quot;%N
-And incidentally, &quot;Chayka&quot; was also the call sign, something
+"Seagull" in Russian would be "chayka."%N
+And incidentally, "Chayka" was also the call sign, something
 akin to a nickname, of Vostok 6.%N
 In other words, just as an astronaut on one of the Apollo spacecraft missions would contact the command center:%N
-&quot;This is Apollo, this is Apollo, Houston, do you copy?&quot;%P
+"This is Apollo, this is Apollo, Houston, do you copy?"%P
 Tereshkova had contacted the respective command center for the Vostok 6 with%N
-&quot;This is Seagull, this is Seagull.&quot;%N
+"This is Seagull, this is Seagull."%N
 %N
 When this phrase was translated into Japanese,
-it was mistakenly translated as 『私はカモメ』, i.e. &quot;I am a seagull.&quot;
+it was mistakenly translated as 『私はカモメ』, i.e. "I am a seagull."
 As a result, it became widely known in Japan
 as Tereshkova's poetic description of herself floating
 in the void of space.%P
 An interesting fact to note: the Vostok 1 that Gagarin piloted
-was called &quot;Kedr&quot; - &quot;Cedar.&quot;%N
+was called "Kedr" - "Cedar."%N
 If that name was used as the call sign of Vostok 6, perhaps such a mistranslation would not have occurred.

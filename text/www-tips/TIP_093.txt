@@ -7,8 +7,8 @@
 オレとは誰だ？
 </pre>
 <pre>
-I am I and not &lt;i&gt;I&lt;/i&gt;.%N
+I am I and not <i>I</i>.%N
 There are two of me here.%N
-And if that's the case, who exactly is &lt;i&gt;I&lt;/i&gt;&#160;?%N
+And if that's the case, who exactly is <i>I</i> ?%N
 And if that's the case...%N
 Who exactly am I?

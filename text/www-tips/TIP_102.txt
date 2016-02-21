@@ -55,7 +55,7 @@ Hobbies: Collecting clothes, hats and shoes%N
 Likes: Her work, animals, high places, herself%N
 Dislikes: Proud men, losing to men, dirty jokes%P
 Beyond%N
-the Surface: Represents the &quot;Persona (Mask)&quot;%N
+the Surface: Represents the "Persona (Mask)"%N
                            (→ Archetype)%N
                              She has a fiancé.%N
                              Satoru and Mayuzumi were once going out,%N

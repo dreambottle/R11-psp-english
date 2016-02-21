@@ -1,0 +1,442 @@
+
+ゆに「あっ、そうだ。忘れてた」%K%P
+Ah, that's right. I forgot.
+
+ゆには毛布をはねのけ、ひょこっと立ち上がった。%K%P
+Throwing off his blanket, Yuni jumped to his feet.
+
+ゆに「ねえ、聖司？」%K%P
+Hey, Seiji?
+
+黄泉木「ん？」%K%P 
+Yes?
+
+ゆっくりと顔を上げる黄泉木。%K%P
+Yomogi slowly raised his head.
+
+黄泉木「ゆに……お前、まだ寝てなきゃだめじゃないか」%K%P
+Yuni... shouldn't you be sleeping a little more?
+
+ゆに「ぼくのことなら大丈夫っ」%K%P
+Don't worry about me, I'm fine.
+
+ゆに「そんなことよりも……」%K%P
+More importantly...
+
+ゆに「もう一度、電話、かけてみようよ」%K%P
+Try the phone again.
+
+黄泉木「電話？」%K%P
+The phone?
+
+黛「電話？」%K%P
+Phone?
+
+こころ「電話……って、あの衛星電話のこと？」%K%P
+Phone... you mean the satellite phone?
+
+ゆに「そうだよ」%K%P
+That's right.
+
+３日前、黄泉木が事故現場から回収してきた衛星電話。%K%N
+Three days ago, Yomogi recovered a satellite phone at the scene of the plane crash.
+
+確かに電話さえ繋がれば、私達の居所を伝えることが出来る。%K%N
+If we were able to get through to someone with the satellite phone, we could let them know our location.
+
+救助を呼ぶことが出来る。%K%P
+Then a rescue could be requested.
+
+けれど、あの新聞によれば……いや、新聞のことを抜きにしても、太陽風の影響で衛星電話の衛星は正常には機能していない。%K%N
+But according to the newspaper article... no, even if we just ignore that newspaper article, the satellite that the phone needs to work can't operate due to the current effects of the solar winds.
+
+たとえ、極稀に、偶然、繋がるとしても……有効接続率は１００万分の１程度。%K%N
+Even if the phone connects to the satellite by sheer luck... the chances of getting a proper connection is one in 1,000,000.
+
+『１秒間に１度ずつ電話をかけるという行動』を『２４時間』継続したとしても、正常に繋がるのは約１１．５日に１度だけ……。%K%P
+Even if we were to dial once every second for twenty-four hours straight, we would get a proper connection only once every eleven and a half days....
+
+まさに奇蹟と呼べるような偶然なのだ。%K%N
+You could call that a miracle.
+
+%N
+そして、その奇蹟は残念ながら起きそうにない。%K%N
+That kind of miracle has, sadly, not happened yet.
+
+それはこの３日間、黄泉木が試行錯誤を繰り返し、失敗してきたことが物語っているではないか。%K%P
+That's what Yomogi's failures have taught us during these three days, in which he tried and failed over and over again to make a call from the satellite phone.
+
+黄泉木「ゆに……残念ながら電話はもうダメなんだよ」%K%P
+Yuni... it's really a shame that the phone is useless.
+
+黄泉木「繋がりっこない」%K%P
+It won't connect.
+
+ゆに「どうして？　試してみなきゃわからないじゃないか」%K%P
+Why? If you don't try, you'll never know, right?
+
+ゆに「昨日繋がらなくても、一昨日繋がらなくても、さっき繋がらなくても……」%K%P
+Even if it didn't connect yesterday, even if it didn't connect the day before that, even if it didn't connect just a moment ago...
+
+ゆに「今は……『今この瞬間』は繋がるかも知れないんだよ？」%K%P
+Now... at this very moment... maybe it might just connect.
+
+黄泉木「しかし……」%K%P
+But...
+
+黛「かけなさい！」%K%P
+Just dial it!
+
+毛布にくるまったまま、黛は言い放った。%K%P
+Wrapped up in her blanket, Mayuzumi interrupted.
+
+黛「ゆにの言う通りよ。試してみなきゃわからないわ」%K%P
+Just like Yuni said, you won't know until you try.
+
+黛「かけてみるべきよ」%K%P
+We should try dialing.
+
+黄泉木「う、うむむ……」%K%P
+H, hmm...
+
+黄泉木は顎をさすりながら悩み出した。%K%P
+Yomogi hesitated as he rubbed his chin.
+
+私は考えた。%K%P
+I thought about it.
+
+確かに、ゆにの言う通りかも知れない。%K%P
+Things may certainly be as Yuni had said.
+
+そう思い始めた。%K%P
+That's what I had started to think.
+
+『今この瞬間』は繋がるかも知れない……まだ奇蹟の可能性は残されているのではないか、と。%K%P
+At "this exact moment," the phone may connect... there's still a chance for a miracle.
+
+黛「なに悩んでるのよ！　チャンスはまさに今かも知れないのに、それを放棄する気？」%K%P
+What are you waiting for?! If we try right now, it could be our chance, and you want to give up?
+
+黛「日本国憲法第２７条１項：すべて国民は、勤労の権利を有し、義務を負う」%K%P
+Article 27, paragraph 1 of the Japanese Constitution: All people shall have the right and the obligation to work.
+
+黛「さっさと働きなさいよ！　このウスノロ！」%K%P
+So get moving, you lamebrain!
+
+しかし、黄泉木は動こうとはしなかった。%K%P
+But Yomogi didn't move at all.
+
+この数日間の疲労によって、彼の希望は潰えてしまったのだろうか。%K%P
+Perhaps his hopes have already crumbled away because of the exhaustion from the past couple of days.
+
+こころ「黄泉木さん、電話は……電話はどこにあるんですか？」%K%P
+Yomogi-san, the phone... where is the phone?
+
+黄泉木「冬川さん……かけるのか？」%K%P
+Fuyukawa-san... are you going to try?
+
+こころ「そうです。電話の保管場所を教えてください」%K%P
+That's right. Please, tell me where you keep the phone.
+
+黄泉木「…………」%K%P
+......
+
+黄泉木「電話なら、僕のバッグの中にある」%K%P
+It's in my bag.
+
+私はすぐさま黄泉木のバッグへと駆け寄り、中を探った。%K%P
+I quickly ran over to Yomogi's bag and looked inside.
+
+電話はすぐに見つかった。%K%P
+I found the phone right away.
+
+こころ「えーと……」%K%P
+Umm...
+
+こころ「どこにかければいいんだろう？？」%K%P
+What number should I try??
+
+１１０番……じゃないよね。%K%P
+110... no.
+
+１１９番も、ちょっと違うっぽいし……。%K%P
+119 isn't quite right either....
+
+黄泉木「かけるなら、山岳救助隊がいいだろう」%K%P
+If you want a number to dial, try the mountain rescue team.
+
+黄泉木「番号は……」%K%P
+The number is...
+
+私は黄泉木が教えてくれた番号をダイヤルした。%K%P
+I dialed the number Yomogi gave me.
+
+黄泉木「もっとも、かかるとは思えないがね」%K%P
+Of course, I don't think it'll connect.
+
+スピーカーの向こうは沈黙していた。%K%P
+The phone's speak was silent.
+
+こころ「………………」%K%P
+.........
+
+黄泉木「無駄な努力というものさ……」%K%P
+It's just a waste of effort...
+
+やはり……ダメだったのか……。%K%P
+Just like he said... it was useless to try....
+
+思いかけた、その時だった――%K%P
+The moment that thought entered my head――
+
+…………。%K%P
+.......
+
+……えっ？%K%P
+...Eh?
+
+これって……。%K%P
+This....
+
+男「はい、こちら八甲田山遭難対策委員会山岳救助隊」%K%P
+Yes, this is the Mount Hakkouda Distress Response Council's Mountain Rescue Team.
+
+こころ「……………………………………」%K%P
+.....................
+
+男「あれ？　もしもし？　もしもーし？」%K%P
+Hello? Hello? Is anyone there?
+
+こころ「……………………………………」%K%P
+.....................
+
+繋がった。%K%P
+It went through.
+
+こころ「つ、つ、つ、繋がったー！　繋がったー！」%K%P
+It, it, it... it went through! It went through!
+
+黄泉木「え？」%K%P
+Eh?
+
+黛「え？」%K%P
+Eh?
+
+ゆに「…………」%K%P
+......
+
+こころ「ど、ど、ど、どーしよ！　どーしよぉー！」%K%P
+Wh, wh, wh, what do I do?! What do I dooooo?!
+
+私は動揺のあまり、どうしていいのかわからなくなってしまっていた。%K%P
+I was so shocked that any possible response went right out of my head.
+
+おろおろとするばかりで、何を話していいのかわからない。%K%P
+I just stared blankly, not knowing what to say.
+
+黄泉木「貸せっ！」%K%P
+Give it to me!
+
+黄泉木が電話をひったくった。%K%P
+Yomogi grabbed the phone.
+
+黄泉木「もしもし！」%K%P
+Hello! Hello!
+
+電話ごしに怒鳴る黄泉木。%K%P
+Yomogi yelled into the phone.
+
+黄泉木「我々はＨＡＬ１８便の乗客だ」%K%P
+We're passengers from HAL18.
+
+黄泉木「墜落した旅客機だよ！　ニュースでやってるだろ！？」%K%P
+The plane that went down! It's been reported in the news, right?
+
+黄泉木「行方不明？　そういうことになってるのか？」%K%P
+Whereabouts unknown? So that's what happened, huh?
+
+黄泉木「まあいい……」%K%P
+Well, whatever...
+
+黄泉木「そう、そうだ」%K%P
+Yes, that's right.
+
+黄泉木「１８便の墜落地点は南八甲田の朱倉岳だ」%K%P
+The crash site of HAL18 is on Mount Akakura in South Hakkouda.
+
+黄泉木「我々はその墜落事故の生き残りで……生存者は全部で４名だ」%K%P
+We're the ones who made it out of the plane crash alive... there are a total of four survivors.
+
+黄泉木「今は、朱倉岳緊急避難小屋に避難してる」%K%P
+Right now we've sought shelter at the Mount Akakura Emergency Shelter Cabin.
+
+黄泉木「ポイントはわかるだろう？　僕のＧＰＳによれば『北緯：４０度３５分３５秒／東経：１４０度５５分２０秒／標高：＋１２９８ｍ』」%K%P
+You know where that is, right? My GPS shows "40 degrees 35 minutes and 35 seconds latitude, 140 degrees 55 minutes and 20 seconds longitude, altitude +1298 meters."
+
+黄泉木「今までなんとかしのいできたが、そろそろ限界だ。物資も底をついてしまった」%K%P
+We've been able to hold out until now, but we're at our limit. All supplies have been depleted.
+
+黄泉木「すぐにっ、今すぐに助けに来て欲しい！」%K%P
+We hope you'll send someone to help us right away!
+
+黄泉木「…………」%K%P
+......
+
+黄泉木「もしもし？」%K%P
+Hello? Hello?
+
+黄泉木「おい、聞いてるのか？　もしもーし！」%K%P
+Hey, are you listening? Helloooo!
+
+黄泉木「……………………」%K%P
+............
+
+黄泉木「ちっ、切れちまいやがった……」%K%P
+Damn, we got cut off...
+
+こころ「え？」%K%P
+Eh?
+
+黄泉木はすぐにリダイアルした。%K%P
+Yomogi-san redialed again right away.
+
+だが……%K%P
+But...
+
+黄泉木「だめだ……繋がらない……」%K%P
+No good... it won't connect...
+
+それから何度か試してみたが、もう二度と電話は繋がらなかった。%K%P
+No matter how many times he tried again after that, none of the calls made it through.
+
+こころ「助けに……来てくれるんですか？」%K%P
+Will they... send help?
+
+黄泉木「……わからない」%K%P
+...I don't know.
+
+黛「わからないって、どういうことよ？　あんた、ちゃんと説明したの！？」%K%P
+What do you mean you don't know? Hey, did you tell them everything?!
+
+黄泉木「言うべきことは言ったつもりだ」%K%P
+I tried to tell them everything they needed to know.
+
+黄泉木「ただ……途中で切れてしまったんだ」%K%P
+It's just... we got cut off in the middle.
+
+黄泉木「向こうの返答が聞けなかった」%K%P
+I didn't get a chance to hear their reply.
+
+黄泉木「途中から電波状況が悪くなって、ほとんど応答が聞き取れなかった」%K%P
+The static was really bad; I could barely make out what they were saying.
+
+黄泉木「それどころか……きちんと内容が伝わったかどうかも、わからない」%K%P
+In fact... I'm not even sure that what I said made it through to them clearly at all.
+
+黄泉木「僕の言葉を、どこまで聞き取ってくれたのか……」%K%P
+Exactly who got my message...
+
+黛「それって、場所とか私達のこととか、全然伝わってないかも、ってこと？」%K%P
+You mean our location, the fact we're all trapped here... none of it went through?
+
+黄泉木「うむ……自信がない」%K%P
+Yeah, I'm not sure it did either.
+
+黛「ちょっと！　どうにかしなさいよ！　なんとかしなさい！！」%K%P
+Wait! Then think of something! Do something!!
+
+黛「もう一度……もう一度かけるのよ！」%K%P
+One more time... call them again!
+
+黄泉木「無理だよ、黛……」%K%P
+It's impossible, Mayuzumi...
+
+黄泉木「さっき繋がったのだって、奇蹟みたいなものだったんだから」%K%P
+The fact that we connected a moment ago was nothing short of a miracle.
+
+黄泉木「奇蹟は２度、起きたりはしない」%K%P
+That miracle isn't going to happen twice.
+
+黛「貸しなさい！　私がやるわ！」%K%P
+Hand it over! I'll do it!
+
+そして黛が電話を奪い取ると、リダイヤルボタンを押した。%K%P
+Lin grabbed the phone and pressed the redial button once again.
+
+黛「繋がるわ……繋がるのよ……きっと……」%K%P
+It'll go through... it'll go through... I just know it will...
+
+黛「繋がらなくっちゃ……困るのよ」%K%P
+If it doesn't... then it'll be a really big problem.
+
+こころ「………………」%K%P
+.........
+
+黄泉木「………………」%K%P
+.........
+
+ゆに「………………」%K%P
+.........
+
+黛「繋がりなさいよ……どうしたのよ……どうなってるのよ……」%K%P
+Please go through... come on... What's wrong? What happened...?
+
+黛「繋がってよ……」%K%P
+Go through...
+
+黛「お願い……」%K%P
+Please...
+
+黛「お願い……」%K%P
+Please...
+
+黛「お願い……だから…………」%K%P
+Please... because......
+
+やがて黛は、電話を握ったまま泣き崩れた。%K%P
+With the phone still in her hand, Mayuzumi eventually collapsed to her knees with tears in her eyes.
+
+黛「うぅ……うぅ……」%K%P
+Uu... uu...
+
+こころ「黛さん……」%K%P
+Mayuzumi-san...
+
+私は黛の肩に手を添えた。%K%P
+I laid a supporting hand on her shoulder.
+
+彼女の肩は細かく震えていた。%K%P
+Her shoulders were quivering.
+
+黄泉木「祈ろう」%K%P
+Pray.
+
+黄泉木「あとは祈るしかない」%K%P
+All that's left to do is to pray.
+
+黄泉木「僕らのことが、きちんと伝わったと信じて」%K%P
+And believe that our message got through properly.
+
+黄泉木「きっと助けに来てくれる」%K%P
+They're coming to help us for sure.
+
+黄泉木「そう信じよう」%K%P
+Believe in that.
+
+黄泉木の言葉は心強かったが、黛の慰めにはならなかったようだった。%K%P
+Even though Yomogi's words were hopeful and inspiring, they did nothing to comfort Mayuzumi.
+
+彼女は電話を置くと、ベッドの方へとフラフラと歩いていった。%K%P
+Putting down the phone, she stumbled slowly toward the bed.
+
+毛布をかぶり、押し黙ってしまう。%K%P
+Wrapping herself in her blankets, she went completely silent.
+
+いや、何かをブツブツと呟いている。%K%P
+No, she was muttering something repeatedly under her breath.
+
+このままでは気がふれてしまうかも知れない。%K%P
+If things keep going like this, she may just lose her mind.
+
+私は黛のことが心配になり、彼女の側に近寄っていった。%K%P
+Getting more and more worried about her, I moved closer beside her.

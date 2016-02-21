@@ -29,7 +29,7 @@ These split photons travel along the contours of two
 cones that, in turn, are symmetric about the initial beam.%P
 
 The points where the contours of the two cones intersect have photons
-in the state of&#160;%TS070entanglement%TE, i.e. there is no distinction as to
+in the state of %TS070entanglement%TE, i.e. there is no distinction as to
 their origins there. What is known about these entangled photons is
 that their polarization is mutually orthogonal, however it is impossible
 to definitely know their respective deflection angles.%N

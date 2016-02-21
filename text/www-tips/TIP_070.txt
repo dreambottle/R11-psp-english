@@ -24,11 +24,11 @@ of the names of three physicists:%N
 Einstein=E,%N
 Podolsky=P,%N
 Rosen=R.%N
-These three presented the &quot;%TS067EPR Paper%TE&quot; to argue against
-the concept of the &quot;%TS066Uncertainty Principle%TE&quot; of quantum mechanics.%P
+These three presented the "%TS067EPR Paper%TE" to argue against
+the concept of the "%TS066Uncertainty Principle%TE" of quantum mechanics.%P
 
 This opposition was especially pronounced in the case of Einstein,
-summed up by his famous remark &quot;God does not play dice.&quot;%N
+summed up by his famous remark "God does not play dice."%N
 Although fully recognizing its usefulness, he was known to be
 uncomfortable with and to oppose quantum mechanics until his death
 because of its inability to definitely describe the microscopic aspects of physical reality.%N

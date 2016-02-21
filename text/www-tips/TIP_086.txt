@@ -33,22 +33,22 @@ with the two known transfer points, forms the figure which has all of the distan
 between its vertices in equilibrium, seem to be six.%N
 As for where do these positions lie exactly,
 it is as follows....%N
-First, let's designate the surface distance between &quot;point: Aosagi Island&quot;
-and &quot;point: Mount Akakura&quot; as ｒ.%N
-Next, draw two circles of a radius ｒ, centered on &quot;point: Aosagi Island&quot;
-and &quot;point: Mount Akakura&quot; respectively.%P
+First, let's designate the surface distance between "point: Aosagi Island"
+and "point: Mount Akakura" as ｒ.%N
+Next, draw two circles of a radius ｒ, centered on "point: Aosagi Island"
+and "point: Mount Akakura" respectively.%P
 Let's designate the intersection points of these two circles as ｐ１ and ｐ２.%N
 %N
 Draw a line passing through ｐ１ and ｐ２.%N
-Also, draw another line passing through &quot;point: Aosagi Island&quot; and &quot;point: Mount Akakura.&quot;%N
-&quot;Lines&quot; here should be understood in the sense of lying atop a curved surface,
+Also, draw another line passing through "point: Aosagi Island" and "point: Mount Akakura."%N
+"Lines" here should be understood in the sense of lying atop a curved surface,
 and thus forming two more circles around the Earth when fully drawn.%N
 With this, we now have two small circles
 and two big ones.%P
 
 Now,%N
 there should be a total of eight points of intersections between all circles——%N
-Since two of them are &quot;point: Aosagi Island&quot; and &quot;point: Mount Akakura&quot; we exclude these.%N
+Since two of them are "point: Aosagi Island" and "point: Mount Akakura" we exclude these.%N
 Which leaves us with six points——%N
 If any of these six represents the actual third area, that would mean that
 the three transfer points are located in equilibrium positions.

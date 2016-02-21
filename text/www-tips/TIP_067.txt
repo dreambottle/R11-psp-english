@@ -16,7 +16,7 @@
 </pre>
 <pre>
 The study of molecules, atoms and subatomic particles; in short, the dynamics of matter and energy on a microscopic level.%N
-It introduced the principles in the&#160;%TS063Schrödinger equation%TE,
+It introduced the principles in the %TS063Schrödinger equation%TE,
 conducted probabilistic explanations between values that can be obtained from observation,
 postulated the wave-particle duality of matter, 
 and explained the uncertainty relationship in measurements.%P
