@@ -1,0 +1,12 @@
+/misc/
+/workdir/
+/mac/
+/etc/
+/iso_extracted/
+
+/iso/Remember11-jap.iso
+/iso/r11-repacked.iso
+
+/*.exe
+/*.dll
+/*.DUMP
