@@ -1,5 +1,6 @@
 #include <assert.h>
 #include <fcntl.h>
+#include <unistd.h>
 #include <stdint.h>
 #include <stdio.h>
 #include <stdlib.h>
@@ -10,7 +11,7 @@
 #ifndef MY_MMAP_H
 #define MY_MMAP_H
 
-#define assert2(cond, ...) if(!(cond)) { printf(__VA_ARGS__); exit(1); }
+#define assert2(cond, ...) if(!(cond)) { fprintf(stderr, __VA_ARGS__); exit(1); }
 
 static void *mmap_file(const char *name, off_t *size)
 {
@@ -21,6 +22,7 @@ static void *mmap_file(const char *name, off_t *size)
     *size = stats.st_size;
     assert2(*size>0, "empty '%s'\n", name);
     void *map = mmap(0, *size, PROT_READ|PROT_WRITE, MAP_PRIVATE, fd, 0);
+	close(fd);
     assert2(map, "can't mmap '%s'\n", name);
     return map;
 }
