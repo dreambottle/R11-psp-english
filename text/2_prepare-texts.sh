@@ -12,7 +12,11 @@
 
 mkdir -p mac-en-only/
 for i in chapters-psp/[A-Z0-9]*_[0-9]*.txt ; do
-	echo $i
 	f=`basename $i .txt`
-    ./extract_en.pl $i > mac-en-only/$f.txt || exit 1;
+	echo Processing: $i
+	# process special characters and remove unimportant lines
+    ./extract_en.pl chapters-psp/$f.txt > mac-en-only/$f.txt || exit 1;
+	
+	# combine with my format
+	./insert_en_lines.py mac-ja-psp/$f.txt mac-en-only/$f.txt mac-combined-psp/$f.txt || exit 1;
 done

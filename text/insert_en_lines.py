@@ -24,7 +24,7 @@ def main():
   jap_entries_count = (len(jap_payload)) // 3;
   
   # Trying to fix some common stuff
-  corrections = 0;
+  corrections = [];
   for i in range(jap_entries_count):
     # print ("line", i*3+1+3)
     jap_line = jap_payload[i*3+1];
@@ -40,7 +40,7 @@ def main():
       else:
         # no newlines at all
         en_lines.insert(i, jap_line);
-        corrections += 1;
+        corrections.append(i);
 
     # endings
     if (i < len(en_lines)):
@@ -48,13 +48,14 @@ def main():
       ending_en = re.search(b"(?:%[KkPpNn])+$", en_lines[i]);
       if (ending_ja and ending_en and ending_ja.group() != ending_en.group()):
         en_lines[i] = en_lines[i][:ending_en.start()] + jap_line[ending_ja.start():];
-        corrections += 1;
+        # corrections += 1;
+        corrections.append(i);
         # print ("ja: %s en: %s parts: %s ::: %s" % (ending_ja.group(), ending_en.group(), \
         #   en_lines[i][:ending_en.start()], jap_line[ending_ja.start():]));
 
 
-  if corrections:
-    print("Total automatic corrections:", corrections);
+  if len(corrections):
+    print("Automatic corrections at lines:", [x*3+len(jap_head)+2 for x in corrections], "(total: %d)"%len(corrections));
 
   if len(en_lines) != jap_entries_count:
     print("Entry count mismatch!", "Lines jap: %d(effective:%d), en: %d." % (len(jap_lines), jap_entries_count, len(en_lines)) );
