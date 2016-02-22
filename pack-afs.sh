@@ -7,9 +7,9 @@ ARMIPS=./tools/armips
 REPACK_SCENE=text/repack_scene.py
 
 #mac.afs
-mkdir -f mac-en/
+mkdir -p mac-en/
 for i in text/chapters-psp/*.txt ; do
-	echo $i
+	echo Repacking $i
 	f=`basename $i .txt`
 	$REPACK_SCENE text/mac-combined-psp/$f.txt mac/$f.SCN mac-en/$f.SCN
 	$COMPRESS ./mac-en/$f.{SCN,BIP}
@@ -42,8 +42,10 @@ mv -f $WORKDIR/init.mod.bin $ISO_RES_DIR/init.bin
 #BOOT.BIN
 #TODO leave backup copy somewhere
 echo Applying patches to BOOT.BIN
+cp -f $WORKDIR/BOOT.bin $WORKDIR/BOOT.bin.patched
 $ARMIPS src/boot-patches.asm
 #rm -f $ISO_BIN_DIR/BOOT.BIN
 rm -f $ISO_BIN_DIR/EBOOT.BIN
 cp -f $WORKDIR/BOOT.bin.patched $ISO_BIN_DIR/EBOOT.BIN
+cp -f $WORKDIR/BOOT.bin.patched $ISO_BIN_DIR/BOOT.BIN
 #cp -f $WORKDIR/BOOT.bin $ISO_BIN_DIR/BOOT.BIN #unnecessary
