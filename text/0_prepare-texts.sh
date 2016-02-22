@@ -1,14 +1,11 @@
 #!/bin/sh
 
-# The text in www* folders has to be processed to allow further insertion into scenes.
-# This includes removing all unneeded stuff(comments, jap lines), converting characters where needed etc.
-# Also, the initial text, downloaded from tlwiki, was pulled from the pc version.
-
-# It has some minor mismatches with psp version, so they need to be addressed as well.
+# The text in www* folders was copied to chapters-psp/ and edited because of mismatches between pc and psp versions.
+# extract_en.pl extracts the english lines from the raw translation file, changes encoding, converts unsupported characters etc.
+# This allows a less painful further processing and insertion into scenes.
 
 # Shift-JIS reference tables
 # https://msdn.microsoft.com/en-us/goglobal/cc305152.aspx
-# 
 
 # Dependencies: Perl File::Slurp module.
 # > cpan File::Slurp
