@@ -3,16 +3,16 @@
 There was a snowstorm outside.
 
 壁に手を添えていなければ立っていることさえままならぬほどの猛吹雪だ。%K%P
-The snowstorm was so strong, <i>I</i> had to lean with my hand against the wall to keep standing upright.
+The snowstorm was so strong, ''I'' had to lean with my hand against the wall to keep standing upright.
 
 俺は片方の手のひらを目の前にかざして吹きつける雪を防いだ。%K%P
-<i>I</i> used my other hand to shield my eyes from the wind and the snow.
+''I'' used my other hand to shield my eyes from the wind and the snow.
 
 目を凝らして視界の彼方を探る。%K%P
-It was freezing. <i>I</i> almost strained my eyes trying to stare across the distance.
+It was freezing. ''I'' almost strained my eyes trying to stare across the distance.
 
 何も見えない。%K%P
-<i>I</i> couldn't see anything.
+''I'' couldn't see anything.
 
 そこには白く塗り潰された景色があるだけだった。%K%P
 The entire landscape before me had been whited out.
@@ -21,21 +21,21 @@ The entire landscape before me had been whited out.
 A pure white world where all depth was lost――
 
 ふと、遠近感を奪われフラリとよろめいた。%K%P
-It snatched away my sense of perspective, and <i>I</i> suddenly lost my footing and slipped...
+It snatched away my sense of perspective, and ''I'' suddenly lost my footing and slipped...
 //the "perspective" line (proper translation) - just describes the WHITE around him for the 4th time - which gets kind of dull by this point, while this freehand version ties in to the next line - making the flow more logical.
 //added in the literal meaning for the line above. - the_paper
 
 壁にしがみつくようにして体勢を立て直す。%K%P
-<i>I</i> clung to the wall with both hands to regain my balance.
+''I'' clung to the wall with both hands to regain my balance.
 
 この時計台の高さは１５ｍほどあった。%K%P
 This clock tower was over 15 meters tall.
 
 ここから地面にたたきつけられれば骨の１本や２本では済まないだろう。%K%P
-If <i>I</i> were to fall from that height, <i>I</i>'d be very lucky if <i>I</i> were to get away with just a few broken bones. 
+If ''I'' were to fall from that height, ''I'''d be very lucky if ''I'' were to get away with just a few broken bones. 
 
 俺は眼下をのぞき込んだ。%K%P
-<i>I</i> glanced downward.
+''I'' glanced downward.
 
 視界にはやはり、茫々と舞い上がる雪煙と針のように流れる雪の軌跡だけしか映らなかった。%K%P
 My field of vision was filled with whirling plumes of snow and the needle-like tracks it left as it blew across the roof.
@@ -45,13 +45,13 @@ My field of vision was filled with whirling plumes of snow and the needle-like t
 Lovely weather we're having...
 
 皮肉まじりに吐いた言葉が風に巻かれて消えていく。%K%P
-The words of cynicism <i>I</i> spouted out were quickly carried away with the wind.
+The words of cynicism ''I'' spouted out were quickly carried away with the wind.
 
 凍えるような寒さの中、俺は時刻を確かめた。%K%P
-There in the freezing cold, <i>I</i> checked the time.
+There in the freezing cold, ''I'' checked the time.
 
 俺は腕には何もはめない主義だ。%K%P
-<i>I</i>'ve never liked having anything attached to my arm.
+''I'''ve never liked having anything attached to my arm.
 
 従って腕時計は常にポケットの中に忍ばせていた。%K%P
 So my wristwatch was hidden away in my pocket.
@@ -66,7 +66,7 @@ It's almost 4 PM.
 It's almost time...
 
 見上げれば呪われたように暗い空。%K%P
-<i>I</i> raised my eyes to the dark, restless sky.
+''I'' raised my eyes to the dark, restless sky.
 
 一瞬、蒼白い光が天を切り裂く。%K%P
 For an instant, a pale light cuts through the heavens.

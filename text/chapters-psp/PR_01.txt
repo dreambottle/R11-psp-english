@@ -637,13 +637,13 @@ His cheeks lift into a broad smile as he laughs.
 His smile was certainly that of an 11-year-old.
 
 耳を澄ますと風の歌が聞こえた。%K%P
-Straining my ears, <i>I</i> could still hear the sound of the wind.
+Straining my ears, ''I'' could still hear the sound of the wind.
 
 外はまだ吹雪いているのだろう。%K%P
 Outside, the snow was still blowing violently about.
 
 俺は息を殺して鉄扉の前に立った。%K%P
-<i>I</i> held my breath as <i>I</i> stood in front of an iron door.
+''I'' held my breath as ''I'' stood in front of an iron door.
 
 小さな発光ダイオードが闇の中に赤々とにじんでいる。%K%P
 Beside the door, a small red light was blinking in the darkness.
@@ -655,7 +655,7 @@ The card reader that controlled the lock on the door.
 The treacherous red light gave away its location.
 
 ポケットに手を差し入れて１枚のカードを取り出す。%K%P
-<i>I</i> put my hand in my pocket and pulled out a single key card.
+''I'' put my hand in my pocket and pulled out a single key card.
 
 %LC%FS『ＳＡＴＯＲＵ　ＹＵＫＩＤＯＨ』%FE%N
 SATORU YUKIDOH
@@ -664,7 +664,7 @@ SATORU YUKIDOH
 1331 2223 9801
 
 凸型に刻まれた文字を指先でなぞる。%K%P
-<i>I</i> traced the engraved letters with my fingertip.
+''I'' traced the engraved letters with my fingertip.
 
 悟「優希堂悟……」%K%P
 Yukidoh Satoru...
@@ -673,13 +673,13 @@ Yukidoh Satoru...
 That is my name....
 
 俺は自分の名前があまり好きではなかった。%K%P
-<i>I</i> haven't ever really liked my name that much.
+''I'' haven't ever really liked my name that much.
 
 カードを指にからませてくるりとまわす。%K%P
-<i>I</i> twirled the card in my fingers and spun it around.
+''I'' twirled the card in my fingers and spun it around.
 
 リーダーの溝にそれを差し込み流れるように滑らせた。%K%P
-<i>I</i> inserted it into the reader's slot and let it slide through.
+''I'' inserted it into the reader's slot and let it slide through.
 
 ダイオードの色が青へと変わる。%K%P
 The light on the card reader turned green.
@@ -688,7 +688,7 @@ The light on the card reader turned green.
 The lock opened and the door opened just the slightest crack....
 
 俺は導かれるように闇の奥へと進んでいった。%K%P
-<i>I</i> pushed it open and stepped into the darkness, as if drawn by something.
+''I'' pushed it open and stepped into the darkness, as if drawn by something.
 
 ゆに「こころんは、二十歳でしょう？」%K%P
 Kokoron is twenty, isn't she?
@@ -844,7 +844,7 @@ A small white feather, as light and soft as down.
 %TS104Ｒ%TE section's small, spiraling stairs continued higher and higher up.
 
 まるで巨大なウワバミの背鱗を歩いているようだった。%K%P
-It felt as if <i>I</i> was walking up the scales of a giant constrictor snake.
+It felt as if ''I'' was walking up the scales of a giant constrictor snake.
 
 ウワバミは中心にそびえ立った太い円柱をギリギリと絞め殺していた。%K%P
 A constrictor snake which had wrapped itself around a huge column as it desperately tried to strangle it.
@@ -868,14 +868,14 @@ I will smite David even to the wall with it...
 //old: David was playing the harp... / And there was a javelin in Saul's hands... / And Saul cast the javelin.../ I shall pin David to the wall...
 
 くちからもれたその声は、自分のものとは思えなかった。%K%P
-<i>I</i> didn't think of the words coming out of my mouth as my own.
+''I'' didn't think of the words coming out of my mouth as my own.
 
 誰かが俺の耳元で、ささやいているような気さえした。%K%P
 It was as if some spirit was whispering them into my ear.
 
 %N
 %LC俺はダビデを突き刺してやる……%K%P
-<i>I</i> will smite David...
+''I'' will smite David...
 
 %N
 %LCたとえ再びかわされようと……%K%P
@@ -885,7 +885,7 @@ Even if he avoided it twice...
 //This didn't need to be changed. It's not a quote, but (uhm...spoilers?) refers to the will of 俺. Dunno how to be more indirect...  
 
 出口が近づいていた。ウワバミに頭はなかった。%K%P
-The entrance <i>I</i> was looking for was near. Thankfully, this constrictor <i>I</i> was making my way up on didn't have a head.
+The entrance ''I'' was looking for was near. Thankfully, this constrictor ''I'' was making my way up on didn't have a head.
 
 相手を絞め殺す前に、その首を斬り落とされてしまったのだろうか。%K%P
 Perhaps, before it could finally strangle its prey, its head was cut off...

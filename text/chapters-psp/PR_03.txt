@@ -69,7 +69,7 @@ He simply buried his face in my chest as he trembled all over.
 The bell in the clock tower echoed solemnly.
 
 俺は腕時計を確かめた。%K%P
-<i>I</i> checked my wristwatch.
+''I'' checked my wristwatch.
 
 １６時ちょうど――。%K%P
 Just about 4 o'clock――
@@ -84,7 +84,7 @@ A metallic sound that was like the coarse voice of an aged man alerted me of the
 The snow danced violently to the sound of the bell as the raging winds stirred it.
 
 キラキラと輝く光の粒子……。%K%P
-Though what <i>I</i> saw... were twinkling and sparkling particles of light....
+Though what ''I'' saw... were twinkling and sparkling particles of light....
 
 俺には、福音の訪れに歓喜を示す無数の天使の舞踏に見えた。%K%P
 An infinite number of angels dancing and rejoicing at the advent of a great gospel.
@@ -114,7 +114,7 @@ The flashes illuminated the sky with pale light.
 Then――
 
 光に浮かび上がった黒い影を、俺は見逃さなかった。%K%P
-A shadow that <i>I</i> couldn't miss appeared in the light.
+A shadow that ''I'' couldn't miss appeared in the light.
 
 影は俺の背後から足元に向かって伸びていた。%K%P
 The shadow came up from behind me and stretched toward my feet.
@@ -233,7 +233,7 @@ The white page before my eyes was illuminated by the lightning.
 Who's there...?!
 
 勢いよく振り返り声をあげた。%K%P
-<i>I</i> turned around, saying this as forcefully as <i>I</i> could.
+''I'' turned around, saying this as forcefully as ''I'' could.
 
 扉の前にぼんやりと人影……。%K%P
 There was the faint shadow of a person in front of the door....
@@ -248,7 +248,7 @@ Even the silhouette was impossible to make out through the thick white curtain o
 Who is it...?
 
 再び問いかける。%K%P
-<i>I</i> called out once again.
+''I'' called out once again.
 
 人影は答えない。%K%P
 The shadow gave no answer.
@@ -260,7 +260,7 @@ It was slowly moving closer.
 Feelings of fear and distress began to grow inside of me.
 
 じりじりと後ずさり、屋上の隅へと追いつめられる。%K%P
-<i>I</i> was backed up into a corner of the roof by the mysterious shadow as it slowly drew nearer and nearer.
+''I'' was backed up into a corner of the roof by the mysterious shadow as it slowly drew nearer and nearer.
 
 影は歩みを止めなかった。%K%P
 The shadow didn't stop.
@@ -275,7 +275,7 @@ The well-honed blade struck the earth.
 A silhouette could be made out in the backlight――
 
 そのとき……俺は影の正体をようやく……。%K%P
-In that instant... <i>I</i> finally figured out what that shadow really was....
+In that instant... ''I'' finally figured out what that shadow really was....
 
 今までを超える衝撃に機体が大きく傾いた。%K%P
 Reeling from the greatest shock yet, the airplane sunk rapidly. 
@@ -303,7 +303,7 @@ Ah...
 // ---------------------------------------------------
 %N%N%N%N%N
 %FS%LC気がつくと、俺は宙を舞っていた。%FE%T60%T60%P
-Before <i>I</i> noticed, <i>I</i> was dancing in the air.
+Before ''I'' noticed, ''I'' was dancing in the air.
 
 %N%N%N%N%N
 %FS%LCすべての束縛から解き放たれて……。%FE%T60%T60%P
@@ -319,7 +319,7 @@ The snowstorm stops,
 
 %N%N%N%N%N
 %FS%LC純白の世界へと呑み込まれていく。%FE%T60%T60%P
-And <i>I</i> am swallowed by the pure-white world.
+And ''I'' am swallowed by the pure-white world.
 
 %N%N%N%N%N
 %FS%LC光の粒子が舞い踊る。%FE%T60%T60%P
@@ -341,7 +341,7 @@ Divinely, gently, ever so softly....
 
 %N%N%N%N%N
 %FS%LC俺は光の中へと溶けていく。%FE%T60%T60%P
-<i>I</i> start to dissolve within the light.
+''I'' start to dissolve within the light.
 
 %N%N%N%N%N
 %FS%LC感覚はない。なにも見えない。%FE%T60%T60%P
@@ -353,7 +353,7 @@ As if it were being slowly peeled away, my consciousness departs me.
 
 %N%N%N%N%N
 %FS%LCやがて訪れた深い眠り……。%FE%T60%T60%P
-A deep sleep <i>I</i> came to know long ago....
+A deep sleep ''I'' came to know long ago....
 
 %N%N%N%N%N
 %FS%LCオレの存在は今……ここに……。%FE%T60%T60%P

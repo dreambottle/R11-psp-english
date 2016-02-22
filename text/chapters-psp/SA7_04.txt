@@ -1344,7 +1344,7 @@ Saying that, Enomoto took out his sunglasses from his pocket.
 I don't really care. He...
 
 榎本「俺とは関係のない『オレ』だからな」%K%P
-He is an "I" that <i>I</i> have nothing to do with.
+He is an "I" that ''I'' have nothing to do with.
 
 悟「それはありがたい。では、好きにさせてもらうよ」%K%P
 'I''ll thank you for that. Well then, 'I' suppose 'I''ll just do as 'I' please.
