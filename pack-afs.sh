@@ -3,14 +3,18 @@ ISO_RES_DIR=iso_extracted/PSP_GAME/USRDIR
 ISO_BIN_DIR=iso_extracted/PSP_GAME/SYSDIR
 WORKDIR=./workdir
 COMPRESS=./compressbip
+ARMIPS=./tools/armips
+REPACK_SCENE=text/repack_scene.py
 
 #mac.afs
-for i in ./mac/*.SCN ; do
+mkdir -f mac-en/
+for i in text/chapters-psp/*.txt ; do
 	echo $i
-	f=`basename $i .SCN`
-	$COMPRESS ./mac/$f.{SCN,BIP}
+	f=`basename $i .txt`
+	$REPACK_SCENE text/mac-combined-psp/$f.txt mac/$f.SCN mac-en/$f.SCN
+	$COMPRESS ./mac-en/$f.{SCN,BIP}
 done
-./repack_afs $WORKDIR/mac.afs $WORKDIR/mac-repacked.afs ./mac || exit 1;
+./repack_afs $WORKDIR/mac.afs $WORKDIR/mac-repacked.afs ./mac-en || exit 1;
 mv -f $WORKDIR/mac-repacked.afs $ISO_RES_DIR/mac.afs
 
 
@@ -38,7 +42,7 @@ mv -f $WORKDIR/init.mod.bin $ISO_RES_DIR/init.bin
 #BOOT.BIN
 #TODO leave backup copy somewhere
 echo Applying patches to BOOT.BIN
-./tools/armips src/boot-patches.asm
+$ARMIPS src/boot-patches.asm
 #rm -f $ISO_BIN_DIR/BOOT.BIN
 rm -f $ISO_BIN_DIR/EBOOT.BIN
 cp -f $WORKDIR/BOOT.bin.patched $ISO_BIN_DIR/EBOOT.BIN

@@ -24,7 +24,7 @@ cp $RES_DIR/init.bin $WORK_DIR/init.bin
 PKG=mac
 rm -rf $PKG/
 unpack_afs
-for i in text/mac-en-pc/[A-Z0-9]*_[0-9]*.txt ; do
+for i in text/chapters-psp/[A-Z0-9]*_[0-9]*.txt ; do
 	f=`basename $i .txt`
 	$DECOMPRESS $PKG/$f{.BIP,.SCN} || exit 1
 done
@@ -41,6 +41,7 @@ unpack_afs
 for i in $PKG/*.FOP ; do
 	f=`basename $i .FOP`
 	$DECOMPRESS $PKG/$f{.FOP,.FNT} || exit 1
+	#mv -f $PKG/$f.FNT $WORK_DIR/$f.FNT
 	#TODO convert font to editable format
 done
 
