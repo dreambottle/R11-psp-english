@@ -148,8 +148,8 @@ The instant I became aware of it, my existence vanished.
 %FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
 %O
-ロック解除――アルバム（全キャラクター表情集）
-Unlocked――Album (All Characters' Facial Expressions)
+//ロック解除――アルバム（全キャラクター表情集）
+//Unlocked――Album (All Characters' Facial Expressions)
 
 突如襲ってきたのは、メリメリと生皮を引き剥がされるような感覚……。%K%P
 The sudden sensation of being torn free from my own skin overwhelmed me....
@@ -297,8 +297,8 @@ The instant I became aware of it, my existence vanished.
 %FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
 %O
-ロック解除――アルバム（全キャラクター表情集）
-Unlocked――Album (All Characters' Facial Expressions)
+//ロック解除――アルバム（全キャラクター表情集）
+//Unlocked――Album (All Characters' Facial Expressions)
 
 悟「う、ぅ、ぅぅっ、ふぅぅ……さ、さ、さ、さみぃぃぃ……」%K%P
 Uu, uuuuuhh, hhuuhhh... c, c, c, coooold!

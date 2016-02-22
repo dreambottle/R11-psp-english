@@ -247,6 +247,8 @@ A message I'd yet to read had been inscribed there.
 It's Kokoro.
 
 %N
+
+
 身体がおかしい。%K%N
 There's something strange going on with your body.
 
@@ -473,6 +475,8 @@ I found her body within the circle of the shelter cabin, after all.
 Somewhere, buried under the thick snow on Mount Akakura, I saw her cold body with my own two eyes.
 
 %N
+
+
 （実際には『こころの目を借りて』だが……）%K%P
 (Well, with Kokoro's eyes, but...)
 
@@ -480,6 +484,8 @@ Somewhere, buried under the thick snow on Mount Akakura, I saw her cold body wit
 But then, why was she out there...?
 
 %N
+
+
 考えるまでもないことだ。%K%N
 No need to think about it.
 
@@ -538,6 +544,8 @@ Unless I messed up, Suzukage Hotori....
 She's alive....
 
 %N
+
+
 犬伏景子の肉体を借りて……。%K%P
 She's just borrowing the body of Inubushi Keiko....
 
@@ -562,11 +570,13 @@ Suzukage Hotori's consciousness was separated from her body.
 原因は定かではないけれど、オレやこころと同じような状態になったのだと考えれば、あり得ないことではない。%K%N
 I'm not sure why, but when you consider that Kokoro and I are in the very same situation, it's not unthinkable.
 
-オレの意識がこころの肉体に宿り、こころの意識がオレの肉体に宿ったのと同じように、%K%N
-Just as my consciousness entered Kokoro's body, and Kokoro's consciousness entered my body,
-
-涼蔭穂鳥の意識は、犬伏景子の肉体に入り込んだのだ。%K%N
-Suzukage Hotori's consciousness entered Inubushi Keiko's body.
+//オレの意識がこころの肉体に宿り、こころの意識がオレの肉体に宿ったのと同じように、%K%N
+//Just as my consciousness entered Kokoro's body, and Kokoro's consciousness entered my body,
+//涼蔭穂鳥の意識は、犬伏景子の肉体に入り込んだのだ。%K%N
+//Suzukage Hotori's consciousness entered Inubushi Keiko's body.
+//Were combined into 1 in psp version:
+オレの意識がこころの肉体に宿り、こころの意識がオレの肉体に宿ったのと同じように、涼蔭穂鳥の意識は、犬伏景子の肉体に入り込んだのだ。%K%N
+Just as my consciousness entered Kokoro's body, and Kokoro's consciousness entered my body, Suzukage Hotori's consciousness entered Inubushi Keiko's body.
 
 言うまでもなく、このときの犬伏景子の身体は空っぽのウツワでなければならない。%K%N
 It goes without saying that Inubushi Keiko's body must've been deserted, an empty vessel, at the time.

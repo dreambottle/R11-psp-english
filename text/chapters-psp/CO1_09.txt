@@ -57,6 +57,8 @@ If flight conditions were favorable, we should have arrived at the airport at 5 
 But...
 
 %N%N%N%N
+
+
 %FS%LC２０１１年１月１１日午後４時８分。%FE%T60%N
 January 11, 2011, 4:08 PM
 
@@ -67,6 +69,8 @@ Flight HAL18 crashed, deep in the snowy mountains.
 I, who had regained consciousness after being thrown out of the plane, began my search and rescue efforts for survivors.
 
 %N
+
+
 あたりは荒れ狂うような猛吹雪……。%K%N
 A snowstorm was raging all around....
 
@@ -84,6 +88,8 @@ The fact that I was all right meant that there had to be other survivors as well
 It was not a feeling of obligation or a sense of justice, which kept me going. I was spurred on by some unexplainable instinct.
 
 %N
+
+
 やがて僕は、散乱した瓦礫の中から２人の女性を発見した。%K%P
 Before long, I found two women among the scattered rubble.
 
@@ -91,6 +97,8 @@ Before long, I found two women among the scattered rubble.
 Mayuzumi Lin, and you.
 
 %N
+
+
 墜落の衝撃によって気を失っていたきみは、崩れ落ちた天井の下でぐったりとうなだれていた。%K%N
 Having lost consciousness from the shock of the crash, you were laying beneath the caved-in ceiling, your head hanging limp.
 
@@ -159,6 +167,8 @@ However, a single sigh escaped your lips, which made me believe you'd surely get
 このとき、きみの体温はすでに、生命維持の臨界点を遥かに下まわっていたのだ。%K%N
 Your body temperature, however, was nearly that of a corpse.
 
+%N
+
 当然と言えば当然のことだった。%K%N
 That made sense.
 
@@ -174,7 +184,6 @@ She was wearing a suit and high heels, and her legs were only covered with a thi
 このままでは２人とも死んでしまう。%K%N
 Left like that, the two of you would have surely died.
 
-%N
 そう思った僕は、熱でドロドロに溶けた天井の荷物入れを片っ端からこじ開けていった。%K%N
 With this in mind, I looked through the melted baggage compartments in the ceiling of the plane in hopes of finding something useful amongst the luggage.
  
@@ -203,14 +212,20 @@ I turned it on and a streak of light pierced the darkness.
 There were only two things to be done next.
 
 %N
+
+
 ひとつめは、%T30%N輪切りになった機体の前後を塞ぎ、シェルターを構築すること。%K%N
 First, I had to make a shelter by closing off the open ends of the shorn airframe.
 
 %N
+
+
 ふたつめは、%T30%Nどうにかして通信手段を見つけ出すこと、だった。%K%N
 Second, I had to find some means of communication to send out a distress signal.
 
 %N
+
+
 それ以外の選択肢は考えられなかった。%K%P
 I didn't spare a thought for anything else.
 
@@ -254,10 +269,14 @@ If they got better, a military or a rescue helicopter would have no trouble find
 Of course, that'd be pointless if the three of us lost our lives before they arrived.
 
 %N
+
+
 だから――生き延びること――。%K%N
 That's why――to live――
 
 %N
+
+
 目下、それが僕らにとっての最優先事項だった。%K%P
 That was the highest priority for us.
 
@@ -308,6 +327,9 @@ With the torch in hand, I turned to find more traces.
 なにも見えない。%K%N
 I could barely see a thing.
 
+%N
+
+
 この吹雪と闇の中では、懐中電灯の細々とした明かりなど何の役にも立たなかった。%K%N
 In the middle of a snowstorm at night, the light of a pocket flashlight was almost useless.
 
@@ -329,12 +351,14 @@ I pushed on, parting the fallen snow before me.
 たたきつける無数の雪片をかいくぐりながら、ひたすら彼女の姿を追い求めた。%K%N
 Blinded by a myriad of snowflakes, I single-mindedly continued to pursue her trail.
 
-%N
 行軍を続けること数十分――。%K%N
 After marching on for about ten minutes――
 
 ようやく彼女の姿を捉えた。%K%P
 I finally caught a glimpse of her.
+
+%N
+
 
 彼女は広大な雪原の真っ只中で、うつ伏せになって倒れていた。%K%N
 She had collapsed face-down in the middle of a large snowfield.
@@ -344,6 +368,9 @@ I had no idea why she would do something so foolish.
 
 理性を失ってパニックに陥り、どこでもいいからとにかく遠くへ逃げ出したかったのかも知れない。%K%N
 Losing her cool and giving in to panic, she may have thought "It doesn't matter where I go; I just need to get away."
+
+%N
+
 
 いずれにせよ、彼女はこの地点までやって来て力尽きてしまった。%K%N
 Anyway, she had made her way here and probably collapsed from exhaustion.
@@ -402,6 +429,9 @@ But even then, I never once thought of turning back.
 なぜか……？%K%N
 Why is that...?
 
+%N
+
+
 黛を連れ戻すというのは口実で、本当は自らここで果てることを望んでいたからなのかも知れない。%K%P
 It might have been that bringing back Mayuzumi was just an excuse, when in reality, I wanted to meet my end here.
 
@@ -427,6 +457,8 @@ Sorry for the long wait...
 Now... I can finally join you...
 
 %N%N%N%N%N
+
+
 %LC「（お父さん……お父さん……）」%K%P
 Dad... Dad...
 
@@ -437,6 +469,8 @@ Right then, I thought I heard a voice.
 A voice I'd heard so often, but now thought I'd never hear again.
 
 %N%N%N%N%N
+
+
 %LC「（お父さん……お父さん……）」%K%P
 Dad... Dad...
 
@@ -455,11 +489,15 @@ Having gathered the remainder of my strength, I strained my throat and raised my
 黄泉木「潤一、潤一なのか……？」%K%P
 Junichi! Junichi, is that you...?
 
-%N%N%N%N%N
+%N%N%N%N
+
+
 %LC「（お父さん！　こっち！　こっちだよ！）」%K%P
 Dad! Here! Here!
 
-%N%N%N%N%N
+%N%N%N%N
+
+
 %LC「（こっちに山小屋があるんだ！　見つけたんだよ！）」%K%P
 There's a mountain cabin here! I found it!
 

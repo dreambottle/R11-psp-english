@@ -127,8 +127,8 @@ The instant I became aware of it, my existence vanished.
 %FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
 %O
-ロック解除――アルバム（全キャラクター表情集）
-Unlocked――Album (All Characters' facial expressions)
+//ロック解除――アルバム（全キャラクター表情集）
+//Unlocked――Album (All Characters' facial expressions)
 
 ここはどこだ……？%K%P
 Where was this place...?
@@ -216,8 +216,8 @@ A gentle breeze carried my last exhalation away.
 %FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
 %O
-ロック解除――アルバム（全キャラクター表情集）
-Unlocked――Album (All Characters' facial expressions)
+//ロック解除――アルバム（全キャラクター表情集）
+//Unlocked――Album (All Characters' facial expressions)
 
 目の前の光景が変化した。%K%P
 The scenery shifted before my eyes.

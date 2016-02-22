@@ -63,6 +63,8 @@ And with one finger of her other hand, she'd written something on the floor in b
 Just a single line:
 
 %N%N%N%N%N
+
+
 %LC%FS%C954A『セルフはどこ？』%FE%K%P
 "Where is Self?"
 
@@ -213,6 +215,6 @@ And then, the nothingness swallowed me.
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
 %O
 
-ロック解除――アルバム（全キャラクター表情集）
-Unlocked――Album (All Characters' facial expressions)
+//ロック解除――アルバム（全キャラクター表情集）
+//Unlocked――Album (All Characters' facial expressions)
 

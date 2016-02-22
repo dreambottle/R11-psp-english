@@ -130,6 +130,6 @@ Suddenly, I heard a voice from the other side of the door.
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
 %O
 
-ロック解除――アルバム（全キャラクター表情集）
-Unlocked――Album (All Character Expressions)
+//ロック解除――アルバム（全キャラクター表情集）
+//Unlocked――Album (All Character Expressions)
 

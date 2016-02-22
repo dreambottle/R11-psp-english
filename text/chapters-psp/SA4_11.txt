@@ -149,8 +149,8 @@ The instant I became aware of it, my existence vanished.
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
 %O
 
-ロック解除――アルバム（全キャラクター表情集）
-Unlocked――Album (All Characters' Facial Expressions)
+//ロック解除――アルバム（全キャラクター表情集）
+//Unlocked――Album (All Characters' Facial Expressions)
 
 ――はっ！%K%P
 ――Ah!

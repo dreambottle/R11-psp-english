@@ -299,6 +299,6 @@ I fell asleep....
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
 %O
 
-ロック解除――アルバム（全キャラクター表情集）
-Unlocked――Album (All character facial expressions)
+//ロック解除――アルバム（全キャラクター表情集）
+//Unlocked――Album (All character facial expressions)
 

@@ -1114,11 +1114,13 @@ Judging from the records, "my body" is used by us three in the following order:
 もっとわかりやすく言えば……。%K%N
 Simply said....
 
-『オレの肉体』は、オレの意識に操られた後、こころ意識に操られ、α意識に操られ、%K%N
-"My body," after being operated by me, is operated by Kokoro, then operated by α.... 
-
-オレの意識に操られ、こころ意識に操られ、α意識に操られ……ていたということになる。%K%N
-Then operated by me, operated by Kokoro, operated by α... and so on.
+//『オレの肉体』は、オレの意識に操られた後、こころ意識に操られ、α意識に操られ、%K%N
+//"My body," after being operated by me, is operated by Kokoro, then operated by α.... 
+//オレの意識に操られ、こころ意識に操られ、α意識に操られ……ていたということになる。%K%N
+//Then operated by me, operated by Kokoro, operated by α... and so on.
+// lines merged into one in psp version
+『オレの肉体』は、オレの意識に操られた後、こころ意識に操られ、α意識に操られ、オレの意識に操られ、こころ意識に操られ、α意識に操られ……ていたということになる。%K%N
+"My body," after being operated by me, is operated by Kokoro, then operated by α.... Then operated by me, operated by Kokoro, operated by α... and so on.
 
 無論これらは『こころ肉体』に於いても『α肉体』に於いても同様である。%K%P
 Of course, the same kind of thing happens to "K's body" and "α's body."
@@ -1187,6 +1189,8 @@ The time my consciousness controls α's body = the time Kokoro controls my body 
 ――33 minutes.
 
 %N
+
+
 オレの意識がこころ肉体に憑依していた時間＝%Nこころ意識がα肉体に憑依していた時間＝%Nα意識がオレの肉体に憑依していた時間＝%K%N
 The time my consciousness controls Kokoro's body = the time Kokoro controls α's body = the time α controls my body:
 

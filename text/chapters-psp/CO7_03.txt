@@ -873,8 +873,8 @@ I fall to the bottom of the cliff...
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
 %O
 
-ロック解除――アルバム（全キャラクター表情集）
-Unlocked――Album (All characters' facial expressions)
+//ロック解除――アルバム（全キャラクター表情集）
+//Unlocked――Album (All characters' facial expressions)
 
 私は黄泉木の言いつけ通り、その場でじっとしていた。%K%P
 As Yomogi told me to, I patiently stayed where I was.
@@ -1764,5 +1764,5 @@ Goodbye, me.
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
 %O
 
-ロック解除――アルバム（全キャラクター表情集）
-Unlocked――Album(All characters' facial expressions)
+//ロック解除――アルバム（全キャラクター表情集）
+//Unlocked――Album(All characters' facial expressions)

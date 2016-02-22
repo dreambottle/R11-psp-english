@@ -996,8 +996,8 @@ I, fall...
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
 %O
 
-ロック解除――アルバム（全キャラクター表情集）
-Unlocked――Album (All Characters' Facial Expressions)
+//ロック解除――アルバム（全キャラクター表情集）
+//Unlocked――Album (All Characters' Facial Expressions)
 
 しばらく行くと、小さな窓が見えてきた。%K%P
 After a while, a small window came into sight.
@@ -1401,8 +1401,8 @@ You're...!
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
 %O
 
-ロック解除――アルバム（全キャラクター表情集）
-Unlocked――Album (All Characters' Facial Expressions)
+//ロック解除――アルバム（全キャラクター表情集）
+//Unlocked――Album (All Characters' Facial Expressions)
 
 暖かい空気が、私の身体を包んだ。%K%P
 Warm air wrapped around my body.
@@ -1524,8 +1524,8 @@ You're...!
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
 %O
 
-ロック解除――アルバム（全キャラクター表情集）
-Unlocked――Album (All Characters' Facial Expressions)
+//ロック解除――アルバム（全キャラクター表情集）
+//Unlocked――Album (All Characters' Facial Expressions)
 
 暖かい空気が、私の身体を包んだ。%K%P
 Warm air wrapped around my body.

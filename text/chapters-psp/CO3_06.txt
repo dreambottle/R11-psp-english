@@ -8,7 +8,10 @@ She is the serial killer who, at age 17, murdered twelve innocent people at Awaz
 だが、ＤＩＤと診断されたために極刑を免れ、スフィアへと送致された――%K%P 
 However, due to being diagnosed with DID, she escaped capital punishment and was sent to SPHIA――
 
-犬伏景子は、いろいろな意味で、日本の犯罪史を塗り替えている。%K%N
+%N
+
+
+犬伏景子は、いろいろな意味で、日本の犯罪史を塗り替えている。%K%P
 Inubushi Keiko had rewritten the history of crime in Japan, in many different ways.
 
 未成年による連続殺人事件で、最も多い人命を奪った。%K%N
@@ -59,26 +62,31 @@ The DSM-VI had been published just a few years earlier――the latest revision 
 １９９４年発行の%TS037ＤＳＭ－Ⅳ%TEにおいて、ＤＩＤだと診断すべき症状は、次の四点を満たすものと規定されていた。%K%N
 In the 1994 edition of the %TS037DSM-IV%TE, the criteria for a DID diagnosis comprised the following four points.
 
-%N%N
+%N
+
+
 １――ふたつ以上の、明確なアイデンティティ・人格状態が存在する
 1――Two or more distinct identities and personalities exist.
 
-（環境や自己を認識し・関係づけ・考えることにおいて、それぞれが独自の、比較的持続するパタ－ンをもつ）%K%N
+（環境や自己を認識し・関係づけ・考えることにおいて、それぞれが独自の、比較的持続するパタ－ンをもつ）%K%P
  (Possess awareness, recognition and cognition of self and surrounding environment, as well as individual personality characteristics.)
 
-%N
-２――これらのアイデンティティ・人格状態の少なくともふたつが、個人の行動を繰り返し支配する%K%P
+２――これらのアイデンティティ・人格状態の少なくともふたつが、個人の行動を繰り返し支配する%K%N
 2――These identities, having at least two distinct personalities, continuously show individual behavior and conduct.
+
+%N
+
 
 ３――重要な個人情報を思い出すことができず、その広がりは通常の健忘で説明できない%K%N
 3――Important personal information cannot be recalled, and this by extension cannot be explained with normal forgetfulness.
 
 %N
-４――このような障害は、薬物による直接の生理的影響（例えば、アルコ－ル中毒で生じる記憶喪失・混乱行動）や一般的な病的状態によるものではない%K%N
-4――These symptoms are not directly due to the influence of the physiological effects of drugs (for example, memory loss or violent behavior due to disorientation from alcohol poisoning) or a result of other general abnormal conditions.
-%N%N
 
-この４点を満たせば、乖離性同一性障害と認定されるのである。%K%P
+
+４――このような障害は、薬物による直接の生理的影響（例えば、アルコ－ル中毒で生じる記憶喪失・混乱行動）や一般的な病的状態によるものではない%K%P
+4――These symptoms are not directly due to the influence of the physiological effects of drugs (for example, memory loss or violent behavior due to disorientation from alcohol poisoning) or a result of other general abnormal conditions.
+
+この４点を満たせば、乖離性同一性障害と認定されるのである。%K%N
 If these four criteria are fulfilled, the condition is recognized as Dissociative Identity Disorder.
 
 しかし、以上の４点では、詐病の患者を弾くことができなかった。%K%N
@@ -93,11 +101,16 @@ There have also been those who have tried to exploit this through the misuse of 
 そこで、２００８年発行のＤＳＭ－Ⅵにおいて、次の項目が追加された。%K%N
 As a result, the 2008 edition of DSM-VI included the following appended criterion.
 
-%N%N
-５――以上の結果が、催眠導入中にも発現する%K%P
+%N
+
+
+５――以上の結果が、催眠導入中にも発現する%K%N
 5――The above symptoms appear even while under induced hypnosis.
 
-つまり、催眠術にかけられて演技ができない状態でも別の人格が現れるようなら、ＤＩＤと認めようというわけだ。%K%N
+%N
+
+
+つまり、催眠術にかけられて演技ができない状態でも別の人格が現れるようなら、ＤＩＤと認めようというわけだ。%K%P
 In other words, if a different personality arose even during hypnosis, a condition in which the patient is unable to act, they'll acknowledge it as DID.
 
 この指針はＤＩＤに懐疑的だった日本精神医学界にも影響を及ぼした。%K%N
@@ -175,7 +188,7 @@ If abused by their parents, they will seal the memories of their pain, anger, an
 つまり、虐待を受けているのは自分ではなく、空想の別の人間なんだと思いこむことで、自分を守ろうとするわけだ。%K%N
 In other words, they protect themselves by thinking that the one being abused isn't them, but a different, imaginary self.
 
-虐待を受けた人格も、本来は自分自身なのだから、自分の記憶として受け止めなくてはならない。%K%N
+虐待を受けた人格も、本来は自分自身なのだから、自分の記憶として受け止めなくてはならない。%K%P
 But the abused personality was also originally a part of the self, so it's necessary to accept those memories as their own.
 
 しかし、その別人格に宿る痛みや苦しみの記憶は、主人格にとって受け入れがたいものだ。%K%N
@@ -225,7 +238,9 @@ This was because, when the doctors asked for her name, the dissociative disorder
 
 また便宜的にＡ～Ｋと名付けたが、それで呼びかけるようなこともしなかった――医師達の間で符丁のような形で、あだ名が付けられたらしいけど。%K%N
 In addition to calling them A through K for convenience, the doctors created nicknames, which they used like a code among themselves.
+
 %N
+
 
 なので私も、この俗称をもとに思考を進める。%K%P
 Then, I continue to think about these common names.
@@ -234,6 +249,8 @@ Then, I continue to think about these common names.
 Let's see, aside from the original Inubushi Keiko, who is "K," the other ten from "A" to "J" are wildly different from the original in terms of personality.
 
 %N
+
+
 例えば、『Ｃ』は子どもだ。%K%N
 For example, "C" is a child.
 
@@ -253,6 +270,8 @@ His nickname was Darkness.
 He tended to shut himself up, and would try to hurt himself if you took your eyes off him.
 
 %N
+
+
 『Ｆ』は、２０代後半の女性。%K%N
 "F" was a woman in her late twenties.
 
@@ -291,7 +310,9 @@ The original personality of Inubushi Keiko was unable to stop the violence of "J
 
 そのため、刑法３９条で言うところの、心神喪失状態と判断され、犬伏景子は免罪されたのである。%K%N
 Because of that, in accordance with article 39 of the criminal code, Inubushi Keiko was judged to be of an unsound mind and was pardoned.
+
 %N
+
 
 犬伏景子も含めた１１人の中に涼蔭穂鳥と思しき人格があるかと探してみると……%K%P
 But whether a personality known as Suzukage Hotori was included as one of the eleven inside Inubushi Keiko...
@@ -312,6 +333,8 @@ She had a fondness for listening to music, so her given nickname was――Hummin
 "H"――"Hotori."
 
 %N
+
+
 この人格が、涼蔭穂鳥なのではないだろうか？%K%N
 Is this the personality of Suzukage Hotori?
 
@@ -322,6 +345,8 @@ Of course, there is the possibility that Suzukage Hotori is an unknown twelfth p
 In any case, I'm convinced that Hotori is another personality within Inubushi Keiko.
 
 %N%N
+
+
 その理由は……%K%P
 My reason was...
 
@@ -335,12 +360,16 @@ If she wasn't really experiencing DID, she wouldn't use those words, right?
 Hotori told me herself, didn't she?
 
 %N
+
+
 『寒くて』『暗くて』『閉じこめられてて』『ひとりぼっち』%K%N
 "cold" "dark" "locked up" "all alone"
 
 『赤い部屋』『入る』%K%N
 "red room" "enter"
+
 %N
+
 
 それらは、ＤＩＤの別人格が得る感覚とピタリ一致する。%K%N
 Those were perfectly consistent with the feelings expressed by other people with DID.
@@ -361,6 +390,8 @@ I was convinced.
 And, at the same time, I feel that I had to focus more clearly.
 
 %N
+
+
 私はまだ穂鳥の状態しか確認していないけど……、%K%N
 I can't confirm anything besides Hotori's condition yet, but...
 
