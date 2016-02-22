@@ -8,9 +8,13 @@ Special Sequences
 %N - New line
 %K - wait for keypress
 %P - pagebreak
+%p - ???
 %LC - Align to center
 %LR - Align to right
 %TS[3 digits][text]%TE - links text to TIPS
+%FS[text]%FE - text fades in as 1 block, instead of letter-by-letter
+%C[4 hex digits] - color
+%T30 - delay? also produces white space
 
 
 BOOT.BIN
