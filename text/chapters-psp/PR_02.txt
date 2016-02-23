@@ -318,16 +318,17 @@ The perpetrator was cornered by the police on the rooftop and arrested.
 The murder weapon was described as a large pair of "industrial scissors."
 
 正確に言うと、裁ちバサミを分解したもの、ということになるだろうか。%K%N
-To be precise, it was only half of a pair of pinking shears.
+To be precise, it was only half of a pair of pinking shears.%K%P
 
 犯人は、クロスした刃のうちの一方だけを用いて凶行に及んだのだ。%K%N
-The perpetrator used only one of the blades to commit the murders.0001234567890123456789012345679801234567890
+The perpetrator used only one of the blades to commit the murders.
 
 警察は犯人の自宅から病院までくまなく捜索を続けたが、もう片方の刃はどこにも見当たらなかった。%K%P
-The other blade was never found, even after a thorough search carried out by the police at the hospital and the perpetrator's home.
+The other blade was never found, even after a thorough search carried out by the police at the hospital and the perpetrator's home.%K%N
+// CRASH - fixed
 
 犯行の動機は不明。%K%N
-The motive for the crime remains unknown.
+The motive for the crime remains unknown.%K%P
 
 拘留中の犯人は、警察官や検察官の取り調べに対してかたくなに黙秘を続けた。%K%N
 While in custody, the perpetrator remained silent throughout the whole of the investigation, never responding to the questions of the police or public prosecutors.
