@@ -23,13 +23,13 @@ BOOT.BIN
 To disasm BOOT.BIN with prxtool:
 tools/prxtool -n tools/psp-NID-Prometheus.xml -o boot-disasm.txt -w workdir/BOOT.BIN
 
-In BOOT.BIN might be some unneeded stuff from other platforms, not everything needs to be translated.
-
-
 Text occurrences:
 0x121160 (approx) - section with text;
 	0x12144c - "radial" menu text, delimited by new lines (%N), ends at 0x12871c.
 0x136ac0: sample text block, used in settings
+
+
+The engine has a limit of 380 simultaneous characters on the scene, which causes crashes when the buffer is overflown. The workaround is to insert more %K%P sequences to the text.
 
 
 init.bin
@@ -48,7 +48,14 @@ Tips start at 0x14c30. They do not seem to be ordered in the same way(needs conf
 
 Fonts
 ============
-TODO
+
+The game uses FONT00, found (lzss-compressed in a .FOP) in etc.afs as a main font.
+The format is not common and needs tools for conversion.
+
+The fonts are a little bit too large for the amount of text we have and need to have 1-2px less spacing between glyphs.
+Or be smaller in general, so that at least 4 lines can fit a regular textbox.
+The work yet has to be done for converting the FONT file to a regular format image format and back.
+
 
 GIM format
 ============

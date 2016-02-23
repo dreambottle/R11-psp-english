@@ -1,7 +1,7 @@
 .psp
-.relativeinclude on
+.relativeinclude off
 
-.open "../workdir/BOOT.BIN.patched", 0x0
+.open "workdir/BOOT.BIN.patched", 0x08803F60
 
 //757C
 .orga 0x761c

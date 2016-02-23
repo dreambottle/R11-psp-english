@@ -20,13 +20,16 @@ mv -f $WORKDIR/mac-repacked.afs $ISO_RES_DIR/mac.afs
 
 
 #etc.afs
-#for i in ./etc/*.FNT ; do
+#for i in etc-en/*.FNT ; do
 #	echo $i
 #	f=`basename $i .FNT`
-#	$COMPRESS ./etc/$f.{FNT,FOP}
+#	$COMPRESS etc-en/$f.{FNT,FOP}
 #done
-#./repack_afs $WORKDIR/etc.afs $WORKDIR/etc-repacked.afs ./etc || exit 1;
-#mv -f $WORKDIR/etc-repacked.afs $ISO_RES_DIR/etc.afs
+if [ -f etc-en/FONT00.mod ]
+$COMPRESS etc-en/FONT00.mod etc-en/FONT00.FOP
+./repack_afs $WORKDIR/etc.afs $WORKDIR/etc-repacked.afs etc-en || exit 1;
+mv -f $WORKDIR/etc-repacked.afs $ISO_RES_DIR/etc.afs
+fi
 
 #init.bin
 INIT_SRC=init.dec.mod

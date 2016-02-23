@@ -5,8 +5,12 @@
 /etc/
 /iso_extracted/
 
-/iso/Remember11-jap.iso
-/iso/r11-repacked.iso
+/text/mac-en-only/
+/text/mac-ja-psp/
+
+/iso/*.iso
+/iso/*.dax
+/iso/*.cso
 
 /*.exe
 /*.dll

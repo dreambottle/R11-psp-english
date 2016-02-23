@@ -1,5 +1,6 @@
 #!/bin/sh
 
-rm -rf mac/ mac-en/ etc/ iso_extracted/
+rm -rf mac/ etc/ iso_extracted/
+rm -f mac-en/*{.SCN,.BIP}
 rm -f compressbip decompressbip repack_afs repack_scene extract_scene_text
-rm -f workdir/mac.afs workdir/etc.afs workdir/init.bin workdir/BOOT.BIN
+rm -f workdir/{mac.afs,etc.afs,init.bin,BOOT.BIN}
