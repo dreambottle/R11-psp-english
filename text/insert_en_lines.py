@@ -23,39 +23,39 @@ def main():
   jap_payload = jap_lines[3:];
   jap_entries_count = (len(jap_payload)) // 3;
   
-  # Trying to fix some common stuff
-  corrections = [];
-  for i in range(jap_entries_count):
-    # print ("line", i*3+1+3)
-    jap_line = jap_payload[i*3+1];
+  # Not required any more
+  # # Trying to fix some common stuff
+  # corrections = [];
+  # for i in range(jap_entries_count):
+  #   # print ("line", i*3+1+3)
+  #   jap_line = jap_payload[i*3+1];
     
-    # inserting missing newlines
-    res = re.search(b"^(?:%N)+$", jap_line);
-    if (res and (i < len(en_lines)) and (en_lines[i] != jap_line)):
-      if (re.search(b"^(?:%N)+$", en_lines[i])):
-        # wrong number of newlines
-        # will be corrected by "endings" corrector
-        # en_lines[i] = jap_line;
-        pass
-      else:
-        # no newlines at all
-        en_lines.insert(i, jap_line);
-        corrections.append(i);
+  #   # inserting missing newlines
+  #   res = re.search(b"^(?:%N)+$", jap_line);
+  #   if (res and (i < len(en_lines)) and (en_lines[i] != jap_line)):
+  #     if (re.search(b"^(?:%N)+$", en_lines[i])):
+  #       # wrong number of newlines
+  #       # will be corrected by "endings" corrector
+  #       # en_lines[i] = jap_line;
+  #       pass
+  #     else:
+  #       # no newlines at all
+  #       en_lines.insert(i, jap_line);
+  #       corrections.append(i);
 
-    # endings
-    if (i < len(en_lines)):
-      ending_ja = re.search(b"(?:%[KkPpNn])+$", jap_line);
-      ending_en = re.search(b"(?:%[KkPpNn])+$", en_lines[i]);
-      if (ending_ja and ending_en and ending_ja.group() != ending_en.group()):
-        en_lines[i] = en_lines[i][:ending_en.start()] + jap_line[ending_ja.start():];
-        # corrections += 1;
-        corrections.append(i);
-        # print ("ja: %s en: %s parts: %s ::: %s" % (ending_ja.group(), ending_en.group(), \
-        #   en_lines[i][:ending_en.start()], jap_line[ending_ja.start():]));
+  #   # endings
+  #   if (i < len(en_lines)):
+  #     ending_ja = re.search(b"(?:%[KkPpNn])+$", jap_line);
+  #     ending_en = re.search(b"(?:%[KkPpNn])+$", en_lines[i]);
+  #     if (ending_ja and ending_en and ending_ja.group() != ending_en.group()):
+  #       en_lines[i] = en_lines[i][:ending_en.start()] + jap_line[ending_ja.start():];
+  #       corrections.append(i);
+  #       # print ("ja: %s en: %s parts: %s ::: %s" % (ending_ja.group(), ending_en.group(), \
+  #       #   en_lines[i][:ending_en.start()], jap_line[ending_ja.start():]));
 
 
-  if len(corrections):
-    print("Automatic corrections at lines:", [x*3+len(jap_head)+2 for x in corrections], "(total: %d)"%len(corrections));
+  # if len(corrections):
+  #   print("Automatic corrections at lines:", [x*3+len(jap_head)+2 for x in corrections], "(total: %d)"%len(corrections));
 
   if len(en_lines) != jap_entries_count:
     print("Entry count mismatch!", "Lines jap: %d(effective:%d), en: %d." % (len(jap_lines), jap_entries_count, len(en_lines)) );

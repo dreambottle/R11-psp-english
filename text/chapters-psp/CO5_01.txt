@@ -197,11 +197,14 @@ Even though that shouldn't be, I inadvertently think it and my chest is gripped 
 それに、私はもうひとつ厄介な問題を抱えている。%K%N
 And on top of that, I'm carrying another troublesome problem.
 
-スフィアでの出来事は、転移のせいでうやむやのままになっているけど……。%K%N
+スフィアでの出来事は、転移のせいでうやむやのままになっているけど……。%K%P
 What happened at SPHIA had become vague in my mind because of the transfer, but....
 
-悟は、あのわけのわからない状況を解決できたのだろうか。%K%P
+悟は、あのわけのわからない状況を解決できたのだろうか。%K%N
 Did Satoru resolve that messed-up situation?
+
+%N
+
 
 誰が悟を襲ったのか。%K%N
 Who attacked Satoru?

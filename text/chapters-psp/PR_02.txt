@@ -262,6 +262,8 @@ The patient's throat had been slashed open. The weak, rasping sound of air escap
 Shocked, the doctor knelt down and firmly covered the patient's neck with his hands.
 
 %N%N%N%N
+
+
 %X010男性患者%N
 Male patient
 
@@ -269,6 +271,8 @@ Male patient
 The shadow...
 
 %N%N%N%N
+
+
 %X010男性患者%N
 Male patient
 
@@ -276,7 +280,6 @@ Male patient
 The shadow... has come...
 
 %N%N
-
 それが彼にとっての最期の言葉となった。%K%N
 Those would be the last words he'd ever say.
 
@@ -318,7 +321,7 @@ The murder weapon was described as a large pair of "industrial scissors."
 To be precise, it was only half of a pair of pinking shears.
 
 犯人は、クロスした刃のうちの一方だけを用いて凶行に及んだのだ。%K%N
-The perpetrator used only one of the blades to commit the murders.
+The perpetrator used only one of the blades to commit the murders.0001234567890123456789012345679801234567890
 
 警察は犯人の自宅から病院までくまなく捜索を続けたが、もう片方の刃はどこにも見当たらなかった。%K%P
 The other blade was never found, even after a thorough search carried out by the police at the hospital and the perpetrator's home.
@@ -370,7 +373,7 @@ That is to say, multiple personalities.
 "Penal Code Article 39"
 
 １．心神喪失者の行為は、罰しない。%K%N
-1. Those suffering from insanity will not be prosecuted.%K%P
+1. Those suffering from insanity will not be prosecuted.
 
 ２．心神耗弱者の行為は、その刑を減軽する。%K%P
 2. Those who are mentally handicapped will receive a lighter sentence.

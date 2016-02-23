@@ -650,7 +650,7 @@ On that very day, there was an accident, and all the trains were stopped....
 //人身事故 is a train accident involving the death or severe injury of a person, and they usually don't mean a passenger; this term most commonly denotes a person who jumped in front of a train.
 //old: Just around that time, there was an accident on board, and someone was injured, slowing the train down....
 
-ひと足早く目的地についた彼は、得意気な笑みを浮かべていた。%K%N
+ひと足早く目的地についた彼は、得意気な笑みを浮かべていた。%K%P
 Having reached their destination first, he smiled proudly.
 
 彼はまだウィンクができなかった。%K%N

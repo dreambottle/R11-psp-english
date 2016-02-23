@@ -9,10 +9,14 @@ I took note of a few of them:
 The bodies were discovered 1km east of the Mount Akakura shelter cabin.
 
 %N
+
+
 『発見場所は下山ルートからは離れているため、遭難者の死亡当日の足取りについて、青森県警では調査を進めている』%K%N
 Due to the bodies of the victims being discovered away from the route down the mountain, the Aomori prefectural police investigation into the day of their death will continue.
 
 %N
+
+
 『青森気象観測所によると、この時期に朱倉岳の該当箇所周辺で発生した雪崩は、２０１１年１月１７日午前６時５３分であることがわかっている』%K%P
 According to the Aomori meteorological station, an avalanche affecting Mount Akakura and its surrounding area occurred on January 17, 2011, at around 6:53.
 
@@ -104,10 +108,14 @@ Plus, how would we have hiked 1km in all this snow?
 But I do know what we were aiming for when we decided to go there.
 
 %N
+
+
 助かるため。%K%N
 It was so we could be rescued.
 
 %N
+
+
 今の私なら、そうする。%K%N
 Right now, if it was me, I would do the same thing.
 
@@ -165,7 +173,7 @@ Last night, Yomogi-san and the others said they ran out of the shelter cabin bec
 彼らを信じるなら、吹雪の迫る朱倉岳に命がけでヘリコプターを飛ばした人間がいることになる。%K%N
 If we can take what they said to be true, someone risked their lives flying a helicopter into Mount Akakura during the blizzard.
 
-吹雪の中では、ヘリコプターが着陸できないことなどわかっていながら、だ。%K%N
+吹雪の中では、ヘリコプターが着陸できないことなどわかっていながら、だ。%K%P
 Knowing that a helicopter can't possibly land safely during a blizzard.
 
 そんな危ないフライトをする理由を考えれば、おのずと答えは出る。%K%N
@@ -189,7 +197,7 @@ If things went on like that, the survivors would perish.
 でも、猛吹雪のために捜索隊は出せない。%K%N
 But, because of the violent blizzard, the rescue team couldn't do anything. 
 
-かといって、救助を待つ人達を見捨てるわけにはいかない。%K%N
+かといって、救助を待つ人達を見捨てるわけにはいかない。%K%P
 Still, even then, they couldn't abandon those waiting to be rescued.
 
 そこで、命がけでヘリコプターを飛ばすことにした。%K%N
@@ -198,13 +206,16 @@ That's why they risked their lives flying the helicopter.
 救援物資を空中から投下し、遭難者に命を長らえてもらう。%K%N
 By dropping rescue supplies from the air, the survivors could hold on just a bit longer.
 
-そして、吹雪が収まったところで、救助隊を派遣しようと考えた。%K%P
+そして、吹雪が収まったところで、救助隊を派遣しようと考えた。%K%N
 Then, when the blizzard subsides, the rescue team could then be dispatched.
+
+%N
+
 
 でも、不運が起きた。%K%N
 But it was simply bad luck.
 
-あまりにも吹雪が強すぎたのだ。%K%N
+あまりにも吹雪が強すぎたのだ。%K%P
 The blizzard was just too strong.
 
 そのために、避難小屋付近への物資投下ができなくなってしまった。%K%N
@@ -235,6 +246,8 @@ And that's why we, in the future, headed toward Location X at dawn.
 And in the end, because of that decision, we were all killed by the avalanche.
 
 %N
+
+
 でも、今は違う。%K%P
 But, it's not the same this time.
 
@@ -244,7 +257,7 @@ Thanks to that newspaper article, I reached this hypothesis at midnight.
 私は今、６時５３分に、ここから東に１ｋｍの地点で雪崩が起こることを知っている。%K%N
 I know that at 6:53, there will be an avalanche 1km to the east of here.
 
-その時間に、その場所で私達が雪崩に巻き込まれることも知っている。%K%N
+その時間に、その場所で私達が雪崩に巻き込まれることも知っている。%K%P
 I know at that time, we will be killed by the avalanche there.
 
 つまり――%K%N
@@ -252,6 +265,9 @@ In other words――
 
 ６時５３分になるよりも早くＸ地点に到達し、物資を回収することができれば……%K%N
 If we arrive at Location X earlier than 6:53, we will be able to collect the supplies...
+
+%N
+
 
 私達は雪崩に巻き込まれることもなく、食糧を得ることができる――！%K%P
 And without getting killed in the avalanche, we can get a hold of the rations――!
@@ -298,7 +314,7 @@ The hypothesis I had come up with just now is based on the assumptions that "the
 それを信じてもらうだけで、夜が明けてしまいそうだ。%K%N
 Just making them believe those two assumptions would take until dawn.
 
-加えて、ゆにに『未来のゆに』であるのかと問いかけようとした時、彼は取り乱していた。%K%N
+加えて、ゆにに『未来のゆに』であるのかと問いかけようとした時、彼は取り乱していた。%K%P
 Plus, when I asked Yuni whether or not he was "the Yuni of the future," he became frantic and worked up.
 
 もう一度暴れるようなことがあれば、命に関わる。%K%N

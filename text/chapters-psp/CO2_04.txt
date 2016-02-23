@@ -62,6 +62,9 @@ It was my brain that felt hunger.
 消化器系にある神経から食事の必要性を感じ取り、『空腹』を信号として発信している。%K%N
 The feeling of the need to eat comes from a signal, sent out by nerves in the digestive system, that is felt as "hunger."
 
+%N
+
+
 では、脳が転移した、とは考えられないだろうか？%K%P
 Then, it would be wrong to think that our brains were switching back and forth, wouldn't it?
 
@@ -71,7 +74,7 @@ As to the likelihood of that, I tried to find some way to verify it... however, 
 私が空腹を感じたのは転移の直後――『冬川こころ』の身体になった途端のことだ。%K%N
 I felt hungry immediately after transfer――as soon as my body became that of "Fuyukawa Kokoro."
 
-脳が転移したとすれば、脳内の血液中にはエネルギーとなる糖分がある程度蓄積されていたはずだ。%K%N
+脳が転移したとすれば、脳内の血液中にはエネルギーとなる糖分がある程度蓄積されていたはずだ。%K%P
 If our brains themselves had switched, the blood inside the brain should have accumulated sugar to be used for energy to some extent.
 
 つまり、すぐには空腹感を覚えることはないだろうということになる。%K%N
@@ -104,7 +107,7 @@ But, what IS consciousness in the first place?
 スフィアにいた私は、確かに『冬川こころの人格』だった。%K%N
 The me at SPHIA was definitely "Fuyukawa Kokoro's personality."
 
-優希堂悟の中に入っていたけれど、『私』だったのだ。%K%N
+優希堂悟の中に入っていたけれど、『私』だったのだ。%K%P
 It had entered Yukidoh Satoru, but it was "me."
 
 悟のメモにあったクルマの例えを借りるなら、『優希堂悟』というクルマを操作していた運転手は、間違いなく『冬川こころ』であったと思う。%K%N
@@ -114,6 +117,7 @@ If I borrow the figurative comparison from Satoru's note, the driver operating t
 The reason I think the me in that world and the me in this world are the same is... what?
 
 %N
+
 
 ――『私』って何だろう？%K%P
 ――What is "me" to begin with?
@@ -133,7 +137,7 @@ Weren't memories located in the brain?
 テレビのドキュメンタリー番組で見たことがある。%K%N
 I saw this documentary on TV.
 
-記憶のメカニズムというのは、簡単に言うと『神経回路の繋がり』のことを指すのだという。%K%N
+記憶のメカニズムというのは、簡単に言うと『神経回路の繋がり』のことを指すのだという。%K%P
 As it pointed out, the mechanism called memory is, simply put, a "network of neural circuits."
 
 例えば、『りんご』という単語を覚えるとする。%K%N

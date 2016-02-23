@@ -648,7 +648,7 @@ I don't know.
 わからないというのが答えだ。%K%N
 My answer is that I don't know.
 
-ただ、ゆにじゃないのは間違いないと思う。%K%N
+ただ、ゆにじゃないのは間違いないと思う。%K%P
 Except, I don't think it's Yuni.
 
 証拠とかがあるわけではないけれど、ゆにがオレを狙ってるなんて、そんなこと、あり得ないと思うんだ。%K%N
@@ -690,16 +690,16 @@ I was on the clock tower when I was first attacked.
 誰かに突き落とされたんだ。%K%N
 I was pushed off it by someone.
 
-幸い、たいしたケガもせずに済んだけれど、打ち所が悪ければ死んでいたかも知れない。%K%N
+幸い、たいしたケガもせずに済んだけれど、打ち所が悪ければ死んでいたかも知れない。%K%P
 Thankfully, my injuries weren't too bad, but if I'd landed the wrong way, I might've died.
 
 このときの犯人に明確な殺意があったのかどうかまではわからないが、%K%N
 I don't know whether the culprit intended to kill me then, but...
 
-少なくともオレを傷つけようとする意図はあったのだろうと思われる。%K%P
+少なくともオレを傷つけようとする意図はあったのだろうと思われる。%K%N
 They at least did it with the goal of hurting me in mind.
 
-時計台から転落したオレは気を失った。%K%N
+時計台から転落したオレは気を失った。%K%P
 After falling from the clock tower, I lost consciousness.
 
 こころが初めてこのスフィアで目覚めたのは、それから数時間後のことだと思う。%K%N
@@ -784,7 +784,7 @@ It's hard for me to say, but the answer to both questions is probably no.
 オレの記憶が正しければ、外に出ることも、外部と連絡を取ることも、できなかったはずだ。%K%N
 If my memory's correct, there shouldn't be any way to leave or communicate with the outside world.
 
-いまいち確信が持てないのは、実はオレが、ちょっとした記憶障害に陥ってるからなんだ。%K%N
+いまいち確信が持てないのは、実はオレが、ちょっとした記憶障害に陥ってるからなんだ。%K%P
 I can't say this for certain, because right now I'm a little amnesic from the fall.
 
 スフィアのことはだいたい覚えてるつもりなんだけど、もしかしたら忘れてしまってることがあるかも知れない。%K%N

@@ -326,7 +326,7 @@ Formal name: "Mount Akakura Emergency Shelter Cabin."
 墜落、吹雪、二重の災難をかいくぐって生き延びた彼らは、この避難小屋にてしばしの休息を得た。%K%N
 They survived through the twin calamities of the crash and the blizzard and managed to reach this shelter cabin, where they could finally rest.
 
-吹雪がおさまれば、きっと救助隊のヘリが来てくれる、そう信じながら……。%K%N
+吹雪がおさまれば、きっと救助隊のヘリが来てくれる、そう信じながら……。%K%P
 When the storm settles, the rescue team's helicopters will surely arrive... or so they believe....
 
 ところがここに、予想だにしなかった厄介な事態が発生する。%K%N
@@ -392,7 +392,7 @@ Because I had memories of SPHIA.
 『しかしそれさえも、まやかしだとしたら……？』%K%N
 "But what if those are fake...?"
 
-オレは自分の中の声に答えることができない。%K%N
+オレは自分の中の声に答えることができない。%K%P
 I couldn't answer that dissenting voice inside me.
 
 反証を試みるも、その論理には拠りどころとなるべきものがなかった。%K%N

@@ -98,7 +98,7 @@ Wrapped up in my blanket, I stared at my beloved watch, which had been completel
 長い、永遠とも思えるような夜の間、私はいろいろなことを考えていた。%K%N
 In this long night which almost felt like it would last for an eternity, I thought about many, many things.
 
-例えば、２０年の私の想い出を、アルバムをめくるように思い返してみた。%K%N
+例えば、２０年の私の想い出を、アルバムをめくるように思い返してみた。%K%P
 For example, I opened and flipped through the twenty years of my life like an album.
 
 小学生の頃、大好きだった男の子に手紙を書いたこととか……%K%N
@@ -208,6 +208,8 @@ Satoru... he... killed that man.
 ――No!
 
 %N
+
+
 悟じゃない。殺人を犯したのは断じて悟ではない。%K%N
 It wasn't Satoru. The murderer simply cannot be Satoru.
 
@@ -224,6 +226,8 @@ After struggling with it, that's the final conclusion I came to.
 But... what about the rations?
 
 %N
+
+
 彼は勝手に食べちゃったのだ……。%K%N
 He went and ate all the rations by himself....
 
@@ -236,7 +240,7 @@ I hadn't told him that hard tack was for the three of us, so I was partly at fau
 けれど悟が、何も言わず隠れて食べるとは思わなかった。%K%P
 But I never thought that Satoru would secretly eat all the rations without telling me anything.
 
-…………。%K%N
+…………。%K
 .......
 
 いやいや、そんなことはない。%K%N
@@ -292,7 +296,7 @@ If Mayuzumi heard that, she would probably double over laughing.
 だが私は彼を信じたかった。%K%N
 But I want to believe him.
 
-だから私は、食糧の問題もやむを得なかったものだと考えることにした。%K%N
+だから私は、食糧の問題もやむを得なかったものだと考えることにした。%K%P
 That's why I decided to think of the problem with the rations as something that couldn't be helped.
 
 私は、悟を信じる。%K%N

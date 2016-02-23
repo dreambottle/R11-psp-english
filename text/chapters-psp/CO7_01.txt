@@ -243,18 +243,26 @@ The display on the ＶＲ lit up and shone faintly.
 I could use it as a lamp.
 
 %N
+
+
 %FS--------------------------------------------%FE%T60%N
 %LC２０１１年（平成２３年）７月４日（月曜日）%T60%N
 July 4th (Monday) 2011 (Heisei 23)
 
 %N
+
+
 %LC朱倉岳に男女３人の腐乱死体%T60%N
 Three Decomposed Male and Female Corpses Found on Mount Akakura
 
 %N
+
+
 %LCＨＡＬ墜落事故の不明者か？%T60%N
 Missing passengers from the HAL crash?
+
 %FS--------------------------------------------%FE%K%P
+
 
 私達が死亡したという、未来の記事。%K%P
 An article from the future telling us that we died.
@@ -340,7 +348,7 @@ Afraid of the threat of nature,
 死の運命に、%K
 afraid of our destiny of death,
 
-絶望に、%K
+絶望に、%K%N
 afraid of our despair;
 
 少しでもいいから、立ち向かって死にたかった。%K%P

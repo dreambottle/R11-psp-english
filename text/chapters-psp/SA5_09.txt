@@ -375,10 +375,10 @@ An expression of fear formed on his childlike face.
 恐怖と……それから……悲しみか……？%K%N
 Fear... followed by... sorrow...?
 
-メガネの奥の瞳には涙が浮かんでいた。%K%N
+メガネの奥の瞳には涙が浮かんでいた。%K%P
 Tears were starting to well up from behind his glasses.
 
-そして、しばらくの間、ふたりは動きを止めて見つめあっていた。%K%P
+そして、しばらくの間、ふたりは動きを止めて見つめあっていた。%K%N
 And then, for a time, the two stood still as I looked on.
 
 沈黙が続く……。%K%N

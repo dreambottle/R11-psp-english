@@ -486,13 +486,13 @@ Its last known location was in the sky over the southern mountain range of Aomor
 警察や関係各局は臨時対策本部を設置、すぐさま機体と乗客の捜索を開始した。%K%N
 The police and related bureaus assembled a special rescue team and immediately commenced the search for the fallen airframe and the passengers.
 
-だが、数日間にもわたって捜索や調査を継続したにもかかわらず、残骸の一部さえ発見することができなかった。%K%N
+だが、数日間にもわたって捜索や調査を継続したにもかかわらず、残骸の一部さえ発見することができなかった。%K%P
 However, despite the ongoing investigations and searches, not a trace of the wreckage could be found.
 
 具体的にいうと６日間である。%K%N
 More precisely, the search lasted six days.
 
-約１週間ものあいだ『機体の行方は依然として不明』という状態が続いていたのだ。%K%P
+約１週間ものあいだ『機体の行方は依然として不明』という状態が続いていたのだ。%K%N
 For about a week, the state of the investigation remained unchanged: "The whereabouts of the airframe are as of yet unknown."
 
 これは我が国に於ける航空機墜落事故の中では、異例中の異例、前代未聞の出来事だった。%K%N
@@ -540,17 +540,20 @@ There were no private homes in the surrounding area, and nobody around who could
 当時朱倉岳一帯は悪天候が続いていた。%K%N
 At the time, the entire Mount Akakura area was constantly subjected to bad weather.
 
-ゆえに上空からの捜索は困難であった。%K%N
+ゆえに上空からの捜索は困難であった。%K%P
 Therefore, conducting an investigation was difficult.
 
 ４：太陽風の影響。%K%N
 4: The effects of the solar winds.
 
-観測史上最大級の規模となった太陽風……。%K%P
+観測史上最大級の規模となった太陽風……。%K%N
 The most intense solar winds ever recorded in history....
 
 この影響により偵察衛星に不具合が生じ、衛星写真の利用もできない状態にあった。%K%N
 This disturbance resulted in the malfunction of the reconnaissance satellites. The use of satellite photography was also impossible.
+
+%N
+
 
 以上４点が、当局の発表した『失われた１週間』に関する公式見解だ。%K%P
 The above was the official statement concerning the "lost week," released by the authorities.
@@ -684,7 +687,7 @@ But their whereabouts remained unknown....
 またしても、人々のあいだであれやこれやと憶測が飛び交うことになった。%K%N
 Public speculation began to fly once more.
 
-中には『食糧の奪いあいによって、ゆにが他の３人を殺して、どこかに埋めたのでは！？』というようなものまであった。%K%N
+中には『食糧の奪いあいによって、ゆにが他の３人を殺して、どこかに埋めたのでは！？』というようなものまであった。%K%P
 Some of them were pretty far-fetched; there were even those asking, "in the struggle over food, did Yuni kill the others and then bury them somewhere?!"
 
 このような醜聞にさらされ、ますますゆには寡黙になっていった。%K%N

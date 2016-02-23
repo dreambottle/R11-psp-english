@@ -1355,7 +1355,7 @@ A1: It's true indeed.
 穂鳥（犬伏景子）とオレは、ずっと前からこの施設にいたはずだ。%K%N
 Hotori (Inubushi Keiko) and I had supposedly been in this facility for a while now.
 
-にもかかわらず、穂鳥はゆにから聞くまで、オレの名前さえ知らなかったという。%K%N
+にもかかわらず、穂鳥はゆにから聞くまで、オレの名前さえ知らなかったという。%K%P
 However, until she'd heard it from Yuni, Hotori didn't even know my name.
 
 穂鳥の人格は、昨日まで表に現われることはなかった、ということか……？%K%N
@@ -1373,7 +1373,7 @@ A2: Nope.
 『ない』と彼女は言った。%K%N
 "Nope," she said.
 
-オレのことをＤＩＤだと思い込んでいるのは、ゆにや内海からそう聞かされたからである。%K%N
+オレのことをＤＩＤだと思い込んでいるのは、ゆにや内海からそう聞かされたからである。%K%P
 Her previous impression (that I had DID) was solely based on what Yuni and Utsumi had told her.
 
 実際に、冬川こころの意識と会話したことはないみたいだった。%K%N
@@ -1925,7 +1925,7 @@ The same as Kokoro and I....
 しかし、異なるところがひとつだけあった。%K%N
 However, he differed from us in one aspect.
 
-ゆにの意識は、たった１度だけしか転移していないのだ。%K%N
+ゆにの意識は、たった１度だけしか転移していないのだ。%K%P
 Yuni's consciousness had only transferred once.
 
 避難小屋とスフィア、それぞれのゆにの言動を比べてみれば、このことは自明だった。%K%N
@@ -1995,7 +1995,7 @@ Now that I thought about it, it certainly did feel like his behavior was kind of
 彼が２０１２年のゆにだとするなら、どうして時間跳躍したことを平然と受け入れているんだ？%K%N
 If he was the Yuni of 2012, then why did he so calmly accept the time jump?
 
-しかも、彼はあたかも２０１１年のゆにであるかのように振る舞っている。%K%N
+しかも、彼はあたかも２０１１年のゆにであるかのように振る舞っている。%K%P
 Moreover, he'd been behaving as if he were the Yuni of 2011.
 
 恐らく、彼は嘘をついているのだろう。%K%N

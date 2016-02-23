@@ -78,6 +78,8 @@ A snowstorm was raging all around....
 Sunset was drawing near, and I could barely see past my nose.
 
 %N
+
+
 それでも僕はあきらめなかった。%K%P
 Still, I didn't give up.
 
@@ -109,6 +111,8 @@ Even when I shook you by the shoulders and slapped your cheeks, you showed no si
 Mayuzumi, on the other hand, was conscious.
 
 %N
+
+
 彼女は自らの力で立ち上がると、うわごとのような言葉を繰り返し、ふらふらとよろめくようにして降りしきる雪の中を歩き始めた。%K%N
 She'd stood up on her own, mumbling something deliriously, and started aimlessly walking into the downpour of snow on her unsteady feet.
 
@@ -152,16 +156,18 @@ There were bloodstains, scraps of flesh, and entrails splattered against the win
 There was one corpse that seemed comparatively unharmed, but it stayed motionless, frozen solid like a plaster sculpture.
 
 %N
+
+
 地獄などという言葉ではとても表現し切れないほどの惨状だった。%K%N
 The only word that could describe the disastrous scene was "hell."
 
 その光景を前にして、黛は放心状態に陥り、茫然とその場に立ち尽くしていた。%K%N
 Having taken it all in, Mayuzumi looked absentminded and dazed.
 
-きみはなおも意識を失ったまま、一切の反応を示さなかった。%K%N
+きみはなおも意識を失ったまま、一切の反応を示さなかった。%K%P
 You were still unconscious, so you didn't react at all.
 
-ただ、唇からもれるその吐息は、時の経過とともに次第にかぼそくなっていくように感じられた。%K%P
+ただ、唇からもれるその吐息は、時の経過とともに次第にかぼそくなっていくように感じられた。%K%N
 However, a single sigh escaped your lips, which made me believe you'd surely get better with time.
 
 このとき、きみの体温はすでに、生命維持の臨界点を遥かに下まわっていたのだ。%K%N
@@ -169,19 +175,20 @@ Your body temperature, however, was nearly that of a corpse.
 
 %N
 
+
 当然と言えば当然のことだった。%K%N
 That made sense.
 
-きみの服装は、あの機内にいたときのままだったのだから。%K%N
+きみの服装は、あの機内にいたときのままだったのだから。%K%P
 You were wearing the same clothes you'd boarded the plane in.
 
 もちろん、これはきみだけの問題ではなく、黛についても同じことが言えた。%K%N
 Of course, you weren't the only with this problem; Mayuzumi was the same.
 
-彼女はスーツにハイヒールという出で立ちで、スカートから覗いていた２本の足は薄手のストッキングに覆われているだけだった。%K%P
+彼女はスーツにハイヒールという出で立ちで、スカートから覗いていた２本の足は薄手のストッキングに覆われているだけだった。%K%N
 She was wearing a suit and high heels, and her legs were only covered with a thin pair of stockings.
 
-このままでは２人とも死んでしまう。%K%N
+このままでは２人とも死んでしまう。%K%P
 Left like that, the two of you would have surely died.
 
 そう思った僕は、熱でドロドロに溶けた天井の荷物入れを片っ端からこじ開けていった。%K%N
@@ -354,13 +361,13 @@ Blinded by a myriad of snowflakes, I single-mindedly continued to pursue her tra
 行軍を続けること数十分――。%K%N
 After marching on for about ten minutes――
 
-ようやく彼女の姿を捉えた。%K%P
+ようやく彼女の姿を捉えた。%K%N
 I finally caught a glimpse of her.
 
 %N
 
 
-彼女は広大な雪原の真っ只中で、うつ伏せになって倒れていた。%K%N
+彼女は広大な雪原の真っ只中で、うつ伏せになって倒れていた。%K%P
 She had collapsed face-down in the middle of a large snowfield.
 
 どうして、何の為に、何を目指して彼女が歩き続けていたのかはわからない。%K%N
@@ -456,7 +463,7 @@ Sorry for the long wait...
 黄泉木「これでやっと……おまえのところに……」%K%P
 Now... I can finally join you...
 
-%N%N%N%N%N
+%N%N%N%N
 
 
 %LC「（お父さん……お父さん……）」%K%P
@@ -468,7 +475,7 @@ Right then, I thought I heard a voice.
 もう二度と耳にすることはないと思っていた懐かしい呼び声だった。%K%P
 A voice I'd heard so often, but now thought I'd never hear again.
 
-%N%N%N%N%N
+%N%N%N%N
 
 
 %LC「（お父さん……お父さん……）」%K%P

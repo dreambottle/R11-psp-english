@@ -13,7 +13,7 @@
 mkdir -p mac-en-only/
 for i in chapters-psp/[A-Z0-9]*_[0-9]*.txt ; do
 	f=`basename $i .txt`
-	echo Processing: $i
+	echo Processing translation: $i
 	# process special characters and remove unimportant lines
     ./extract_en.pl chapters-psp/$f.txt > mac-en-only/$f.txt || exit 1;
 	

@@ -940,6 +940,9 @@ An expression of terror....
 ゆにの視線をたどると、そこには――。%K%P
 Following the direction of Yuni's stare, I saw――
 
+%N%N%N%N%N
+
+
 血まみれになった榎本の死体が転がっていた。%K%P
 Enomoto's bloody corpse, crumpled on the floor.
 
@@ -991,7 +994,7 @@ I was wholeheartedly enjoying the sensation of the knife sinking into the meat.
 一方榎本は、濁った瞳を虚空に向けたまま、動かなかった。%K%N
 Enomoto was still, his clouded eyes fixed on the empty air above him.
 
-オレが刃物を突き刺すたびに、彼の口や鼻の孔から泡状の血液が噴きあがり、流れ落ちていった。%K%N
+オレが刃物を突き刺すたびに、彼の口や鼻の孔から泡状の血液が噴きあがり、流れ落ちていった。%K%P
 With every thrust of my knife, more blood foamed out of his mouth and nostrils, and ran off onto the floor.
 
 その遊戯はいつ果てるともなく延々と、執拗に繰り返された。%K%N

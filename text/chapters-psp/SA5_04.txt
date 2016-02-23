@@ -813,7 +813,7 @@ The state of that corpse went well beyond the domain of justifiable self-defense
 それから、食糧管理を一任されているにもかかわらず、その立場を逆手に取ってすべてを独占してしまった今回の件……。%K%N
 And even though everyone trusted you with the rations, you turned the tables on them and ate them all....
 
-考えれば考えるほど、オレはこころという女性がわからなくなってしまった。%K%N
+考えれば考えるほど、オレはこころという女性がわからなくなってしまった。%K%P
 The more I think about it, the less I understand Fuyukawa Kokoro.
 
 信じたい。%K%N
@@ -823,6 +823,8 @@ I want to believe in her.
 I want to have faith in her.
 
 %N
+
+
 だけど……。%K%N
 But....
 

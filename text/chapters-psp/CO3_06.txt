@@ -5,7 +5,7 @@ Inubushi Keiko――currently age 19.
 １７歳のときに、阿波墨市立病院で１２人もの罪もない人々を殺害したシリアルキラー。%K%N
 She is the serial killer who, at age 17, murdered twelve innocent people at Awazumi Municipal Hospital.
 
-だが、ＤＩＤと診断されたために極刑を免れ、スフィアへと送致された――%K%P 
+だが、ＤＩＤと診断されたために極刑を免れ、スフィアへと送致された――%K%N 
 However, due to being diagnosed with DID, she escaped capital punishment and was sent to SPHIA――
 
 %N
@@ -35,7 +35,7 @@ And she was the first person ever to be recognized as suffering from DID in the 
 これまでの裁判事例においても、ＤＩＤの疑いがあるという容疑者は存在した。%K%N
 Before that court precedent was made, there had been several criminals suspected of having DID.
  
-だが、裁判においてＤＩＤを理由に免罪された例は、今までなかったのだ。%K%N
+だが、裁判においてＤＩＤを理由に免罪された例は、今までなかったのだ。%K%P
 However, there were no cases of trial acquittals by reason of DID until then.
 
 理由は簡単。%K%N
@@ -192,7 +192,7 @@ In other words, they protect themselves by thinking that the one being abused is
 But the abused personality was also originally a part of the self, so it's necessary to accept those memories as their own.
 
 しかし、その別人格に宿る痛みや苦しみの記憶は、主人格にとって受け入れがたいものだ。%K%N
-However, the pain and suffering inflicted on the other personality is hard for the main personality to accept.%K%P
+However, the pain and suffering inflicted on the other personality is hard for the main personality to accept.
 
 そのため、主人格と苦しみの記憶を持つ別人格を、ひとつにすることができず……もうひとつの人格として独立させてしまう。%K%N
 Because of that, the main personality chooses to hold the memories of suffering inside the other self... they are not able to become one, and therefore a separate, independent personality is brought into existence.
@@ -305,7 +305,7 @@ According to the file, "J" had appeared while Inubushi was being held in an exam
 阿波墨市立病院での連続殺人も、オリジナル人格の犬伏景子ではなく、この『Ｊ』が行ったことであると判断された。%K%N
 It was also judged that the Awazumi serial murders were committed by "J."
  
-『Ｊ』の凶行を、オリジナル人格である犬伏景子は止めることができない。%K%N
+『Ｊ』の凶行を、オリジナル人格である犬伏景子は止めることができない。%K%P
 The original personality of Inubushi Keiko was unable to stop the violence of "J."
 
 そのため、刑法３９条で言うところの、心神喪失状態と判断され、犬伏景子は免罪されたのである。%K%N

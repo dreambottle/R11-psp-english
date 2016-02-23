@@ -810,7 +810,7 @@ It's fixed now, though.
 それから転移の時間――。%K%N
 And the times of transfer――
 
-言われたとおり、ちゃんと調べておいたので、下にまとめておきます。%K%N
+言われたとおり、ちゃんと調べておいたので、下にまとめておきます。%K%P
 I checked properly, just like you told me, so here they are below:
 
 『午後０１時０７分：スフィアに転移、%N午後０１時４０分：避難小屋に戻る』%K%N
@@ -843,7 +843,7 @@ Satoru too... please take care of my body.
 こっちもこっちで大変だけど、あっちもあっちで深刻な事態になっちゃってるわけで……。%K%N
 Things are pretty bad here, but it's a serious situation there too....
 
-こんなことを言うのは変かも知れないけど……。%K%N
+こんなことを言うのは変かも知れないけど……。%K%P
 It might be kind of weird to say this, but....
 
 お願いです。どうか死なないでください。%K%N
@@ -893,6 +893,9 @@ If you do anything weird to my body, I'll never forgive you!
 
 あんまりさわっちゃダメだからね！　むしろ触るな！%K%N
 Don't touch it too much, okay?! Rather, don't touch it at all!
+
+%N
+
 
 追伸２――。%K%N
 P.P.S.――

@@ -83,13 +83,13 @@ But since Kokoro had written about that in her message, I wasn't too surprised.
 オレはしばしば相槌を打ち、愛想笑いを浮かべ、３人の話を適当に聞き流していた。%K%N
 I made the appropriate murmurs of agreement from time to time, along with the occasional forced smile, and thus was able to ignore their conversation pretty well.
 
-頭の中に思い浮かぶことと言えば、左腕を斬りつけた犯人のこと……それだけだった。%K%N
+頭の中に思い浮かぶことと言えば、左腕を斬りつけた犯人のこと……それだけだった。%K%P
 I had only one thing on my mind... the killer who'd slashed my left arm.
 
 『もしかしたら、この３人の中に犯人がいるのかも知れない』%K%N
 It could very well be the case that the culprit is here among the three of them.
 
-様子をうかがいながら食事を進めたが、怪しい素振りを見せる人物は誰ひとりとしていなかった。%K%P
+様子をうかがいながら食事を進めたが、怪しい素振りを見せる人物は誰ひとりとしていなかった。%K%N
 I kept a close eye on the events going on around me as I ate, but nobody did anything suspicious.
 
 『ということは、やはり真犯人は他にいるということだろうか……？』%K%N
@@ -98,10 +98,10 @@ Which means... that the real culprit is someone else...?
 『オレ達の知らないところに隠れ潜んでいて……』%K%N
 Lurking someplace unknown to us...
 
-そんなことを思いながらスプーンを運んでいたから、食事の味なんてまるで覚えていなかった。%K%N
+そんなことを思いながらスプーンを運んでいたから、食事の味なんてまるで覚えていなかった。%K%P
 I kept eating as I considered all those possibilities, so I don't actually remember how the meal tasted.
 
-それでも空腹感が抑制されることはなく、オレはたちまちにしてビーフシチューを平らげてしまった。%K%P
+それでも空腹感が抑制されることはなく、オレはたちまちにしてビーフシチューを平らげてしまった。%K%N
 Still, my hunger was out of control, and I consumed the beef stew in a flash.
 
 ところで、彼らの会話を聞いていて、ひとつだけわかったことがある。%K%N

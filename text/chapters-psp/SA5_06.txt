@@ -649,13 +649,13 @@ After discovering the MAO inhibitor and the DMT, she took them back to her room.
 なぜそんなことをしたのかは、言うまでもないだろう。%K%N
 It's beyond me why she'd want to do that, but needless to say, she did it anyway.
 
-彼女はＭＡＯ阻害剤とＤＭＴのことに関して熟知していたのだ。%K%N
+彼女はＭＡＯ阻害剤とＤＭＴのことに関して熟知していたのだ。%K%P
 She's quite familiar with both the MAO inhibitor and DMT.
 
 あの薬品を服用すれば、どのような状態になるのかも知っていた。%K%N
 She knew what would happen if she took them herself, too.
 
-いずれ４８時間の絶食を経て、それを自ら試みようと……。%K%P
+いずれ４８時間の絶食を経て、それを自ら試みようと……。%K%N
 And after fasting for 48 hours, she wanted to try experiencing their effects firsthand....
 
 つまり、そういうことだった。%K%N

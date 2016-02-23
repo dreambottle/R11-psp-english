@@ -276,7 +276,7 @@ Should I retrace my steps?
 今なら、まだ間に合う。%K%P
 If I go now, I can still make it.
 
-そんな気もする。%K%P
+そんな気もする。%K%p
 Somehow I knew that.
 
 引き返す
