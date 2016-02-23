@@ -25,7 +25,7 @@ mv -f $WORKDIR/mac-repacked.afs $ISO_RES_DIR/mac.afs
 #	f=`basename $i .FNT`
 #	$COMPRESS etc-en/$f.{FNT,FOP}
 #done
-if [ -f etc-en/FONT00.mod ]
+if [ -f etc-en/FONT00.mod ]; then
 $COMPRESS etc-en/FONT00.mod etc-en/FONT00.FOP
 ./repack_afs $WORKDIR/etc.afs $WORKDIR/etc-repacked.afs etc-en || exit 1;
 mv -f $WORKDIR/etc-repacked.afs $ISO_RES_DIR/etc.afs
