@@ -40,7 +40,7 @@ Dependencies:
 
 The following tools should be available:
 
-`mkisofs gcc perl python3`
+`p7zip mkisofs gcc perl python3`
 
 You will need to install File::Slurp module for Perl:<br>
 `cpan File::Slurp`

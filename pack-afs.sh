@@ -43,7 +43,6 @@ mv -f $WORKDIR/init.mod.bin $ISO_RES_DIR/init.bin
 
 
 #BOOT.BIN
-#TODO leave backup copy somewhere
 echo Applying patches to BOOT.BIN
 cp -f $WORKDIR/BOOT.bin $WORKDIR/BOOT.bin.patched
 $ARMIPS src/boot-patches.asm

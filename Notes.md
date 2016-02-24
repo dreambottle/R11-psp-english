@@ -11,7 +11,9 @@ Special Sequences
 
 %P - pagebreak
 
-%p - some different kind of pagebreak(???)
+%p - appears right before decision blocks.
+
+%V - ???
 
 %LC - Align to center
 
@@ -24,6 +26,8 @@ Special Sequences
 %C[4 hex digits] - color
 
 %T30 - delay? also produces white space
+
+%X070 - (10, 50, 70 in game texts)???
 
 
 BOOT.BIN
