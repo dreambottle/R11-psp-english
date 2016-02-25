@@ -49,20 +49,48 @@ The engine has a limit of 380 simultaneous characters on the scene, which causes
 init.bin
 ============
 
-file has many(all?) same strings with the pc version of init.bin + all the TIPS + the chronology + other stuff
+file has many(all?) same strings as the pc version of init.bin + all the TIPS + the chronology + other stuff
 
-0x1140: table with string references
+tables:
+<br>
+1140:1d38 - covers "names/init" section
+<br>
+7610:7f78 - TIPS
+<br>
+90dc:ac98 - Chronology
 
-0x0ba68: names and init.txt content start. This also is the first text occurrence in file.
+We skip all these sections:
+```python3
+    if 0x47f0 <= table_offs < 0x5350: continue
+    if 0x7f90 <= table_offs < 0x871c: continue
+    if 0x7520 <= table_offs < 0x7610: continue
+```
+
+ba68:dc40 names and init.txt content. This also is the first text occurrence in file.
 <br>
-0x130ea: some strange untranstlated text block. Strings start with イラスト：左 (GoogTransl: 'Illustration:Left')<br>
-0x134de: Song lyrics
+dc40: - file names(don't modify!)
 <br>
-0x14c30: Tips. They do not seem to be ordered in the same way(needs confirmation).
+12b57:12ca3 - song-related stuff
 <br>
-0x26be8: Chronology start
+12ca3:130ea - (Endings?)
+<br>
+130ea: - some strange untranstlated text block. Strings start with イラスト：左 (GoogTransl: 'Illustration:Left')
+<br>
+134de: - Song lyrics
+<br>
+14c30:2464c - Tips. They do not seem to be ordered in the same way as the pc version(not sure).
+<br>
+26be8: - Chronology start
 <br>
 
+BTW, analyzing this file revealed that developers actually transliterated characters' names this way:
+```
+うしろのしょうめんのぼく／Uni
+鏡の中のワタシ／Cocoro
+天より墜ちたオレ／Satoru
+```
+(proof: 0x260a0 in init.bin)
+So we might change these in the translation
 
 Fonts
 ============
