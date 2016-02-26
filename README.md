@@ -15,7 +15,7 @@ Scenes: Yes - But text often overflows the windows. Crashes are expected until t
 <br>
 (init.bin) Chronology: No
 <br>
-(BOOT.BIN) Menus: No. HOME menu - Yes.
+(BOOT.BIN) Menus: Partial. Need translation help, because these strings are different from the PC version. HOME menu - Yes.
 
 
 How To
