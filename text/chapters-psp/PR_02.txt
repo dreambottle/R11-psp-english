@@ -163,7 +163,7 @@ The figure of a lone girl had appeared at the front gate of the city hospital.
 "She" was not holding an umbrella.
 
 肩や髪に純白の粉雪をまとい、路傍の石のように沈黙していた。%K%N
-The powdery snow fell softly onto her shoulders and hair; she was as silent as the world around her.
+The powdery snow fell softly onto her shoulders and hair; she was as silent as the world around her.%K%P
 
 このときの様子を、当直の看護師が３階の窓から目撃している。%K%N
 An on-duty nurse noticed this strange figure from the window of the third floor.
@@ -178,7 +178,7 @@ The hospital was sound asleep.
 There was no one groaning in agony, no one weeping in despair.
 
 ただ安らかな寝息だけが冷たい廊下に満ちていた。%K%N
-Only the faint sounds of calm and tranquil sleep filled the cool hallways.
+Only the faint sounds of calm and tranquil sleep filled the cool hallways.%K%P
 
 鋭い悲鳴が静寂を破ったのは、それから間もなくのことだった。%K%N
 A sharp shriek had violated the silence. That's when it all began.
@@ -196,16 +196,16 @@ It took the doctors and nurses several minutes to notice that something was wron
 The nurse call signs lit up one by one, and then the alarms sounded, echoing throughout the hospital.
 
 当直の医師らは手分けをして病室へと向かった。%K%N
-The on-duty doctors split up and rushed to the sickrooms.
+The on-duty doctors split up and rushed to the sickrooms.%K%P
 
 そうしている間にも悲鳴や叫喚はあちこちから響き渡り、それは病室から病室、病棟から病棟へと次々に伝播していった。%K%P
-Screams and cries echoed here and there, from room to room, from ward to ward, one after another.
+Screams and cries echoed here and there, from room to room, from ward to ward, one after another.%K%N
 
 患者達が素足のまま病室を飛び出してきた。%K%N
 The patients rushed out of their rooms barefoot.
 
 わけのわからぬ奇声を発しながら入り乱れるように逃げ惑う。%K%N
-They ran, jumbled together, trying to escape, making incomprehensible sounds.
+They ran, jumbled together, trying to escape, making incomprehensible sounds.%K%P
 
 泣きじゃくる少女……怒鳴り散らす青年……血まみれのまま立ち尽くす老女……。%K%N
 A sobbing girl... a ranting and raving young man... an old woman who stood stock still, covered in blood....
@@ -220,7 +220,7 @@ A lone doctor opened up the door to one of the hospital rooms.
 An incredible amount of fresh blood stained the walls and the linoleum floor crimson.
 
 飛び散った血液が飛沫となって宙を漂っている。%K%N
-A thin mist of spattered blood hung in the air.
+A thin mist of spattered blood hung in the air.%K%P
 
 粘ついた臭気が鼻腔や肺の奥をじくじくと侵蝕していった。%K%N
 The sickening, persistent odor made its way to the doctor's nose and settled itself deep in his lungs.
@@ -235,7 +235,7 @@ Two motionless lumps of flesh lay there, sprawled over the beds.
 One had had its chest brutally torn open. The right half of the ribcage was sticking out from the body cavity.
 
 心臓がなかった。%K%N
-The heart was gone.
+The heart was gone.%K%P
 
 部屋の隅、轢き殺されたカエルのように平たくなったそれを見つけた。%K%N
 He found it in the corner of the room, squished flat like a frog that had been run over by a truck.
@@ -280,6 +280,8 @@ Male patient
 The shadow... has come...
 
 %N%N
+
+
 それが彼にとっての最期の言葉となった。%K%N
 Those would be the last words he'd ever say.
 
