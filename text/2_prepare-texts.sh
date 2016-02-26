@@ -18,5 +18,5 @@ for i in chapters-psp/[A-Z0-9]*_[0-9]*.txt ; do
     ./extract_en.pl chapters-psp/$f.txt > mac-en-only/$f.txt || exit 1;
 	
 	# combine with my format
-	./insert_en_lines.py mac-ja-psp/$f.txt mac-en-only/$f.txt mac-combined-psp/$f.txt || exit 1;
+	./merge-scene-lines.py mac-ja-psp/$f.txt mac-en-only/$f.txt mac-combined-psp/$f.txt || exit 1;
 done

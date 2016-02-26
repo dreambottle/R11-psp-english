@@ -46,7 +46,7 @@ def write_results_to_file(name, res, find_dupes = True):
       else:
         string_dict[toff_len_str[2]] = toff_len_str[0]
 
-    f.write(b"\n\n")
+    f.write(b"\n")
   f.close()
 
 def main():
