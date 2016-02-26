@@ -44,7 +44,7 @@ mv -f $WORKDIR/init.mod.bin $ISO_RES_DIR/init.bin
 
 #BOOT.BIN
 echo Applying patches to BOOT.BIN
-cp -f $WORKDIR/BOOT.bin $WORKDIR/BOOT.bin.patched
+cp -f $WORKDIR/BOOT.BIN $WORKDIR/BOOT.BIN.patched
 $ARMIPS src/boot-patches.asm
 #rm -f $ISO_BIN_DIR/BOOT.BIN
 rm -f $ISO_BIN_DIR/EBOOT.BIN

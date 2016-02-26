@@ -27,7 +27,13 @@ Special Sequences
 
 %T30 - delay? also produces white space
 
-%X070 - (10, 50, 70 in game texts)???
+%X070 - ??? (also 010, 050 in game texts)
+
+%XS[2 digits], %XE - ??? (in BOOT.BIN)
+
+%n - ??? (in BOOT.BIN)
+
+%S - ??? (in BOOT.BIN) (usually %n%S or %N%S)
 
 
 BOOT.BIN
@@ -36,11 +42,20 @@ BOOT.BIN
 To disasm BOOT.BIN with prxtool:
 `tools/prxtool -n tools/psp-NID-Prometheus.xml -o boot-disasm.txt -w workdir/BOOT.BIN`
 
+`readelf -a BOOT.BIN` info about elf structure
+
 Text occurrences:
 
-0x121160 (approx) - section with text;
+Don't forget to add/subtract A0 to table values, which is an elf header size
+
+table - text locations
+
+12bb8c: - 12116c:1243d0(123fb0 jap) (approx) - section with text;
   0x12144c - scrolling menu text, delimited by new lines (%N), ends at 0x12871c.
-0x136ac0: sample text block, used in settings
+136760:136aa0 - 12483с:128620
+136ac0: sample text block, used in settings
+
+137528:141520 - large empty area. Test if this can be used as an scratchpad/area for long strings.
 
 
 The engine has a limit of 380 simultaneous characters on the scene, which causes crashes when the buffer is overflown. The workaround is to insert more %K%P sequences to the text.
@@ -112,6 +127,9 @@ TIM2 format
 
 Graphics format found in some T2P files after they are decompressed.
 
+
 Useful links:
+
 HOME menu language: http://bbs.blacklabel-translations.com/showthread.php?tid=35&pid=84
+
 TIM2 format: http://wiki.vg-resource.com/wiki/TIM2
