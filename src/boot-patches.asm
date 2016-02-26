@@ -17,7 +17,7 @@ li a0, 1
 .area 4
 ; Home button layout
 ; 0 - O=OK; 1 - X=OK
-li a1, 1
+li a1, 0
 .endarea
 
 .close
