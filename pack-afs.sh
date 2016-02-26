@@ -8,9 +8,9 @@ REPACK_SCENE=text/repack_scene.py
 
 #mac.afs
 mkdir -p mac-en/
-for i in text/chapters-psp/*.txt ; do
+for i in mac-en/*.SCN ; do
 	echo Repacking $i
-	f=`basename $i .txt`
+	f=`basename $i .SCN`
 	$REPACK_SCENE text/mac-combined-psp/$f.txt mac/$f.SCN mac-en/$f.SCN
 	$COMPRESS ./mac-en/$f.{SCN,BIP}
 done
@@ -44,7 +44,7 @@ mv -f $WORKDIR/init.mod.bin $ISO_RES_DIR/init.bin
 
 #BOOT.BIN
 echo Applying patches to BOOT.BIN
-cp -f $WORKDIR/BOOT.BIN $WORKDIR/BOOT.BIN.patched
+cp -f $WORKDIR/BOOT.BIN.en $WORKDIR/BOOT.BIN.patched
 $ARMIPS src/boot-patches.asm
 #rm -f $ISO_BIN_DIR/BOOT.BIN
 rm -f $ISO_BIN_DIR/EBOOT.BIN

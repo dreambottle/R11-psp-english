@@ -25,7 +25,7 @@ def get_dictionary(source_text, pattern):
 
 def main():
   if (len(sys.argv) != 3):
-    exit("usage: {0} to.jp.txt from.en.txt".format(sys.argv[0]))
+    exit("usage: {0} target.jp.txt source.en.txt".format(sys.argv[0]))
   
   target = sys.argv[1]
   source = sys.argv[2]
@@ -35,7 +35,6 @@ def main():
 
   target_lines = [s.strip() for s in f_target.readlines()]
   source_text = f_source.read()
-  # [s.strip() for s in f_source.readlines()]
 
   result_lines = []
 

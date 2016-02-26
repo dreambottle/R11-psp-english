@@ -78,6 +78,9 @@ def patch(bytelist, initial_text, new_text, max_size):
 
 def main():
 
+  if len(sys.argv != 4):
+    exit("Usage: %s translation.txt source-BOOT.BIN output-BOOT.BIN")
+
   txt     = sys.argv[1]
   bin_in  = sys.argv[2]
   bin_out = sys.argv[3]
