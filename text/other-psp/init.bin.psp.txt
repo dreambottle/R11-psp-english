@@ -48,14 +48,19 @@ Pilot
 ;117c;12;RŠx‹~•‘àˆõ
 
 ;1180;16;‚ä‚ÉE‰©ò–ØE‘á
+Yuni, Yomogi, Mayuzumi
 
 ;1184;16;‚±‚±‚ëE‚ä‚ÉE‘á
+Kokoro, Yuni, Mayuzumi
 
 ;1188;16;‚ä‚ÉE•ä’¹E“àŠC
+Yuni, Hotori, Utsumi
 
 ;118c;14;‚ä‚ÉEŒåE•ä’¹
+Yuni, Satoru, Hotori
 
 ;1190;10;‰©ò–ØE‘á
+Yomogi, Mayuzumi
 
 ;1194;6;¹–ç
 
@@ -98,14 +103,19 @@ You ate at SPHIA the 3rd and 4th day
 Incident at SPHIA
 
 ;11dc;8;‘á”­‹¶‚`
+Mayuzumi's Madness A
 
 ;11e0;10;‰©ò–Ø”­‹¶
+Yomogi's Madness
 
 ;11e4;8;‘á”­‹¶‚a
+Mayuzumi's Madness B
 
 ;11e8;8;‘á”­‹¶‚b
+Mayuzumi's Madness C
 
 ;11ec;10;é‘q‚Å‘˜“ï
+Incident at Mount Akakura
 
 ;11f0;14;–ŒÌŒ»ê‚Å“€€
 Death from cold at crash site
@@ -1093,7 +1103,7 @@ Satoru Chapter
 ;1994;8;ƒTƒgƒ‹•Ò
 ;dupe:1970
 ;1998;20;‚s‚’‚‰‚ƒ‚‹‡S‚r‚”‚‚’
-
+‚s‚’‚‰‚ƒ‚‹‚“‚”‚…‚’
 ;19a0;8;ƒTƒgƒ‹•Ò
 ;dupe:1970
 ;19a4;12;‚r‚ˆ‚‚„‚‚—
@@ -11118,7 +11128,7 @@ Dream of the Butterfly 2 - Clear
 ƒƒ‚‚ÌƒCƒ‰ƒXƒg|ƒoƒCƒI
 Message Illustration - Bio
 
-‚s‚’‚‰‚ƒ‚‹\x{1}‚r‚”‚‚’
++#‚s‚’‚‰‚ƒ‚‹\x{1}‚r‚”‚‚’
 ‚s‚’‚‰‚ƒ‚‹‚“‚”‚…‚’
 
 ‚±‚±‚ë7“ú–Ú‚Å€–S‚a|ƒoƒCƒI‚a‚`‚c

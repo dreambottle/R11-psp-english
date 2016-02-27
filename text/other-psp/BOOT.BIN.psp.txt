@@ -24,16 +24,16 @@ Save%NLoad%NQuick Save%NQuick Load%NText Log%NOptions%NHelp%NGlossary%NTitle Scr
 Returning to the Title Screen. Is this ok?%N%SYes%n  /  %n%SNo
 ;;67;“dŒ¹‚ğƒIƒt‚É‚µ‚ÄƒQ[ƒ€‚ğI—¹‚µ‚Ü‚·‚©H%N%S‚Í‚¢%n‡S^‡S%n%S‚¢‚¢‚¦
 
-;;23;‘ƒvƒŒƒCŠÔ%X128%XS16
-Total play time%X128%XS16
+#;;23;‘ƒvƒŒƒCŠÔ%X128%XS16
+#Total play time%X128%XS16
 ;;3;%2d
 
 ;;3;F
 
 ;;7;%02d
 
-;;23;ƒvƒŒƒCŠÔ%X128%XS16
-Play time%X128%XS16
+#;;23;ƒvƒŒƒCŠÔ%X128%XS16
+#Play time%X128%XS16
 ;;7;‚a‚fF
 BG:
 ;;23;||||||||||
@@ -114,26 +114,26 @@ Returning to the Title Screen. Is this OK?%N%SYes%n  /  %n%SNo
 
 ;;7;|||
 
-;;27;|‚o‚Œ‚‚™‚‰‚‚‡‡S‚k‚‚‡|
-- Playing Log -
-;;15;‡SƒGƒ“ƒfƒBƒ“ƒO
- Ending
-;;19;‡SƒV[ƒ“ƒ^ƒCƒgƒ‹
- Scene Title
-;;7;‡S‚b‚f
- CG
-;;15;‡S‚l‚‚–‚‰‚…
- Movies
-;;15;‡S‚l‚•‚“‚‰‚ƒ
- Music
-;;15;‡SƒƒbƒZ[ƒW
- Messages
-;;3;%5d
-
-;;11;‡S‘I‘ğˆ
- Choices
-;;15;‡S‘ƒvƒŒƒCŠÔ
- Total Play Time
+#;;27;|‚o‚Œ‚‚™‚‰‚‚‡‡S‚k‚‚‡|
+#- Playing Log -
+#;;15;‡SƒGƒ“ƒfƒBƒ“ƒO
+# Ending
+#;;19;‡SƒV[ƒ“ƒ^ƒCƒgƒ‹
+# Scene Title
+#;;7;‡S‚b‚f
+# CG
+#;;15;‡S‚l‚‚–‚‰‚…
+# Movies
+#;;15;‡S‚l‚•‚“‚‰‚ƒ
+# Music
+#;;15;‡SƒƒbƒZ[ƒW
+# Messages
+#;;3;%5d
+#
+#;;11;‡S‘I‘ğˆ
+# Choices
+#;;15;‡S‘ƒvƒŒƒCŠÔ
+#Tot. Play Time
 ;;31;‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X}{|^
 
 ;;67;––––––––––––––––––––––––––––––––

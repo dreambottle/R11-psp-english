@@ -32,14 +32,14 @@ mv -f $WORKDIR/etc-repacked.afs $ISO_RES_DIR/etc.afs
 fi
 
 #init.bin
-INIT_SRC=init.dec.mod
-if [ ! -f init.dec.mod ]; then
+INIT_SRC=init.dec.en
+if [ ! -f init.dec.en ]; then
 	# If modified file does not exist, just repack the original one.
 	# Used for testing purposes
 	INIT_SRC=init.dec
 fi
-$COMPRESS $WORKDIR/$INIT_SRC $WORKDIR/init.mod.bin || exit 1;
-mv -f $WORKDIR/init.mod.bin $ISO_RES_DIR/init.bin
+$COMPRESS $WORKDIR/$INIT_SRC $WORKDIR/init.en.bin || exit 1;
+mv -f $WORKDIR/init.en.bin $ISO_RES_DIR/init.bin
 
 
 #BOOT.BIN

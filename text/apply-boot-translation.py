@@ -22,44 +22,6 @@ text_s2_area  = [0x12483c, 0x128620]
 text_s2_table = [0x136760, 0x136aa0]
 
 
-# def find_in_table(table, value, table_position = 0):
-#   #entries = len(table) // 4
-#   #int_table = struct.unpack("<"+"I"*entries, table)
-#   int_table = memoryview(table).cast("I");
-#   offsets = [i*4+table_position for i, v in enumerate(int_table) if v == value]
-
-#   if (len(offsets) == 0):
-#     print("%x"%value, "not found")
- 
-#   if (len(offsets) > 1):
-#     print("warn: found %d table offsets for %x:" % (len(offsets), value+elf_head_size))
-#     for off in offsets:
-#       print("- %x"%off)
-
-#   return offsets
-
-
-# def find_all_str_off(bytelist, table_section, text_section):
-#   table = bytelist[table_section[0]:table_section[1]]
-
-#   strings = []
-#   lengths = []
-#   table_offs = []
-
-#   pos = text_section[0]
-#   while pos < text_section[1]:
-#     # print( "%x/%x" % (pos, len(bytelist)) )
-#     table_off = find_in_table(table, pos-elf_head_size, table_section[0])
-#     end = bytelist.find(b"\x00", pos)
-#     # print("%x at %x"%(end, table_off))
-#     if (end == -1): break
-#     if (table_off):
-#       strings.append(bytelist[pos:end])
-#       lengths.append((end|3)-pos)
-#       table_offs.append(table_off)
-#       pos = end
-#     pos = (pos + 4) & ~3; #align to next 4
-#   return (table_offs, lengths, strings)
 
 def patch(bytelist, initial_text, new_text, max_size):
   if len(new_text)+1 > max_size:
@@ -73,12 +35,13 @@ def patch(bytelist, initial_text, new_text, max_size):
     print ("'{0}' not found".format(new_text))
     return
 
-  new_text = new_text + b'\x00' * (max_size - len(new_text))
+  new_text = new_text.ljust(max_size, b'\x00')
   bytelist[pos:pos+max_size] = new_text
 
 def main():
+  # Warning: can only work a clean BOOT.BIN
 
-  if len(sys.argv != 4):
+  if len(sys.argv) != 4:
     exit("Usage: %s translation.txt source-BOOT.BIN output-BOOT.BIN")
 
   txt     = sys.argv[1]
@@ -94,7 +57,6 @@ def main():
   f_bin.close()
 
   jp_pattern = re.compile(b"^;([\da-fA-F]*);([\d]*);(.*)$")
-  # dupe_pattern = re.compile("^;dupe:([\da-zA-Z]+)")
   JA=1
   EN=2
   state=JA

@@ -8,8 +8,9 @@
 # https://msdn.microsoft.com/en-us/goglobal/cc305152.aspx
 
 
-./apply-boot-bin-translation.py other-psp/BOOT.BIN.psp.txt ../workdir/BOOT.BIN ../workdir/BOOT.BIN.en
+./apply-boot-translation.py other-psp/BOOT.BIN.psp.txt ../workdir/BOOT.BIN ../workdir/BOOT.BIN.en
 ./apply-shortcuts-translation.py other-psp/SHORTCUT.SCN.psp.txt ../mac/SHORTCUT.SCN ../mac-en/SHORTCUT.SCN
+./apply-init-translation.py other-psp/init.bin.psp.txt ../workdir/init.dec ../workdir/init.dec.en
 
 # Dependencies: Perl File::Slurp module.
 # > cpan File::Slurp
