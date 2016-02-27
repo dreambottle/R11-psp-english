@@ -21,7 +21,7 @@ Return to the title screen. (You can resume from the last save)
 ;;107;セーブ%Nロード%Nクイックセーブ%Nクイックロード%Nテキストログ%Nオプション%Nヘルプ%N用語解説%Nタイトル画面へ
 Save%NLoad%NQuick Save%NQuick Load%NText Log%NOptions%NHelp%NGlossary%NTitle Screen
 ;;67;タイトル画面へ戻ります。よろしいですか？%N%Sはい%n⑳／⑳%n%Sいいえ
-Returning to the Title Screen. Is this ok?%N%SYes%n  /  %n%SNo
+Are you sure you want to return to the Title Screen?%N%SYes%n  /  %n%SNo
 ;;67;電源をオフにしてゲームを終了しますか？%N%Sはい%n⑳／⑳%n%Sいいえ
 
 #;;23;総プレイ時間%X128%XS16
@@ -209,11 +209,11 @@ Returning to the Title Screen. Is this OK?%N%SYes%n  /  %n%SNo
 ;;7;成功%%N
 Success%%N
 ;;43;メモリースティック⑱が挿入されていません%%N
-
+Memory Stick⑱ is not inserted%%N
 ;;51;メモリースティック⑱がフォーマットされていません%%N
-
+Memory Stick⑱ is not formatted%%N
 ;;95;メモリースティック⑱の空き容量が不足しています%%Nセーブには%sＫＢ以上の空き容量が必要です%%N
-
+No free space on Memory Stick⑱At least %sKB is required to save%%N
 ;;95;メモリースティック⑱に%%N『Remember11 -the age of infinity-』の%%Nセーブデータがありません%%N
 
 ;;87;『Remember11 -the age of infinity-』の%%Nセーブデータが破損している可能性があります%%N
@@ -281,15 +281,15 @@ Success%%N
 ;;111;クイックセーブを初期化しますか？%%N（ロックされているデータは初期化されません）%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
 
 ;;11;セーブ完了
-
+Save completed
 ;;11;ロード完了
-
+Load completed
 ;;19;システムセーブ完了
-
+System save completed
 ;;19;システムロード完了
-
+System load completed
 ;;31;セーブする場所を選んでください
-
+Please choose the save location
 ;;235;『Remember11 -the age of infinity-』の%%Nセーブデータが破損している可能性があります%%Nこのままゲームを開始してもよろしいですか？%%N※このままゲームを開始した場合%%Nシステムデータは初期状態で開始されます%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
 
 ;;159;メモリースティック⑱が挿入されていません%%Nセーブには%sＫＢ以上の空き容量が必要です%%Nこのままゲームを開始してもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
@@ -303,15 +303,15 @@ Success%%N
 ;;91;時刻が正しく取得できませんでした%%N強制的に書き込みますか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
 
 ;;23;セーブに失敗しました%%N
-
+Save failed
 ;;23;ロードに失敗しました%%N
-
+Load failed
 ;;31;フォーマットに失敗しました%%N
-
+Format failed
 ;;39;新規セーブデータの作成に失敗しました%%N
-
+Creating new save data failed
 ;;23;上書きに失敗しました%%N
-
+Overwrite failed
 ;;83;『Never7 -the end of infinity-』をロード%N『Ever17 -the out of infinity-』をロード
 Load 『Never7 -the end of infinity-』%NLoad 『Ever17 -the out of infinity-』
 ;;251;『Ever17 -the out of infinity-』の%Nファイルを発見しました%N『Remember11 -the age of infinity-』に%Nデータを反映させますか？%N※核心に触れる情報が含まれるので、%N該当ゲームの全シナリオクリア後に%N開放することをお勧めします。%N%Sはい%n⑳／⑳%n%Sいいえ
@@ -357,85 +357,85 @@ Data is corrupted
 ;;27;スクリーンアジャスト設定
 Screen adjustment
 ;;11;Ｙ座標：
-
+Y coordinates:
 ;;51;ゲーム中の画面の表示位置を調整する事ができます。
-
+You can adjust the in-game screen display position.
 ;;47;方向キーで画面の表示位置を調整してください。
-
+Please adjust the display position of the screen with the direction keys.
 ;;187;⑨ゲーム中の画面の表示位置を調整する事が%N⑨できます。%N%N⑨※ゲーム中のテキストウィンドウのみ%N⑨⑨位置調整を行う場合は、%N⑨⑨『ウィンドウアジャスト設定』で%N⑨⑨調整する事ができます。
 
 ;;27;ウィンドウアジャスト設定
-
+Window adjustment settings
 ;;47;テキストウィンドウの表示位置を調整できます。
-
+You can adjust the display position of the text window.
 ;;59;方向キーでテキストウィンドウの表示位置を調整してください。
-
+Please adjust the display position of the text window in the direction key.
 ;;255;⑨ウィンドウの表示位置を調整する事が%N⑨できます。%N⑨画面内に表示されている%N⑨テキストウインドウが中央に表示%N⑨されるよう調整してください。%N%N⑨※ゲーム中の画面位置の調整を行う場合は、%N⑨⑨『スクリーンアジャスト設定』で%N⑨⑨調整する事ができます。
 
 ;;23;ウィンドウカラー設定
-
+Window color settings
 ;;35;ブルー%Nグリーン%Nレッド%Nブラック
-
+Blue%NGreen%NRed%NBlack
 ;;43;ウィンドウの表示色を変更する事ができます。
-
+You can change the display color of the window.
 ;;39;ウィンドウの表示色を選択してください。
-
+Please select the display color of the window.
 ;;167;⑨ゲーム中に表示されるウィンドウの色を%N⑨変更する事ができます。%N⑨この設定はテキストウィンドウのみに%N⑨反映されます。%N⑨システムウィンドウの色は変更されません。
 
 ;;23;ウィンドウアルファ設定
-
+Window alpha setting
 ;;11;アルファ
-
+Alpha
 ;;55;ウィンドウのアルファ値（不透過度）を設定できます。%N
-
+You can set the alpha value (opacity) of the window.%N
 ;;59;ウィンドウのアルファ値（不透過度）を設定してください。%N
-
+Please set the alpha value (opacity) of the window.%N
 ;;123;⑨ウィンドウのアルファ値（不透過度）を%N⑨設定できます。%N⑨設定バーの数値を大きくすると、%N⑨ウィンドウが濃くなります。
 
 ;;19;サウンド出力設定
-
+Sound output settings
 ;;19;ステレオ%Nモノラル
-
+Stereo%NMono
 ;;43;サウンドの出力方法を変更する事ができます。
-
+You can change the sound output method.
 ;;39;サウンドの出力方法を設定してください。
-
+Please set the sound output method.
 ;;75;⑨サウンドの出力方法を変更できます。%N⑨接続環境に応じて変更してください。
 
 ;;27;ドラマティックモード設定
-
+Dramatic mode settings
 ;;47;キャラ＋背景%NイベントＣＧ%NＫｅｙｗｏｒｄ%N
-
+Character & background%NEvent CG%NKeyword%N
 ;;75;ゲーム中に表示されるボイス付きテキストの表示設定を変更する事ができます。
-
+You can change the display settings for the voice with text that is displayed during the game.
 ;;67;ゲーム中に表示されるボイス付きテキストの表示設定をしてください。
-
+Please refer to the display settings for the voice with text that is displayed during the game.
 ;;467;⑨チェックボックスをＯＦＦにすると、その箇所の%N⑨ボイスありテキストが非表示になります。%N⑨・キャラ＋背景……立ちキャラクタＣＧと%N⑨⑨⑨⑨⑨⑨⑨⑳⑳背景を使用しているシーン。%N⑨・イベントＣＧ……一枚の静止画で情景描写を%N⑨⑨⑨⑨⑨⑨⑨⑳行っているシーン。%N⑨・Ｋｅｙｗｏｒｄ……Ｋｅｙｗｏｒｄを含んだ%N⑨⑨⑨⑨⑨⑨⑨⑳テキストが表示される場合。%N%N⑨※全てのチェックボックスをＯＦＦにする事で、%N⑨⑨本ゲームをドラマティックモードとして%N⑨⑨プレイできます。%N
 
 ;;23;テキストスピード設定
-
+Text speed setting
 ;;7;速度
-
+Speed
 ;;51;テキストを表示する際の速度を変更する事ができます。
-
+You can change the speed at which the text will be displayed.
 ;;47;テキストを表示する際の速度を設定してください。
-
+Please set the speed at which the text will be displayed.
 ;;159;⑨文字を表示する際の表示速度を%N⑨変更する事ができます。%N⑨設定バーを大きくすると、%N⑨文字の表示速度が遅くなります。%N⑨０に設定すると一括表示になります。
 
 ;;31;テキストとボイスのシンクロ設定
-
+Synchro setting of text and voice
 ;;31;シンクロする%Nシンクロしない
-
+No synchro%NSynchro
 ;;75;ボイス付きテキストの表示速度をボイスの長さとシンクロさせる事ができます。
 
 ;;51;ボイス付きテキストの表示速度を設定してください。
-
+Please set the display speed of the voice with text.
 ;;187;⑨ボイス付きのテキストの表示速度を%N⑨ボイスの長さにシンクロさせる事ができます。%N⑨“シンクロする”に設定した場合、%N⑨ボイス付きテキストは%N⑨『テキストスピード設定』が適用されません。
 
 ;;31;オートプレイのインターバル設定
-
+Auto Play interval settings
 ;;7;間隔
-
+Interval
 ;;71;オートプレイ実行時、テキストの自動ページ送りをする間隔を設定できます。
 
 ;;75;オートプレイ実行時のテキストの自動ページ送りをする間隔を設定してください。
@@ -443,9 +443,9 @@ Screen adjustment
 ;;227;⑨オートプレイ実行時のテキストの%N⑨自動ページ送りをする間隔を設定できます。%N⑨設定バーを大きくすると、%N⑨自動ページ送りされる間隔が長くなります。%N%N⑨※オートプレイ中でも、ボタン操作でページ送り%N⑨⑨をする事は可能です。
 
 ;;19;選択肢の既読色設定
-
+Color settings for viewed text
 ;;27;既読色ＯＦＦ%N既読色ＯＮ
-
+Viewed text OFF%NViewed text ON
 ;;75;今までのプレイで選んだ履歴のある選択肢の文字色を変更させる事ができます。
 
 ;;75;今までのプレイで選んだ履歴のある選択肢の文字色変更動作を設定してください。
@@ -453,9 +453,9 @@ Screen adjustment
 ;;147;⑨今までのプレイで選んだ履歴のある選択肢の%N⑨文字色を変更させる事ができます。%N⑨“既読色ＯＮ”にすると、%N⑨テキストログの文字色も変更されます。
 
 ;;19;フォントの装飾設定
-
+Font decoration setup
 ;;23;装飾なし%N影%N縁取り
-
+No decoration%NShadow%NEdging
 ;;63;ゲーム中のテキストフォントの装飾方法を設定する事ができます。
 
 ;;59;ゲーム中のテキストフォントの装飾方法を設定してください。
@@ -463,9 +463,9 @@ Screen adjustment
 ;;231;⑨ゲーム中のテキストフォントの装飾方法を%N⑨変更する事ができます。%N⑨・装飾なし……装飾が無い状態で%N⑨⑨⑨⑨⑨⑨⑳テキストが表示されます。%N⑨・影……テキストの右下に影を表示させます。%N⑨・縁取り……テキストを黒く縁取りします。
 
 ;;19;スキップ動作設定
-
+"Skip" behaviour settings
 ;;31;既読テキストのみ%N全テキスト
-
+Read text only%NAll text
 ;;55;スキップモードが有効になる条件を設定する事ができます。
 
 ;;51;スキップモードが有効になる条件を設定してください。
@@ -473,27 +473,28 @@ Screen adjustment
 ;;119;⑨スキップモードが有効になる条件を%N⑨設定する事ができます。%N%N⑨※強制スキップ中はこの設定は%N⑨⑨適用されません。
 
 ;;23;スキップキャラ表示設定
-
+"Skip" character display settings
 ;;23;標準%Nシルエット表示
 
+;; 23;Standard%NSilhouette display
 ;;67;スキップモード中のキャラクタ－の表示方法を設定する事ができます。
-
+Display method of characters in "Skip" mode can be set
 ;;63;スキップモード中のキャラクタ－の表示方法を設定してください。
-
+Please set the display method of characters in "Skip" mode.
 ;;183;⑨スキップモード中のキャラクタ－の表示方法を%N⑨設定する事ができます。%N⑨“シルエット表示”に設定すると、%N⑨キャラクタの表示は影のみになりますが、%N⑨スキップの速度が早くなります。
 
 ;;23;スキップスクロール設定
-
+"Skip" scroll setup
 ;;23;標準%Nスクロールカット
-
+Standard%NCut scroll
 ;;67;スキップモード中の画面スクロール演出方法を設定する事ができます。
 
 ;;63;スキップモード中の画面スクロール演出方法を設定してください。
-
+Please select how the screen scroll method in skip mode.
 ;;175;⑨スキップモード中のスクロール演出方法を%N⑨設定する事ができます。%N⑨“スクロールカット”に設定すると、%N⑨スクロール演出は無くなりますが、%N⑨スキップの速度が早くなります。
 
 ;;23;スキップアラート設定
-
+"Skip" alert settings
 ;;39;バイブレーション（振動）機能%N操作音
 
 ;;87;スキップ中、コントローラ操作が必要になった場合に通知する動作を設定する事ができます。

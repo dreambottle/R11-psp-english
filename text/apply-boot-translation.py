@@ -12,31 +12,66 @@ elf_head_size = 0xA0
 text_area     = [0x12116c, 0x128710]
 text_tables   = [0x12bb8c, 0x136aa0]
 
-text_s0_area  = [0x12116c, 0x1217d0]
-text_s0_table = [0x12bb8c, 0x123fb0]
+# text_s0_area  = [0x12116c, 0x1217d0]
+# text_s0_table = [0x12bb8c, 0x123fb0]
 
-text_s1_area  = [0x1219c0, 0x123914]
-text_s1_table = [0x12bb8c, 0x123fb0]
+# text_s1_area  = [0x1219c0, 0x123914]
+# text_s1_table = [0x12bb8c, 0x123fb0]
 
-text_s2_area  = [0x12483c, 0x128620]
-text_s2_table = [0x136760, 0x136aa0]
+# text_s2_area  = [0x12483c, 0x128620]
+# text_s2_table = [0x136760, 0x136aa0]
+
+relocation_area = [0x137528, 0x141520]
+reloc_pos = relocation_area[0]
+
+# def find_and_replace_addr(bytearr, limits, pos, new_pos):
+#   if (limits):
+#     bytearr = bytearr[limits[0]:limits[1]]
+#   mv = memoryview(bytearr)
+#   intlist = mv.cast("I")
+#   found = False
+#   print("Searching...")
+#   for i in range(len(intlist)):
+#     if intlist[i] == (pos - elf_head_size):
+#       found = True
+#       intlist[i] = new_pos - elf_head_size
+#       print("=== Changed %X to %X at %X" % (pos, new_pos, i*4+ \
+#         (limits[0] if limits else 0)))
+#   if not found:
+#     print("Not found: %X"%pos)
+#   mv.release()
 
 
-
-def patch(bytelist, initial_text, new_text, max_size):
+def patch(bytearr, initial_text, new_text, max_size):
+  global reloc_pos
+  relocate = False
   if len(new_text)+1 > max_size:
     print("{0}/{1} length in '{2}'.".format(len(new_text)+1, max_size, new_text))
-    # TODO: relocation
-    print("Will be skipped.")
-    return
-  pos = bytelist.find(initial_text, text_area[0], text_area[1])
-  print("%x"%pos, "%x"%(pos+max_size))
+    relocate = True
+
+  pos = bytearr.find(initial_text, text_area[0], text_area[1])
   if pos == -1:
-    print ("'{0}' not found".format(new_text))
+    print("NOT FOUND: {0}".format(new_text))
     return
 
-  new_text = new_text.ljust(max_size, b'\x00')
-  bytelist[pos:pos+max_size] = new_text
+  if relocate:
+    pass
+    #nope, does not work just yet
+    # print(new_text)
+    # print("Will be relocated to %X. (Not very safe, try to avoid this)" % reloc_pos)
+    # bytearr[pos:pos+max_size] = b'\x00'*max_size
+
+    # find_and_replace_addr(bytearr, text_tables, pos, reloc_pos)
+
+    # new_size = (len(new_text)+1) | 0x3
+    # new_text = new_text.ljust(new_size, b'\x00')
+    # bytearr[reloc_pos:reloc_pos+new_size] = new_text
+
+    # reloc_pos += new_size
+  else:
+    new_text = new_text.ljust(max_size, b'\x00')
+    bytearr[pos:pos+max_size] = new_text
+
 
 def main():
   # Warning: can only work a clean BOOT.BIN
@@ -48,7 +83,7 @@ def main():
   bin_in  = sys.argv[2]
   bin_out = sys.argv[3]
 
-  f_txt=open(txt   , "rb")
+  f_txt=open(txt, "rb")
   f_bin=open(bin_in, "r+b")
 
   txt_lines = f_txt.readlines()
