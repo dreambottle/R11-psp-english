@@ -243,10 +243,14 @@ There might have been people still alive somewhere in the snowfield.
 However, the small pieces of wreckage had been scattered over a large area, which would have made further searching nearly impossible.
 
 %N
+
+
 では、強行に下山を試みるというのはどうか……？%K%N
 And what about making our way down the mountain...?
 
 %N
+
+
 それはこの状況に於いては何よりもやってはならないことだった。%K%P
 In this state of affairs, that took precedence over anything else.
 
@@ -376,7 +380,7 @@ I had no idea why she would do something so foolish.
 理性を失ってパニックに陥り、どこでもいいからとにかく遠くへ逃げ出したかったのかも知れない。%K%N
 Losing her cool and giving in to panic, she may have thought "It doesn't matter where I go; I just need to get away."
 
-%N
+#%N
 %P
 
 いずれにせよ、彼女はこの地点までやって来て力尽きてしまった。%K%N
