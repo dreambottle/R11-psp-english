@@ -261,8 +261,8 @@ The patient's throat had been slashed open. The weak, rasping sound of air escap
 医師はその場に屈み込むと、彼の喉元に手のひらを添えた。%K%P
 Shocked, the doctor knelt down and firmly covered the patient's neck with his hands.
 
-%N%N%N%N
-
+#%N%N%N%N
+%N%N%N
 
 %X010男性患者%N
 Male patient
@@ -270,8 +270,8 @@ Male patient
 %X050「影だ……」%K%P
 The shadow...
 
-%N%N%N%N
-
+#%N%N%N%N
+%N%N%N
 
 %X010男性患者%N
 Male patient
@@ -283,7 +283,7 @@ The shadow... has come...
 
 
 それが彼にとっての最期の言葉となった。%K%N
-Those would be the last words he'd ever say.
+Those would be the last words he'd ever say.%K%P
 
 この言葉の真意はいまだ判明していない。%K%P
 To this day, no one has yet been able to determine what those words really meant.
