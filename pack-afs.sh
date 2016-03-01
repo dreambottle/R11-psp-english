@@ -39,18 +39,19 @@ fi
 
 
 #init.bin
-INIT_SRC=init.dec.en
-if [ ! -f init.dec.en ]; then
+INIT_SRC=$WORKDIR/init.dec.en
+if [ ! -f $INIT_SRC ]; then
 	# If modified file does not exist, just repack the original one.
 	# Used for testing purposes
-	INIT_SRC=init.dec
+	INIT_SRC=$WORKDIR/init.dec
 fi
-$COMPRESS $WORKDIR/$INIT_SRC $WORKDIR/init.en.bin || exit 1;
+echo "Compressing $INIT_SRC"
+$COMPRESS $INIT_SRC $WORKDIR/init.en.bin || exit 1;
 mv -f $WORKDIR/init.en.bin $ISO_RES_DIR/init.bin
 
 
 #BOOT.BIN
-echo Applying patches to BOOT.BIN
+echo "Applying patches to EBOOT (BOOT.BIN)"
 cp -f $WORKDIR/BOOT.BIN.en $WORKDIR/BOOT.BIN.patched
 $ARMIPS src/boot-patches.asm
 #rm -f $ISO_BIN_DIR/BOOT.BIN

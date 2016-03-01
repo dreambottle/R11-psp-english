@@ -41,16 +41,17 @@ def main():
     if match:
       i += 1
       ln2 = txt_lines[i] if (i < len(txt_lines)) else b""
-      ln2 = ln2.rstrip(b'\n')
+      ln2 = ln2.rstrip(b'\r\n')
       table_off = int(match.group(1), 16)
       
       if (ln2.startswith(dupestr)):
         dupe_ref_bytes = ln2[len(dupestr):]
         dupe_ref = int(dupe_ref_bytes, 16)
+        # Just reference the same string
         head_int[table_off // 4] = head_int[dupe_ref // 4]
       else:
         jp_string = match.group(3)
-        en_string = ln2 if ln2 != b"" else jp_string
+        en_string = ln2 if ln2 else jp_string
 
         head_int[table_off // 4] = pos + seg_text[0]
         body += en_string + b'\x00'
