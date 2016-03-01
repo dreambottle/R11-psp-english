@@ -25,7 +25,7 @@ Special Sequences
 
 %C[4 hex digits] - color
 
-%T30 - delay? also produces white space
+%T030 - delay? WARNING: On pc it had %T[\d\d] (2 digits) format, but on psp it needs to have has 3 digits!
 
 %X070 - ??? (also 010, 050 in game texts)
 

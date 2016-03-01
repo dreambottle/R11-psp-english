@@ -245,20 +245,20 @@ I could use it as a lamp.
 %N
 
 
-%FS--------------------------------------------%FE%T60%N
-%LC２０１１年（平成２３年）７月４日（月曜日）%T60%N
+%FS--------------------------------------------%FE%T060%N
+%LC２０１１年（平成２３年）７月４日（月曜日）%T060%N
 July 4th (Monday) 2011 (Heisei 23)
 
 %N
 
 
-%LC朱倉岳に男女３人の腐乱死体%T60%N
+%LC朱倉岳に男女３人の腐乱死体%T060%N
 Three Decomposed Male and Female Corpses Found on Mount Akakura
 
 %N
 
 
-%LCＨＡＬ墜落事故の不明者か？%T60%N
+%LCＨＡＬ墜落事故の不明者か？%T060%N
 Missing passengers from the HAL crash?
 
 %FS--------------------------------------------%FE%K%P

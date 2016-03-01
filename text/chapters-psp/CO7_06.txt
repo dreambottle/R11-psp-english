@@ -736,15 +736,15 @@ As I shielded my eyes from the sunlight with one hand, my eyes suddenly froze on
 こころ「あなたは――」%K%P
 You're——
 
-違う――%T60
+違う――%T060
 No——
 
 %P
-黄泉木じゃない――%T60
+黄泉木じゃない――%T060
 That isn't Yomogi——
 
 %P
-彼は――%T60%T60%P
+彼は――%T060%T060%P
 That's——
 
 こころ「――――！？」%V
@@ -783,311 +783,311 @@ A person who shouldn't be here....
 Satoru...
 
 %P
-ずっと、逢いたいと思っていた。%T30
+ずっと、逢いたいと思っていた。%T030
 The one whom I'd always wanted to see.
 
 %P
-彼の声で、彼の言葉を聞きたいと思っていた。%T30
+彼の声で、彼の言葉を聞きたいと思っていた。%T030
 The one whose words I wanted to hear, spoken in his own voice.
 
 %P
-一度も喋ったことはないのに、私にとっては誰よりも身近に感じる人。%T30
+一度も喋ったことはないのに、私にとっては誰よりも身近に感じる人。%T030
 Even though we hadn't spoken even once, it felt like he was the person I was closest to.
 
 %P
-誰よりも心強い相棒。%T30
+誰よりも心強い相棒。%T030
 A partner who was more reassuring than anyone.
 
 %P
-誰よりも信じられる仲間。%T30
+誰よりも信じられる仲間。%T030
 A companion that I could believe in more than anyone.
 
 %P
-誰よりも親しく感じる友。%T30
+誰よりも親しく感じる友。%T030
 A friend I felt closer to than anyone.
 
 %P
-ずっと、逢いたいと思っていた。%T30
+ずっと、逢いたいと思っていた。%T030
 I had always wanted to meet him.
 
 %P
-でも――%T30
+でも――%T030
 But——
 
 %P
-こんなのは、現実ではない。%T30
+こんなのは、現実ではない。%T030
 This can't be real.
 
 %P
-現実であってはならない。%T30
+現実であってはならない。%T030
 There's no way this could really be happening.
 
 %P
-ここで逢えるはずはないのだ。%T30
+ここで逢えるはずはないのだ。%T030
 We shouldn't be able to meet here.
 
 %P
-彼は、ここにいるはずのない人なのだ。%T30
+彼は、ここにいるはずのない人なのだ。%T030
 He was someone who shouldn't be here.
 
 %P
-優希堂悟――。%T30
+優希堂悟――。%T030
 Yukidoh Satoru——
 
 %P
-彼が、目の前に存在していた。%T30
+彼が、目の前に存在していた。%T030
 He existed right before my eyes.
 
 %P
-これでは、まるで、デウス・エクス・マキナ……。%T30
+これでは、まるで、デウス・エクス・マキナ……。%T030
 It was almost as if this were a deus ex machina...
 
 %P
-私にとって、それは神の起こした奇蹟にも等しい出来事だった。%T30
+私にとって、それは神の起こした奇蹟にも等しい出来事だった。%T030
 To me, this was an event equivalent to a miracle from God.
 
 %P
-悟は立ち止まり、息を切らせながら、私を見つめた。%T30
+悟は立ち止まり、息を切らせながら、私を見つめた。%T030
 Satoru had stopped running and was now standing in front of me, staring at me and holding his breath.
 
 %P
-朝陽に照らされた海岸で、私と悟は向かい合っていた。%T30
+朝陽に照らされた海岸で、私と悟は向かい合っていた。%T030
 Satoru and I stood on the beach, gazing at each other's faces as the sunrise illuminated us. 
 
 %P
-こころ「なんで……？」%V%T60
+こころ「なんで……？」%V%T060
 Why...?
 
 %P
-こころ「なんで、悟がここに……？」%V%T60
+こころ「なんで、悟がここに……？」%V%T060
 Why are you here, Satoru...?
 
 %P
-かろうじて、声を絞り出す。%T30
+かろうじて、声を絞り出す。%T030
 I was barely able to get those words out.
 
 %P
-私の前に立っている悟は、%T30
+私の前に立っている悟は、%T030
 Is the Satoru standing in front of me...
 
-本物なの――？%T30
+本物なの――？%T030
 the real thing――?
 
 %P
-私が見ているものは、%T30
+私が見ているものは、%T030
 Is what I'm looking at right now...
 
-本物なの――？%T30
+本物なの――？%T030
 real――?
 
 %P
-この世界は、%T30
+この世界は、%T030
 Is this world...
 
-本物なの――？%T30
+本物なの――？%T030
 real――?
 
 %P
-悟も驚いた様子で私を見つめていた。%T30
+悟も驚いた様子で私を見つめていた。%T030
 Satoru was looking back at me in surprise as well.
 
 %P
-でもすぐに、納得したように何度もうなずいた。%T30
+でもすぐに、納得したように何度もうなずいた。%T030
 But then, he suddenly nodded his head repeatedly, as if he understood everything.
 
 %P
-悟「そうか……」%V%T60
+悟「そうか……」%V%T060
 I see...
 
 %P
-悟「やはり、そういうことなのか」%V%T60
+悟「やはり、そういうことなのか」%V%T060
 So that's how it is after all.
 
 %P
-初めて聞く、彼の声。%T30
+初めて聞く、彼の声。%T030
 It was the first time I'd heard his voice.
 
 %P
-彼の言葉。%T30
+彼の言葉。%T030
 His words.
 
 %P
-でも、まるでリアルに感じない。%T30
+でも、まるでリアルに感じない。%T030
 However, it felt as if it wasn't real.
 
 %P
-この世界には、リアルさが欠如している。%T30
+この世界には、リアルさが欠如している。%T030
 This world lacked anything that was real.
 
 %P
-こころ「悟……ねえ……どうして……」%V%T30
+こころ「悟……ねえ……どうして……」%V%T030
 Satoru... hey... why...?
 
 %P
-悟「話は後だ！」%V%T60
+悟「話は後だ！」%V%T060
 We'll talk later!
 
 %P
-厳しい表情で、私の声を遮った。%T30
+厳しい表情で、私の声を遮った。%T030
 My voice was interrupted by his stern expression.
 
 %P
-悟「急がないと、大変なことになる！」%V%T60
+悟「急がないと、大変なことになる！」%V%T060
 If I don't hurry, something terrible will happen!
 
 %P
-こころ「大変……って……？」%V%T60
+こころ「大変……って……？」%V%T060
 What do you mean... something terrible...?
 
 %P
-なんのこと？%T60　何を言ってるの？%T30
-What are you saying?%T60  What do you mean?
+なんのこと？%T060　何を言ってるの？%T030
+What are you saying?%T060  What do you mean?
 
 %P
-教えて……%T60教えてよ……%T60悟……。%T30
-Tell me... %T60Tell me... %T60Satoru...!
+教えて……%T060教えてよ……%T060悟……。%T030
+Tell me... %T060Tell me... %T060Satoru...!
 
 %P
-悟「お前達はここで待ってるんだ！」%V%T60
+悟「お前達はここで待ってるんだ！」%V%T060
 You guys wait here!
 
 %P
-お前達……？%T30
+お前達……？%T030
 You guys...?
 
 %P
-お前達って、誰のこと……？%T30
+お前達って、誰のこと……？%T030
 Who do you mean by you guys...?
 
 %P
-振り返ると、黛とゆにがいた。%T30
+振り返ると、黛とゆにがいた。%T030
 Turning my head, Mayuzumi and Yuni were there.
 
 %P
-ふたりとも悟を凝視して呆然としている。%T30
+ふたりとも悟を凝視して呆然としている。%T030
 The two of them were standing there dumbfounded, their eyes fixed on Satoru.
 
 %P
-いきなり、悟が走り出した。%T30
+いきなり、悟が走り出した。%T030
 All of a sudden, Satoru broke into a run.
 
 %P
-こころ「待って……！」%V%T60
+こころ「待って……！」%V%T060
 Wait...!
 
 %P
-こころ「どこ……どこ行くのよぉ……！」%V%T60
+こころ「どこ……どこ行くのよぉ……！」%V%T060
 Where... where are you going...?!
 
 %P
-呼びかけても、悟は振り向きもしなかった。%T30
+呼びかけても、悟は振り向きもしなかった。%T030
 Satoru didn't turn around even when I called to him.
 
 %P
-遠ざかっていく。%T30
+遠ざかっていく。%T030
 He was getting further and further away.
 
 %P
-悟が、%T60離れていく。%T30
-Satoru...%T60was leaving.
+悟が、%T060離れていく。%T030
+Satoru...%T060was leaving.
 
 %P
-彼の背中が、%T60遠くに、%T60遠くに……。%T30
-His back%T60 was getting further...%T60and further away....
+彼の背中が、%T060遠くに、%T060遠くに……。%T030
+His back%T060 was getting further...%T060and further away....
 
 %P
-私を置いていく。%T30
+私を置いていく。%T030
 He was going to leave me behind.
 
 %P
-いや……。%T30
+いや……。%T030
 No....
 
 %P
-そんなの、いやだ。%T30
+そんなの、いやだ。%T030
 I don't want that.
 
 %P
-置いていかないで。%T30
+置いていかないで。%T030
 Don't leave me behind.
 
 %P
-ひとりにしないで。%T30
+ひとりにしないで。%T030
 Don't leave me alone.
 
 %P
-こころ「待って……待ってってば！」%V%T60
+こころ「待って……待ってってば！」%V%T060
 Wait... please wait!
 
 %P
-悟「ついてくるな！」%V%T60
+悟「ついてくるな！」%V%T060
 Don't follow me!
 
 %P
-彼の言葉は、私の耳には入っていなかった。%T30
+彼の言葉は、私の耳には入っていなかった。%T030
 His words didn't enter my ears.
 
 %P
-ただ、置いていかれたくない一心で――%T30
+ただ、置いていかれたくない一心で――%T030
 With only the feeling of not wanting to be left behind——
 
 %P
-私は悟の背中を追いかける――%T30
+私は悟の背中を追いかける――%T030
 I chased after Satoru's back——
 
 %P
-たとえこの世界が現実じゃないとしても――%T30
+たとえこの世界が現実じゃないとしても――%T030
 Because, even if this wasn't reality——
 
 %P
-もう、私が頼れるのは――%T30
+もう、私が頼れるのは――%T030
 the only one I could rely on now——
 
 %P
-悟だけだから――。%T30
+悟だけだから――。%T030
 was Satoru——
 
 %P
-悟は、私にとって不可分の存在。%T30
+悟は、私にとって不可分の存在。%T030
 Satoru was, to me, an inseparable existence.
 
 %P
-わかつことのできない、双子のような運命共同体。%T30
+わかつことのできない、双子のような運命共同体。%T030
 Unable to part from one another, like twins in one body, sharing the same fate.
 
 %P
-だから……。%T30
+だから……。%T030
 That's why....
 
 %P
-絶対に、欠けてはならない。%T30
+絶対に、欠けてはならない。%T030
 I absolutely won't miss my chance.
 
 %P
-離れては、いけない。%T30
+離れては、いけない。%T030
 I won't let him go.
 
 %P
-私はついていく。%T30
+私はついていく。%T030
 I'll follow him.
 
 %P
-追いかけていく。%T30
+追いかけていく。%T030
 I'll chase him.
 
 %P
-失われた半身を求めて、どこまでもどこまでも追い続けるのだ。%T30
+失われた半身を求めて、どこまでもどこまでも追い続けるのだ。%T030
 In order to find my other half, I'll keep chasing after him, no matter where he is.
 
 %P
-そう……。%T30
+そう……。%T030
 That's right....
 
 %P
-光を超えて――。%T30
+光を超えて――。%T030
 Surpassing light——
 
 %P
-無限をも、超えて――。%T30
+無限をも、超えて――。%T030
 and exceeding infinity——
 %P

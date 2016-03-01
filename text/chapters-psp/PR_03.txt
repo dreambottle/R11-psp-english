@@ -302,61 +302,61 @@ Ah...
 // how else to show the change from 俺 to オレ
 // ---------------------------------------------------
 %N%N%N%N%N
-%FS%LC気がつくと、俺は宙を舞っていた。%FE%T60%T60%P
+%FS%LC気がつくと、俺は宙を舞っていた。%FE%T060%T060%P
 Before ''I'' noticed, ''I'' was dancing in the air.
 
 %N%N%N%N%N
-%FS%LCすべての束縛から解き放たれて……。%FE%T60%T60%P
+%FS%LCすべての束縛から解き放たれて……。%FE%T060%T060%P
 Released from all restraints....
 
 %N%N%N%N%N
-%FS%LC時は止まり、%FE%T60%T60%P
+%FS%LC時は止まり、%FE%T060%T060%P
 Time stops,
 
 %N%N%N%N%N
-%FS%LC吹雪はやみ、%FE%T60%T60%P
+%FS%LC吹雪はやみ、%FE%T060%T060%P
 The snowstorm stops,
 
 %N%N%N%N%N
-%FS%LC純白の世界へと呑み込まれていく。%FE%T60%T60%P
+%FS%LC純白の世界へと呑み込まれていく。%FE%T060%T060%P
 And ''I'' am swallowed by the pure-white world.
 
 %N%N%N%N%N
-%FS%LC光の粒子が舞い踊る。%FE%T60%T60%P
+%FS%LC光の粒子が舞い踊る。%FE%T060%T060%P
 The particles of light dance around me.
 
 %N%N%N%N%N
-%FS%LC鐘の音はなおも鳴り響いている。%FE%T60%T60%P
+%FS%LC鐘の音はなおも鳴り響いている。%FE%T060%T060%P
 The sound of the bell still reverberates in the air.
 
 %N%N%N%N%N
-%FS%LC荘厳な儀式の始まりを……告げるように……。%FE%T60%T60%P
+%FS%LC荘厳な儀式の始まりを……告げるように……。%FE%T060%T060%P
 As if it was reciting... the beginning of a solemn ritual....
 //old: As if it was reporting... the beginning of a solemn ritual... 
 //reporting?? paraphrase if possible
 
 %N%N%N%N%N
-%FS%LC神々しく、しめやかに、粛々と、粛々と……。%FE%T60%T60%P
+%FS%LC神々しく、しめやかに、粛々と、粛々と……。%FE%T060%T060%P
 Divinely, gently, ever so softly....
 
 %N%N%N%N%N
-%FS%LC俺は光の中へと溶けていく。%FE%T60%T60%P
+%FS%LC俺は光の中へと溶けていく。%FE%T060%T060%P
 ''I'' start to dissolve within the light.
 
 %N%N%N%N%N
-%FS%LC感覚はない。なにも見えない。%FE%T60%T60%P
+%FS%LC感覚はない。なにも見えない。%FE%T060%T060%P
 All my senses are disappearing. My vision is gone.
 
 %N%N%N%N%N
-%FS%LC剥ぎ取られるように意識をなくす。%FE%T60%T60%P
+%FS%LC剥ぎ取られるように意識をなくす。%FE%T060%T060%P
 As if it were being slowly peeled away, my consciousness departs me.
 
 %N%N%N%N%N
-%FS%LCやがて訪れた深い眠り……。%FE%T60%T60%P
+%FS%LCやがて訪れた深い眠り……。%FE%T060%T060%P
 A deep sleep ''I'' came to know long ago....
 
 %N%N%N%N%N
-%FS%LCオレの存在は今……ここに……。%FE%T60%T60%P
+%FS%LCオレの存在は今……ここに……。%FE%T060%T060%P
 My existence... I... am now... here....
 //I tampered with the phrase a bit to put an "I" without ''. is it any good?
 // ---------------------------------------------------

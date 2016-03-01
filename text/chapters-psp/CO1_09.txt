@@ -59,7 +59,7 @@ But...
 %N%N%N%N
 
 
-%FS%LC２０１１年１月１１日午後４時８分。%FE%T60%N
+%FS%LC２０１１年１月１１日午後４時８分。%FE%T060%N
 January 11, 2011, 4:08 PM
 
 %FS%LCＨＡＬ１８便は雪深い山中に墜落した。%FE%K%P
@@ -221,13 +221,13 @@ There were only two things to be done next.
 %N
 
 
-ひとつめは、%T30%N輪切りになった機体の前後を塞ぎ、シェルターを構築すること。%K%N
+ひとつめは、%T030%N輪切りになった機体の前後を塞ぎ、シェルターを構築すること。%K%N
 First, I had to make a shelter by closing off the open ends of the shorn airframe.
 
 %N
 
 
-ふたつめは、%T30%Nどうにかして通信手段を見つけ出すこと、だった。%K%N
+ふたつめは、%T030%Nどうにかして通信手段を見つけ出すこと、だった。%K%N
 Second, I had to find some means of communication to send out a distress signal.
 
 %N

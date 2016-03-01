@@ -593,10 +593,10 @@ Thinking that I'd pull it to the hole, I put some strength into it――
 その途端――%K%P
 At that moment――
 
-遺体の腕の部分が、%T60%N
+遺体の腕の部分が、%T060%N
 The corpse's arms,
 
-ろう人形のように折れ、%T60%N
+ろう人形のように折れ、%T060%N
 like those of a wax doll,
 
 ボロリと崩れた。%K%P
