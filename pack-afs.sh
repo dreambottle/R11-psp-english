@@ -6,17 +6,23 @@ COMPRESS=./compressbip
 ARMIPS=./tools/armips
 REPACK_SCENE=text/repack_scene.py
 
+
+# applying init and EBOOT strings
+./text/apply-boot-translation.py text/other-psp/BOOT.BIN.psp.txt workdir/BOOT.BIN workdir/BOOT.BIN.en || exit 1;
+./text/apply-init-translation.py text/other-psp/init.bin.psp.txt workdir/init.dec workdir/init.dec.en || exit 1;
+
+
 #mac.afs
 mkdir -p mac-en/
-for i in mac-en/*.SCN ; do
+./text/apply-shortcuts-translation.py text/other-psp/SHORTCUT.SCN.psp.txt mac/SHORTCUT.SCN mac-en/SHORTCUT.SCN || exit 1;
+for i in text/mac-combined-psp/*.txt ; do
 	echo Repacking $i
-	f=`basename $i .SCN`
+	f=`basename $i .txt`
 	$REPACK_SCENE text/mac-combined-psp/$f.txt mac/$f.SCN mac-en/$f.SCN
 	$COMPRESS ./mac-en/$f.{SCN,BIP}
 done
 ./repack_afs $WORKDIR/mac.afs $WORKDIR/mac-repacked.afs ./mac-en || exit 1;
 mv -f $WORKDIR/mac-repacked.afs $ISO_RES_DIR/mac.afs
-
 
 
 #etc.afs
@@ -30,6 +36,7 @@ $COMPRESS etc-en/FONT00.mod etc-en/FONT00.FOP
 ./repack_afs $WORKDIR/etc.afs $WORKDIR/etc-repacked.afs etc-en || exit 1;
 mv -f $WORKDIR/etc-repacked.afs $ISO_RES_DIR/etc.afs
 fi
+
 
 #init.bin
 INIT_SRC=init.dec.en

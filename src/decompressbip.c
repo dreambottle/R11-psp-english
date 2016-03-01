@@ -1,4 +1,5 @@
 #include "my_mmap.h"
+#include "lzss.h"
 
 int main(int argc, char **argv) {
     assert2(argc==3, "usage: %s in.bip out\n", argv[0]);
