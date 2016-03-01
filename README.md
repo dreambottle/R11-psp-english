@@ -7,11 +7,13 @@ Help wanted in hacking and testing!
 
 Current status:
 
-Scenes: Yes - But text often overflows the windows. Crashes are expected until text is fixed.
+Scenes: Yes - But text often overflows the windows. (Crashes are expected)
+<br>
+(init.bin) Shortcuts: Yes
 <br>
 (init.bin) TIPS: No
 <br>
-(init.bin) Names: Yes (together with other content from the PC version of init.bin), however the name box still doesn't seem to work.
+(init.bin) Names: Yes
 <br>
 (init.bin) Chronology: No
 <br>
