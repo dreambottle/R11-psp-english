@@ -1,9 +1,9 @@
 ;;51;現在の状態をメモリースティック⑱にセーブします。
-Save the current state to MemoryStick⑱.
+Save the current state to Memory Stick⑱.
 ;;55;メモリースティック⑱に保存したデータをロードします。
-Load data from MemoryStick⑱.
+Load data from Memory Stick⑱.
 ;;123;現在の状態を一時的に保存します。クイックセーブのデータはシステムデータをセーブするとメモリースティック⑱内に保存されます。
-Temporarily save the current state. Quick Save data is stored to MemoryStick⑱ when you save the system data.
+Temporarily save the current state. Quick Save data is stored to Memory Stick⑱ when you save the system data.
 ;;39;クイックセーブデータをロードします。
 Load the Quick Save data.
 ;;51;現在までプレイした履歴の表示及びロードを行います。
@@ -11,9 +11,9 @@ View and load current game history.
 ;;43;ゲームプレイに関する様々な設定を行います。
 Modify game settings.
 ;;35;ゲーム中の操作方法を確認します。
-Make sure that you know game controls.
+Make sure you know the game controls.
 ;;47;ゲーム中に出現する専門用語の説明を閲覧します。
-Browse the description of the terminology that appears during gameplay.
+Browse the terminology that appears during gameplay.
 ;;119;タイトル画面に戻ります。（ラストゲームから再開できますが、システムセーブを行わないと現在のデータはセーブされません）
 Return to the title screen. (You can resume from the last save)
 ;;163;＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
@@ -205,7 +205,7 @@ Returning to the Title Screen. Is this OK?%N%SYes%n  /  %n%SNo
 ;;159;『Remember11 -the age of infinity-』の%%Nセーブデータが破損している可能性があります%%Nセーブデータを上書きしてもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
 『Remember11 -the age of infinity-』 save data will be lost.%%NAre you sure you want to overwtrite the save data?%%N%%SYes%%n  /  %%n%%SNo
 ;;79;セーブデータを上書きしています%%Nメモリースティック⑱を絶対抜かないでください
-
+Overwriting save data%%NPlease do not remove the Memory Stick⑱
 ;;7;成功%%N
 Success%%N
 ;;43;メモリースティック⑱が挿入されていません%%N
@@ -215,7 +215,7 @@ Memory Stick⑱ is not formatted%%N
 ;;95;メモリースティック⑱の空き容量が不足しています%%Nセーブには%sＫＢ以上の空き容量が必要です%%N
 No free space on Memory Stick⑱At least %sKB is required to save%%N
 ;;95;メモリースティック⑱に%%N『Remember11 -the age of infinity-』の%%Nセーブデータがありません%%N
-
+Save data for%%N『Remember11 -the age of infinity-』%%Nis not present on Memory Stick⑱
 ;;87;『Remember11 -the age of infinity-』の%%Nセーブデータが破損している可能性があります%%N
 
 ;;55;同時に開けるファイル数を%%N越えているので開けません%%N
@@ -259,25 +259,25 @@ No free space on Memory Stick⑱At least %sKB is required to save%%N
 ;;71;フォーマットをしています%%Nメモリースティック⑱を絶対抜かないでください
 
 ;;115;『Remember11 -the age of infinity-』の%%Nセーブデータを作成してもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
-
+Do you want to create a save data for%%N『Remember11 -the age of infinity-』?%%N%%SYes%%n / %%n%%SNo
 ;;75;セーブデータを作成しています%%Nメモリースティック⑱を絶対抜かないでください
-
+Creating save data%%NPlease do not remove the Memory Stick⑱
 ;;63;セーブしなくてもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
-
+Are you sure you want to save?%%N%%SYes%%n / %%n%%SNo
 ;;75;システムデータをセーブしてもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
-
+Are you sure you want to save the system data?%%N%%SYes%%n / %%n%%SNo
 ;;75;システムデータをロードしてもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
-
+Are you sure you want to load the system data?%%N%%SYes%%n / %%n%%SNo
 ;;123;システムデータが破損している可能性があります%%Nシステムデータを上書きしてもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
 
 ;;95;メモリースティック⑱にデータを書き込んでいます%%Nメモリースティック⑱を絶対抜かないでください
-
+Writing data to Memory Stick⑱%%NPlease do not remove the Memory Stick⑱ from the slot.
 ;;95;メモリースティック⑱のデータを読み込んでいます%%Nメモリースティック⑱を絶対抜かないでください
-
+Loading data from Memory Stick⑱%%NPlease do not remove the Memory Stick⑱ from the slot.
 ;;59;上書きしてもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
-
+Are you sure you want to overwrite?%%N%%SYes%%n / %%n%%SNo
 ;;59;このデータをロードしますか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
-
+Are you sure you want to load this data?%%N%%SYes%%n / %%n%%SNo
 ;;111;クイックセーブを初期化しますか？%%N（ロックされているデータは初期化されません）%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
 
 ;;11;セーブ完了
@@ -303,15 +303,15 @@ Please choose the save location
 ;;91;時刻が正しく取得できませんでした%%N強制的に書き込みますか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
 
 ;;23;セーブに失敗しました%%N
-Save failed
+Save failed%%N
 ;;23;ロードに失敗しました%%N
-Load failed
+Load failed%%N
 ;;31;フォーマットに失敗しました%%N
-Format failed
+Format failed%%N
 ;;39;新規セーブデータの作成に失敗しました%%N
-Creating new save data failed
+Creating new save data failed%%N
 ;;23;上書きに失敗しました%%N
-Overwrite failed
+Overwrite failed%%N
 ;;83;『Never7 -the end of infinity-』をロード%N『Ever17 -the out of infinity-』をロード
 Load 『Never7 -the end of infinity-』%NLoad 『Ever17 -the out of infinity-』
 ;;251;『Ever17 -the out of infinity-』の%Nファイルを発見しました%N『Remember11 -the age of infinity-』に%Nデータを反映させますか？%N※核心に触れる情報が含まれるので、%N該当ゲームの全シナリオクリア後に%N開放することをお勧めします。%N%Sはい%n⑳／⑳%n%Sいいえ
@@ -415,7 +415,7 @@ Please refer to the display settings for the voice with text that is displayed d
 ;;23;テキストスピード設定
 Text speed setting
 ;;7;速度
-Speed
+Delay
 ;;51;テキストを表示する際の速度を変更する事ができます。
 You can change the speed at which the text will be displayed.
 ;;47;テキストを表示する際の速度を設定してください。
@@ -475,8 +475,7 @@ Read text only%NAll text
 ;;23;スキップキャラ表示設定
 "Skip" character display settings
 ;;23;標準%Nシルエット表示
-
-;; 23;Standard%NSilhouette display
+Standard%NSilhouette display
 ;;67;スキップモード中のキャラクタ－の表示方法を設定する事ができます。
 Display method of characters in "Skip" mode can be set
 ;;63;スキップモード中のキャラクタ－の表示方法を設定してください。

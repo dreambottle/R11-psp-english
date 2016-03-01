@@ -42,17 +42,17 @@ reloc_pos = relocation_area[0]
 #   mv.release()
 
 
-def patch(bytearr, initial_text, new_text, max_size):
+def patch(bytearr, initial_text, new_text, max_size, last_pos):
   global reloc_pos
   relocate = False
   if len(new_text)+1 > max_size:
     print("{0}/{1} length in '{2}'.".format(len(new_text)+1, max_size, new_text))
     relocate = True
 
-  pos = bytearr.find(initial_text, text_area[0], text_area[1])
+  pos = bytearr.find(initial_text, last_pos, text_area[1])
   if pos == -1:
     print("NOT FOUND: {0}".format(new_text))
-    return
+    return pos
 
   if relocate:
     pass
@@ -71,6 +71,7 @@ def patch(bytearr, initial_text, new_text, max_size):
   else:
     new_text = new_text.ljust(max_size, b'\x00')
     bytearr[pos:pos+max_size] = new_text
+  return pos
 
 
 def main():
@@ -99,6 +100,7 @@ def main():
   size = None
   jap_text = None
   en_text  = None
+  last_pos = text_area[0]
   for i, ln in enumerate(txt_lines):
     # print(i)
     ln = ln[:-1]
@@ -122,7 +124,10 @@ def main():
         continue
       en_text = ln
       # print(jap_text, en_text, size)
-      patch(bin_bytes, jap_text, en_text, size)
+      res = patch(bin_bytes, jap_text, en_text, size, last_pos)
+      if res != -1: pos = res
+      else:
+        exit("Cannot complete")
 
   
   f_bin=open(bin_out, "wb")
