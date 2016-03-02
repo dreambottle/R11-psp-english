@@ -693,7 +693,7 @@ Even so, I frantically read the article.
 The Aomori prefectural police announced the recent discovery of the remains of three men and women on Aomori's %TS107Mount Akakura%TE,
 
 青森県警は新たに男女３人の遺体を収容したことを発表した。%K%N
-believed to be victims of the crash of Flight HAL18, which claimed 27 lives last January.
+believed to be victims of the crash of Flight HAL18, which claimed 27 lives last January.%K%P
 
 収容された遺体は、すでに死後６ヶ月が経過しているために腐乱が激しく、まだ身元をはっきりと断定できていない、としながらも、%K
 As they had undergone extensive decomposition over a period of six months, the identities of the bodies are unclear,
@@ -717,7 +717,7 @@ According to the Aomori weather observation department,
 an avalanche affecting Mount Akakura and its surrounding area occurred on January 17, 2011, at around 6:53.
 
 朱倉岳避難小屋に残されていた痕跡とも照らし合わせると、３人はおよそ７日間を生き延びたことになる。%K%N
-After analyzing the traces left at the Mount Akakura shelter cabin, it was concluded that those who had used it survived for seven days after the crash.
+After analyzing the traces left at the Mount Akakura shelter cabin, it was concluded that those who had used it survived for seven days after the crash.%K%P
 
 １８便の墜落事故では、今回の３人の遺体の発見により、乗員・乗客３１人中、３０人が亡くなるという大惨事となった。%K%P
 The horrific crash of Flight 18, with the discovery of the three bodies, claimed 30 lives out of the 31 crew members and passengers aboard.

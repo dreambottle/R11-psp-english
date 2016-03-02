@@ -242,23 +242,24 @@ There might have been people still alive somewhere in the snowfield.
 けれど、粉々に砕け散った残骸は広範囲に拡散しており、これ以上の捜索は困難だ。%K%N
 However, the small pieces of wreckage had been scattered over a large area, which would have made further searching nearly impossible.
 
-%N
-
+#%N
+%P
 
 では、強行に下山を試みるというのはどうか……？%K%N
 And what about making our way down the mountain...?
 
+#%N
 %N
 
 
 それはこの状況に於いては何よりもやってはならないことだった。%K%P
-In this state of affairs, that took precedence over anything else.
+In this state of affairs, that took precedence over anything else.%K%N
 
 僕は登山家という職業柄、雪山の恐ろしさを誰よりもよく知っている。%K%N
 As a mountaineer, I knew how terrifying and treacherous the snowy mountains could be.
 
 吹雪の中、やみくもに行軍を始めるのは無謀以外のなにものでもない。%K%N
-To start marching randomly inside a snowstorm is reckless at best.
+To start marching randomly inside a snowstorm is reckless at best.%K%P
 
 そもそも、ここがどこなのかさえ見当もつかないのだ。%K%N
 I didn't have a clue as to where we were.
@@ -267,7 +268,7 @@ I didn't have a clue as to where we were.
 I didn't even know which way it was to the base, so I couldn't even think about descending the mountain.
 
 僕らにできることは限られていた。%K%P
-Our options were very limited.
+Our options were very limited.%K%N%N
 
 ここにひと晩%TS005ビバーク%TEし、あとは天候が回復するのをひたすら待ち続けるしかない。%K%N
 We spent all night in %TS005bivouac%TE, with nothing else to do but wait for the weather conditions to improve.
@@ -345,7 +346,7 @@ I could barely see a thing.
 In the middle of a snowstorm at night, the light of a pocket flashlight was almost useless.
 
 大声を張り上げて呼びかけてみても、強風の奏でる轟音に、それはたちまちかき消されてしまった。%K%N
-And if I tried calling out at the top of my lungs, the roaring of the wind would effortlessly drown out my voice.
+And if I tried calling out at the top of my lungs, the roaring of the wind would effortlessly drown out my voice.%K%P
 
 一刻も早く彼女を見つけ出さないと、残された痕跡は雪の中に埋もれてしまうだろう。%K%N
 I couldn't waste another moment if I wanted to find her, as the traces that she had left behind were quickly being filled with snow.
@@ -368,11 +369,11 @@ After marching on for about ten minutes――
 ようやく彼女の姿を捉えた。%K%N
 I finally caught a glimpse of her.
 
-%N
-
+#%N
+%P
 
 彼女は広大な雪原の真っ只中で、うつ伏せになって倒れていた。%K%P
-She had collapsed face-down in the middle of a large snowfield.
+She had collapsed face-down in the middle of a large snowfield.%K%N
 
 どうして、何の為に、何を目指して彼女が歩き続けていたのかはわからない。%K%N
 I had no idea why she would do something so foolish.
