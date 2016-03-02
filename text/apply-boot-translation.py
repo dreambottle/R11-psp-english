@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# a slower version of extract-init-bin-tables, which searches the text
-# references, instead of doing a table lookup.
-
 import sys
 import re
 
@@ -49,7 +46,7 @@ def patch(bytearr, initial_text, new_text, max_size, last_pos):
     print("{0}/{1} length in '{2}'.".format(len(new_text)+1, max_size, new_text))
     relocate = True
 
-  pos = bytearr.find(initial_text, last_pos, text_area[1])
+  pos = bytearr.find(initial_text + b'\x00', last_pos, text_area[1])
   if pos == -1:
     print("NOT FOUND: {0}".format(new_text))
     return pos
@@ -109,7 +106,7 @@ def main():
       if (m):
         # off  = int(m.group(1), 16)
         size = int(m.group(2), 10)
-        jap_text = m.group(3)
+        jap_text = m.group(3).strip(b'\r\n')
         # print("matched", size, jap_text)
         state = EN
         continue
