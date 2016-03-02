@@ -55,7 +55,7 @@ mv -f $WORKDIR/init.en.bin $ISO_RES_DIR/init.bin
 #BOOT.BIN
 echo "Applying patches to EBOOT (BOOT.BIN)"
 cp -f $WORKDIR/BOOT.BIN.en $WORKDIR/BOOT.BIN.patched
-$ARMIPS src/boot-patches.asm
+$ARMIPS src/boot-patches.asm -root workdir/
 #rm -f $ISO_BIN_DIR/BOOT.BIN
 rm -f $ISO_BIN_DIR/EBOOT.BIN
 cp -f $WORKDIR/BOOT.bin.patched $ISO_BIN_DIR/EBOOT.BIN
