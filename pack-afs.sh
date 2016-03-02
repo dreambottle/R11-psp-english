@@ -5,7 +5,9 @@ WORKDIR=./workdir
 COMPRESS=./compressbip
 ARMIPS=./tools/armips
 REPACK_SCENE=text/repack_scene.py
-
+if [ `uname` == "Darwin" ]; then
+    ARMIPS=./tools/armips_osx
+fi
 
 # applying init and EBOOT strings
 ./text/apply-boot-translation.py text/other-psp/BOOT.BIN.psp.txt workdir/BOOT.BIN workdir/BOOT.BIN.en || exit 1;

@@ -39,9 +39,13 @@ Dependencies:
 
 The following tools should be available:
 
-`p7zip mkisofs gcc perl python3`
+`7z mkisofs gcc perl python3`
 
 You will need to install File::Slurp module for Perl:<br>
 `cpan File::Slurp`
 
-If you're on mac/linux you will need to compile [armips](https://github.com/Kingcom/armips) for patching BOOT.BIN and put it into `tools/`. (I only did this for Windows)
+On linux you will need to compile [armips](https://github.com/Kingcom/armips) for patching BOOT.BIN and put it into `tools/`.
+
+Brew install command for mac:
+
+`brew install p7zip cdrtools python3` 
