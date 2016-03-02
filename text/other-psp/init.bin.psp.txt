@@ -1,4 +1,4 @@
-#===all
+#=== All init strings
 
 ;1140;4;？？
 ??
@@ -73,23 +73,31 @@ Yuukidou
 Playthroughs
 
 ;11a8;12;黛ストレス値
+Mayuzumi Stress Level
 
 ;11ac;14;メモのイラスト
+Message Illustration
 
 ;11b0;16;段ボールが崩れた
+The cardboards collapsed
 
 ;11b4;10;ゆに双子説
+Yuni's a Twin Theory
 
 ;11b8;18;食料をこころが管理
+Kokoro Manages the Rations
 
 ;11bc;12;とても悩んだ
 Very Worried
 
 ;11c0;26;２日目にコーヒー飲んでない
+Didn't drink coffee on the second day
 
 ;11c4;30;こころが生きていてくれて嬉しい
+Glad Kokoro's Alive
 
 ;11c8;22;鈴とぐるぐる話してない
+Didn't Speak with Lin About the "Round and Round"
 
 ;11cc;16;睡眠薬飲んでない
 You didn't drink the sleeping pill
@@ -132,6 +140,7 @@ Yuni's death by hypothermia
 ;1204;14;水飲んでＢＡＤ
 
 ;1208;18;指飛ばされてＢＡＤ
+Fingers Cut Off BAD
 
 ;120c;16;ロール有りＢＡＤ
 
@@ -299,8 +308,10 @@ To-Be-Deleted
 ;1334;8;削除予定
 ;dupe:132c
 ;1338;24;チラミンとＤＭＴのＢＡＤ
+Tyramine and DMT BAD
 
 ;133c;14;悟編エピローグ
+Satoru Chapter Epilogue
 
 ;1340;16;こころ１日目解放
 Kokoro 1st Day Unlocked
@@ -415,16 +426,22 @@ MES100%
 ;13e0;6;選択肢
 
 ;13e4;2;年
+Year
 
 ;13e8;2;月
+Month
 
 ;13ec;2;日
+Day
 
 ;13f0;2;曜
+Weekday
 
 ;13f4;2;時
+Hour
 
 ;13f8;2;分
+Minute
 
 ;13fc;10;ＬＲ＿１５
 
@@ -957,7 +974,7 @@ DID Breakout
 ;182c;8;ココロ編
 ;dupe:1628
 ;1830;14;絶望の深淵・Ⅰ
-
+Abyss of Despair I
 ;1838;8;ココロ編
 ;dupe:1628
 ;183c;10;一握の安息
@@ -1081,7 +1098,7 @@ God Descends to the New World
 ;1958;8;ココロ編
 ;dupe:1628
 ;195c;14;絶望の深淵・Ⅱ
-
+Abyss of Despair II
 ;1964;8;ココロ編
 ;dupe:1628
 ;1968;14;籠の中の．．．
@@ -7305,28 +7322,26 @@ Lyrics/Composition: Shikura Chiyomaru
 
 ;6f84;13;MOV_END01.PMF
 
-#The alphabet used for Tips alphabetical ordering.
-#Not very useful in our case, so I changed these to numbers.
 ;74c8;2;ア
-1.
+
 ;74d0;2;カ
-2.
+
 ;74d8;2;サ
-3.
+
 ;74e0;2;タ
-4.
+
 ;74e8;2;ナ
-5.
+
 ;74f0;2;ハ
-6.
+
 ;74f8;2;マ
-7.
+
 ;7500;2;ヤ
-8.
+
 ;7508;2;ラ
-9.
+
 ;7510;2;ワ
-10.
+
 ;7610;12;ソシオロジィ
 
 ;7614;152;ソシオロジィ／ｓｏｃｉｏｌｏｇｙ%N社会学。%N人間の社会的行為と関連づけながら、%N社会生活・社会組織・社会問題などの%N仕組みを明らかにしようとする学問。%N
@@ -10927,7 +10942,7 @@ Lyrics/Composition: Shikura Chiyomaru
 +#事故現場で凍死２ＢＡＤ－クリア
 Death from Cold at the Crash Site 2 BAD - Clear
 
-指飛ばされてＢＡＤ－バイオＢＡＤローカル
++指飛ばされてＢＡＤ－バイオＢＡＤローカル
 Fingers cut off BAD - Bio BAD Local
 
 こころ7日目で死亡Ａ－バイオＢＡＤローカル
@@ -10942,7 +10957,7 @@ Killed By Enomoto - Bio BAD local
 黛発狂Ｃ－バイオＢＡＤローカル
 Mayuzumi's madness C - Bio BAD Local
 
-ゆに双子説－バイオローカル
++#ゆに双子説－バイオローカル
 Yuni's a Twin Theory - Bio local
 
 睡眠薬飲んでない－バイオＢＡＤローカル
@@ -10954,13 +10969,13 @@ Didn't drink the sleeping pill - Bio BAD local
 ゆに低体温症で死亡－バイオＢＡＤローカル
 Yuni's death from hypothermia - Bio BAD local
 
-チラミンとＤＭＴのＢＡＤ－クリア
++チラミンとＤＭＴのＢＡＤ－クリア
 Tyramine and DMT BAD - Clear
 
-指飛ばされてＢＡＤ－クリア
++指飛ばされてＢＡＤ－クリア
 Fingers Cut Off BAD - Clear
 
-+とても悩んだ－バイオ
++#とても悩んだ－バイオ
 Very Worried - Bio
 
 雪崩１ＢＡＤ－クリア
@@ -10981,13 +10996,13 @@ Meal at SPHIA BAD - Clear
 黛発狂ＢＢＡＤ－クリア
 Mayuzumi's Madness B Bad - Clear
 
-こころが生きていてくれて嬉しい－バイオＢＡＤ
++こころが生きていてくれて嬉しい－バイオＢＡＤ
 Glad Kokoro's Alive - Bio BAD
 
 黛発狂Ｂ－バイオＢＡＤローカル
 Mayuzumi's madness B - Bio BAD Local
 
-絶望の深淵・\x{3}
++絶望の深淵・\x{3}
 Abyss of Despair II
 
 こころ編－クリア
@@ -11005,7 +11020,7 @@ Kokoro's death on the seventh day B - Bio BAD
 スフィアで遭難した－バイオＢＡＤ
 Incident at SPHIA - Bio BAD
 
-悟編エピローグ－クリア
++悟編エピローグ－クリア
 Satoru Chapter Epilogue - Clear
 
 黛発狂Ａ－バイオＢＡＤローカル
@@ -11038,7 +11053,7 @@ Roll BAD - Clear
 ゆに凍死ＢＡＤ－クリア
 Yuni Dies From Cold BAD - Clear
 
-黛ストレス値－バイオ
++#黛ストレス値－バイオ
 Mayuzumi Stress Level - Bio
 
 クリアリスト許可
@@ -11059,7 +11074,7 @@ Yomogi's Madness BAD - Clear
 朱倉で遭難１ＢＡＤ－クリア
 Incident at Mount Akakura 1 BAD - Clear
 
-指飛ばされてＢＡＤ－バイオＢＡＤ
++指飛ばされてＢＡＤ－バイオＢＡＤ
 Fingers cut off BAD - Bio BAD
 
 黛発狂ＡＢＡＤ－クリア
@@ -11071,7 +11086,7 @@ Shortcuts Unlocked
 黛発狂Ｃ－バイオＢＡＤ
 Mayuzumi's Madness C - Bio BAD
 
-段ボールが崩れた－バイオローカル
++#段ボールが崩れた－バイオローカル
 The cardboards collapsed - Bio local
 
 こころ7日目で死亡Ａ－バイオＢＡＤ
@@ -11086,7 +11101,7 @@ Mayuzumi's Madness C BAD - Clear
 小屋に誰もいないＢＡＤ－クリア
 Nobody at the Cabin BAD - Clear
 
-食料をこころが管理－バイオ
++#食料をこころが管理－バイオ
 Kokoro Manages the Rations - Bio
 
 スフィアで遭難した－バイオＢＡＤローカル
@@ -11101,10 +11116,10 @@ Yomogi's madness - Bio BAD Local
 アルバム許可
 Album Unlocked
 
-こころが生きていてくれて嬉しい－バイオローカル
++こころが生きていてくれて嬉しい－バイオローカル
 Glad Kokoro's alive - Bio local
 
-段ボールが崩れた－バイオ
++#段ボールが崩れた－バイオ
 The Cardboard Boxes Collapsed - Bio
 
 悟グッド－クリア
@@ -11113,10 +11128,10 @@ Satoru Good End - Clear
 事故現場で凍死１ＢＡＤ－クリア
 Death from Cold at the Crash Site 1 BAD - Clear
 
-２日目にコーヒー飲んでない－バイオローカル
++２日目にコーヒー飲んでない－バイオローカル
 Didn't drink coffee on the second day - Bio local
 
-２日目にコーヒー飲んでない－バイオＢＡＤ
++２日目にコーヒー飲んでない－バイオＢＡＤ
 Didn't Drink Coffee on the Second Day - Bio BAD
 
 Ｂｒｅａｋ?Ｔｉｍｅ
@@ -11125,7 +11140,7 @@ Didn't Drink Coffee on the Second Day - Bio BAD
 胡蝶の夢２－クリア
 Dream of the Butterfly 2 - Clear
 
-メモのイラスト－バイオ
++#メモのイラスト－バイオ
 Message Illustration - Bio
 
 +#Ｔｒｉｃｋ\x{1}Ｓｔａｒ
@@ -11140,7 +11155,7 @@ Ate at SPHIA on the third and fourth day - Bio BAD local
 水飲んでＢＡＤ－バイオＢＡＤローカル
 Drank water BAD - Bio BAD local
 
-食料をこころが管理－バイオローカル
++#食料をこころが管理－バイオローカル
 Kokoro manages the rations - Bio local
 
 睡眠薬飲まずＢＡＤ－クリア
@@ -11155,7 +11170,7 @@ Incident at Mount Akakura - Bio BAD
 ロール有りＢＡＤ－バイオＢＡＤ
 Roll BAD - Bio BAD
 
-絶望の深淵・\x{2}
++絶望の深淵・\x{2}
 Abyss of Despair I
 
 雪崩２ＢＡＤ－クリア
@@ -11167,7 +11182,7 @@ Satoru Bad End A - Bio BAD Local
 事故現場で凍死－バイオＢＡＤ
 Death From Cold at the Crash Site - Bio BAD
 
-鈴とぐるぐる話してない－バイオＢＡＤ
++鈴とぐるぐる話してない－バイオＢＡＤ
 Didn't Speak with Lin About the "Round and Round" - Bio BAD
 
 榎本に殺される－バイオＢＡＤ
@@ -11176,6 +11191,6 @@ Killed By Enomoto - Bio BAD
 黛発狂Ａ－バイオＢＡＤ
 Mayuzumi's Madness A - Bio BAD
 
-鈴とぐるぐる話してない－バイオローカル
++鈴とぐるぐる話してない－バイオローカル
 Didn't speak with Lin about the "Round and Round" - Bio local
 
