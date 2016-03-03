@@ -631,7 +631,7 @@ That "someone"... was the one who did it....
 That person tried to take away my, your, life....
 
 つまり、そういうことなんですよね……？%K%N
-In other words, that's how it is, right...?
+In other words, that's how it is, right...?%K%P
 
 でも、その『何者か』って、いったい誰なんですか？%K%N
 But just who is that "someone"?
@@ -679,7 +679,7 @@ There's no reason to beat around the bush, so I'll just go ahead and write it.
 Suzukage Hotori――Hotori-chan....
 
 彼女がＤＩＤなのは知ってますよね？%K%N
-You're aware that she has DID, right?
+You're aware that she has DID, right?%K%P
 
 今のところは、ずっと『穂鳥』のままで人格が固定してるけど……。%K%N
 Recently, she's been fixed in her "Hotori" personality, though....
@@ -697,7 +697,7 @@ The personality that killed twelve people in Awazumi Hospital....
 It may be possible... that that personality is targeting you, Satoru....
 
 っていっても、別に確証があるわけではありません。%K%N
-I say that, but it's not as if I have any decisive evidence.
+I say that, but it's not as if I have any decisive evidence.%K%P
 
 確証がないのにこんなことを書いてしまうのは、いけないことなのかも知れないけど……。%K%N
 It might not be appropriate to write things like this even though I don't have any real evidence....
@@ -706,7 +706,7 @@ It might not be appropriate to write things like this even though I don't have a
 Even so, I don't think it would be going overboard to just give a warning....
 
 念の為、気をつけてください。%K%P
-Be careful, just in case. 
+Be careful, just in case.
 
 次は、ゆにのこと――。%K%N
 Next, about Yuni――

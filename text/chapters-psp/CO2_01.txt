@@ -797,7 +797,7 @@ That's when I noticed the note that had been left on the table.
 I grabbed and held it tightly in my hand.
 
 初めましてというべきか、毎度どうもというべきか、これほど挨拶に困る相手もいないな。%K%N
-I'm not really sure if I should say "nice to meet you" or "thanks for visiting again." I doubt I've ever known anyone that I've had this much trouble coming up with a greeting for.
+I'm not really sure if I should say "nice to meet you" or "thanks for visiting again." I doubt I've ever known anyone that I've had this much trouble coming up with a greeting for.%K%P
 
 オレは優希堂悟。%K%N
 I'm Yukidoh Satoru.
@@ -854,7 +854,7 @@ Forgive me for jumping right into business, but I have a few things I must discu
 The first thing I want to do is make sure what's happening is really a personality exchange.
 
 オレの推測によれば、オレの意識がこの肉体を去っているあいだ、代わりにきみの意識がオレの肉体を支配しているものと思われる。%K%N
-From what I can tell, it seems that during the time my consciousness leaves this body, your consciousness takes my place within it.
+From what I can tell, it seems that during the time my consciousness leaves this body, your consciousness takes my place within it.%K%P
 
 逆にきみの意識がきみの身体を離れているときには、オレの意識がきみの身体に憑依しているらしい。%K%N
 Likewise, whenever your consciousness leaves your body, my consciousness takes possession of it.
@@ -869,7 +869,7 @@ But I don't have any conclusive evidence that this is what's happening.
 Right now, all I have to go on are the words of the people around me.
 
 このスフィアでは、オレの身体が、オレの知らぬうちに、勝手に『冬川こころ』と名乗ったと聞いた。%K%N
-I heard that at SPHIA, my body addressed itself as "Fuyukawa Kokoro" while I wasn't around.
+I heard that at SPHIA, my body addressed itself as "Fuyukawa Kokoro" while I wasn't around.%K%P
 
 そして、あの避難小屋でも、黄泉木さんが肉体の持ち主は『冬川こころ』だと教えてくれた。%K%N
 And then at the shelter cabin, Yomogi-san told me the owner of the body was someone named "Fuyukawa Kokoro."
@@ -893,16 +893,16 @@ I won't beat around the bush.
 The point is, I have my doubts that this personality called "Fuyukawa Kokoro" really exists.
 
 そこで、きみが実際に存在するという証拠をどこかに残しておいてもらいたい。%K%N
-So I was hoping you would leave some kind of evidence behind that proves you actually do exist.
+So I was hoping you would leave some kind of evidence behind that proves you actually do exist.%K%P
 
 直接会話することはできないから、せめてこのメモ用紙に返信みたいなものでも書いておいてくれないか？%K%P
-Since we can't talk to each other directly, can you at least write down some kind of a reply on the paper this note is written on?
+Since we can't talk to each other directly, can you at least write down some kind of a reply on the paper this note is written on?%K%N
 
 なんでもいい。%K%N
 Anything will do.
 
 オレの肉体を操っているのが冬川こころの人格であるという証しを残してくれ。%K%N
-Just leave some evidence behind that the Fuyukawa Kokoro personality controlling my body exists.
+Just leave some evidence behind that the Fuyukawa Kokoro personality controlling my body exists.%K%P
 
 それから、できれば時間を計測してほしい。%K%N
 Also, if you can, I'd like you to record the time.
@@ -923,7 +923,7 @@ Then wouldn't it be more convenient for both of us?
 We'd be able to realize when there's one more minute until the transfer and finish up whatever we need to do by then.
 
 しかし、なんの法則性もないとしたら……。%K%N
-But, if it happens at random....
+But, if it happens at random....%K%P
 
 まあ、そのときはそのときだ。%K%N
 Well, we'll figure something out if and when that turns out to be the case.

@@ -72,7 +72,7 @@ Then, it would be wrong to think that our brains were switching back and forth, 
 As to the likelihood of that, I tried to find some way to verify it... however, I concluded that it was impossible to do so.
 
 私が空腹を感じたのは転移の直後――『冬川こころ』の身体になった途端のことだ。%K%N
-I felt hungry immediately after transfer――as soon as my body became that of "Fuyukawa Kokoro."
+I felt hungry immediately after transfer――as soon as my body became that of "Fuyukawa Kokoro."%K%P
 
 脳が転移したとすれば、脳内の血液中にはエネルギーとなる糖分がある程度蓄積されていたはずだ。%K%P
 If our brains themselves had switched, the blood inside the brain should have accumulated sugar to be used for energy to some extent.
@@ -93,7 +93,7 @@ I murmured in a small voice.
 Even if my brain jumped into Satoru's skull and perfectly united with the nerve tissue of his spinal cord with a "pop"...
 
 その後は想像を絶する%TS016拒絶反応%TEが襲うだろう。%K%N
-What awaits after that would be a %TS016rejection response%TE attack beyond all imagination.
+What awaits after that would be a %TS016rejection response%TE attack beyond all imagination.%K%P
 
 脳の転移なんて、ナンセンスだ。%K%N
 Something like swapping brains is nonsense.
@@ -144,7 +144,7 @@ As it pointed out, the mechanism called memory is, simply put, a "network of neu
 For example, say you wanted to memorize the word "apple."
 
 そうすると、『りんご』を覚えるために必要な、脳細胞同士が樹状突起という枝を伸ばし、%TS018シナプス%TEによって繋がりあう。%K%N
-When memorizing the word "apple," it is necessary for your brain cells to branch into dendrites and lengthen into each other, connected at the %TS018synapse%TE.
+When memorizing the word "apple," it is necessary for your brain cells to branch into dendrites and lengthen into each other, connected at the %TS018synapse%TE.%K%P
 
 具体的には『赤い』『丸い』『果物』など、多種多様の要素を複合させて覚えるらしい。%K%N
 Physically, it is "red," "circular," and "a fruit"; a variety of different elements must be remembered in combination for you to be able to recall it.
@@ -159,7 +159,7 @@ In other words, memory is asking, "in what pattern are your brain cells connecte
 It goes without saying, but Satoru's brain and my brain are different.
 
 なのに、私の脳だけに刻まれていたはずの記憶を、悟の脳でも思い出すことができた。%K%N
-Even so, the memories that were supposed to have been engraved in my brain only were recalled by Satoru's brain.
+Even so, the memories that were supposed to have been engraved in my brain only were recalled by Satoru's brain.%K%P
 
 悟の脳に私の意識が飛んだ瞬間、%N悟の脳内%TS017ニューロン%TEネットワークが、冬川こころの記憶の形に繋ぎ変わったということなのだろうか？%K%P
 Does this mean that the moment my consciousness flew into Satoru's brain, the %TS017neural%TE network inside his brain changed and connected in the shape of Fuyukawa Kokoro's memories?
