@@ -730,7 +730,7 @@ Have you ever met a young boy by the name of "Kusuda Yuni"?
 You know? Right now, I'm thinking this:
 
 『ゆには、もしかしたらテレポートしてるのかも知れない』%K%N
-That "maybe Yuni is teleporting."
+That "maybe Yuni is teleporting."%K%P
 
 テレポートっていうのは、意識と肉体が一緒になって転移してるって意味。%K%N
 Teleporting, as in both his body and consciousness are transferring together.
@@ -742,7 +742,7 @@ And, the timing of his teleportation is at the exact same as when Satoru and I t
 Do you get what I'm trying to say...?
 
 つまり、私が朱倉岳に帰ると同時に、ゆにも、意識と肉体が混ざった状態で朱倉岳に飛んでくるってこと。%K%N
-In other words, at the same time that I transfer back to Mount Akakura, Yuni's mind and body jump back to Mount Akakura as well.
+In other words, at the same time that I transfer back to Mount Akakura, Yuni's mind and body jump back to Mount Akakura as well.%K%P
 
 だってそうじゃなければ、ゆにが同時に２人も存在することを説明できないんだもん。%K%N
 Because, if that isn't so, I can't explain how Yuni could exist as two people at the same time.
@@ -772,7 +772,7 @@ The first is about SPHIA――
 Satoru should know much more than I do about this facility, right?
 
 だからスフィアのこと、詳しく教えてください。%K%N
-That's why I want you to tell me everything about SPHIA.
+That's why I want you to tell me everything about SPHIA.%K%P
 
 外に出る方法とか、外部との通信手段とか……。%K%N
 Like how to get outside, and how to communicate with the outside world....
@@ -814,13 +814,13 @@ And the times of transfer――
 I checked properly, just like you told me, so here they are below:
 
 『午後０１時０７分：スフィアに転移、%N午後０１時４０分：避難小屋に戻る』%K%N
-1:07 PM: Transferred to SPHIA, 1:40 PM: Returned to the shelter cabin
+1:07 PM: Transferred to SPHIA,%N1:40 PM: Returned to the shelter cabin
 
 『午後０６時０３分：スフィアに転移、%N午後０６時３６分：避難小屋に戻る』%K%N
-6:03 PM: Transferred to SPHIA, 6:36 PM: Returned to the shelter cabin
+6:03 PM: Transferred to SPHIA,%N6:36 PM: Returned to the shelter cabin
 
 『午後０７時３３分：スフィアに転移』%K%N
-7:33 PM: Transferred to SPHIA
+7:33 PM: Transferred to SPHIA%K%P
 
 というわけで、１、２、３、４、５……。%K%N
 So that means, 1, 2, 3, 4, 5....
@@ -894,8 +894,8 @@ If you do anything weird to my body, I'll never forgive you!
 あんまりさわっちゃダメだからね！　むしろ触るな！%K%N
 Don't touch it too much, okay?! Rather, don't touch it at all!
 
-%N
-
+#%N
+%P
 
 追伸２――。%K%N
 P.P.S.――
@@ -910,4 +910,4 @@ Come to think of it, I forgot to write something important!
 You saw it too, right Satoru?
 
 避難小屋に新聞が置い　　　　　　　　　%K%P
-The newspaper that was in the shelter cabin                
+The newspaper that was in the shelter cabin                %K%P
