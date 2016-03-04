@@ -42,13 +42,9 @@ def main():
   # dupe_pattern = re.compile("^;dupe:([\da-zA-Z]+)")
   init_txt_pattern = re.compile("^#\[[x:,0-9]*]: '(.*?)'$\n(?:^#.*\n)?"
       "^\[[x:,0-9]*]: '(.*?)'$", re.M)
-  # names_pattern = re.compile("^#\[[x:,0-9]*]: '(.*?)'$\n(?:^#.*\n)?"
-  #     "^\[[x:,0-9]*]: '(.*?)'$", re.M)
 
 
   current_dict = get_dictionary(source_text, init_txt_pattern)
-  # current_dict.update()
-  # current_dict.update()
 
   for i, t_line in enumerate(target_lines):
     t_line = t_line.strip()

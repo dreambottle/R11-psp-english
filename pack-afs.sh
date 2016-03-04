@@ -11,12 +11,13 @@ fi
 
 # applying init and EBOOT strings
 ./text/apply-boot-translation.py text/other-psp/BOOT.BIN.psp.txt workdir/BOOT.BIN workdir/BOOT.BIN.en || exit 1;
-./text/apply-init-translation.py text/other-psp/init.bin.psp.txt workdir/init.dec workdir/init.dec.en || exit 1;
+./text/apply-init-translation.py text/other-psp/init.psp.txt workdir/init.dec workdir/init.dec.en || exit 1;
 
 
 #mac.afs
 mkdir -p mac-en/
 ./text/apply-shortcuts-translation.py text/other-psp/SHORTCUT.SCN.psp.txt mac/SHORTCUT.SCN mac-en/SHORTCUT.SCN || exit 1;
+$COMPRESS ./mac-en/SHORTCUT.{SCN,BIP}
 for i in text/mac-combined-psp/*.txt ; do
 	echo Repacking $i
 	f=`basename $i .txt`

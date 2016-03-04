@@ -8841,21 +8841,21 @@ Lyrics/Composition: Shikura Chiyomaru
 ;8e3c;22;¹Ò‚ÍŒê‚èA‰¼–Ê‚Í–Ù‚·
 
 ;8e40;10;ƒJƒŒƒ“ƒ_[
-
+Calendar
 ;8e44;10;‚PŒ‚P‚P“ú
-
+January, 11
 ;8e48;10;‚PŒ‚P‚Q“ú
-
+January, 12
 ;8e4c;10;‚PŒ‚P‚R“ú
-
+January, 13
 ;8e50;10;‚PŒ‚P‚S“ú
-
+January, 14
 ;8e54;10;‚PŒ‚P‚T“ú
-
+January, 15
 ;8e58;10;‚PŒ‚P‚U“ú
-
+January, 16
 ;8e5c;10;‚PŒ‚P‚V“ú
-
+January, 17
 ;8e60;10;ƒJƒŒƒ“ƒ_[
 ;dupe:8e40
 ;8e64;10;‚PŒ‚P‚P“ú
@@ -8875,7 +8875,7 @@ Lyrics/Composition: Shikura Chiyomaru
 ;8ea0;29;‚¤‚µ‚ë‚Ì‚µ‚å‚¤‚ß‚ñ‚Ì‚Ú‚­^Uni
 
 ;8ea4;22;‹¾‚Ì’†‚Ìƒƒ^ƒV^Cocoro
-
+Me in the Mirror/Kokoro
 ;8ea8;24;“V‚æ‚è’Ä‚¿‚½ƒIƒŒ^Satoru
 
 ;8eac;8;‘å’n•ê_
