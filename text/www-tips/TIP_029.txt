@@ -6,6 +6,7 @@
 手入れが重要になってくる。
 日常の手入れの基本は、使ったあとは刃を
 磨いておくこと。
+
 ナイフは水が苦手！　今のナイフは
 ステンレス製が主流。
 ステンレスは錆びにくい素材だが、
@@ -24,6 +25,7 @@
 As a knife is used, it will gradually grow dull over time.%N
 To maintain an optimum level of sharpness, daily care is essential.%N
 The most basic form of daily maintenance is to polish the blade after each use.%N
+
 Water is very bad for knives!%N
 Most modern knives are made from stainless steel,
 which is resistant to rust;
