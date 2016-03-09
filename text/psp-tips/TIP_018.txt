@@ -1,0 +1,202 @@
+
+クローンとクローン法
+生物の体を作る設計図とも言うべき遺伝子（DNA）。
+この遺伝子情報を分析し、異なった遺伝子との
+組み換えや合成等を行う技術——
+これらの技術を総称したものが遺伝子工学で
+ある。
+現在、遺伝子工学の中で最も脚光を浴びている
+のがクローン技術だ。
+クローンとは無性生殖による増殖で生じた、
+遺伝的に親とまったく均一な細胞集団を指す
+生物学の用語。
+
+この技術で誕生した人間はクローン人間と
+呼ばれる。
+（余談だが、クローンという言葉の語源は
+　ギリシャ語の『Klon＝小枝』）
+1997年、イギリスで世界初の体細胞クローン羊
+『ドリー』の誕生が発表された。
+このドリーの成功は、遺伝子のもつ可能性に
+新たな光を投げかけることになった。
+
+ドリーはそれまでに作られてきた生殖細胞からの
+クローン『受精卵クローン』とは違い、
+成獣の乳腺細胞（体細胞）から生み出された
+『体細胞核移植クローン（以降『クローン』と記す）』
+なのである。
+つまり、『体細胞核移植』技術により、
+『体細胞さえあれば、同じ遺伝子情報を持った
+　動物の再生が、何度でも可能』ということを
+証明したのである。
+
+その後、様々なトランスジェニック・クローンが
+生み出されたが、その誕生（発生）過程が
+あまりにも常道を逸脱しすぎているゆえに、
+人間のクローン研究に対しては禁止、
+または厳しい規制が科せれた。
+日本では2001年に『ヒトに関するクローン技術
+などの規制に関する法律（クローン規制法）』を
+施行している。
+このほか英、仏、ドイツなど主要国は
+『人間の尊厳を冒す』として、クローン人間づくりを
+法律で禁じた。
+
+しかし、人間の『知的好奇心』や『不妊問題』、
+あるいは『失ったものへの悲しみと再会への願い』
+といった強い想いを押し留めることは出来ず、
+秘密裏に非合法な研究は進められ、
+やがてこの世界に何人かのクローン人間が
+産声を上げることとなった。
+こうして様々な騒動が巻き起こり、
+各国間では倫理問題を巡って激しい論争が
+繰り広げられた。
+
+そんな中、クローンの誕生を巡って、
+ひとつの裁判が日本で執り行われた。
+——2010年のことである。
+被告人は、とあるひとりの科学者。
+彼は自分の息子のクローンを作った。
+『事故で亡くなった息子に、どうしてももう一度
+　会いたかった』
+というのがその理由だった。
+やがてその秘密が洩れ、裁きにかけられた。
+
+そして判決の結果……無期懲役が決まった。
+ところが、そのクローンの少年の証言内容が
+報道されると、世論が一気にひっくり返り、
+最終的には法律を改正させるだけの力になった。
+少年は涙ながらに、
+世界にこう訴えかけたのだ——
+『パパは何も悪いことなんかしてない。
+　僕はパパに感謝してる。だって、僕の命はパパが
+　与えてくれたものだから……』
+
+かくして、この年から人間のクローン受精が
+解禁された。
+省庁の許可さえ得られれば、
+誰でもクローン受精による不妊治療が受けられる
+ようになった。
+以後、合法的にクローン人間は生み出されていき、
+2019年を迎える頃には、小学生1000人中
+ひとりかふたり程度の割合でクローン人間、
+というのが常識にまでなる。
+
+改正されたクローン法……
+それは、たったひとりの少年の小さな幸せの為に
+世論が作り上げた、人類の優しさの詰まった法律、
+なのかもしれない。
+しかし法改正後も、さらに大きな問題が残されて
+いた。
+クローン人間に対する差別である。
+先にも述べたように、その誕生過程の奇異性から
+クローン達は疎まれてしまうのだ。
+
+クローンは核細胞提供者（『ゲノムマザー』もしくは
+『オリジナル』）とまったく同一の遺伝子情報を
+持っているため、『オリジナルのコピー』などいう
+差別用語で呼ばれ、揶揄された。
+（しかし厳密な意味では、この認識は誤っている。
+　クローン生成の際に未受精卵を提供する女性
+　(『ホストマザー』)の遺伝子情報をクローンは
+　自らのミトコンドリアに受け継いでしまっている。
+　ゲノムマザーとホストマザーが同一人物でない
+　限り、オリジナルとクローンは完全な同一体とは
+　言えないのだ）
+
+これらの問題を解決していくには、時間と人々が
+遺伝子工学という分野に理解を深めていく
+必要があるとしか言えないだろう。
+クローン達が怯えることなく暮らせる世の中……
+そんな時代が、いつかやってくると信じて——。
+
+最後に、遺伝子工学において
+世界的な権威のある人物を紹介しておこう。
+日本の『守野茂蔵（モリノ・シゲゾウ）』博士である。
+守野博士は20世紀後半より世界的規模で
+行われ始めた『ヒトゲノム計画』に参加し、
+DNAシークエンスの画期的な解析法を発見した、
+とされている。また、博士自身も
+クローン人間を生み出した経歴がある。
+ただし、その成功例はひとりとも十数人とも、
+あるいはゼロとも言われ、真相は定かでない。
+</pre>
+<pre>
+The bodies of all living things are derived from biological blueprints called genes (DNA).%N
+The methods used to analyze and manipulate the information stored in genes,
+recombination, synthesis, and other similar technologies,
+are collectively classified under the umbrella term of genetic engineering.%N
+Currently, the technology enjoying the limelight in the field of genetic engineering
+is cloning technology.%P
+
+The term "clone" is from biology. It refers to a life form
+produced through asexual reproduction, whose cells
+are perfectly genetically identical to those of its parent.%N
+Those born from this technology are called human clones.%N
+（As an aside, the word clone is derived from the Greek word "klon," meaning "twig")%N
+In 1997, the birth in England of the world's first somatic cell clone, a sheep named Dolly, was announced.
+The successful creation of Dolly shed new light on the potentials of genetic engineering.%P
+
+Dolly was different from the embryonic cell clones that had previously been born from reproductive cell tissue.
+She was cloned from the mammary tissue (somatic cells) of an adult sheep,
+making her the first "somatic cell clone using nuclear transfer"
+(hereinafter simply "clone") in the world.%N
+In other words, the success of the technology to create a
+"somatic cell clone using nuclear transfer" served to verify the hypothesis that
+"if somatic cells were available, it would be possible to bring any animal
+back to life as an exact copy, any number of times."%P
+
+After that, various transgenic clones were created,
+but since the process of their birth (cell development) was viewed
+as diverging too far from the natural way, human cloning research was banned,
+or otherwise strictly regulated.%N
+
+In the year 2001, the pronounced "human-related cloning regulation law" (cloning law) was being enforced in Japan.%N
+Additionally, principle countries such as England, France and Germany
+had prohibited the creation of human clones, calling it "an affront to human dignity."%P
+
+However, the combined power of forces such as sheer human curiosity, infertility problems, and possibly "the wish to meet with lost loved ones again" would not let it be stopped altogether.
+Thus, illegal research continued behind the scenes, and before long, the birth cries of the very first human clones were heard in the world.%N
+As a result, various protests and controversies took root, and in many countries, the ethical issue was back on the table for the furious debate about to unfold.%P
+
+In the midst of this, a trial concerning the issue
+of the birth of clones was held.%N
+——The year was 2010.%N
+The accused, a certain lone scientist.%N
+He had created a clone of his own son.%N
+And the reason for that, he said, was simply 
+"I just wanted to see my son, who was killed
+in an accident, one more time, no matter the cost."%N
+But before long, his secret had been revealed, and thus judgment was pronounced upon him.%P
+
+And the result of the judges' decision was... life imprisonment.%N
+However, when the content of the cloned boy's testimony
+was reported, it caused a complete turnover of public opinion,
+which grew powerful enough to lead to amendment of the law in the end.%N
+So what was it that the boy said so plaintively through his tears?%N
+"Papa didn't do anything wrong. I'm so grateful to Papa. Because Papa is the one
+who gave me this life..."%P
+
+And so, that same year saw the lifting of the ban of the birth of human clones.%N
+Now anyone was free to use cloning technologies as a form of infertility treatment, as long as permission from the proper authorities has been granted.%N
+Since then, legal human clones have continued to be born; it has even been estimated that by the year 2019, one to two of every 1000 primary school children will be clones.%P
+
+As for the revised cloning law...%N
+For it to have been struck down by public opinion rallied simply for the sake of the happiness of one small boy, perhaps it truly was a law that stood in opposition to human kindness.%N
+However, even after the amendment of the law, many problems still remained.%N
+Cloned people faced opposition and discrimination.%N
+As previously stated, the paradoxical method of their birth led some people to shun them.%P
+
+Since the clones' genetic information was perfectly identical to that of their nucleoplasm provider ("genome mother" or "original"), 
+they were mockingly referred to as "copies of the original."%N
+
+(However, strictly speaking, this belief is mistaken. At the time of a clone's creation, he or she inherits the mitochondria 
+of the woman who provided the unfertilized egg ("host mother"). Since the genome mother and host mother are two different people, the clone cannot be said to be an exact replica of the original.)%P
+
+Perhaps there is really no solution to such problems, unless humanity gets more accustomed to clones with time and deepens their understanding of genetic engineering.%N
+Until then, clones and their supporters can only keep on hoping, believing that the day will surely come when clones can live without fear...%P
+
+Finally, we shall introduce a certain person who had a global influence in the field of genetic engineering.%N
+He is Japan's Professor Morino Shigezou.%N
+Since the latter part of the 20th Century, Professor Morino has taken part in the international Human Genome Project, where he had been credited with the discovery of a groundbreaking method for analyzing the sequence of DNA. Furthermore, the professor himself is known to have been creating human clones.%P
+However, there are opinions as to exactly what number of successfully produced clones his achievements amount to (if any at all), and the truth remains uncertain.

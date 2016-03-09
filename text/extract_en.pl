@@ -43,7 +43,7 @@ while(<>) {
         s/'(I)'/%C8CFF$1%CFFFF/g; # colored text (blue) to signify "watashi", as deviated from Satoru's normal "ore".
         s/\x{00e9}/e/g; # é (utf8:c3a9) in fiancé; SA5_07
         s/\x{2473}/  /g; # ⑳ ('CIRCLED NUMBER TWENTY' (U+2473)) weirdly used instead of whitespace near English widechars; SAEP_06
-        #                  It is rendered blank, but maybe has a special behaviour. needs checking.
+        #                  It is rendered blank.
         /''/ and die "unmatched ''";
         $meta = "(?:%[A-Zp][A-Z0-9]*)*";
         $p =~ /^($meta)((?:.*?\x{300c})?).*?((?:\x{300d}.*)?$meta)$/;

@@ -1,0 +1,109 @@
+
+境界性人格障害
+別名：境界例・境界例人格障害・ボーダーライン
+症状として次のうち５つ以上あてはまるものを、
+境界性人格障害と呼ぶ。
+　１)現実や想像の中での見捨てられ感。
+　２)不安定で激しい対人関係
+　３)著明で持続的な不安定な自己像や自己観。
+　４)現実喪失感。
+　５)自殺・自傷行為など自虐的思考。
+
+　６)虚無感。空虚感。
+　７)顕著な気分反応性による感情不安定性。
+　８)不適切で激しい怒り、
+　　または怒りの制御の困難。
+　９)一過性のストレス関連性の妄想様観念、
+　　または重篤な解離性症状。
+１０）自暴自棄な行動とそれに対する自己嫌悪。
+
+その他、衝動性なものとしては、
+　１)浪費。
+　２)性行為。
+　３)物質濫用。
+　４)無謀な運転。
+　５)過食。
+　　　などがある。
+
+境界性人格障害は、対人関係、自己像、感情の
+不安定および著しい衝動性の広範な様式で、
+成人期早期に始まり、種々の状況で明らかになる。
+障害という名前はついているが、比較的誰にでも
+あらわれる症状も多い。
+特徴的なものとして、感情の波、起伏が異常に
+激しいことがあげられる。
+そしてその中で、どうしようもない取り残され感
+と、それをとどめるための狂わんばかりの努力を
+見せたりする。
+
+自傷行為も多く見られるようである。
+自分が霧の中にでもいるような気がして、
+なんだかはっきりしなかったり、自分が
+このままバラバラになってしまうのではないか、
+というような感情を伴い、また、
+自分はいったい何者なのか、という思いに
+悩まされることもある。
+そして、うまくコントロールがきかなくなり、
+自傷行為に発展してしまうのだ。
+
+境界性人格障害の場合、周囲の人々を
+自分の敵か味方かに頭の中でふりわけ、味方と
+している人が自分から離れていこうとすると、
+不安になり、わざとトラブルを起こすような
+こともある。
+しかし、決してやりたくてやっているわけではなく、
+これはいろんなココロの病気に通じていること
+だが、それはその人本来の性格ではない。
+</pre>
+<pre>
+alias: ambulatory schizophrenia, preschizophrenia, schizotypal disorder%N
+For a patient to be diagnosed with borderline personality disorder,
+they must display symptoms matching five or more of the following criteria.%N
+ 1) Inability to distinguish fantasy from reality.%N
+ 2) A pattern of unstable and intense interpersonal relationships.%N
+ 3) Identity disturbance: markedly and persistently unstable self-image or sense of self.%P
+ 4) Feelings of disconnection from reality.%N
+ 5) Recurrent suicidal behavior, gestures, threats or self-injuring behavior.%N
+
+ 6) Chronic feelings of emptiness.%N
+ 7) Marked affective instability due to a marked reactivity of mood.%N
+ 8) Inappropriate anger or difficulty controlling anger.%N
+ 9) Transient, stress-related paranoid ideation, delusions or severe dissociative symptoms.%N
+ 10) Frantic efforts to avoid real or imagined abandonment.%P
+
+Additionally, impulsivity in at least two areas that may be self-damaging, including:%N
+ 1) impulsive spending%N
+ 2) promiscuous sex%N
+ 3) substance abuse%N
+ 4) reckless driving%N
+ 5) binge eating%N
+　　　are observed.%P
+
+A borderline personality disorder sufferer's personal relationships, self-image, emotional stability, 
+and particularly indulgence in impulsive acts are heavily influenced and impaired by the disorder, 
+with the onset of symptoms typically occurring during adolescence or young adulthood.%N
+Though said to be a severe impairment to normal life,
+relatively few of the symptoms are detected by most people.
+It is characterized by fluctuating emotional states 
+and abnormal outbursts of anger or violence.%P
+Furthermore, many sufferers show frantic attempts 
+to avoid abandonment.
+
+This feeling often manifests itself in the form of self-harm behaviors.%N
+Sufferers often report having a foggy mental state,
+being unable to perceive things clearly, 
+or feeling as if they will go to pieces, 
+as well as feeling lost and unsure of their own identity.
+Moreover, many say that this feeling of having no self-control 
+is what leads them to start self-injuring.%P
+
+Individuals with borderline personality disorder 
+tend to view the world in black and white,
+with all people viewed strictly as either enemy or ally; 
+if they think an ally is in danger of leaving them, 
+many individuals will become anxious and deliberately harm themselves 
+or otherwise cause trouble in an effort to get the ally to stay.%N
+However, it is important to remember that the individual 
+is not doing these things because they want to, 
+and as with many other similar illnesses of "the heart,"
+their behavior does not reflect their true personality.
