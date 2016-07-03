@@ -13,6 +13,8 @@
 /iso/*.dax
 /iso/*.cso
 
+/bin
+
 /*.exe
 /*.dll
 /*.DUMP

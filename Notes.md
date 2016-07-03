@@ -25,7 +25,7 @@ Special Sequences
 
 %C[4 hex digits] - color
 
-%T030 - delay? WARNING: On pc it had %T[\d\d] (2 digits) format, but on psp it needs to have has 3 digits!
+%T030 - delay? WARNING: On pc it has %T[\d\d] (2 digits) format, but on psp it needs to have 3 digits!
 
 %X070 - ??? (also 010, 050 in game texts)
 
@@ -89,11 +89,11 @@ dc40: - file names(don't modify!)
 <br>
 12ca3:130ea - (Endings?)
 <br>
-130ea: - some strange untranstlated text block. Strings start with イラスト：左 (GoogTransl: 'Illustration:Left')
+130ea: - a strange untranstlated text block. Strings start with イラスト：左 (GoogTransl: 'Illustration:Left')
 <br>
 134de: - Song lyrics
 <br>
-14c30:2464c - Tips. They do not seem to be ordered in the same way as the pc version(not sure).
+14c30:2464c - Tips. They are ordered differently to the pc version.
 <br>
 26be8: - Chronology start
 <br>

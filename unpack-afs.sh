@@ -2,15 +2,16 @@
 # extract all the japanese gametext.
 # 
 GIMCONV="./tools/GimConv/GimConv.exe"
-DECOMPRESS="./decompressbip"
+DECOMPRESS="./bin/decompressbip"
+REPACK_AFS="./bin/repack_afs"
 
 RES_DIR="iso_extracted/PSP_GAME/USRDIR"
 WORK_DIR="./workdir"
 
 
 unpack_afs () {
-	echo Unpacking $PKG.afs
-	./repack_afs $WORK_DIR/$PKG.afs /dev/null /dev/null $PKG/ || exit 1
+	echo Unpacking $1.afs
+	$REPACK_AFS $WORK_DIR/$1.afs /dev/null /dev/null $1/ || exit 1
 }
 
 mkdir -p $WORK_DIR
@@ -23,7 +24,7 @@ cp $RES_DIR/init.bin $WORK_DIR/init.bin
 
 PKG=mac
 rm -rf $PKG/
-unpack_afs
+unpack_afs $PKG
 for i in text/chapters-psp/[A-Z0-9]*_[0-9]*.txt ; do
 	f=`basename $i .txt`
 	$DECOMPRESS $PKG/$f{.BIP,.SCN} || exit 1
@@ -32,7 +33,7 @@ $DECOMPRESS $PKG/SHORTCUT{.BIP,.SCN} || exit 1
 
 PKG=etc
 rm -rf $PKG/
-unpack_afs
+unpack_afs $PKG
 #for i in $PKG/*.T2P ; do
 #	f=`basename $i .T2P`
 #	$DECOMPRESS $PKG/$f{.T2P,.GIM} || exit 1

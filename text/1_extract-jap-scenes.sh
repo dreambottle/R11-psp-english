@@ -8,5 +8,5 @@ for i in ../mac/[A-Z0-9]*_[0-9]*.SCN ; do
 	f=`basename $i .SCN`
 	echo Extracting $f scene
 	# process translation files
-	../extract_scene_text ../mac/$f.SCN mac-ja-psp/$f.txt || exit 1;
+	../bin/extract_scene_text ../mac/$f.SCN mac-ja-psp/$f.txt || exit 1;
 done
