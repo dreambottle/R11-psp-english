@@ -252,7 +252,7 @@ def main():
   srcpath = sys.argv[2] if len(sys.argv) > 2 else 'FONT00.FNT'
   
   if (cmd == 'png' or cmd == 'pnghalf'):
-    os.makedirs('glyphs/', 0o644, exist_ok=True)
+    os.makedirs('glyphs/', 0o755, exist_ok=True)
     print('Extracting', srcpath, 'to PNG')
     font = unpackFont(srcpath);
     writeMetadata(font, 'glyphs/{0}'.format(GLYPH_DATA_FILE))

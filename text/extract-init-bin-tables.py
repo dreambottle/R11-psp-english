@@ -14,7 +14,7 @@ def read_strings_from_table(all_bytes, seg_table, seg_strings):
   ret_table_offs = []
   for i, off in enumerate(offsets):
     table_offs = i*4+seg_table[0]
-    # skip areas workaround:
+    # [workaround] skip areas which do not have text references:
     if 0x47f0 <= table_offs < 0x5350: continue
     if 0x7f90 <= table_offs < 0x871c: continue
     if 0x7520 <= table_offs < 0x7610: continue
@@ -78,6 +78,7 @@ def main():
   all_bytes = f.read()
   f.close()
 
+  # these are only extracted for convenience
   res_init = read_strings_from_table(all_bytes, seg_init_table, seg_init)
   res_tips = read_strings_from_table(all_bytes, seg_tips_table, seg_tips)
   res_chrono = read_strings_from_table(all_bytes, seg_chrono_table, seg_chrono)
@@ -85,6 +86,7 @@ def main():
   write_results_to_file("tips",   res_tips)
   write_results_to_file("chrono", res_chrono)
 
+  # all strings go here
   res_all = read_strings_from_table(all_bytes, seg_all_table, seg_all)
   write_results_to_file("all", res_all)
 

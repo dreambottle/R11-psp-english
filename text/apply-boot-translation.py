@@ -72,7 +72,7 @@ def patch(bytearr, initial_text, new_text, max_size, last_pos):
 
 
 def main():
-  # Warning: can only work a clean BOOT.BIN
+  # Warning: only works on a clean BOOT.BIN
 
   if len(sys.argv) != 4:
     exit("Usage: %s translation.txt source-BOOT.BIN output-BOOT.BIN")

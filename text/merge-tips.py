@@ -22,7 +22,7 @@ def fix_sjis(bstr):
 #         %w|00A3 FFE1|, # POUND SIGN           => FULLWIDTH POUND SIGN
 #         %w|00AC FFE2|, # NOT SIGN             => FULLWIDTH NOT SIGN
 #         %w|2014 2015|, # EM DASH              => HORIZONTAL BAR
-#         %w|2016 2225|, # DOUB
+#         %w|2016 2225|, # DOUBLE VERTICAL LINE => PARALLEL TO
   bstr = bstr.replace(b"\u2163", b"\xfa\x4d") # Roman numeral IV
   bstr = bstr.replace(b"\u301c", b"\xff\x5e")
   bstr = bstr.replace(b"\u2014", b"\x20\x15")
