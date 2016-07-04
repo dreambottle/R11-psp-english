@@ -3,11 +3,13 @@
 /mac/
 /mac-en/
 /etc/
+/etc-en/
 /iso_extracted/
 
 /text/mac-en-only/
 /text/mac-ja-psp/
 /text/mac-combined-psp/
+/text/font/FONT*
 
 /iso/*.iso
 /iso/*.dax
@@ -19,3 +21,4 @@
 /*.dll
 /*.DUMP
 /*.lnk
+*.pyc

@@ -22,3 +22,9 @@ for i in chapters-psp/[A-Z0-9]*_[0-9]*.txt ; do
 	./merge-scene-lines.py mac-ja-psp/$f.txt mac-en-only/$f.txt mac-combined-psp/$f.txt || exit 1;
 
 done
+
+cd font
+./extract-font.py || exit 1;
+mkdir -p ../../etc-en
+cp FONT00.mod ../../etc-en/FONT00.mod
+cd ..

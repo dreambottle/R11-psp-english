@@ -45,5 +45,6 @@ for i in $PKG/*.FOP ; do
 	#mv -f $PKG/$f.FNT $WORK_DIR/$f.FNT
 	#TODO convert font to editable format
 done
+cp etc/FONT00.FNT text/font/FONT00.FNT 
 
 $DECOMPRESS $WORK_DIR/init.bin $WORK_DIR/init.dec
