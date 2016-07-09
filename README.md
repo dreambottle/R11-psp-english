@@ -7,18 +7,19 @@ Help wanted in hacking and testing!
 
 Current status:
 
-Scenes: Yes - But text often overflows the windows. (Crashes are expected)
+Scenes: Yes - But text overflows the windows in some places. (Crashes are expected)
 <br>
-(init.bin) Shortcuts: Yes
+Shortcuts (init.bin): Yes.
 <br>
-(init.bin) TIPS: No
+TIPS (init.bin): Transferred, but it will very likely overflow the screen.
 <br>
-(init.bin) Names: Yes
+Names (init.bin): Yes.
 <br>
-(init.bin) Chronology: No
+Chronology (init.bin): No.
 <br>
-(BOOT.BIN) Menus: Partial. Need translation help, because these strings are different from the PC version. HOME menu - Yes.
-
+Menus (BOOT.BIN): Partial. Need translation help, because these strings are different from the PC version. HOME menu - Yes.
+<br>
+Font (FONT00.FOP): Partial. Done with extractor and automatic width trimmer. Work in progress on packager.
 
 How To
 -----------
@@ -41,10 +42,10 @@ The following tools should be available:
 
 `7z mkisofs gcc perl python3`
 
-You will need to install File::Slurp module for Perl:<br>
-`cpan File::Slurp`
+`mkisofs` is a part of `cdrtools` package. Others can be found quite easily.
 
-On linux you will need to compile [armips](https://github.com/Kingcom/armips) for patching BOOT.BIN and put it into `tools/`.
+Also you will need to install File::Slurp module for Perl:<br>
+`cpan File::Slurp`
 
 Brew install command for mac:
 

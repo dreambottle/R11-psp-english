@@ -10,6 +10,7 @@
 /text/mac-ja-psp/
 /text/mac-combined-psp/
 /text/font/FONT*
+/text/font/glyphs/
 
 /iso/*.iso
 /iso/*.dax
