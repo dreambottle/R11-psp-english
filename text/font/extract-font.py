@@ -124,10 +124,17 @@ def MagicPxConvert(px):
 
 def writeGlyph(data, index, w, h):
   writer = png.Writer(w, h, greyscale=True, bitdepth=2)
-  fname = 'glyphs/%d.png'%(index)
+  fname = 'glyphs/{0:d}.png'.format(index)
   file = open(fname, 'wb')
   writer.write(file, data)
   file.close()
+
+
+def writeMetadata(font, path):
+  f = open(path, "w")
+  for i, v in enumerate(font.metadata):
+    f.write("{0:5d}:: {1:5d} {2:d}\n".format(i, v['l'], v['r']))
+  f.close()
 
 
 def packFont(font, path):
@@ -135,14 +142,18 @@ def packFont(font, path):
   headerStruct.pack_into(buf, 0, *font.header)
 
   for i, v in enumerate(font.metadata):
-    if (i > 100 and i < 300):
-      print(i, v)
     offset = font.header.metadataOffset + i * glyphMetadataStruct.size
     glyphMetadataStruct.pack_into(buf, offset, v['l'], v['r'])
 
   f = open(path, 'wb')
   f.write(buf)
   f.close()
+
+def autotrim(font):
+  # a dumb automatic width trim, 1px on each side
+  for i, v in enumerate(font.metadata):
+    if v['r'] > 0: v['r'] -= 1
+    if v['l'] < font.header.width: v['l'] += 1
 
 def main():
   path = "FONT00.FNT"
@@ -158,15 +169,13 @@ def main():
     os.makedirs('glyphs/', exist_ok=True)
     print('Extracting', path, 'to PNG')
     font = unpackFont(path);
+    writeMetadata(font, 'glyphs/glyph_widths.txt')
     writePng(font)
   elif (cmd == 'autotrim'):
     print('Autotrimming everything by 1 px', path)
     font = unpackFont(path);
-    # a dumb automatic width trim, 1px on each side
-    for i, v in enumerate(font.metadata):
-      if v['r'] > 0: v['r'] -= 1
-      if v['l'] < font.header.width: v['l'] += 1
-    # repack
+    autotrim(font)
+    writeMetadata(font, 'autotrimmed_widths.txt')
     packFont(font, "FONT00.mod")
     print('Writing to FONT00.mod')
   
