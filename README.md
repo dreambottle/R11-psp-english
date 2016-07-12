@@ -19,7 +19,7 @@ Chronology (init.bin): No.
 <br>
 Menus (BOOT.BIN): Partial. Need translation help, because these strings are different from the PC version. HOME menu - Yes.
 <br>
-Font (FONT00.FOP): Partial. Done with extractor and automatic width trimmer. Work in progress on packager.
+Font (FONT00.FOP): Autotrimmed by 2px. Wrote repackaging scripts to potentially replace the font.
 
 How To Use This
 -----------

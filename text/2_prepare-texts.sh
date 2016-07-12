@@ -24,7 +24,10 @@ for i in chapters-psp/[A-Z0-9]*_[0-9]*.txt ; do
 done
 
 cd font
-./extract-font.py || exit 1;
+# ./extract-font.py autotrim || exit 1;
+./extract-font.py pnghalf || exit 1;
 mkdir -p ../../etc-en
-cp FONT00.mod ../../etc-en/FONT00.mod
+cp -f glyphs-new/* glyphs/
+./extract-font.py repack glyphs/ || exit 1;
+cp FONT00.NEW ../../etc-en/FONT00.NEW
 cd ..

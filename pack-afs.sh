@@ -38,8 +38,8 @@ mv -f $WORKDIR/mac-repacked.afs $ISO_RES_DIR/mac.afs
 #	f=`basename $i .FNT`
 #	$COMPRESS etc-en/$f.{FNT,FOP}
 #done
-if [ -f etc-en/FONT00.mod ]; then
-$COMPRESS etc-en/FONT00.mod etc-en/FONT00.FOP
+if [ -f etc-en/FONT00.NEW ]; then
+$COMPRESS etc-en/FONT00.NEW etc-en/FONT00.FOP
 $REPACK_AFS $WORKDIR/etc.afs $WORKDIR/etc-repacked.afs etc-en || exit 1;
 mv -f $WORKDIR/etc-repacked.afs $ISO_RES_DIR/etc.afs
 fi
@@ -60,7 +60,7 @@ mv -f $WORKDIR/init.en.bin $ISO_RES_DIR/init.bin
 #BOOT.BIN
 echo "Applying patches to EBOOT (BOOT.BIN)"
 cp -f $WORKDIR/BOOT.BIN.en $WORKDIR/BOOT.BIN.patched
-$ARMIPS src/boot-patches.asm -root workdir/
+$ARMIPS src/boot-patches.asm -root workdir/ || exit 1;
 #rm -f $ISO_BIN_DIR/BOOT.BIN
 rm -f $ISO_BIN_DIR/EBOOT.BIN
 cp -f $WORKDIR/BOOT.BIN.patched ./$ISO_BIN_DIR/EBOOT.BIN
