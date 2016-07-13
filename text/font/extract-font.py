@@ -202,10 +202,10 @@ def pngsToRawGlyphBlock(blockSize, pngPath0, pngPath1):
 
   if (pngMaps[0][0] != pngMaps[1][0]) or (pngMaps[0][1] != pngMaps[1][1]):
     print("Dimensions mismatch between {0} and {1}".format(pngPath0, pngPath1))
-    return None
+    exit(1)
   if pngMaps[0][3]['bitdepth'] != 2 or pngMaps[1][3]['bitdepth'] != 2:
     print("Bitdepth must be 2! (files: {0} {1})".format(pngPath0, pngPath1))
-    return None
+    exit(1)
   
   BPP = 2
   w = pngMaps[0][0]
