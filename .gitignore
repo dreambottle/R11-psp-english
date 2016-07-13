@@ -1,10 +1,10 @@
-/misc/
 /workdir/
 /mac/
 /mac-en/
 /etc/
 /etc-en/
 /iso_extracted/
+/bin/
 
 /text/mac-en-only/
 /text/mac-ja-psp/
@@ -16,10 +16,10 @@
 /iso/*.dax
 /iso/*.cso
 
-/bin
-
 /*.exe
 /*.dll
 /*.DUMP
 /*.lnk
+
+misc/
 *.pyc
