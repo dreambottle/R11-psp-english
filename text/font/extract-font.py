@@ -201,10 +201,10 @@ def pngsToRawGlyphBlock(blockSize, pngPath0, pngPath1):
   pngMaps = (r0.read(), r1.read())
 
   if (pngMaps[0][0] != pngMaps[1][0]) or (pngMaps[0][1] != pngMaps[1][1]):
-    print("Dimensions mismatch between {0} and {1}".format(pngMapsPath0, pngMapsPath1))
+    print("Dimensions mismatch between {0} and {1}".format(pngPath0, pngPath1))
     return None
   if pngMaps[0][3]['bitdepth'] != 2 or pngMaps[1][3]['bitdepth'] != 2:
-    print("Bitdepth must be 2! (files: {0} {1})".format(pngMapsPath0, pngMapsPath1))
+    print("Bitdepth must be 2! (files: {0} {1})".format(pngPath0, pngPath1))
     return None
   
   BPP = 2
@@ -238,16 +238,17 @@ def autotrim(font):
 
 
 def main():
+  REPACKEDPATH = "FONT00.NEW"
+
   if len(sys.argv) < 2:
     print('chose one of the args:')
     print('  png|pnghalf [<FONT00.FNT>] - extracts all glyphs from FONT00.FNT file (pnghalf only extracts left half of the image)')
     print('  autotrim [<FONT00.FNT>] - trims all spaces between letters by 1px on both sides')
-    print('  repack <dir> - packs pngs and metadata in <dir> into a "REPACKEDFONT.FNT" font file')
+    print('  repack <dir> - packs pngs and metadata in <dir> into a "%s" font file'%(REPACKEDPATH))
     exit(1)
 
-  cmd = sys.argv[1] if len(sys.argv) > 1 else 'png'
+  cmd = sys.argv[1]
   srcpath = sys.argv[2] if len(sys.argv) > 2 else 'FONT00.FNT'
-  REPACKEDPATH = "FONT00.NEW"
   
   if (cmd == 'png' or cmd == 'pnghalf'):
     os.makedirs('glyphs/', 0o644, exist_ok=True)
