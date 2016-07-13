@@ -15,7 +15,7 @@ saveas = "tips.init.psp.txt"
 
 Tip = namedtuple("Tip", "i, ipsp, jpname, enname, lines")
 
-def fixsjis(bstr):
+def fix_sjis(bstr):
 #         %w|301C FF5E|, # WAVE DASH            => FULLWIDTH TILDE
 #         %w|2212 FF0D|, # MINUS SIGN           => FULLWIDTH HYPHEN-MINUS
 #         %w|00A2 FFE0|, # CENT SIGN            => FULLWIDTH CENT SIGN
@@ -31,33 +31,30 @@ def fixsjis(bstr):
   bstr = bstr.replace(b"''I''", b"%CFF8FI%CFFFF") # Yellow-colored I
   return bstr;
 
+def readlines_in_textfile(filepath):
+  with open(filepath, "r", encoding="UTF-8") as f:
+    return [l.rstrip('\r\n') for l in f.readlines()]
 
 def main():
+  titles = readlines_in_textfile(tips_titles)
 
-  f_titles = open(tips_titles, "r", encoding="UTF-8")
-  titles = [x.rstrip('\r\n') for x in f_titles.readlines()]
-  f_titles.close()
-  
   tipfiles = listdir(tips_folderpath)
   tipfiles.sort()
   if (len(titles) != len(tipfiles)):
     exit("tips count mismatch")
   
-  f = open(tips_order, "r", encoding="UTF-8")
-  orderjp = [l.rstrip('\r\n') for l in f.readlines()]
-  f.close()
+  orderjp = readlines_in_textfile(tips_order)
 
   # read all tip files
   titles = deque(titles)
   tips = []
   for i, t in enumerate(tipfiles):
-    f = open(tips_folderpath + t, "r", encoding="UTF-8")
-    lines = [l.rstrip('\r\n') for l in f.readlines()]
-    f.close()
+    lines = readlines_in_textfile(tips_folderpath + t)
     
-    # The second line in every tip file indicates the jp tip title
-    jpidxname = next(((i, t) for i, t in enumerate(orderjp) if lines[1] == t), None) \
-            or next(((i, t) for i, t in enumerate(orderjp) if lines[1].startswith(t)))
+    # The second line in every tip file indicates the jp tip title. Finding its index.
+    tip_title = lines[1]
+    jpidxname = next(((i, t) for i, t in enumerate(orderjp) if tip_title == t), None) \
+            or next(((i, t) for i, t in enumerate(orderjp) if tip_title.startswith(t)))
     
     tip = Tip(i, ipsp = jpidxname[0],
                jpname = jpidxname[1],
@@ -66,14 +63,14 @@ def main():
 
     enstart = lines.index("<pre>") + 1;
     enlines = lines[enstart:]
-    # An empty line to ensure that the last entry is always appended
+    # An empty line to trigger appending of the last entry
     enlines.append("")
     tipline = ""
     for line in enlines:
-      if (line and not line[0].startswith("#")):
-        # if not tipline.endswith("%N"):
-        #   tipline += " "
-        tipline += line
+      if (line and not line.startswith("#")):
+        if len(tipline) > 1 and not tipline[-2] == "%":
+          tipline += " "
+        tipline += line.rstrip()
       elif (tipline):
         tip.lines.append(tipline)
         tipline = ""
@@ -98,18 +95,19 @@ def main():
     
     if (not tipslines[i-1].endswith(tip.jpname.encode("SJIS", "backslashreplace")+b'\n')
         and tip.ipsp!=37 and not 102>=tip.ipsp>=92):
-      print("mismatch!", tip.jpname, tipslines[i-1].decode("SJIS", "backslashreplace"))
+      print("mismatch!", tip.jpname, tipslines[i-1].decode("SJIS", "replace"))
       break
     
     i += 2
     for line in tip.lines:
-      tipslines[i] = fixsjis(line.encode("SJIS", "backslashreplace")) + b'\n'
+      tipslines[i] = fix_sjis(line.encode("SJIS", "backslashreplace")) + b'\n'
       i += 2
-    
-  f_out = open(saveas, "wb")
-  for l in tipslines:
-    f_out.write(l)
-  f_out.close()
+
+  # Write modified lines
+  with open(saveas, "wb") as f_out:
+    for l in tipslines:
+      f_out.write(l)
+
 
 if __name__ == '__main__':
   main();
