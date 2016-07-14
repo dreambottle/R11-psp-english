@@ -20,4 +20,10 @@ li a0, 1
 li a1, 0
 .endarea
 
+; Decrease line spacing in fullscreen text.
+.org 0x881CCB0
+.area 4
+addiu a2, v0, -0x1
+.endarea
+
 .close
