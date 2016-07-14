@@ -47,4 +47,8 @@ for i in $PKG/*.FOP ; do
 done
 cp etc/FONT00.FNT text/font/FONT00.FNT 
 
+cd text/font
+python3 extract-font.py pnghalf || exit 1;
+cd ../..
+
 $DECOMPRESS $WORK_DIR/init.bin $WORK_DIR/init.dec

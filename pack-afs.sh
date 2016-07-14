@@ -43,7 +43,7 @@ mv -f $WORKDIR/mac-repacked.afs $ISO_RES_DIR/mac.afs
 # Repack fonts
 cd text/font
 # python3 extract-font.py autotrim || exit 1;
-python3 extract-font.py pnghalf || exit 1;
+# python3 extract-font.py pnghalf || exit 1;
 mkdir -p ../../etc-en
 cp -f glyphs-new/* glyphs/
 python3 extract-font.py repack glyphs/ || exit 1;
