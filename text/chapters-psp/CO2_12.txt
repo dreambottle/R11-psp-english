@@ -638,7 +638,9 @@ Elevation 8850 meters――it goes without saying that I'm talking about Everest
 Well then, on the other hand, where do you think the deepest point on the planet is?
 
 この場合の『一番深い場所』とは、人間が生身の状態でたどりつくことができる最深部、という意味だ。%K%N
-In this case, the "deepest point on the planet" means the lowest place that a flesh and blood human can reach.
+In this case, the "deepest point" means the lowest place that a flesh and blood human can reach.
+// originally: In this case, the "deepest point on the planet" means the lowest place that a flesh and blood human can reach.
+// Modified this line to reduce word count (overflows buffer on psp).
 
 つまり、海溝ではなく、地下ってこと。%K%N
 In other words, not an ocean trench, but somewhere underground.
@@ -956,13 +958,13 @@ Tentatively, the transfer times that I've checked go something like this.
 "1:07 PM: transfer to shelter cabin, 1:40 PM: return to SPHIA."
 
 『午後０６時０３分：避難小屋に転移、%N午後－－時－－分：スフィアに戻る』%K%N
-"6:03 PM: transfer to shelter cabin, －:－－PM: return to SPHIA."
+"6:03 PM: transfer to shelter cabin, －:－－ PM: return to SPHIA."
 
 『午後０７時３３分：避難小屋に転移、%N午後０８時０６分：スフィアに戻る』%K%N
 "7:33 PM: transfer to shelter cabin, 8:06 PM: return to SPHIA."
 
 ４回目の『午後－時－－分』っていうのは、あまり気にしないでくれ。%K%N
-Please don't mind the "－:－－PM" in the fourth one.
+Please don't mind the "－:－－ PM" in the fourth one.
 
 このときのオレは、停電の闇の中で刃物を持った誰かに追われてたんだ。%K%P
 At that time, I was in the dark, running away from someone with a knife.
