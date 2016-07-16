@@ -39,7 +39,7 @@ while(<>) {
         ($en_linebreak || $p) =~ /%K$/ and $_ .= " "; # no trailing newline, so the sentence will be continued
         s/(?<!\b\S \S)  +/ /g; # collapse multiple spaces unless there are also extra spaces within the neighboring words
         #s/ /  /g; # spaces are too thin on pc; Not the case for psp.
-        #$p =~ s/%TS\d+|%TE//g; # remove tips. any that make sense will be in the translation.
+        $p =~ s/%TS\d+|%TE//g; # remove ja tips. any that make sense will be in the translation.
         s/''(I)''/%CFF8F$1%CFFFF/g; # colored text (yellow) to signify "ore", as deviated from Kokoro's normal "watashi".
         s/'(I)'/%C8CFF$1%CFFFF/g; # colored text (blue) to signify "watashi", as deviated from Satoru's normal "ore".
         s/\x{014d}/o/g; # 'ō'. no shift_jis for vowel+macron. which is strange considering that it's used by Hepburn
