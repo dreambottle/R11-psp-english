@@ -160,16 +160,17 @@ def parseMetadata(path):
     bs = int( f.readline().split(':')[1].strip() )
 
     metadataOffset = 0x1E
-    metadataSize = count*2
+    metadataSize = count*2 # 2 bytes per glyph
     glyphsOffset = metadataOffset + metadataSize
     if (glyphsOffset & 0xFFF != 0):
       glyphsOffset = (glyphsOffset + 0x1000) & ~0xFFF
+    glyphsSize = count//2 * bs # 2 glyphs per block
     # 'empty',
     # 'metadataOffset', 'metadataSize',
     # 'glyphsOffset', 'glyphsSize',
     # 'blockSize', 'magic1', 'width', 'height', 'magic2'
     header = Header(bytes(8), metadataOffset, metadataSize,
-      glyphsOffset, count*bs,
+      glyphsOffset, glyphsSize,
       bs, 0x5, width, height, 0)
 
     metadata = []
@@ -231,10 +232,10 @@ def pngsToRawGlyphBlock(blockSize, pngPath0, pngPath1):
 
 
 def autotrim(font):
-  # a dumb automatic width trim, 1px on each side
+  # a dumb automatic width trim.
   for i, v in enumerate(font.metadata):
-    if v['l'] < font.header.width: v['l'] += 1
-    if v['r'] > 0: v['r'] -= 1
+    # if v['l'] < font.header.width: v['l'] += 1
+    if v['r'] > 0: v['r'] -= 2
 
 
 def main():
@@ -257,7 +258,7 @@ def main():
     writeMetadata(font, 'glyphs/{0}'.format(GLYPH_DATA_FILE))
     writePngs(font, firstHalfHack=(cmd == 'pnghalf'))
   elif (cmd == 'autotrim'):
-    print('Autotrimming everything by 1 px', srcpath)
+    print('Autotrimming everything by 2 px', srcpath)
     font = unpackFont(srcpath);
     autotrim(font)
     writeMetadata(font, GLYPH_DATA_FILE)
