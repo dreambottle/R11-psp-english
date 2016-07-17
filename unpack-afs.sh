@@ -25,12 +25,14 @@ cp $RES_DIR/init.bin $WORK_DIR/init.bin
 PKG=mac
 rm -rf $PKG/
 unpack_afs $PKG
+echo "Decompressing..."
 for i in text/chapters-psp/[A-Z0-9]*_[0-9]*.txt ; do
 	f=`basename $i .txt`
+	#echo "Decompressing $f"
 	$DECOMPRESS $PKG/$f{.BIP,.SCN} & WAITPIDS="$! $WAITPIDS" # || exit 1
 done
 $DECOMPRESS $PKG/SHORTCUT{.BIP,.SCN} || exit 1
-wait $WAITPIDS &> /dev/null
+wait $WAITPIDS &>/dev/null
 
 PKG=etc
 rm -rf $PKG/
