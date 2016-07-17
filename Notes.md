@@ -110,12 +110,15 @@ So we might change these in the translation
 Fonts
 ============
 
-The game uses FONT00, found (lzss-compressed .FOP) in etc.afs as a main font.
-The format is not common and needs tools for conversion to be written.
+The game uses FONT00 (lzss-compressed .FOP), found in etc.afs, as a main font.
 
-The fonts are a little bit too large for the amount of text we have and need to have 1-2px less spacing between glyphs.
-Or a smaller font in general, so that at least 4 lines can fit a regular textbox.
+See folder `text/font/` for scripts.
 
+Game engine adds to much width between glyphs (seems like 4px), so 
+currently the right border was decreased by 2 px for all glyphs, which may 
+cause some side effects.
+
+Glyph 751 is a whitespace.
 
 GIM format
 ============
