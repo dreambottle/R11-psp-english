@@ -6,8 +6,10 @@ import os
 import re
 
 def main():
-  warn_chars_screen = 330;
-  warn_chars_line = 38*4;
+  # Standard psp engine limit is 480
+  warn_chars_buffer_overflow = 480;
+  warn_chars_screen = 400;
+  warn_chars_line = 45*4;
 
   fdir = "mac-en-only/"
   files = os.listdir(fdir);
@@ -34,19 +36,20 @@ def main():
         if allseq[-1].endswith("%P") or allseq[-1].endswith("%p"):
           clear = True;
         for seq in allseq:
-          line = line.replace(seq, "");
-
-      # else:
-      #   print("No sequences at line", i)
+          line = line.replace(seq, "", 1);
 
       if ("%" in line):
-        print (i, ":", line)
+        # % sequence wasn't cut out for some reason
+        print (i, ":", line, ':', allseq)
 
       chars+=len(line)
       lines+=1;
       if (chars > warn_chars_screen):
-        print("Line %d: %d chars in last %d lines. May cause buffer overflow!"
-          % (i, chars, lines) )
+        overflowTxt = " May cause buffer overflow!" \
+                  if (chars > warn_chars_buffer_overflow) else ""
+        print("Line %d: %d chars in last %d lines.%s"
+              % (i, chars, lines, overflowTxt))
+        if (overflowTxt != ""): print ("'%s'" % line)
       # if (len(line) > warn_chars_line):
       #   print(("Line  %d: %d chars on the line!") % (i, len(line)))
 
