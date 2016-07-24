@@ -28,9 +28,8 @@ A handbook of diagnostic criteria for mental disorders
 published by the American Psychiatric Association.%N
 The title is followed by its revision number.%N
 Published editions so far include the%N
-DSM-I (1952), DSM-II (1968),%N
-DSM-III (1980), DSM-III-R (1987), and%N
-DSM-IV(1994).%N
+DSM-I (1952), DSM-II (1968), DSM-III (1980),%N
+DSM-III-R (1987), and DSM-IV(1994).%N
 This manual is, so to speak, a "simplified guide to the diagnosis of mental illnesses."%P
 
 Mental illnesses may affect a person in many forms,

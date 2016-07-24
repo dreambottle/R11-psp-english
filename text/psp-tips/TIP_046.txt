@@ -46,7 +46,7 @@ Andromeda would return peace to the kingdom.%N
 Andromeda was chained to a rock and left 
 as a sacrifice to the monster.%N
 At that time, Perseus, carrying the freshly-severed 
-head of the Medusa in a sack, happened to come along.%P
+head of the Medusa in a sack, happened to come along.%N
 Uncovering the head before the monster's eyes,
 Perseus turned it to stone.%N
 Perseus then took Andromeda as his wife.%N
