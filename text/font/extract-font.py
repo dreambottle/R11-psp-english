@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# Extracts font metadata to a json
-
 import sys
 import os
 from struct import *
