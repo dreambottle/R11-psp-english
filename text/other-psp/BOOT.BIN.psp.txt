@@ -5,23 +5,23 @@ Load data from Memory Stick⑱.
 ;;123;現在の状態を一時的に保存します。クイックセーブのデータはシステムデータをセーブするとメモリースティック⑱内に保存されます。
 Temporarily save current state. Quick Save data is stored to Memory Stick⑱ when you save the system data.
 ;;39;クイックセーブデータをロードします。
-Load Quick Save data.
+Load the Quick Save data.
 ;;51;現在までプレイした履歴の表示及びロードを行います。
-View and load current game history.
+View and load the current game history.
 ;;43;ゲームプレイに関する様々な設定を行います。
-Modify game settings.
+Modify the game settings.
 ;;35;ゲーム中の操作方法を確認します。
-Make sure you know game controls.
+Make sure you know the controls.
 ;;47;ゲーム中に出現する専門用語の説明を閲覧します。
-Browse the terminology that appears in game.
+View the terminology that appears in the game.
 ;;119;タイトル画面に戻ります。（ラストゲームから再開できますが、システムセーブを行わないと現在のデータはセーブされません）
-Return to the Title Screen. (You can resume from the last save)
+Return to the Title Screen. (You can restart from the last save)
 ;;163;＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
 
 ;;107;セーブ%Nロード%Nクイックセーブ%Nクイックロード%Nテキストログ%Nオプション%Nヘルプ%N用語解説%Nタイトル画面へ
 Save%NLoad%NQuick Save%NQuick Load%NText Log%NOptions%NHelp%NGlossary%NTitle Screen
 ;;67;タイトル画面へ戻ります。よろしいですか？%N%Sはい%n⑳／⑳%n%Sいいえ
-Returning to the Title Screen. Is this OK?%N%SYes%n  ／  %n%SNo
+Returning to the Title Screen. Is this OK?%N%SYes%n  /  %n%SNo
 #Are you sure you want to return to the Title Screen?%N%SYes%n / %n%SNo
 ;;67;電源をオフにしてゲームを終了しますか？%N%Sはい%n⑳／⑳%n%Sいいえ
 
@@ -195,8 +195,8 @@ Returning to the Title Screen. Is this OK?%N%SYes%n  /  %n%SNo
 This story is a fiction,%N登場する人物・団体・地名・事件等は、%N実在のものとは一切関係がありません
 ;;67;電源をオフにしてゲームを終了しますか？%N%Sはい%n⑳／⑳%n%Sいいえ
 
-;;19;title bgm no entry
-
+#;;19;title bgm no entry
+#
 # displayed in log
 ;;19;▼ＮｅｗＧａｍｅ
 ▼New Game
@@ -210,13 +210,13 @@ This story is a fiction,%N登場する人物・団体・地名・事件等は、%N実在のものとは一
 ;;79;セーブデータを上書きしています%%Nメモリースティック⑱を絶対抜かないでください
 Overwriting save data%%NPlease do not remove the Memory Stick⑱
 ;;7;成功%%N
-Done%%N
+Done
 ;;43;メモリースティック⑱が挿入されていません%%N
 Memory Stick⑱ is not inserted%%N
 ;;51;メモリースティック⑱がフォーマットされていません%%N
 Memory Stick⑱ is not formatted%%N
 ;;95;メモリースティック⑱の空き容量が不足しています%%Nセーブには%sＫＢ以上の空き容量が必要です%%N
-No free space on Memory Stick⑱At least %sKB is required to save%%N
+No free space on Memory Stick⑱%%NAt least %sKB is required to save%%N
 ;;95;メモリースティック⑱に%%N『Remember11 -the age of infinity-』の%%Nセーブデータがありません%%N
 Save data for%%N『Remember11 -the age of infinity-』%%Nis not present on Memory Stick⑱
 ;;87;『Remember11 -the age of infinity-』の%%Nセーブデータが破損している可能性があります%%N
@@ -256,41 +256,41 @@ Save data for%%N『Remember11 -the age of infinity-』%%Nis not present on Memory 
 ;;55;保護ありファイルがこれ以上%%N追加できませんでいした%%N
 
 ;;103;メモリースティック⑱チェック中%%Nメモリースティック⑱が挿入されている場合は%%N絶対抜かないでください
-
+Checking Memory Stick⑱.%%NPlease do not remove it from the slot.
 ;;139;メモリースティック⑱がフォーマットされていません%%Nフォーマットしてセーブデータを作成してもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
-
+Memory Stick⑱ is not formatted.%%NDo you want to format and create a save data?%%N%%SYes%%n  /  %%n%%SNo
 ;;71;フォーマットをしています%%Nメモリースティック⑱を絶対抜かないでください
 
 ;;115;『Remember11 -the age of infinity-』の%%Nセーブデータを作成してもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
-Do you want to create a save data for%%N『Remember11 -the age of infinity-』?%%N%%SYes%%n / %%n%%SNo
+Do you want to create a save data for%%N『Remember11 -the age of infinity-』?%%N%%SYes%%n  /  %%n%%SNo
 ;;75;セーブデータを作成しています%%Nメモリースティック⑱を絶対抜かないでください
 Creating save data%%NPlease do not remove the Memory Stick⑱
 ;;63;セーブしなくてもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
-Cancel save?%%N%%SYes%%n / %%n%%SNo
+Cancel save?%%N%%SYes%%n  /  %%n%%SNo
 ;;75;システムデータをセーブしてもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
-Save the system data?%%N%%SYes%%n / %%n%%SNo
+Save the system data?%%N%%SYes%%n  /  %%n%%SNo
 ;;75;システムデータをロードしてもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
-Load the system data?%%N%%SYes%%n / %%n%%SNo
+Load the system data?%%N%%SYes%%n  /  %%n%%SNo
 ;;123;システムデータが破損している可能性があります%%Nシステムデータを上書きしてもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
-
+The system data may be corrupted%%NDo you want to overwrite the system data?%%N%%SYes%%n  /  %%n%%SNo
 ;;95;メモリースティック⑱にデータを書き込んでいます%%Nメモリースティック⑱を絶対抜かないでください
 Writing data to Memory Stick⑱,%%Nplease do not remove it from the slot.
 ;;95;メモリースティック⑱のデータを読み込んでいます%%Nメモリースティック⑱を絶対抜かないでください
 Loading data from Memory Stick⑱,%%Nplease do not remove it from the slot.
 ;;59;上書きしてもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
-Do you want to overwrite?%%N%%SYes%%n / %%n%%SNo
+Do you want to overwrite?%%N%%SYes%%n  /  %%n%%SNo
 ;;59;このデータをロードしますか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
-Do you want to load this data?%%N%%SYes%%n / %%n%%SNo
+Do you want to load this data?%%N%%SYes%%n  /  %%n%%SNo
 ;;111;クイックセーブを初期化しますか？%%N（ロックされているデータは初期化されません）%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
 
 ;;11;セーブ完了
-Save completed
+Saved
 ;;11;ロード完了
-Load completed
+Loaded
 ;;19;システムセーブ完了
-System save completed
+System data saved
 ;;19;システムロード完了
-System load completed
+System data loaded
 ;;31;セーブする場所を選んでください
 Choose the save location
 ;;235;『Remember11 -the age of infinity-』の%%Nセーブデータが破損している可能性があります%%Nこのままゲームを開始してもよろしいですか？%%N※このままゲームを開始した場合%%Nシステムデータは初期状態で開始されます%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
@@ -354,9 +354,227 @@ Do you want to write%Nthe current state to the Memory Stick⑱?%%N%%SYes%%n  /  %
 ;;15;Ｎｏ　Ｄａｔａ
 
 ;;23;データが破損しています
-Data is corrupted
+The data is corrupted
 ;;7;６０８
 
+;;11;icon.ico
+
+;;11;icon.sys
+
+;;15;load sys task
+
+;;11;▼ロード
+
+;;15;load game task
+
+;;19;▼クイックロード
+
+;;55;このデータをプレイしますか？%N%Sはい%n⑳／⑳%n%Sいいえ
+Do you want to play this data?%N%SYes%n  /  %n%SNo
+;;23;？？？？？？？？？？？
+
+;;59;？？？？？？？？？%N？？？？？？？？？%N？？？？？？？？？
+
+;;7;%s.BIP
+
+;;19;▼ショートカット
+
+;;15;shortcut task
+
+;;243;この物語はフィクションです。%Nこの用語集に含まれる%N人物・団体・地名・事件・歴史・その他の設定には、%N架空のものが含まれております。%N混乱しないようにご注意ください。%N%Nこの警告文を次回以降表示しないようにしますか？%N%Sはい%n⑳／⑳%n%Sいいえ
+This story is a work of fiction%NAll names, organizations,%Nplaces, incidents and history,%Nmentioned here, are used fictiously.%N混乱しないようにご注意ください。%N%NHide this warning next time?%N%SYes%n  /  %n%SNo
+;;11;＊＊／＊＊
+
+;;67;１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２
+
+;;7;%XS06
+
+;;3;%2d
+
+;;7;．%XE
+
+;;3;？
+
+;;3;%d
+
+;;7;%s/#%s
+
+;;3;%N
+
+;;11;tips task
+
+;;59;ここからゲームを再開しますか？%N%Sはい%n⑳／⑳%n%Sいいえ
+Restart the game from this point?%N%SYes%n  /  %n%SNo
+;;51;ログを初期化しますか？%N%Sはい%n⑳／⑳%n%Sいいえ
+Clear the log?%N%SYes%n  /  %n%SNo
+;;327;初期状態では読むことのできない項目があります。%N伏せられた項目を開放するためには、%NＲｅｍｅｍｂｅｒ１１のゲームを更に進めるか、%Nこの画面で□ボタンを押して%NＮｅｖｅｒ７やＥｖｅｒ１７のセーブデータがある%Nメモリースティック⑱を読み込ませてください。%N%Nこの警告文を次回以降表示しないようにしますか？%N%Sはい%n⑳／⑳%n%Sいいえ
+
+#;;11;⑳？？？？
+#
+#;;15;▼テキストログ
+#
+;;99;ボタンを押せばそのボタンの操作ヘルプを見ることができます。×ボタンを押すとこの画面が終了します。
+
+;;35;カーソルの上下左右移動とページ移動
+
+;;19;決定、テキスト送り
+
+;;67;キャンセル、テキストウィンドウ消去、オートプレイ・スキップの停止
+
+;;27;システムメニュー呼び出し
+
+;;23;テキストログの呼び出し
+
+;;27;オートプレイの開始と停止
+
+;;27;ファンクションＬ、項目切替
+
+;;15;強制スキップ
+
+;;27;ファンクションＲ、項目切替
+
+;;23;オプション連動スキップ
+
+;;15;使用しません
+
+#;;11;help task
+#
+#;;203;１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０
+#
+#;;19;－－－－－－－－－
+#
+#;;31;－－／－－　－－：－－　　　
+#
+#;;15;0123456789:.
+#
+#;;19;Ｎｏ　ＸＸ　　　
+#
+#;;67;Ｓａｖｅ　Ｄａｔｅ　ＸＸＸＸ／ＸＸ／ＸＸ　ＸＸ：ＸＸ：ＸＸ　　　
+#
+#;;51;Ｐｌａｙ　Ｔｉｍｅ　ＸＸＸ：ＸＸ：ＸＸ．ＸＸ　　　
+#
+#;;47;ＸＸＸＸ／ＸＸ／ＸＸ　ＸＸ：ＸＸ：ＸＸ　　　
+#
+#;;31;ＸＸ／ＸＸ　ＸＸ：ＸＸ　　　
+#
+#;;31;ＸＸＸ：ＸＸ：ＸＸ．ＸＸ　　　
+#
+#;;19;月齢ＸＸ．Ｘ　　　
+#
+#;;75;Ｇａｍｅ　Ｄａｔｅ　ＸＸＸＸ／ＸＸ／ＸＸ（ＸＸＸ）　　　　ＹＹＸＸ：ＸＸ
+#
+#;;55;ＸＸＸＸ／ＸＸ／ＸＸ　（ＸＸＸ）　ＹＹＸＸ：ＸＸ　　　
+#
+#;;15;シーンタイトル
+#
+#;;7;ルート
+#
+#;;7;場所
+#
+#;;7;ＢＧＭ
+#
+#;;7;月齢
+#
+#;;7;日付
+#
+#;;7;作成日
+#
+#;;11;プレイ時間
+#
+#;;7;Ｎｏ
+#
+#;;11;Ｅｎｔｒｙ
+#
+#;;7;%02d
+#
+#;;3;／
+#
+#;;3;　
+#
+#;;3;：
+#
+#;;7;%XS14
+#
+#;;7;%04d
+#
+#;;7;⑳%XS20
+#
+#;;23;－－－－／－－／－－
+#
+#;;3;%d
+#
+#;;11;Ｎｏ⑳%s
+#
+#;;23;Ｓａｖｅ　Ｄａｔｅ　%s
+#
+#;;23;Ｐｌａｙ　Ｔｉｍｅ　%s
+#
+#;;23;－－－－－－－－－－
+#
+#;;7;%XS10
+#
+#;;31;－－－－／－－／－－（－－－）
+#
+#;;11;－－／－－
+#
+#;;7;%s.BIP
+#
+#;;7;%LC［
+#
+#;;7;］%N
+#
+#;;27;%N%N%LCＮｏ⑳Ｍｅｓｓａｇｅ
+#
+#;;11;＊＊／＊＊
+#
+#;;67;１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２
+#
+#;;3;？
+#
+#;;7;▼回想
+#
+#;;7;Ｌｖ１
+#
+#;;27;ＫＩＤお子様劇場・第１１幕
+#
+#;;7;Ｌｖ２
+#
+#;;23;黄泉木からのメッセージ
+#
+#;;7;Ｌｖ３
+#
+#;;19;黛からのメッセージ
+#
+#;;7;Ｌｖ４
+#
+#;;31;ゆにからのメッセージ・その１
+#
+#;;7;Ｌｖ５
+#
+#;;23;内海からのメッセージ
+#
+#;;7;Ｌｖ６
+#
+#;;23;穂鳥からのメッセージ
+#
+#;;7;Ｌｖ７
+#
+#;;31;ゆにからのメッセージ・その２
+#
+#;;7;Ｌｖ８
+#
+#;;23;こころからのメッセージ
+#
+#;;7;Ｌｖ９
+#
+#;;19;悟からのメッセージ
+#
+#;;7;Ｌｖ∞
+#
+#;;23;みんなからのメッセージ
+#
+#;;3;？
+#
 ;;27;スクリーンアジャスト設定
 Screen adjustment
 ;;11;Ｙ座標：
@@ -364,7 +582,7 @@ Y coord:
 ;;51;ゲーム中の画面の表示位置を調整する事ができます。
 Adjust the game screen position.
 ;;47;方向キーで画面の表示位置を調整してください。
-Adjust the screen position with the direction keys.
+Adjust the screen using the arrow keys.
 ;;187;⑨ゲーム中の画面の表示位置を調整する事が%N⑨できます。%N%N⑨※ゲーム中のテキストウィンドウのみ%N⑨⑨位置調整を行う場合は、%N⑨⑨『ウィンドウアジャスト設定』で%N⑨⑨調整する事ができます。
 
 ;;27;ウィンドウアジャスト設定
@@ -372,7 +590,7 @@ Window adjustment settings
 ;;47;テキストウィンドウの表示位置を調整できます。
 Adjust the position of the text window.
 ;;59;方向キーでテキストウィンドウの表示位置を調整してください。
-Adjust the text window position with the direction keys.
+Adjust the text window position using the arrow keys.
 ;;255;⑨ウィンドウの表示位置を調整する事が%N⑨できます。%N⑨画面内に表示されている%N⑨テキストウインドウが中央に表示%N⑨されるよう調整してください。%N%N⑨※ゲーム中の画面位置の調整を行う場合は、%N⑨⑨『スクリーンアジャスト設定』で%N⑨⑨調整する事ができます。
 
 ;;23;ウィンドウカラー設定
@@ -459,7 +677,7 @@ Color OFF%NColor ON
 ;;19;フォントの装飾設定
 Font decoration
 ;;23;装飾なし%N影%N縁取り
-Nothing%NShadow%NEdge
+None%NShadow%NEdge
 ;;63;ゲーム中のテキストフォントの装飾方法を設定する事ができます。
 
 ;;59;ゲーム中のテキストフォントの装飾方法を設定してください。

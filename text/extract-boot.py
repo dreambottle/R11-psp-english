@@ -6,17 +6,12 @@ import struct
 
 def main():
 
-  text = [0x12116c, 0x128710]
-  text_tables = [0x12bb8c, 0x136aa0]
-
-  text_s0       = [0x12116c, 0x1217d0]
-  text_s0_table = [0x12bb8c, 0x123fb0]
-  
-  text_s1       = [0x1219c0, 0x123914]
-  text_s1_table = [0x12bb8c, 0x123fb0]
-
-  text_s2       = [0x12483c, 0x128620]
-  text_s2_table = [0x136760, 0x136aa0]
+  # text = [0x12116c, 0x128710]
+  texts = [
+    [0x12116c, 0x1217d0],
+    [0x1219c0, 0x12465c],
+    [0x12483c, 0x128620]
+    ]
 
   path = sys.argv[1] if len(sys.argv) > 1 else "BOOT.BIN"
   outpath = path + ".jp.txt"
@@ -27,12 +22,13 @@ def main():
 
   f = open(outpath, "wb")
 
-  strings0 = data_bytes[text_s0[0]:text_s0[1]].split(b'\x00')
-  strings1 = data_bytes[text_s1[0]:text_s1[1]].split(b'\x00')
-  strings2 = data_bytes[text_s2[0]:text_s2[1]].split(b'\x00')
-  for s in strings0 + strings1 + strings2:
+  strings = data_bytes[texts[0][0]:texts[0][1]].split(b'\x00')
+  strings += data_bytes[texts[1][0]:texts[1][1]].split(b'\x00')
+  strings += data_bytes[texts[2][0]:texts[2][1]].split(b'\x00')
+
+  for s in strings:
     if s != b'':
-      f.write(b';;' + b"%d"%(len(s)|3,) + b';' + s + b'\n\n')
+      f.write(b';;' + str(len(s)|3).encode() + b';' + s + b'\n\n')
   f.close()
 
 
