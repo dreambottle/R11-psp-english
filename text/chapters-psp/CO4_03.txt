@@ -467,7 +467,7 @@ Because her current personality hasn't told me her own name, it's difficult to g
 I can only deduce it from her behavior.
 
 しかも、ＤＩＤの人格交替は、別段の変化無く唐突に行われる。%K%N
-Moreover, her DID personality changes aren't signaled by any actions and occur abruptly.
+Moreover, her DID personality changes aren't signaled by any actions and occur abruptly.%K%P
 
 私が優希堂悟の身体から、冬川こころの身体に戻った瞬間、顕著な変化は起こっていないとゆには言っていた――それと同じように。%K%P
 It's the same as what Yuni told me about the instant I returned from Yukidoh Satoru's body to Fuyukawa Kokoro's――there was no alteration whatsoever.
@@ -762,7 +762,7 @@ Even though I talked about what foods I liked in SPHIA, the Yuni at the shelter 
 From that, I deduced that Yuni was undergoing personality exchanges as well, or maybe teleportation.
 
 あのときは、スフィアと避難小屋の年代が違うなんてことを思いもよらなかったから、そこで推論は停止してしまったのだが……%K%N
-However, at that time I didn't know that the time periods between SPHIA and the shelter cabin were different, so that deduction was abandoned, but...
+However, at that time I didn't know that the time periods between SPHIA and the shelter cabin were different, so that deduction was abandoned, but...%K%P
 
 ゆにのことと、年代のことを絡めて考えると、この複雑に絡み合った糸が、多少はほぐれるように思う。%K%P
 In regards to Yuni, when considering the difference in time periods, I thought the complexly entangled thread had more or less begun to unwind.

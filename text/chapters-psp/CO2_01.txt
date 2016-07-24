@@ -797,7 +797,7 @@ That's when I noticed the note that had been left on the table.
 I grabbed and held it tightly in my hand.
 
 初めましてというべきか、毎度どうもというべきか、これほど挨拶に困る相手もいないな。%K%N
-I'm not really sure if I should say "nice to meet you" or "thanks for visiting again." I doubt I've ever known anyone that I've had this much trouble coming up with a greeting for.%K%P
+I'm not really sure if I should say "nice to meet you" or "thanks for visiting again." I doubt I've ever known anyone that I've had this much trouble coming up with a greeting for.
 
 オレは優希堂悟。%K%N
 I'm Yukidoh Satoru.
@@ -869,7 +869,7 @@ But I don't have any conclusive evidence that this is what's happening.
 Right now, all I have to go on are the words of the people around me.
 
 このスフィアでは、オレの身体が、オレの知らぬうちに、勝手に『冬川こころ』と名乗ったと聞いた。%K%N
-I heard that at SPHIA, my body addressed itself as "Fuyukawa Kokoro" while I wasn't around.%K%P
+I heard that at SPHIA, my body addressed itself as "Fuyukawa Kokoro" while I wasn't around.
 
 そして、あの避難小屋でも、黄泉木さんが肉体の持ち主は『冬川こころ』だと教えてくれた。%K%N
 And then at the shelter cabin, Yomogi-san told me the owner of the body was someone named "Fuyukawa Kokoro."
@@ -893,16 +893,16 @@ I won't beat around the bush.
 The point is, I have my doubts that this personality called "Fuyukawa Kokoro" really exists.
 
 そこで、きみが実際に存在するという証拠をどこかに残しておいてもらいたい。%K%N
-So I was hoping you would leave some kind of evidence behind that proves you actually do exist.%K%P
+So I was hoping you would leave some kind of evidence behind that proves you actually do exist.
 
 直接会話することはできないから、せめてこのメモ用紙に返信みたいなものでも書いておいてくれないか？%K%P
-Since we can't talk to each other directly, can you at least write down some kind of a reply on the paper this note is written on?%K%N
+Since we can't talk to each other directly, can you at least write down some kind of a reply on the paper this note is written on?
 
 なんでもいい。%K%N
 Anything will do.
 
 オレの肉体を操っているのが冬川こころの人格であるという証しを残してくれ。%K%N
-Just leave some evidence behind that the Fuyukawa Kokoro personality controlling my body exists.%K%P
+Just leave some evidence behind that the Fuyukawa Kokoro personality controlling my body exists.
 
 それから、できれば時間を計測してほしい。%K%N
 Also, if you can, I'd like you to record the time.
@@ -923,7 +923,7 @@ Then wouldn't it be more convenient for both of us?
 We'd be able to realize when there's one more minute until the transfer and finish up whatever we need to do by then.
 
 しかし、なんの法則性もないとしたら……。%K%N
-But, if it happens at random....%K%P
+But, if it happens at random....
 
 まあ、そのときはそのときだ。%K%N
 Well, we'll figure something out if and when that turns out to be the case.
@@ -1005,6 +1005,7 @@ Thanks to that, the creepy feeling I had about him a few moments ago disappeared
 
 どこの誰ともしれない悟という人物の人となりを、コンタクトを取ることによって多少でも知ることができたのは、大きな安心材料だと思う。%K%P
 To initiate contact with this character named Satoru, whom I knew absolutely nothing about, and be able to know some things about him was a big step toward reassuring me.
+// should be about 9-10 characters less in order to fit the text box
 
 こころ「頼れそうなヒトで良かった……」%K%P
 I'm glad he seems to be someone I can count on...

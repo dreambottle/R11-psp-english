@@ -631,7 +631,7 @@ That "someone"... was the one who did it....
 That person tried to take away my, your, life....
 
 つまり、そういうことなんですよね……？%K%N
-In other words, that's how it is, right...?%K%P
+In other words, that's how it is, right...?
 
 でも、その『何者か』って、いったい誰なんですか？%K%N
 But just who is that "someone"?
@@ -679,7 +679,7 @@ There's no reason to beat around the bush, so I'll just go ahead and write it.
 Suzukage Hotori――Hotori-chan....
 
 彼女がＤＩＤなのは知ってますよね？%K%N
-You're aware that she has DID, right?%K%P
+You're aware that she has DID, right?
 
 今のところは、ずっと『穂鳥』のままで人格が固定してるけど……。%K%N
 Recently, she's been fixed in her "Hotori" personality, though....
@@ -697,7 +697,7 @@ The personality that killed twelve people in Awazumi Hospital....
 It may be possible... that that personality is targeting you, Satoru....
 
 っていっても、別に確証があるわけではありません。%K%N
-I say that, but it's not as if I have any decisive evidence.%K%P
+I say that, but it's not as if I have any decisive evidence.
 
 確証がないのにこんなことを書いてしまうのは、いけないことなのかも知れないけど……。%K%N
 It might not be appropriate to write things like this even though I don't have any real evidence....
@@ -730,7 +730,7 @@ Have you ever met a young boy by the name of "Kusuda Yuni"?
 You know? Right now, I'm thinking this:
 
 『ゆには、もしかしたらテレポートしてるのかも知れない』%K%N
-That "maybe Yuni is teleporting."%K%P
+That "maybe Yuni is teleporting."
 
 テレポートっていうのは、意識と肉体が一緒になって転移してるって意味。%K%N
 Teleporting, as in both his body and consciousness are transferring together.
@@ -742,7 +742,7 @@ And, the timing of his teleportation is at the exact same as when Satoru and I t
 Do you get what I'm trying to say...?
 
 つまり、私が朱倉岳に帰ると同時に、ゆにも、意識と肉体が混ざった状態で朱倉岳に飛んでくるってこと。%K%N
-In other words, at the same time that I transfer back to Mount Akakura, Yuni's mind and body jump back to Mount Akakura as well.%K%P
+In other words, at the same time that I transfer back to Mount Akakura, Yuni's mind and body jump back to Mount Akakura as well.
 
 だってそうじゃなければ、ゆにが同時に２人も存在することを説明できないんだもん。%K%N
 Because, if that isn't so, I can't explain how Yuni could exist as two people at the same time.
@@ -772,7 +772,7 @@ The first is about SPHIA――
 Satoru should know much more than I do about this facility, right?
 
 だからスフィアのこと、詳しく教えてください。%K%N
-That's why I want you to tell me everything about SPHIA.%K%P
+That's why I want you to tell me everything about SPHIA.
 
 外に出る方法とか、外部との通信手段とか……。%K%N
 Like how to get outside, and how to communicate with the outside world....
@@ -820,7 +820,7 @@ I checked properly, just like you told me, so here they are below:
 6:03 PM: Transferred to SPHIA,%N6:36 PM: Returned to the shelter cabin
 
 『午後０７時３３分：スフィアに転移』%K%N
-7:33 PM: Transferred to SPHIA%K%P
+7:33 PM: Transferred to SPHIA
 
 というわけで、１、２、３、４、５……。%K%N
 So that means, 1, 2, 3, 4, 5....
@@ -894,8 +894,8 @@ If you do anything weird to my body, I'll never forgive you!
 あんまりさわっちゃダメだからね！　むしろ触るな！%K%N
 Don't touch it too much, okay?! Rather, don't touch it at all!
 
-#%N
-%P
+%N
+//%P
 
 追伸２――。%K%N
 P.P.S.――

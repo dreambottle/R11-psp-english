@@ -1304,7 +1304,7 @@ It seems unimaginable while looking at a calm scene like this, but it's certain 
 Who was it that attacked me?
 
 なぜ。なんのために。%K%N
-Why? To what end?%K%P
+Why? To what end?
 
 治療を通して、彼らがとても優しい人達であることは実感した。%K%N
 During the treatment, they all seemed extremely kind.
@@ -1330,14 +1330,14 @@ I can't be convinced.
 頭を抱えて喚きたいような気分だ。%K%N
 I feel like grabbing my head and screaming.
 
-#%N
-%P
+%N
+
 
 ズキン――腕が痛んだ。%K%N
 Throb――My arm hurt.
 
 鎮痛剤を打っても動かすと脈打つように痛む。%K%P
-Even with the painkiller, it pulsed with pain whenever I moved.%K%N
+Even with the painkiller, it pulsed with pain whenever I moved.
 
 もし仮に……。%K%N
 What would happen to him....
@@ -1352,7 +1352,7 @@ What will become of my existence?
 What will become of his existence?
 
 そんな不安が、私の頭の中に居座ってしまっている。%K%N
-That anxiety remains inside my head.%K%P
+That anxiety remains inside my head.
 
 こっちの世界とあっちの世界。%K%N
 This world and that world.

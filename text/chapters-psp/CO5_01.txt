@@ -174,7 +174,7 @@ I wasn't in any position to encourage the others.
 We'd already taken refuge in this cabin for five days.
 
 捜索隊はやって来る気配すらない。%K%N
-There'd been no sign that a search party was coming around.
+There'd been no sign that a search party was coming around.%K%P
 
 この吹雪では、今日も助けは来ないだろう。%K%N
 In this snowstorm, help probably won't come today either.

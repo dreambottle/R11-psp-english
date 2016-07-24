@@ -180,11 +180,11 @@ This illness is, simply put, an illness where the birth of another personality n
 There are differing opinions as to the cause, but they say that "being exposed to ill treatment during the development of the ego before the age of twelve" is the root cause.
 
 子どもには、自己暗示的に空想の人格を作り上げる性質がある。%K%N
-Children can easily construct imaginary personalities in a way that resembles autosuggestion.
+Children can easily construct imaginary personalities in a way that resembles autosuggestion.%K%P
 
 親から虐待を受けると、空想の人格の中に痛み・怒り・恐ろしい記憶を封印し、トラウマを癒そうとする。%K%P
-If abused by their parents, they will seal the memories of their pain, anger, and fear within the imaginary personality, in order to relieve the pain of the trauma they sufferred.
- 
+If abused by their parents, they will seal the memories of their pain, anger, and fear within the imaginary personality, in order to relieve the pain of the trauma they sufferred.%K%N
+
 つまり、虐待を受けているのは自分ではなく、空想の別の人間なんだと思いこむことで、自分を守ろうとするわけだ。%K%N
 In other words, they protect themselves by thinking that the one being abused isn't them, but a different, imaginary self.
 
@@ -213,7 +213,7 @@ At first, Inubushi Keiko's DID was thought to have stemmed from early childhood 
 With that in mind, a thorough investigation was done by the leading psychologist.
 
 だが、犬伏景子の母親が既に死亡していたため、具体的な虐待の事実は判明しなかった。%K%N
-However, because Inubushi Keiko's mother was already deceased, there was no way to confirm the occurrence of childhood abuse as definite.
+However, because Inubushi Keiko's mother was already deceased, there was no way to confirm the occurrence of childhood abuse as definite.%K%P
 
 ただ、犬伏景子がＤＩＤとは別に%TS038境界性人格障害%TEを患っていると判明したことと、彼女の断片的な証言を元に、虐待が行われていただろうと推測がなされた。%K%P
 But in addition to her DID, due to the confirmation that she was suffering from %TS038Borderline Personality Disorder%TE, as well as her fragmented testimony, it was widely assumed that she had been the victim of childhood abuse.

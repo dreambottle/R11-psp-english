@@ -114,7 +114,7 @@ Mayuzumi, on the other hand, was conscious.
 
 
 彼女は自らの力で立ち上がると、うわごとのような言葉を繰り返し、ふらふらとよろめくようにして降りしきる雪の中を歩き始めた。%K%N
-She'd stood up on her own, mumbling something deliriously, and started aimlessly walking into the downpour of snow on her unsteady feet.%K%P
+She'd stood up on her own, mumbling something deliriously, and started aimlessly walking into the downpour of snow on her unsteady feet.
 
 恐らく、このときの彼女は正気を失っていたのだろう。%K%N
 The girl had most likely lost at least some of her sanity to the shock of the crash.
@@ -144,7 +144,7 @@ Inside, a foul stench filled the air.
 I suddenly realized that the smell was that of burning meat.
 
 しっかりと床に固定された座席の上に、炭化した肉の塊がいくつかこびりついていた。%K%N
-There were chunks of charred flesh stuck firmly to the seats which had been fixed to the floor.%K%P
+There were chunks of charred flesh stuck firmly to the seats which had been fixed to the floor.
 
 前の背もたれに頭部をめり込ませている死体や、シートベルトの位置を境にして下半身を失った死体も中には転がっていた。%K%N
 Dead bodies were still seated with their heads against the backs of the seats in front of them; some of the bodies were missing everything from the seatbelt down.
@@ -242,24 +242,23 @@ There might have been people still alive somewhere in the snowfield.
 けれど、粉々に砕け散った残骸は広範囲に拡散しており、これ以上の捜索は困難だ。%K%N
 However, the small pieces of wreckage had been scattered over a large area, which would have made further searching nearly impossible.
 
-#%N
-%P
+%N
+
 
 では、強行に下山を試みるというのはどうか……？%K%N
 And what about making our way down the mountain...?
 
-#%N
 %N
 
 
 それはこの状況に於いては何よりもやってはならないことだった。%K%P
-In this state of affairs, that took precedence over anything else.%K%N
+In this state of affairs, that took precedence over anything else.
 
 僕は登山家という職業柄、雪山の恐ろしさを誰よりもよく知っている。%K%N
 As a mountaineer, I knew how terrifying and treacherous the snowy mountains could be.
 
 吹雪の中、やみくもに行軍を始めるのは無謀以外のなにものでもない。%K%N
-To start marching randomly inside a snowstorm is reckless at best.%K%P
+To start marching randomly inside a snowstorm is reckless at best.
 
 そもそも、ここがどこなのかさえ見当もつかないのだ。%K%N
 I didn't have a clue as to where we were.
@@ -268,14 +267,14 @@ I didn't have a clue as to where we were.
 I didn't even know which way it was to the base, so I couldn't even think about descending the mountain.
 
 僕らにできることは限られていた。%K%P
-Our options were very limited.%K%N%N
+Our options were very limited.
 
 ここにひと晩%TS005ビバーク%TEし、あとは天候が回復するのをひたすら待ち続けるしかない。%K%N
 We spent all night in %TS005bivouac%TE, with nothing else to do but wait for the weather conditions to improve.
 //the spacing is funny with some of the 'linked' term words, so I'm adding extra spaces in front.
 
 天気さえ良くなれば、自衛隊や山岳救助隊のヘリコプターがすぐに僕らを見つけ出してくれるだろう。%K%N
-If they got better, a military or a rescue helicopter would have no trouble finding us.%K%P
+If they got better, a military or a rescue helicopter would have no trouble finding us.
 
 無論、それまでに、僕ら３人が命を失ってしまってはどうにもならない。%K%N
 Of course, that'd be pointless if the three of us lost our lives before they arrived.
@@ -323,7 +322,7 @@ No matter where I looked, she was nowhere to be seen.
 I rushed outside. Thick snowflakes began to fall and cling to me in layers, as if they had been eagerly waiting for their chance.
 
 僕は身を屈めてそれらの攻撃をよけ、フードをまぶかに被って闇の中を探った。%K%N
-I bent double to avoid this attack, pulling my hood close over my eyes, and began searching in the darkness.%K%P
+I bent double to avoid this attack, pulling my hood close over my eyes, and began searching in the darkness.
 //what does 'bent double' mean?
 //'bent double' is bent over at a severe angle, like Yomogi here
 
@@ -346,7 +345,7 @@ I could barely see a thing.
 In the middle of a snowstorm at night, the light of a pocket flashlight was almost useless.
 
 大声を張り上げて呼びかけてみても、強風の奏でる轟音に、それはたちまちかき消されてしまった。%K%N
-And if I tried calling out at the top of my lungs, the roaring of the wind would effortlessly drown out my voice.%K%P
+And if I tried calling out at the top of my lungs, the roaring of the wind would effortlessly drown out my voice.
 
 一刻も早く彼女を見つけ出さないと、残された痕跡は雪の中に埋もれてしまうだろう。%K%N
 I couldn't waste another moment if I wanted to find her, as the traces that she had left behind were quickly being filled with snow.
@@ -369,11 +368,11 @@ After marching on for about ten minutes――
 ようやく彼女の姿を捉えた。%K%N
 I finally caught a glimpse of her.
 
-#%N
-%P
+%N
+
 
 彼女は広大な雪原の真っ只中で、うつ伏せになって倒れていた。%K%P
-She had collapsed face-down in the middle of a large snowfield.%K%N
+She had collapsed face-down in the middle of a large snowfield.
 
 どうして、何の為に、何を目指して彼女が歩き続けていたのかはわからない。%K%N
 I had no idea why she would do something so foolish.
@@ -381,8 +380,8 @@ I had no idea why she would do something so foolish.
 理性を失ってパニックに陥り、どこでもいいからとにかく遠くへ逃げ出したかったのかも知れない。%K%N
 Losing her cool and giving in to panic, she may have thought "It doesn't matter where I go; I just need to get away."
 
-#%N
-%P
+%N
+
 
 いずれにせよ、彼女はこの地点までやって来て力尽きてしまった。%K%N
 Anyway, she had made her way here and probably collapsed from exhaustion.
@@ -436,7 +435,7 @@ I knew that this would happen from the moment I set out.
 If you walk out into a snowstorm, then it's only natural for you to lose your way.
 
 にもかかわらず、僕は引き返そうとはしなかった。%K%N
-But even then, I never once thought of turning back.%K%P
+But even then, I never once thought of turning back.
 
 なぜか……？%K%N
 Why is that...?
@@ -454,7 +453,7 @@ It's too late... too late...
 No matter where I looked, the desolate, barren plain was dyed the color of death.
 
 絶望と虚無に支配された世界は、ここに命あることを拒み、息のあることを罪と見なした。%K%N
-This world ruled by despair and emptiness was rejecting my life, and the act of breathing was regarded by it as a sin.%K%P
+This world ruled by despair and emptiness was rejecting my life, and the act of breathing was regarded by it as a sin.
 
 全身を貫くように駆けめぐる激痛は、そのことに対する戒めの徴だった。%K%N
 The sharp pain running through my entire body was a sure testament to that.

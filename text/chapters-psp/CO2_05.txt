@@ -501,7 +501,7 @@ My heart jumped when I realized one possibility.
 Was Yuni experiencing a personality exchange just like us?
 
 私と悟が人格交換を行なったとき、同時にゆにも人格交換をしているのではないだろうか……？%K%N
-Whenever Satoru and I underwent a personality exchange, perhaps Yuni's personality was undergoing an exchange as well...?%K%P
+Whenever Satoru and I underwent a personality exchange, perhaps Yuni's personality was undergoing an exchange as well...?
 
 いや、同時かどうかはわからない。%K%N
 No, I can't say whether it's at the same time or not.
@@ -531,7 +531,7 @@ I was amazed at the silliness of my own idea.
 As Yuni's memory remains continuous between the shelter cabin and SPHIA, maybe his personality was jumping like ours were? Or so I deduced.
 
 しかし、その推論は『ゆにの姿を双方で見た』という不可思議な現象に、なんらの答えももたらしてはいないのだ。%K%N
-However, that deduction didn't provide any answers about the mysterious phenomenon of seeing Yuni in both places.%K%P
+However, that deduction didn't provide any answers about the mysterious phenomenon of seeing Yuni in both places.
 
 ゆには自分が双子ではないと言った。%K%N
 Yuni said that he wasn't a twin.
@@ -594,7 +594,7 @@ Yuni hasn't shown any signs of being confused.
 You'd usually want to consult with others if you fall into a situation where you're teleporting between places.
 
 確証をつかむまでは、ゆにに尋ねるのはやめよう。%K%N
-Until I get my hands on some solid proof, I hold off on asking Yuni.%K%P
+Until I get my hands on some solid proof, I hold off on asking Yuni.
 
 そう思った。%K%N
 Those were my thoughts.

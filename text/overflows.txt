@@ -7,365 +7,203 @@ CO1_06.txt
 CO1_07.txt
 CO1_08.txt
 CO1_09.txt
-Line 40: 338 chars in last 5 lines. May cause buffer overflow!
-Line 49: 354 chars in last 4 lines. May cause buffer overflow!
-Line 50: 439 chars in last 5 lines. May cause buffer overflow!
-Line 66: 332 chars in last 3 lines. May cause buffer overflow!
-Line 67: 419 chars in last 4 lines. May cause buffer overflow!
-Line 68: 488 chars in last 5 lines. May cause buffer overflow!
-Line 96: 332 chars in last 7 lines. May cause buffer overflow!
-Line 109: 375 chars in last 4 lines. May cause buffer overflow!
-Line 110: 428 chars in last 5 lines. May cause buffer overflow!
-Line 115: 363 chars in last 5 lines. May cause buffer overflow!
-Line 116: 386 chars in last 6 lines. May cause buffer overflow!
-Line 117: 433 chars in last 7 lines. May cause buffer overflow!
-Line 129: 413 chars in last 6 lines. May cause buffer overflow!
-Line 147: 343 chars in last 7 lines. May cause buffer overflow!
-Line 152: 349 chars in last 4 lines. May cause buffer overflow!
+Line 50: 439 chars in last 5 lines.
+Line 110: 428 chars in last 5 lines.
+Line 117: 433 chars in last 7 lines.
+Line 129: 413 chars in last 6 lines.
 CO1_10.txt
-Line 234: 332 chars in last 3 lines. May cause buffer overflow!
-Line 235: 445 chars in last 4 lines. May cause buffer overflow!
-Line 238: 412 chars in last 3 lines. May cause buffer overflow!
-Line 242: 454 chars in last 4 lines. May cause buffer overflow!
+Line 235: 445 chars in last 4 lines.
+Line 238: 412 chars in last 3 lines.
+Line 242: 454 chars in last 4 lines.
 CO1_11.txt
 CO1_12.txt
 CO1_13.txt
-Line 480: 372 chars in last 6 lines. May cause buffer overflow!
-Line 489: 386 chars in last 4 lines. May cause buffer overflow!
-Line 490: 471 chars in last 5 lines. May cause buffer overflow!
-Line 501: 366 chars in last 7 lines. May cause buffer overflow!
-Line 502: 419 chars in last 8 lines. May cause buffer overflow!
-Line 516: 350 chars in last 3 lines. May cause buffer overflow!
+Line 490: 471 chars in last 5 lines.
+Line 502: 419 chars in last 8 lines.
 CO2_01.txt
-Line 266: 362 chars in last 4 lines. May cause buffer overflow!
-Line 267: 424 chars in last 5 lines. May cause buffer overflow!
-Line 283: 411 chars in last 4 lines. May cause buffer overflow!
-Line 284: 477 chars in last 5 lines. May cause buffer overflow!
-Line 285: 548 chars in last 6 lines. May cause buffer overflow!
-Line 289: 428 chars in last 4 lines. May cause buffer overflow!
-Line 296: 346 chars in last 4 lines. May cause buffer overflow!
-Line 301: 349 chars in last 5 lines. May cause buffer overflow!
-Line 302: 402 chars in last 6 lines. May cause buffer overflow!
-Line 307: 360 chars in last 5 lines. May cause buffer overflow!
+Line 267: 424 chars in last 5 lines.
+Line 289: 428 chars in last 4 lines.
+Line 302: 402 chars in last 6 lines.
 CO2_02.txt
-Line 239: 331 chars in last 5 lines. May cause buffer overflow!
-Line 247: 379 chars in last 4 lines. May cause buffer overflow!
-Line 261: 352 chars in last 4 lines. May cause buffer overflow!
-Line 262: 420 chars in last 5 lines. May cause buffer overflow!
-Line 263: 468 chars in last 6 lines. May cause buffer overflow!
+Line 262: 419 chars in last 5 lines.
+Line 263: 467 chars in last 6 lines.
 CO2_03.txt
 CO2_04.txt
-Line 25: 351 chars in last 3 lines. May cause buffer overflow!
-Line 33: 371 chars in last 4 lines. May cause buffer overflow!
-Line 49: 358 chars in last 3 lines. May cause buffer overflow!
-Line 50: 468 chars in last 4 lines. May cause buffer overflow!
-Line 54: 440 chars in last 4 lines. May cause buffer overflow!
+Line 50: 468 chars in last 4 lines.
+Line 54: 440 chars in last 4 lines.
 CO2_05.txt
-Line 169: 347 chars in last 4 lines. May cause buffer overflow!
-Line 180: 414 chars in last 5 lines. May cause buffer overflow!
-Line 201: 386 chars in last 7 lines. May cause buffer overflow!
+Line 180: 414 chars in last 5 lines.
 CO2_06.txt
 CO2_07.txt
 CO2_08.txt
 CO2_09A.txt
-Line 436: 384 chars in last 6 lines. May cause buffer overflow!
-Line 452: 338 chars in last 8 lines. May cause buffer overflow!
 CO2_09B.txt
-Line 215: 362 chars in last 9 lines. May cause buffer overflow!
-Line 230: 375 chars in last 6 lines. May cause buffer overflow!
-Line 235: 374 chars in last 5 lines. May cause buffer overflow!
-Line 236: 399 chars in last 6 lines. May cause buffer overflow!
-Line 250: 358 chars in last 4 lines. May cause buffer overflow!
-Line 261: 374 chars in last 8 lines. May cause buffer overflow!
-Line 262: 419 chars in last 9 lines. May cause buffer overflow!
-Line 277: 364 chars in last 6 lines. May cause buffer overflow!
+Line 262: 417 chars in last 9 lines.
 CO2_10.txt
-Line 93: 387 chars in last 7 lines. May cause buffer overflow!
-Line 94: 439 chars in last 8 lines. May cause buffer overflow!
+Line 94: 439 chars in last 8 lines.
 CO2_11.txt
 CO2_12.txt
-Line 211: 401 chars in last 5 lines. May cause buffer overflow!
-Line 212: 464 chars in last 6 lines. May cause buffer overflow!
-Line 213: 488 chars in last 7 lines. May cause buffer overflow!
-Line 223: 340 chars in last 5 lines. May cause buffer overflow!
-Line 224: 389 chars in last 6 lines. May cause buffer overflow!
-Line 229: 346 chars in last 5 lines. May cause buffer overflow!
-Line 248: 344 chars in last 5 lines. May cause buffer overflow!
-Line 260: 346 chars in last 5 lines. May cause buffer overflow!
-Line 301: 353 chars in last 4 lines. May cause buffer overflow!
-Line 315: 380 chars in last 6 lines. May cause buffer overflow!
-Line 325: 355 chars in last 5 lines. May cause buffer overflow!
+Line 212: 449 chars in last 6 lines.
+Line 213: 473 chars in last 7 lines.
 CO3_01.txt
 CO3_02.txt
 CO3_03.txt
 CO3_04.txt
 CO3_05.txt
 CO3_06.txt
-Line 8: 418 chars in last 4 lines. May cause buffer overflow!
-Line 9: 468 chars in last 5 lines. May cause buffer overflow!
-Line 19: 385 chars in last 3 lines. May cause buffer overflow!
-Line 28: 472 chars in last 5 lines. May cause buffer overflow!
-Line 32: 415 chars in last 4 lines. May cause buffer overflow!
-Line 41: 450 chars in last 4 lines. May cause buffer overflow!
-Line 60: 414 chars in last 5 lines. May cause buffer overflow!
-Line 61: 593 chars in last 6 lines. May cause buffer overflow!
-Line 66: 474 chars in last 3 lines. May cause buffer overflow!
-Line 72: 524 chars in last 4 lines. May cause buffer overflow!
-Line 76: 340 chars in last 4 lines. May cause buffer overflow!
-Line 79: 371 chars in last 3 lines. May cause buffer overflow!
-Line 80: 371 chars in last 4 lines. May cause buffer overflow!
-Line 81: 422 chars in last 5 lines. May cause buffer overflow!
-Line 98: 354 chars in last 5 lines. May cause buffer overflow!
-Line 99: 414 chars in last 6 lines. May cause buffer overflow!
+Line 8: 418 chars in last 4 lines.
+Line 9: 468 chars in last 5 lines.
+Line 28: 469 chars in last 5 lines.
+Line 32: 415 chars in last 4 lines.
+Line 41: 450 chars in last 4 lines.
+Line 60: 414 chars in last 5 lines.
+Line 63: 424 chars in last 3 lines.
+Line 66: 474 chars in last 3 lines.
+Line 81: 422 chars in last 5 lines.
+Line 99: 414 chars in last 6 lines.
 CO3_07.txt
-Line 201: 351 chars in last 7 lines. May cause buffer overflow!
 CO3_08.txt
-Line 178: 371 chars in last 5 lines. May cause buffer overflow!
-Line 179: 443 chars in last 6 lines. May cause buffer overflow!
+Line 179: 443 chars in last 6 lines.
 CO3_09.txt
-Line 219: 400 chars in last 6 lines. May cause buffer overflow!
-Line 301: 349 chars in last 5 lines. May cause buffer overflow!
-Line 302: 379 chars in last 6 lines. May cause buffer overflow!
-Line 318: 379 chars in last 7 lines. May cause buffer overflow!
-Line 328: 375 chars in last 3 lines. May cause buffer overflow!
-Line 329: 375 chars in last 4 lines. May cause buffer overflow!
-Line 330: 381 chars in last 5 lines. May cause buffer overflow!
-Line 350: 359 chars in last 4 lines. May cause buffer overflow!
-Line 351: 424 chars in last 5 lines. May cause buffer overflow!
-Line 352: 458 chars in last 6 lines. May cause buffer overflow!
+Line 351: 424 chars in last 5 lines.
+Line 352: 458 chars in last 6 lines.
 CO3_10.txt
 CO4_01.txt
 CO4_02.txt
 CO4_03.txt
-Line 116: 381 chars in last 5 lines. May cause buffer overflow!
-Line 117: 464 chars in last 6 lines. May cause buffer overflow!
-Line 126: 383 chars in last 3 lines. May cause buffer overflow!
-Line 131: 372 chars in last 3 lines. May cause buffer overflow!
-Line 145: 393 chars in last 5 lines. May cause buffer overflow!
-Line 150: 370 chars in last 5 lines. May cause buffer overflow!
-Line 154: 362 chars in last 4 lines. May cause buffer overflow!
-Line 155: 510 chars in last 5 lines. May cause buffer overflow!
-Line 158: 333 chars in last 3 lines. May cause buffer overflow!
-Line 159: 451 chars in last 4 lines. May cause buffer overflow!
-Line 252: 363 chars in last 4 lines. May cause buffer overflow!
-Line 253: 506 chars in last 5 lines. May cause buffer overflow!
-Line 258: 386 chars in last 5 lines. May cause buffer overflow!
-Line 259: 448 chars in last 6 lines. May cause buffer overflow!
-Line 264: 418 chars in last 5 lines. May cause buffer overflow!
-Line 270: 437 chars in last 6 lines. May cause buffer overflow!
-Line 280: 366 chars in last 3 lines. May cause buffer overflow!
+Line 117: 462 chars in last 6 lines.
+Line 159: 451 chars in last 4 lines.
+Line 259: 447 chars in last 6 lines.
+Line 264: 418 chars in last 5 lines.
+Line 270: 437 chars in last 6 lines.
 CO4_04.txt
 CO4_05.txt
 CO4_06.txt
 CO4_07.txt
-Line 76: 331 chars in last 5 lines. May cause buffer overflow!
-Line 77: 368 chars in last 6 lines. May cause buffer overflow!
-Line 78: 405 chars in last 7 lines. May cause buffer overflow!
+Line 78: 405 chars in last 7 lines.
 CO4_08.txt
 CO4_09.txt
 CO5_01.txt
-Line 60: 440 chars in last 7 lines. May cause buffer overflow!
-Line 61: 481 chars in last 8 lines. May cause buffer overflow!
-Line 66: 336 chars in last 5 lines. May cause buffer overflow!
 CO5_02.txt
 CO5_03.txt
 CO5_04.txt
 CO5_05.txt
-Line 205: 362 chars in last 7 lines. May cause buffer overflow!
 CO5_06.txt
 CO5_07.txt
 CO5_08.txt
-Line 30: 396 chars in last 7 lines. May cause buffer overflow!
-Line 36: 414 chars in last 6 lines. May cause buffer overflow!
-Line 37: 421 chars in last 7 lines. May cause buffer overflow!
+Line 36: 414 chars in last 6 lines.
+Line 37: 421 chars in last 7 lines.
 CO5_09.txt
 CO5_10.txt
 CO5_11.txt
 CO5_12.txt
 CO5_13.txt
 CO6_01.txt
-Line 38: 416 chars in last 5 lines. May cause buffer overflow!
-Line 64: 412 chars in last 8 lines. May cause buffer overflow!
-Line 88: 346 chars in last 6 lines. May cause buffer overflow!
-Line 89: 410 chars in last 7 lines. May cause buffer overflow!
-Line 96: 408 chars in last 7 lines. May cause buffer overflow!
-Line 97: 456 chars in last 8 lines. May cause buffer overflow!
-Line 112: 401 chars in last 5 lines. May cause buffer overflow!
-Line 140: 401 chars in last 5 lines. May cause buffer overflow!
+Line 38: 416 chars in last 5 lines.
+Line 64: 412 chars in last 8 lines.
+Line 89: 410 chars in last 7 lines.
+Line 96: 408 chars in last 7 lines.
+Line 97: 456 chars in last 8 lines.
 CO6_02.txt
 CO6_03.txt
-Line 18: 469 chars in last 3 lines. May cause buffer overflow!
+Line 18: 469 chars in last 3 lines.
 CO6_04.txt
-Line 154: 359 chars in last 8 lines. May cause buffer overflow!
-Line 155: 400 chars in last 9 lines. May cause buffer overflow!
-Line 156: 444 chars in last 10 lines. May cause buffer overflow!
-Line 157: 475 chars in last 11 lines. May cause buffer overflow!
+Line 156: 444 chars in last 10 lines.
+Line 157: 475 chars in last 11 lines.
 Line 158: 511 chars in last 12 lines. May cause buffer overflow!
+'I listened on as Satoru, not myself.'
 Line 159: 556 chars in last 13 lines. May cause buffer overflow!
+'I was Satoru in these moments alone with her.'
 Line 160: 575 chars in last 14 lines. May cause buffer overflow!
+'I watched Mayuzumi.'
 Line 161: 633 chars in last 15 lines. May cause buffer overflow!
+'It was there in one of her white, small, well-shaped ears.'
 Line 162: 650 chars in last 16 lines. May cause buffer overflow!
+'A simple earring.'
 Line 163: 686 chars in last 17 lines. May cause buffer overflow!
+'Could this be a present from Satoru?'
 Line 164: 732 chars in last 18 lines. May cause buffer overflow!
+'I slowly reached out and touched that earring.'
 CO6_05.txt
 CO7_01.txt
 CO7_02.txt
-Line 6: 401 chars in last 5 lines. May cause buffer overflow!
-Line 66: 362 chars in last 5 lines. May cause buffer overflow!
-Line 77: 344 chars in last 5 lines. May cause buffer overflow!
-Line 78: 462 chars in last 6 lines. May cause buffer overflow!
+Line 6: 401 chars in last 5 lines.
+Line 78: 461 chars in last 6 lines.
 CO7_03.txt
 CO7_04.txt
 CO7_05.txt
 CO7_06.txt
 CO7_07.txt
 COEP_01.txt
-Line 56: 348 chars in last 13 lines. May cause buffer overflow!
 PR_01.txt
 PR_02.txt
-Line 56: 456 chars in last 5 lines. May cause buffer overflow!
-Line 62: 356 chars in last 6 lines. May cause buffer overflow!
-Line 66: 337 chars in last 4 lines. May cause buffer overflow!
-Line 75: 339 chars in last 5 lines. May cause buffer overflow!
-Line 80: 349 chars in last 5 lines. May cause buffer overflow!
-Line 81: 458 chars in last 6 lines. May cause buffer overflow!
-Line 82: 468 chars in last 7 lines. May cause buffer overflow!
-Line 99: 340 chars in last 4 lines. May cause buffer overflow!
-Line 112: 352 chars in last 3 lines. May cause buffer overflow!
+Line 56: 456 chars in last 5 lines.
+Line 81: 458 chars in last 6 lines.
+Line 82: 467 chars in last 7 lines.
 PR_03.txt
 SA1_01.txt
 SA1_02.txt
 SA1_03.txt
-Line 199: 350 chars in last 6 lines. May cause buffer overflow!
-Line 206: 357 chars in last 3 lines. May cause buffer overflow!
-Line 207: 417 chars in last 4 lines. May cause buffer overflow!
-Line 208: 461 chars in last 5 lines. May cause buffer overflow!
-Line 247: 369 chars in last 4 lines. May cause buffer overflow!
-Line 255: 337 chars in last 4 lines. May cause buffer overflow!
-Line 258: 378 chars in last 3 lines. May cause buffer overflow!
+Line 207: 417 chars in last 4 lines.
+Line 208: 461 chars in last 5 lines.
 Line 259: 482 chars in last 4 lines. May cause buffer overflow!
+'I derived only the general concept of my body, and decided to just input that information into my brain.'
 SA1_04.txt
 SA1_05.txt
 SA1_06.txt
-Line 287: 457 chars in last 5 lines. May cause buffer overflow!
-Line 304: 372 chars in last 5 lines. May cause buffer overflow!
-Line 308: 331 chars in last 4 lines. May cause buffer overflow!
-Line 309: 378 chars in last 5 lines. May cause buffer overflow!
-Line 313: 334 chars in last 4 lines. May cause buffer overflow!
-Line 344: 350 chars in last 7 lines. May cause buffer overflow!
-Line 350: 366 chars in last 6 lines. May cause buffer overflow!
-Line 356: 395 chars in last 6 lines. May cause buffer overflow!
-Line 361: 353 chars in last 5 lines. May cause buffer overflow!
-Line 453: 345 chars in last 6 lines. May cause buffer overflow!
-Line 457: 344 chars in last 4 lines. May cause buffer overflow!
-Line 458: 390 chars in last 5 lines. May cause buffer overflow!
-Line 474: 346 chars in last 4 lines. May cause buffer overflow!
-Line 491: 369 chars in last 5 lines. May cause buffer overflow!
+Line 287: 457 chars in last 5 lines.
 SA1_07.txt
 SA1_08.txt
-Line 104: 344 chars in last 5 lines. May cause buffer overflow!
-Line 105: 381 chars in last 6 lines. May cause buffer overflow!
-Line 109: 424 chars in last 4 lines. May cause buffer overflow!
-Line 151: 355 chars in last 6 lines. May cause buffer overflow!
-Line 169: 443 chars in last 4 lines. May cause buffer overflow!
-Line 172: 438 chars in last 3 lines. May cause buffer overflow!
-Line 176: 453 chars in last 4 lines. May cause buffer overflow!
+Line 109: 424 chars in last 4 lines.
+Line 169: 443 chars in last 4 lines.
+Line 172: 438 chars in last 3 lines.
+Line 176: 453 chars in last 4 lines.
 SA1_09.txt
 SA2_01.txt
-Line 30: 339 chars in last 4 lines. May cause buffer overflow!
-Line 31: 388 chars in last 5 lines. May cause buffer overflow!
-Line 36: 360 chars in last 5 lines. May cause buffer overflow!
-Line 37: 405 chars in last 6 lines. May cause buffer overflow!
-Line 46: 368 chars in last 4 lines. May cause buffer overflow!
-Line 50: 368 chars in last 4 lines. May cause buffer overflow!
-Line 68: 394 chars in last 4 lines. May cause buffer overflow!
-Line 72: 366 chars in last 4 lines. May cause buffer overflow!
-Line 79: 388 chars in last 5 lines. May cause buffer overflow!
-Line 98: 350 chars in last 5 lines. May cause buffer overflow!
-Line 130: 339 chars in last 3 lines. May cause buffer overflow!
-Line 131: 436 chars in last 4 lines. May cause buffer overflow!
-Line 144: 337 chars in last 5 lines. May cause buffer overflow!
-Line 145: 368 chars in last 6 lines. May cause buffer overflow!
-Line 165: 342 chars in last 4 lines. May cause buffer overflow!
-Line 166: 413 chars in last 5 lines. May cause buffer overflow!
-Line 167: 461 chars in last 6 lines. May cause buffer overflow!
-Line 177: 378 chars in last 4 lines. May cause buffer overflow!
-Line 199: 343 chars in last 4 lines. May cause buffer overflow!
-Line 200: 362 chars in last 5 lines. May cause buffer overflow!
-Line 207: 346 chars in last 7 lines. May cause buffer overflow!
+Line 37: 405 chars in last 6 lines.
+Line 131: 436 chars in last 4 lines.
+Line 166: 413 chars in last 5 lines.
+Line 167: 461 chars in last 6 lines.
 SA2_02.txt
-Line 163: 418 chars in last 4 lines. May cause buffer overflow!
-Line 167: 418 chars in last 4 lines. May cause buffer overflow!
-Line 168: 508 chars in last 5 lines. May cause buffer overflow!
-Line 171: 351 chars in last 3 lines. May cause buffer overflow!
-Line 174: 357 chars in last 3 lines. May cause buffer overflow!
-Line 175: 455 chars in last 4 lines. May cause buffer overflow!
-Line 180: 388 chars in last 5 lines. May cause buffer overflow!
-Line 181: 441 chars in last 6 lines. May cause buffer overflow!
-Line 190: 363 chars in last 4 lines. May cause buffer overflow!
-Line 191: 408 chars in last 5 lines. May cause buffer overflow!
-Line 195: 415 chars in last 4 lines. May cause buffer overflow!
-Line 198: 372 chars in last 3 lines. May cause buffer overflow!
-Line 202: 362 chars in last 4 lines. May cause buffer overflow!
-Line 214: 348 chars in last 5 lines. May cause buffer overflow!
-Line 221: 356 chars in last 7 lines. May cause buffer overflow!
-Line 226: 353 chars in last 5 lines. May cause buffer overflow!
-Line 227: 395 chars in last 6 lines. May cause buffer overflow!
-Line 238: 381 chars in last 5 lines. May cause buffer overflow!
+Line 163: 418 chars in last 4 lines.
+Line 167: 417 chars in last 4 lines.
+Line 168: 507 chars in last 5 lines. May cause buffer overflow!
+'Speculations flew, even including those that accredited the crash to something paranormal.'
+Line 175: 455 chars in last 4 lines.
+Line 181: 441 chars in last 6 lines.
+Line 191: 408 chars in last 5 lines.
+Line 195: 415 chars in last 4 lines.
 SA2_03.txt
 SA2_04.txt
-Line 53: 340 chars in last 5 lines. May cause buffer overflow!
-Line 61: 341 chars in last 4 lines. May cause buffer overflow!
-Line 86: 340 chars in last 5 lines. May cause buffer overflow!
-Line 87: 356 chars in last 6 lines. May cause buffer overflow!
 SA2_05.txt
-Line 55: 362 chars in last 4 lines. May cause buffer overflow!
-Line 56: 424 chars in last 5 lines. May cause buffer overflow!
-Line 64: 411 chars in last 4 lines. May cause buffer overflow!
-Line 65: 477 chars in last 5 lines. May cause buffer overflow!
-Line 69: 339 chars in last 4 lines. May cause buffer overflow!
+Line 56: 424 chars in last 5 lines.
+Line 64: 411 chars in last 4 lines.
+Line 65: 477 chars in last 5 lines.
 Line 70: 499 chars in last 5 lines. May cause buffer overflow!
-Line 78: 334 chars in last 4 lines. May cause buffer overflow!
-Line 79: 430 chars in last 5 lines. May cause buffer overflow!
-Line 88: 413 chars in last 6 lines. May cause buffer overflow!
+'So if we were to believe what they said, then we have no choice but to accept that your consciousness and mine are coming and going between each other's bodies.'
+Line 79: 430 chars in last 5 lines.
+Line 88: 413 chars in last 6 lines.
 SA2_06.txt
 SA2_07.txt
 SA2_08.txt
 SA2_09.txt
-Line 642: 336 chars in last 3 lines. May cause buffer overflow!
-Line 646: 382 chars in last 4 lines. May cause buffer overflow!
-Line 647: 468 chars in last 5 lines. May cause buffer overflow!
-Line 651: 335 chars in last 4 lines. May cause buffer overflow!
+Line 647: 468 chars in last 5 lines.
 Line 652: 483 chars in last 5 lines. May cause buffer overflow!
-Line 657: 331 chars in last 5 lines. May cause buffer overflow!
-Line 658: 418 chars in last 6 lines. May cause buffer overflow!
+'It may actually be a personality exchange, but because the two possessed the same DNA, it wouldn't be too difficult to consider it a time-only jump.'
+Line 658: 418 chars in last 6 lines.
 SA2_10.txt
 SA2_11.txt
 SA2_12.txt
 SA2_13.txt
-Line 97: 339 chars in last 7 lines. May cause buffer overflow!
-Line 110: 374 chars in last 5 lines. May cause buffer overflow!
-Line 111: 399 chars in last 6 lines. May cause buffer overflow!
-Line 125: 358 chars in last 4 lines. May cause buffer overflow!
-Line 152: 364 chars in last 6 lines. May cause buffer overflow!
-Line 190: 401 chars in last 5 lines. May cause buffer overflow!
-Line 191: 464 chars in last 6 lines. May cause buffer overflow!
-Line 202: 340 chars in last 5 lines. May cause buffer overflow!
-Line 203: 389 chars in last 6 lines. May cause buffer overflow!
-Line 204: 474 chars in last 7 lines. May cause buffer overflow!
-Line 225: 386 chars in last 6 lines. May cause buffer overflow!
-Line 261: 352 chars in last 4 lines. May cause buffer overflow!
+Line 191: 463 chars in last 6 lines.
+Line 204: 474 chars in last 7 lines.
 SA2_14.txt
-Line 28: 376 chars in last 4 lines. May cause buffer overflow!
-Line 33: 371 chars in last 5 lines. May cause buffer overflow!
-Line 39: 361 chars in last 6 lines. May cause buffer overflow!
 SA2_15.txt
 SA3_01.txt
 SA3_02.txt
 SA3_03.txt
 SA3_04.txt
 SA3_05.txt
-Line 46: 352 chars in last 4 lines. May cause buffer overflow!
 SA3_06.txt
 SA3_07.txt
 SA3_08.txt
@@ -376,35 +214,20 @@ SA3_12.txt
 SA3_13.txt
 SA3_14.txt
 SA3_15.txt
-Line 22: 381 chars in last 6 lines. May cause buffer overflow!
-Line 25: 344 chars in last 3 lines. May cause buffer overflow!
 SA4_01.txt
-Line 13: 362 chars in last 3 lines. May cause buffer overflow!
-Line 14: 424 chars in last 4 lines. May cause buffer overflow!
+Line 14: 424 chars in last 4 lines.
 Line 18: 492 chars in last 4 lines. May cause buffer overflow!
-Line 57: 420 chars in last 5 lines. May cause buffer overflow!
-Line 61: 379 chars in last 4 lines. May cause buffer overflow!
-Line 86: 365 chars in last 4 lines. May cause buffer overflow!
-Line 87: 473 chars in last 5 lines. May cause buffer overflow!
-Line 97: 388 chars in last 4 lines. May cause buffer overflow!
-Line 100: 362 chars in last 3 lines. May cause buffer overflow!
-Line 165: 338 chars in last 4 lines. May cause buffer overflow!
-Line 166: 372 chars in last 5 lines. May cause buffer overflow!
-Line 175: 386 chars in last 3 lines. May cause buffer overflow!
-Line 179: 396 chars in last 4 lines. May cause buffer overflow!
+'If I strive to see it as a whole, I lose sight of the details. And if I try to narrow my field of vision and study a particular point, I lose my perspective on the essentials of the whole thing....'
+Line 57: 420 chars in last 5 lines.
+Line 87: 473 chars in last 5 lines.
 SA4_02.txt
 SA4_03.txt
 SA4_04.txt
-Line 180: 364 chars in last 4 lines. May cause buffer overflow!
-Line 181: 469 chars in last 5 lines. May cause buffer overflow!
-Line 187: 344 chars in last 6 lines. May cause buffer overflow!
-Line 188: 441 chars in last 7 lines. May cause buffer overflow!
-Line 212: 340 chars in last 4 lines. May cause buffer overflow!
-Line 216: 341 chars in last 4 lines. May cause buffer overflow!
-Line 223: 426 chars in last 4 lines. May cause buffer overflow!
+Line 181: 469 chars in last 5 lines.
+Line 188: 441 chars in last 7 lines.
+Line 223: 426 chars in last 4 lines.
 Line 224: 481 chars in last 5 lines. May cause buffer overflow!
-Line 229: 338 chars in last 5 lines. May cause buffer overflow!
-Line 230: 387 chars in last 6 lines. May cause buffer overflow!
+'He was covered in scratches and scrapes all year round.'
 SA4_05.txt
 SA4_06.txt
 SA4_07.txt
@@ -414,80 +237,48 @@ SA4_10.txt
 SA4_11.txt
 SA4_12.txt
 SA4_13.txt
-Line 112: 424 chars in last 4 lines. May cause buffer overflow!
-Line 132: 417 chars in last 5 lines. May cause buffer overflow!
+Line 112: 424 chars in last 4 lines.
+Line 132: 417 chars in last 5 lines.
 SA5_01.txt
-Line 76: 373 chars in last 10 lines. May cause buffer overflow!
-Line 77: 430 chars in last 11 lines. May cause buffer overflow!
-Line 78: 462 chars in last 12 lines. May cause buffer overflow!
-Line 79: 512 chars in last 13 lines. May cause buffer overflow!
-Line 90: 433 chars in last 6 lines. May cause buffer overflow!
-Line 115: 351 chars in last 5 lines. May cause buffer overflow!
+Line 77: 430 chars in last 11 lines.
+Line 78: 462 chars in last 12 lines.
+Line 79: 511 chars in last 13 lines. May cause buffer overflow!
+'What had Kokoro drunk―or been forced to drink...?'
+Line 90: 433 chars in last 6 lines.
 SA5_02.txt
 SA5_03.txt
 SA5_04.txt
-Line 270: 424 chars in last 5 lines. May cause buffer overflow!
+Line 270: 424 chars in last 5 lines.
 SA5_05.txt
 SA5_06.txt
-Line 349: 362 chars in last 5 lines. May cause buffer overflow!
-Line 352: 339 chars in last 3 lines. May cause buffer overflow!
-Line 353: 396 chars in last 4 lines. May cause buffer overflow!
-Line 358: 392 chars in last 5 lines. May cause buffer overflow!
-Line 363: 412 chars in last 5 lines. May cause buffer overflow!
+Line 363: 412 chars in last 5 lines.
 SA5_07.txt
 SA5_08.txt
 SA5_09.txt
-Line 143: 377 chars in last 5 lines. May cause buffer overflow!
-Line 151: 348 chars in last 4 lines. May cause buffer overflow!
 SA6_01.txt
-Line 44: 350 chars in last 3 lines. May cause buffer overflow!
-Line 101: 362 chars in last 7 lines. May cause buffer overflow!
-Line 169: 393 chars in last 5 lines. May cause buffer overflow!
-Line 191: 367 chars in last 3 lines. May cause buffer overflow!
-Line 192: 463 chars in last 4 lines. May cause buffer overflow!
-Line 201: 370 chars in last 4 lines. May cause buffer overflow!
-Line 202: 455 chars in last 5 lines. May cause buffer overflow!
-Line 209: 427 chars in last 4 lines. May cause buffer overflow!
-Line 210: 460 chars in last 5 lines. May cause buffer overflow!
+Line 192: 463 chars in last 4 lines.
+Line 202: 455 chars in last 5 lines.
+Line 209: 427 chars in last 4 lines.
+Line 210: 460 chars in last 5 lines.
 SA6_02.txt
 SA6_03.txt
 SA6_04.txt
-Line 87: 426 chars in last 6 lines. May cause buffer overflow!
+Line 87: 426 chars in last 6 lines.
 SA6_05.txt
-Line 31: 339 chars in last 4 lines. May cause buffer overflow!
-Line 34: 354 chars in last 3 lines. May cause buffer overflow!
-Line 35: 430 chars in last 4 lines. May cause buffer overflow!
+Line 35: 430 chars in last 4 lines.
 SA7_01.txt
-Line 146: 371 chars in last 5 lines. May cause buffer overflow!
-Line 147: 423 chars in last 6 lines. May cause buffer overflow!
-Line 161: 371 chars in last 4 lines. May cause buffer overflow!
-Line 174: 369 chars in last 5 lines. May cause buffer overflow!
-Line 209: 370 chars in last 4 lines. May cause buffer overflow!
-Line 210: 412 chars in last 5 lines. May cause buffer overflow!
-Line 253: 348 chars in last 3 lines. May cause buffer overflow!
-Line 254: 421 chars in last 4 lines. May cause buffer overflow!
-Line 265: 407 chars in last 5 lines. May cause buffer overflow!
+Line 147: 423 chars in last 6 lines.
+Line 210: 412 chars in last 5 lines.
+Line 254: 421 chars in last 4 lines.
+Line 265: 407 chars in last 5 lines.
 Line 266: 501 chars in last 6 lines. May cause buffer overflow!
-Line 293: 348 chars in last 6 lines. May cause buffer overflow!
-Line 298: 404 chars in last 5 lines. May cause buffer overflow!
-Line 320: 331 chars in last 7 lines. May cause buffer overflow!
-Line 325: 379 chars in last 5 lines. May cause buffer overflow!
-Line 326: 443 chars in last 6 lines. May cause buffer overflow!
-Line 383: 367 chars in last 5 lines. May cause buffer overflow!
-Line 398: 360 chars in last 7 lines. May cause buffer overflow!
-Line 446: 347 chars in last 7 lines. May cause buffer overflow!
-Line 451: 373 chars in last 5 lines. May cause buffer overflow!
-Line 461: 367 chars in last 6 lines. May cause buffer overflow!
+'As though he'd been waiting for me, Enomoto's hand shot out and made contact with my shoulder.'
+Line 298: 404 chars in last 5 lines.
+Line 326: 443 chars in last 6 lines.
 SA7_02.txt
-Line 130: 332 chars in last 4 lines. May cause buffer overflow!
-Line 230: 349 chars in last 4 lines. May cause buffer overflow!
-Line 256: 384 chars in last 5 lines. May cause buffer overflow!
 Line 257: 485 chars in last 6 lines. May cause buffer overflow!
-Line 323: 340 chars in last 5 lines. May cause buffer overflow!
-Line 359: 363 chars in last 7 lines. May cause buffer overflow!
-Line 363: 416 chars in last 4 lines. May cause buffer overflow!
-Line 376: 386 chars in last 5 lines. May cause buffer overflow!
-Line 473: 331 chars in last 3 lines. May cause buffer overflow!
+'In spite of that, the cameras recorded my body moving without my consciousness for a good 66 minutes.'
+Line 363: 416 chars in last 4 lines.
 SA7_03.txt
 SA7_04.txt
 SA7_05.txt
@@ -495,8 +286,6 @@ SA7_06.txt
 SA7_07.txt
 SA7_08.txt
 SA7_09.txt
-Line 96: 364 chars in last 4 lines. May cause buffer overflow!
-Line 190: 372 chars in last 5 lines. May cause buffer overflow!
 SAEP_01.txt
 SAEP_02.txt
 SAEP_03.txt

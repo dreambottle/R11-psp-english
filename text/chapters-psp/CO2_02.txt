@@ -717,7 +717,7 @@ And the second problem.
 Both the shelter cabin, and SPHIA, I've seen Yunis in both places.
 
 しかも、ふたりとも墜落の記憶を持っているようだ。%K%N
-And both of them possess the memory of the crash.%K%P
+And both of them possess the memory of the crash.
 
 人格交換によって、私の人格がふたつの地点を飛んでいるからこそ、このことに気づけたのだが……これは大きな謎ではないだろうか？%K%P
 I've noticed that due to the personality exchange, my personality seems to be jumping back and forth between these two points, but... isn't this a big mystery as well?
@@ -741,13 +741,13 @@ The %TS012law on cloning%TE was passed in this country last year――in 2010.
 Before that, cloning had been banned outright on the basis of ethics, but this law was then drafted.
 
 クローンに関してはそれまでも色々と揉め合っていて、ようやく決着がついたとこらしいけれど……。%K%N
-There have been several issues surrounding cloning, but it looks like they have finally been resolved. But....%K%P
+There have been several issues surrounding cloning, but it looks like they have finally been resolved. But....
 
 クローン自体は法案が成立する前も、絶対数はわずかであるが私達の社会にひっそりと溶け込んでいたらしい。%K%P
-A small number of clones may have integrated themselves into our society before the law was established.%K%N
+A small number of clones may have integrated themselves into our society before the law was established.
 
 なので、ゆにがクローンであってもなんらオカシクナイ。%K%N
-So it wouldn't be much of a surprise if Yuni were a clone.%K%P
+So it wouldn't be much of a surprise if Yuni were a clone.
 
 そしてクローンは、自分はオリジナルのコピーであると認知してしまった場合、どういった行動を取るかわからないという……。%K%N
 And... there's no telling what a clone will do when he's confronted with the fact he's a copy of the original....
@@ -783,7 +783,7 @@ And then, the fourth problem.
 ――What is the real purpose behind this facility?
 
 犬伏景子（人格は穂鳥だけど）が軟禁されているということは、ここは私が目指していたスフィアなんだろう。%K%N
-Inubushi Keiko (even though the present personality is Suzukage Hotori) has been placed under house arrest here, so this is probably SPHIA, the location I was heading to.%K%P
+Inubushi Keiko (even though the present personality is Suzukage Hotori) has been placed under house arrest here, so this is probably SPHIA, the location I was heading to.
 
 だが、悟やゆにを含めて、たった４人しかいないというのは、意味がわからない。%K%N
 But Satoru and Yuni are here too; plus, there are only four people here altogether, which makes no sense.
