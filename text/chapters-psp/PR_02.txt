@@ -377,7 +377,7 @@ That is to say, multiple personalities.
 "Penal Code Article 39"
 
 １．心神喪失者の行為は、罰しない。%K%N
-1. Those suffering from insanity will not be prosecuted.
+1. Those suffering from insanity will not be prosecuted.%K%P
 
 ２．心神耗弱者の行為は、その刑を減軽する。%K%P
 2. Those who are mentally handicapped will receive a lighter sentence.
