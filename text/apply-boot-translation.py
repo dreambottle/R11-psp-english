@@ -6,20 +6,11 @@ import re
 
 elf_head_size = 0xA0
 
-text_area     = [0x12116c, 0x128710]
-text_tables   = [0x12bb8c, 0x136aa0]
+text_area     = [0x12116c, 0x128698]
+# text_tables   = [0x12bb8c, 0x136aa0]
 
-# text_s0_area  = [0x12116c, 0x1217d0]
-# text_s0_table = [0x12bb8c, 0x123fb0]
-
-# text_s1_area  = [0x1219c0, 0x123914]
-# text_s1_table = [0x12bb8c, 0x123fb0]
-
-# text_s2_area  = [0x12483c, 0x128620]
-# text_s2_table = [0x136760, 0x136aa0]
-
-relocation_area = [0x137528, 0x141520]
-reloc_pos = relocation_area[0]
+# relocation_area = [0x137528, 0x141520]
+# reloc_pos = relocation_area[0]
 
 # def find_and_replace_addr(bytearr, limits, pos, new_pos):
 #   if (limits):
@@ -66,16 +57,21 @@ def patch(bytearr, initial_text, new_text, max_size, last_pos):
 
     # reloc_pos += new_size
   else:
-    new_text = new_text.ljust(max_size, b'\x00')
-    bytearr[pos:pos+max_size] = new_text
+    patch_pos(bytearr, pos, new_text, max_size)
+    # new_text = new_text.ljust(max_size, b'\x00')
+    # bytearr[pos:pos+max_size] = new_text
   return pos
 
+def patch_pos(bytearr, pos, text, max_len):
+  bytearr[pos:pos+max_len] = text.ljust(max_len, b'\x00')
 
 def main():
   # Warning: only works on a clean BOOT.BIN
 
   if len(sys.argv) != 4:
     exit("Usage: %s translation.txt source-BOOT.BIN output-BOOT.BIN")
+  
+  print("Applying BOOT.BIN translation.")
 
   txt     = sys.argv[1]
   bin_in  = sys.argv[2]
@@ -101,6 +97,8 @@ def main():
   for i, ln in enumerate(txt_lines):
     # print(i)
     ln = ln[:-1]
+    if ln.startswith(b"#"):
+      continue
     if (state == JA):
       m = jp_pattern.match(ln)
       if (m):
@@ -113,9 +111,6 @@ def main():
       else:
         continue
     elif (state == EN):
-      if ln.startswith(b"#"):
-        continue
-
       state = JA
       if ln == b"":
         continue
@@ -130,6 +125,7 @@ def main():
   f_bin=open(bin_out, "wb")
   f_bin.write(bin_bytes)
   f_bin.close()
+  print("Done.")
 
 
 if __name__ == '__main__':

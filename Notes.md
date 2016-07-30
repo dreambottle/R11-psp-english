@@ -27,9 +27,9 @@ Special Sequences
 
 %T030 - delay? WARNING: On pc it has %T[\d\d] (2 digits) format, but on psp it needs to have 3 digits!
 
-%X070 - ??? (also 010, 050 in game texts)
+%X070 - Fixed offset from line start (also 010, 050 in game texts)
 
-%XS[2 digits], %XE - ??? (in BOOT.BIN)
+%XS[2 digits], %XE - %XS sets fixed character width. %XE resets it.
 
 %n - ??? (in BOOT.BIN)
 
