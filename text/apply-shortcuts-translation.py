@@ -75,8 +75,8 @@ def main():
       text_pos += size + 1
   
   # adjust data offsets
-  new_data_offset = ((text[0]+text_pos) & ~0xf) + 0x10  # align new offset
-  # new_data_offset = shortcut_data_offset # Keep old offset. Least buggy, but the texts must fit.
+  # new_data_offset = ((text[0]+text_pos) & ~0xf) + 0x10  # align new offset
+  new_data_offset = shortcut_data_offset # Keep old offset. Least buggy, but the texts must fit.
   data_offset_diff = new_data_offset - shortcut_data_offset
   print("Shortcuts data offset", new_data_offset, data_offset_diff)
 
