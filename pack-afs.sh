@@ -19,36 +19,44 @@ fi
 
 
 # Repack mac.afs (texts)
-START=$(date +%s.%N)
-mkdir -p mac-en/
-./text/apply-shortcuts-translation.py text/other-psp/SHORTCUT.SCN.psp.txt mac/SHORTCUT.SCN mac-en/SHORTCUT.SCN || exit 1;
-$COMPRESS ./mac-en/SHORTCUT.{SCN,BIP}
-repack_scene () {
-	$REPACK_SCENE text/mac-combined-psp/$1.txt mac/$1.SCN mac-en/$1.SCN
-	$COMPRESS ./mac-en/$1.{SCN,BIP}
+repack_mac_afs () {
+	repack_scene () {
+		$REPACK_SCENE text/mac-combined-psp/$1.txt mac/$1.SCN mac-en/$1.SCN
+		$COMPRESS ./mac-en/$1.{SCN,BIP}
+	}
+
+	START=$(date +%s.%N)
+	mkdir -p mac-en/
+	
+	./text/apply-shortcuts-translation.py text/other-psp/SHORTCUT.SCN.psp.txt mac/SHORTCUT.SCN mac-en/SHORTCUT.SCN || exit 1;
+	$COMPRESS ./mac-en/SHORTCUT.{SCN,BIP}
+	
+	for i in text/mac-combined-psp/*.txt ; do
+		echo Repacking $i
+		repack_scene `basename $i .txt` & WAITPIDS="$! "$WAITPIDS
+	done
+	wait $WAITPIDS &> /dev/null
+	END=$(date +%s.%N)
+	DIFF=$(echo "$END - $START" | bc)
+	echo "Finished repacking scenes in: "$DIFF
+
+	$REPACK_AFS $WORKDIR/mac.afs $WORKDIR/mac-repacked.afs ./mac-en || exit 1;
+	mv -f $WORKDIR/mac-repacked.afs $ISO_RES_DIR/mac.afs
 }
-for i in text/mac-combined-psp/*.txt ; do
-	echo Repacking $i
-	repack_scene `basename $i .txt` & WAITPIDS="$! "$WAITPIDS
-done
-wait $WAITPIDS &> /dev/null
-END=$(date +%s.%N)
-DIFF=$(echo "$END - $START" | bc)
-echo "Finished repacking scenes in: "$DIFF
-
-$REPACK_AFS $WORKDIR/mac.afs $WORKDIR/mac-repacked.afs ./mac-en || exit 1;
-mv -f $WORKDIR/mac-repacked.afs $ISO_RES_DIR/mac.afs
-
+repack_mac_afs
 
 # Repack fonts
-cd text/font
-# python3 extract-font.py autotrim || exit 1;
-# python3 extract-font.py pnghalf || exit 1;
-mkdir -p ../../etc-en
-cp -f glyphs-new/* glyphs/
-python3 extract-font.py repack glyphs/ || exit 1;
-cp FONT00.NEW ../../etc-en/FONT00.NEW
-cd ../..
+repack_fonts () {
+	cd text/font
+	# python3 extract-font.py autotrim || exit 1;
+	# python3 extract-font.py pnghalf || exit 1;
+	mkdir -p ../../etc-en
+	cp -f glyphs-new/* glyphs/
+	python3 extract-font.py repack glyphs/ || exit 1;
+	cp FONT00.NEW ../../etc-en/FONT00.NEW
+	cd ../..
+}
+repack_fonts
 
 
 # Repack etc.afs

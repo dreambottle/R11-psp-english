@@ -1,11 +1,9 @@
 
-The goal of this project is to port the translation of the Remember 11 game to psp.
+The goal of this project is to port the translation of the Remember 11 pc game to its psp counterpart.
 
-Help wanted in hacking and testing!
+Help wanted in translation and testing. Contributions are highly welcome!
 
-*Contributions are welcome!*
-
-Current status:
+### Current status:
 
 Scenes: Yes - But text overflows the windows in some places. (Crashes are expected)
 <br>
@@ -17,9 +15,9 @@ Names (init.bin): Yes.
 <br>
 Chronology (init.bin): No.
 <br>
-Menus (BOOT.BIN): Partial. Need translation help, because these strings are different from the PC version. HOME menu - Yes.
+Menus (BOOT.BIN): Partial. Need translation help here, because these strings are different from the PC version. HOME menu - Yes.
 <br>
-Font (FONT00.FOP): Autotrimmed by 2px. Wrote repackaging scripts to potentially replace the font.
+Font (FONT00.FOP): Tweaked glyph widths (kerning). Most EN glyphs are brightened and sharpened.
 
 How To Use This
 -----------
@@ -32,8 +30,7 @@ How To Use This
 
 3. Result iso will be at `iso/remember11-repacked.iso`
 
-
-If you make any changes to the text or other resources, run ./repack-all.sh script to skip the "unpacking" phase.
+Tip: If you make any changes to the text or other resources, run ./repack-all.sh script to skip the "unpacking" phase.
 
 Dependencies
 ----------
@@ -50,4 +47,4 @@ Also you will need to install File::Slurp module for Perl:<br>
 
 ##### Brew install command for mac:
 
-`brew install p7zip cdrtools python3` 
+`brew install p7zip cdrtools python3`
