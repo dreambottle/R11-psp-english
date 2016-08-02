@@ -159,7 +159,7 @@ Returning to the Title Screen. Is this OK?%N%SYes%n  /  %n%SNo
 ;;3;H
 
 ;;27;|ƒV[ƒ“ƒ^ƒCƒgƒ‹ƒŠƒXƒg|
-| Scene Titles List |
+| Scenes List |
 ;;7;|||
 
 ;;27;|‚o‚Œ‚‚™‚‰‚‚‡‡S‚k‚‚‡|
@@ -167,7 +167,7 @@ Returning to the Title Screen. Is this OK?%N%SYes%n  /  %n%SNo
 ;;15;‡SƒGƒ“ƒfƒBƒ“ƒO
 ‡SEnding
 ;;19;‡SƒV[ƒ“ƒ^ƒCƒgƒ‹
-‡SScene Title
+‡SScenes
 ;;7;‡S‚b‚f
 ‡SCG
 ;;15;‡S‚l‚‚–‚‰‚…
@@ -181,7 +181,7 @@ Returning to the Title Screen. Is this OK?%N%SYes%n  /  %n%SNo
 ;;11;‡S‘I‘ğˆ
 ‡SChoices
 ;;15;‡S‘ƒvƒŒƒCŠÔ
-‡STotal Played
+‡STotal played
 ;;31;‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X}{|^
 
 ;;67;––––––––––––––––––––––––––––––––
@@ -616,43 +616,43 @@ Clear the log?%N%SYes%n  /  %n%SNo
 ;;7;‚k‚–‚P
 
 ;;27;‚j‚h‚c‚¨q—lŒ€êE‘æ‚P‚P–‹
-
+‚j‚h‚c Children's TheatreEAct XI
 ;;7;‚k‚–‚Q
 
 ;;23;‰©ò–Ø‚©‚ç‚ÌƒƒbƒZ[ƒW
-
+Message from Yomogi
 ;;7;‚k‚–‚R
 
 ;;19;‘á‚©‚ç‚ÌƒƒbƒZ[ƒW
-
+Message from Mayuzumi
 ;;7;‚k‚–‚S
 
 ;;31;‚ä‚É‚©‚ç‚ÌƒƒbƒZ[ƒWE‚»‚Ì‚P
-
+Message from YuniENo.1
 ;;7;‚k‚–‚T
 
 ;;23;“àŠC‚©‚ç‚ÌƒƒbƒZ[ƒW
-
+Message from Utsumi
 ;;7;‚k‚–‚U
 
 ;;23;•ä’¹‚©‚ç‚ÌƒƒbƒZ[ƒW
-
+Message from Hotori
 ;;7;‚k‚–‚V
 
 ;;31;‚ä‚É‚©‚ç‚ÌƒƒbƒZ[ƒWE‚»‚Ì‚Q
-
+Message from YuniENo.2
 ;;7;‚k‚–‚W
 
 ;;23;‚±‚±‚ë‚©‚ç‚ÌƒƒbƒZ[ƒW
-
+Message from Kokoro
 ;;7;‚k‚–‚X
 
 ;;19;Œå‚©‚ç‚ÌƒƒbƒZ[ƒW
-
+Message from Satoru
 ;;7;‚k‚–‡
 
 ;;23;‚İ‚ñ‚È‚©‚ç‚ÌƒƒbƒZ[ƒW
-
+Message from everyone
 ;;3;H
 
 ;;27;ƒXƒNƒŠ[ƒ“ƒAƒWƒƒƒXƒgİ’è
