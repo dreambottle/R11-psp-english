@@ -11,6 +11,8 @@ Special Sequences
 
 %P - pagebreak
 
+%O - ??? %K%O in CO6_04
+
 %p - appears right before decision blocks.
 
 %V - ???

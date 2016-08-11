@@ -229,11 +229,12 @@ def pngsToRawGlyphBlock(blockSize, pngPath0, pngPath1):
   return rawData
 
 
-def autotrim(font):
+def autotrim(font, num_px):
   # a dumb automatic width trim.
   for i, v in enumerate(font.metadata):
     # if v['l'] < font.header.width: v['l'] += 1
-    if v['r'] > 0: v['r'] -= 2
+    # if v['r'] > 0: v['r'] -= 2
+    v['r'] += num_px
 
 
 def main():
@@ -245,7 +246,8 @@ def main():
     print('  autotrim [<FONT00.FNT>] - trims all spaces between letters by 1px on both sides')
     print('  repack <dir> - packs pngs and metadata in <dir> into a "%s" font file'%(REPACKEDPATH))
     exit(1)
-
+  
+  print(sys.argv[0])
   cmd = sys.argv[1]
   srcpath = sys.argv[2] if len(sys.argv) > 2 else 'FONT00.FNT'
   
@@ -255,10 +257,23 @@ def main():
     font = unpackFont(srcpath);
     writeMetadata(font, 'glyphs/{0}'.format(GLYPH_DATA_FILE))
     writePngs(font, firstHalfHack=(cmd == 'pnghalf'))
-  elif (cmd == 'autotrim'):
-    print('Autotrimming everything by 2 px', srcpath)
+  elif (cmd == 'meta'):
+    print('Extracting', srcpath, 'metadata file')
     font = unpackFont(srcpath);
-    autotrim(font)
+    writeMetadata(font, GLYPH_DATA_FILE)
+  elif (cmd == 'metatrim'):
+    trim_amount = int(sys.argv[3]) if len(sys.argv) > 3 else -1
+    print('trimming', srcpath, 'metadata file by', trim_amount, 'px')
+    # font = Font(*parseMetadata(srcpath), imageRawData=None, rawBytes=None)
+    header, metadata = parseMetadata(srcpath)
+    font = Font(header, metadata, imageRawData=None, rawBytes=None)
+    autotrim(font, trim_amount)
+    writeMetadata(font, GLYPH_DATA_FILE)
+  elif (cmd == 'autotrim'):
+    trim_amount = int(sys.argv[3]) if len(sys.argv) > 3 else -1
+    print('Autotrimming glyph widths by', trim_amount, 'px in glyph file:', srcpath)
+    font = unpackFont(srcpath);
+    autotrim(font, trim_amount)
     writeMetadata(font, GLYPH_DATA_FILE)
     print('Writing to', 'FONT00.MOD')
     packFont(font, 'FONT00.MOD')

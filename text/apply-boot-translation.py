@@ -33,8 +33,8 @@ text_area     = [0x12116c, 0x128698]
 def patch(bytearr, initial_text, new_text, max_size, last_pos):
   global reloc_pos
   relocate = False
-  if len(new_text)+1 > max_size:
-    print("{0}/{1} length in '{2}'.".format(len(new_text)+1, max_size, new_text))
+  if len(new_text) > max_size:
+    print("{0}/{1} length in '{2}'.".format(len(new_text), max_size, new_text))
     relocate = True
 
   pos = bytearr.find(initial_text + b'\x00', last_pos, text_area[1])
@@ -63,7 +63,11 @@ def patch(bytearr, initial_text, new_text, max_size, last_pos):
   return pos
 
 def patch_pos(bytearr, pos, text, max_len):
-  bytearr[pos:pos+max_len] = text.ljust(max_len, b'\x00')
+  if (len(text) > max_len):
+    cut = text[:max_len]
+    print("Cutting line", text, "->", cut)
+    text = cut
+  bytearr[pos:pos+max_len+1] = text.ljust(max_len+1, b'\x00')
 
 def main():
   # Warning: only works on a clean BOOT.BIN
@@ -102,7 +106,8 @@ def main():
     if (state == JA):
       m = jp_pattern.match(ln)
       if (m):
-        # off  = int(m.group(1), 16)
+        offstr = m.group(1)
+        off  = int(offstr, 16) if len(offstr)>0 else None
         size = int(m.group(2), 10)
         jap_text = m.group(3).strip(b'\r\n')
         # print("matched", size, jap_text)
@@ -116,10 +121,14 @@ def main():
         continue
       en_text = ln
       # print(jap_text, en_text, size)
-      res = patch(bin_bytes, jap_text, en_text, size, last_pos)
-      if res != -1: pos = res
+      if (off != None):
+        patch_pos(bin_bytes, off, en_text, size)
+        last_pos = off
       else:
-        exit("Cannot complete")
+        res = patch(bin_bytes, jap_text, en_text, size, last_pos)
+        if res != -1: last_pos = res
+        else:
+          exit("Cannot complete")
 
   
   f_bin=open(bin_out, "wb")

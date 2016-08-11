@@ -48,8 +48,6 @@ repack_mac_afs
 # Repack fonts
 repack_fonts () {
 	cd text/font
-	# python3 extract-font.py autotrim || exit 1;
-	# python3 extract-font.py pnghalf || exit 1;
 	mkdir -p ../../etc-en
 	cp -f glyphs-new/* glyphs/
 	python3 extract-font.py repack glyphs/ || exit 1;

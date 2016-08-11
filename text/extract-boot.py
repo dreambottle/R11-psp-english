@@ -11,7 +11,8 @@ def main():
     [0x121118, 0x1217d4],
     [0x121930, 0x1243d0],
     [0x12449c, 0x12465c],
-    [0x12483c, 0x128698]
+    [0x12483c, 0x128698],
+    [0x12b948, 0x12b9a4]
     ]
 
   path = sys.argv[1] if len(sys.argv) > 1 else "BOOT.BIN"

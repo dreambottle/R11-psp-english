@@ -313,7 +313,7 @@ Do you want to create a save data for%%N『Remember11 -the age of infinity-』?%%N
 ;;75;セーブデータを作成しています%%Nメモリースティック⑱を絶対抜かないでください
 Creating save data%%NPlease do not remove the Memory Stick⑱
 ;;63;セーブしなくてもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
-Cancel save?%%N%%SYes%%n  /  %%n%%SNo
+Cancel saving?%%N%%SYes%%n  /  %%n%%SNo
 ;;75;システムデータをセーブしてもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
 Save the system data?%%N%%SYes%%n  /  %%n%%SNo
 ;;75;システムデータをロードしてもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
@@ -613,47 +613,48 @@ Clear the log?%N%SYes%n  /  %n%SNo
 #;;7;▼回想
 #
 ##Voices:
-;;7;Ｌｖ１
+;12450c;7;Ｌｖ１
 
-;;27;ＫＩＤお子様劇場・第１１幕
-ＫＩＤ Children's Theatre・Act XI
-;;7;Ｌｖ２
+;124514;27;ＫＩＤお子様劇場・第１１幕
+Children's Theatre・Act XI
+#ＫＩＤ Children's Theatre・Act XI
+;124530;7;Ｌｖ２
 
-;;23;黄泉木からのメッセージ
+;124538;23;黄泉木からのメッセージ
 Message from Yomogi
-;;7;Ｌｖ３
+;124550;7;Ｌｖ３
 
-;;19;黛からのメッセージ
+;124558;19;黛からのメッセージ
 Message from Mayuzumi
-;;7;Ｌｖ４
+;12456c;7;Ｌｖ４
 
-;;31;ゆにからのメッセージ・その１
+;124574;31;ゆにからのメッセージ・その１
 Message from Yuni・No.1
-;;7;Ｌｖ５
+;124594;7;Ｌｖ５
 
-;;23;内海からのメッセージ
+;12459c;23;内海からのメッセージ
 Message from Utsumi
-;;7;Ｌｖ６
+;1245b4;7;Ｌｖ６
 
-;;23;穂鳥からのメッセージ
+;1245bc;23;穂鳥からのメッセージ
 Message from Hotori
-;;7;Ｌｖ７
+;1245d4;7;Ｌｖ７
 
-;;31;ゆにからのメッセージ・その２
+;1245dc;31;ゆにからのメッセージ・その２
 Message from Yuni・No.2
-;;7;Ｌｖ８
+;1245fc;7;Ｌｖ８
 
-;;23;こころからのメッセージ
+;124604;23;こころからのメッセージ
 Message from Kokoro
-;;7;Ｌｖ９
+;12461c;7;Ｌｖ９
 
-;;19;悟からのメッセージ
+;124624;19;悟からのメッセージ
 Message from Satoru
-;;7;Ｌｖ∞
+;124638;7;Ｌｖ∞
 
-;;23;みんなからのメッセージ
+;124640;23;みんなからのメッセージ
 Message from everyone
-;;3;？
+;124658;3;？
 
 ;;27;スクリーンアジャスト設定
 Screen adjustment
@@ -1073,3 +1074,12 @@ Update%NScene title%NTimes of Day
 ;128688;7;⑳・
 
 ;128690;7;なし
+
+## Unbreakable symbols. Without patch, expects ",#.#a#b#c#" for ascii (2 bytes, trailing #).
+## With ascii patch will compare every byte as is.
+## The following symbols dont allow a line break right before them
+;12b948;71;、。」）＞】｝”っゃゅょぁぃぅぇぉッャュョァィゥェォ！？ー♪☆』～》
+,.!?abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ)]@&
+## The following symbols dont allow a line break right after them
+;12b990;19;「（＜【｛“『《
+([
