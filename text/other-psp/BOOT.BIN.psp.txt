@@ -718,17 +718,17 @@ Set the sound output method.
 ;;23;テキストスピード設定
 Text display time
 ;;7;速度
-Time
+Ms
 ;;51;テキストを表示する際の速度を変更する事ができます。
-Set the text display speed (lower is faster).
+Set the character display time (lower is faster).
 ;;47;テキストを表示する際の速度を設定してください。
-Set the text display speed (lower is faster).
+Set the character display time (lower is faster).
 ;;159;⑨文字を表示する際の表示速度を%N⑨変更する事ができます。%N⑨設定バーを大きくすると、%N⑨文字の表示速度が遅くなります。%N⑨０に設定すると一括表示になります。
 
 ;;31;テキストとボイスのシンクロ設定
 Text and voice synchronization
 ;;31;シンクロする%Nシンクロしない
-Not synchronized%NSynchronized
+Synchronized%NNot synchronized
 ;;75;ボイス付きテキストの表示速度をボイスの長さとシンクロさせる事ができます。
 Select the synchronization of the voice with text.
 ;;51;ボイス付きテキストの表示速度を設定してください。
