@@ -4,7 +4,7 @@
 .open "BOOT.BIN.patched", 0x08803F60
 
 .orga 0x761c
-	.area 4
+.area 4
 	; Home menu language:
 	; 0 - ja
 	; 1 - eng
@@ -25,7 +25,7 @@
 	addiu a2, v0, -0x1
 .endarea
 
-; Fix the text bug for "All Choices:". (Inlined strcpy)
+; Fix the text bug for "All Choices:". (Inlined strcpy didn't copy the last char)
 .org 0x8828084
 .area 4*3, 0
 	lw    v0, 0x14(v1)
@@ -48,16 +48,16 @@
 	addiu v0, v1, @FontSpacing
 
 
-; Comparator with a string of unbreakable symbols. Rewrote it to only check the 1st ascii byte.
+; Comparator for a string of unbreakable symbols. Rewrote it to only check the 1st ascii byte.
 ; returns v0: 1 - if matched, 0 - not matched
 .org 0x881A984
 .area 4*18, 0
 	lb	a2, 0x0(a0)
 	addiu a0, a2, -0x80
 	bgez a0, @@NotMatched   ;don't even try to match jap symbols
-	nop
+	nop  ;next  instruction is compiled wrong if removed
 	lb	v0, 0x0(a1)
-.resetdelay
+	.resetdelay
 @@CheckNext:
 	beq	v0,zero, @@NotMatched
 	addiu a1, a1,1
@@ -71,5 +71,12 @@
 	li	v0,0
 .endarea
 
+; Increases the size of the glyph buffer for choice lines from 22 to 44
+; (Caused some choice lines to be overwritten by the following ones)
+.org 0x0881FE54
+.area 4*2, 0
+	sll	v0,a2,0x6
+	sll	a2,a2,0x2
+.endarea
 
 .close
