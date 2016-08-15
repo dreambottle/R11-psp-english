@@ -55,8 +55,6 @@
 	lbu	a2, 0x0(a0)
 	lbu	v1, 0x0(a1)
 @@CheckNext:
-	nop
-	nop
 	beq	v1,zero, @@NotMatched
 	addiu a1, a1,1
 	bnel v1,a2, @@CheckNext
@@ -77,6 +75,10 @@ HACK_00:
 	j	HACK_00_RETURN
 	nop
 .endarea
+; Clear the relocation entry for the jump at 0x0881A990 (4th instruction in the original subroutine)
+; Can be worked around, but it's safer this way.  
+.orga 0x1518D4
+	.word 0x0
 
 ; menu glyph spacing, depending (somewhat) on scale
 .org 0x08866908
