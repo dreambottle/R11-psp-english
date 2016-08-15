@@ -657,17 +657,17 @@ Message from everyone
 ;124658;3;H
 
 ;;27;ƒXƒNƒŠ[ƒ“ƒAƒWƒƒƒXƒgİ’è
-Screen adjustment
+Screen position
 ;;11;‚xÀ•WF
 Y coord:
 ;;51;ƒQ[ƒ€’†‚Ì‰æ–Ê‚Ì•\¦ˆÊ’u‚ğ’²®‚·‚é–‚ª‚Å‚«‚Ü‚·B
 Adjust the game screen position.
 ;;47;•ûŒüƒL[‚Å‰æ–Ê‚Ì•\¦ˆÊ’u‚ğ’²®‚µ‚Ä‚­‚¾‚³‚¢B
-Adjust the screen using the arrow keys.
+Adjust the position using the arrow keys.
 ;;187;‡HƒQ[ƒ€’†‚Ì‰æ–Ê‚Ì•\¦ˆÊ’u‚ğ’²®‚·‚é–‚ª%N‡H‚Å‚«‚Ü‚·B%N%N‡H¦ƒQ[ƒ€’†‚ÌƒeƒLƒXƒgƒEƒBƒ“ƒhƒE‚Ì‚İ%N‡H‡HˆÊ’u’²®‚ğs‚¤ê‡‚ÍA%N‡H‡HwƒEƒBƒ“ƒhƒEƒAƒWƒƒƒXƒgİ’èx‚Å%N‡H‡H’²®‚·‚é–‚ª‚Å‚«‚Ü‚·B
 
 ;;27;ƒEƒBƒ“ƒhƒEƒAƒWƒƒƒXƒgİ’è
-Window adjustment settings
+Text window position
 ;;47;ƒeƒLƒXƒgƒEƒBƒ“ƒhƒE‚Ì•\¦ˆÊ’u‚ğ’²®‚Å‚«‚Ü‚·B
 Adjust the position of the text window.
 ;;59;•ûŒüƒL[‚ÅƒeƒLƒXƒgƒEƒBƒ“ƒhƒE‚Ì•\¦ˆÊ’u‚ğ’²®‚µ‚Ä‚­‚¾‚³‚¢B
@@ -689,9 +689,9 @@ Window opacity
 ;;11;ƒAƒ‹ƒtƒ@
 Alpha
 ;;55;ƒEƒBƒ“ƒhƒE‚ÌƒAƒ‹ƒtƒ@’li•s“§‰ß“xj‚ğİ’è‚Å‚«‚Ü‚·B%N
-Set the alpha value (opacity) of the window.%N
+Set the opacity (alpha value) of the windows.%N
 ;;59;ƒEƒBƒ“ƒhƒE‚ÌƒAƒ‹ƒtƒ@’li•s“§‰ß“xj‚ğİ’è‚µ‚Ä‚­‚¾‚³‚¢B%N
-Set the alpha value (opacity) of the window.%N
+Set the opacity (alpha value) of the windows.%N
 ;;123;‡HƒEƒBƒ“ƒhƒE‚ÌƒAƒ‹ƒtƒ@’li•s“§‰ß“xj‚ğ%N‡Hİ’è‚Å‚«‚Ü‚·B%N‡Hİ’èƒo[‚Ì”’l‚ğ‘å‚«‚­‚·‚é‚ÆA%N‡HƒEƒBƒ“ƒhƒE‚ª”Z‚­‚È‚è‚Ü‚·B
 
 ;;19;ƒTƒEƒ“ƒho—Íİ’è
@@ -720,9 +720,9 @@ Text display time
 ;;7;‘¬“x
 Ms
 ;;51;ƒeƒLƒXƒg‚ğ•\¦‚·‚éÛ‚Ì‘¬“x‚ğ•ÏX‚·‚é–‚ª‚Å‚«‚Ü‚·B
-Set the character display time (lower is faster).
+Set the text display time (lower is faster).
 ;;47;ƒeƒLƒXƒg‚ğ•\¦‚·‚éÛ‚Ì‘¬“x‚ğİ’è‚µ‚Ä‚­‚¾‚³‚¢B
-Set the character display time (lower is faster).
+Set the text display time (lower is faster).
 ;;159;‡H•¶š‚ğ•\¦‚·‚éÛ‚Ì•\¦‘¬“x‚ğ%N‡H•ÏX‚·‚é–‚ª‚Å‚«‚Ü‚·B%N‡Hİ’èƒo[‚ğ‘å‚«‚­‚·‚é‚ÆA%N‡H•¶š‚Ì•\¦‘¬“x‚ª’x‚­‚È‚è‚Ü‚·B%N‡H‚O‚Éİ’è‚·‚é‚ÆˆêŠ‡•\¦‚É‚È‚è‚Ü‚·B
 
 ;;31;ƒeƒLƒXƒg‚Æƒ{ƒCƒX‚ÌƒVƒ“ƒNƒİ’è
@@ -736,9 +736,9 @@ Select the synchronization of the voice with text.
 ;;187;‡Hƒ{ƒCƒX•t‚«‚ÌƒeƒLƒXƒg‚Ì•\¦‘¬“x‚ğ%N‡Hƒ{ƒCƒX‚Ì’·‚³‚ÉƒVƒ“ƒNƒ‚³‚¹‚é–‚ª‚Å‚«‚Ü‚·B%N‡HgƒVƒ“ƒNƒ‚·‚éh‚Éİ’è‚µ‚½ê‡A%N‡Hƒ{ƒCƒX•t‚«ƒeƒLƒXƒg‚Í%N‡HwƒeƒLƒXƒgƒXƒs[ƒhİ’èx‚ª“K—p‚³‚ê‚Ü‚¹‚ñB
 
 ;;31;ƒI[ƒgƒvƒŒƒC‚ÌƒCƒ“ƒ^[ƒoƒ‹İ’è
-Auto Play interval
+Auto Play delay
 ;;7;ŠÔŠu
-Interv
+Delay
 ;;71;ƒI[ƒgƒvƒŒƒCÀsAƒeƒLƒXƒg‚Ì©“®ƒy[ƒW‘—‚è‚ğ‚·‚éŠÔŠu‚ğİ’è‚Å‚«‚Ü‚·B
 
 ;;75;ƒI[ƒgƒvƒŒƒCÀs‚ÌƒeƒLƒXƒg‚Ì©“®ƒy[ƒW‘—‚è‚ğ‚·‚éŠÔŠu‚ğİ’è‚µ‚Ä‚­‚¾‚³‚¢B
@@ -830,7 +830,7 @@ Normal%NAuto Play%NSkip Mode
 ;;19;ƒNƒCƒbƒNƒZ[ƒuİ’è
 Quick Save
 ;;39;‘I‘ğˆ%NƒV[ƒ“ƒ^ƒCƒgƒ‹%NƒQ[ƒ€I—¹
-Choices%NScene title%NEnd of the game
+Choice%NScene change%NEnd of the game
 ;;63;©“®“I‚ÉƒNƒCƒbƒNƒZ[ƒu‚ªÀs‚³‚ê‚éğŒ‚ğİ’è‚·‚é–‚ª‚Å‚«‚Ü‚·B
 
 ;;59;©“®“I‚ÉƒNƒCƒbƒNƒZ[ƒu‚ªÀs‚³‚ê‚éğŒ‚ğİ’è‚µ‚Ä‚­‚¾‚³‚¢B
@@ -912,9 +912,9 @@ Voice%NEffects%NBGM%NMovies%NSystem
 ;;155;‡HƒQ[ƒ€’†‚Ég—p‚³‚ê‚Ä‚¢‚éŠeƒTƒEƒ“ƒh‚Ì%N‡Hƒ{ƒŠƒ…[ƒ€‚ğ•ÏX‚·‚é–‚ª‚Å‚«‚Ü‚·B%N‡Hgƒ{ƒCƒXh‚ÆgŒø‰Ê‰¹h‚Ìİ’è•ÏX’†‚Í%N‡H¢ƒ{ƒ^ƒ“‚ğ‰Ÿ‚·‚ÆA’®‚ª‚Å‚«‚Ü‚·B
 
 ;;27;ƒeƒLƒXƒgƒƒOƒŠƒZƒbƒgİ’è
-Text Log reset
+Text log clearing
 ;;115;ƒŠƒZƒbƒg‚µ‚È‚¢%NƒQ[ƒ€ŠJn^ÄŠJ‚É‘S‚ÄƒŠƒZƒbƒg%NƒƒOƒ[ƒh‚É‘S‚ÄƒŠƒZƒbƒg%NƒƒOƒ[ƒh‚Éƒ[ƒhˆÈ~‚ğƒŠƒZƒbƒg
-Do not reset%NReset when game is started/resumed%NReset when loading from log%NƒƒOƒ[ƒh‚Éƒ[ƒhˆÈ~‚ğƒŠƒZƒbƒg
+Do not clear%NClear when the game is loaded%NClear when loading from log%NClear to the point of loading from log
 ;;75;ƒQ[ƒ€ŠJn^ÄŠJ‚ÉƒeƒLƒXƒgƒƒO‚ğƒŠƒZƒbƒg‚·‚é“®ì‚ğİ’è‚·‚é–‚ª‚Å‚«‚Ü‚·B
 
 ;;71;ƒQ[ƒ€ŠJn^ÄŠJ‚ÉƒeƒLƒXƒgƒƒO‚ğƒŠƒZƒbƒg‚·‚é“®ì‚ğİ’è‚µ‚Ä‚­‚¾‚³‚¢B
@@ -922,7 +922,7 @@ Do not reset%NReset when game is started/resumed%NReset when loading from log%Nƒ
 ;;431;‡HEƒQ[ƒ€ŠJn^ÄŠJ‚É‘S‚ÄƒŠƒZƒbƒgcc%N‡H‡Hƒjƒ…[ƒQ[ƒ€Aƒ[ƒhAƒNƒCƒbƒNƒ[ƒh%N‡H‡H‚È‚Ç‚ÌƒQ[ƒ€‚ğŠJn^ÄŠJ‚·‚é‚É%N‡H‡H‘S‚Ä‚ÌƒeƒLƒXƒgƒƒO‚ªƒŠƒZƒbƒg‚³‚ê‚Ü‚·B%N‡HEƒƒOƒ[ƒh‚É‘S‚ÄƒŠƒZƒbƒgcc%N‡H‡HƒeƒLƒXƒgƒƒO‚©‚çƒ[ƒh‚µ‚½ê‡‚Ì‚İ%N‡H‡H‘S‚Ä‚ÌƒeƒLƒXƒgƒƒO‚ªƒŠƒZƒbƒg‚³‚ê‚Ü‚·B%N‡HEƒƒOƒ[ƒh‚Éƒ[ƒhˆÈ~‚ğƒŠƒZƒbƒgcc%N‡H‡HƒeƒLƒXƒgƒƒO‚©‚çƒ[ƒh‚µ‚½ê‡‚Ì‚İ%N‡H‡Hƒ[ƒh‚µ‚½ˆÈ~‚ÌƒeƒLƒXƒgƒƒO‚ª%N‡H‡HƒŠƒZƒbƒg‚³‚ê‚Ü‚·B
 
 ;;27;ƒNƒCƒbƒNƒZ[ƒuƒŠƒZƒbƒgİ’è
-Quick Save reset
+Quick save resetting
 ;;123;ƒŠƒZƒbƒg‚µ‚È‚¢%NƒQ[ƒ€ŠJn^ÄŠJ‚É‘S‚ÄƒŠƒZƒbƒg%NƒNƒCƒbƒNƒ[ƒh‚É‘S‚ÄƒŠƒZƒbƒg%NƒNƒCƒbƒNƒ[ƒh‚Éƒ[ƒhˆÈ~‚ğƒŠƒZƒbƒg
 Do not reset%NReset when game is started/resumed%NƒNƒCƒbƒNƒ[ƒh‚É‘S‚ÄƒŠƒZƒbƒg%NƒNƒCƒbƒNƒ[ƒh‚Éƒ[ƒhˆÈ~‚ğƒŠƒZƒbƒg
 ;;87;ƒQ[ƒ€ŠJn^ÄŠJ‚ÉƒNƒCƒbƒNƒZ[ƒu‚Ìƒf[ƒ^‚ğƒŠƒZƒbƒg‚·‚é“®ì‚ğİ’è‚·‚é–‚ª‚Å‚«‚Ü‚·B
@@ -1040,7 +1040,7 @@ Volume
 ;;15;î•ñ•\¦İ’è
 Info display
 ;;35;‚t‚‚„‚‚”‚…%NƒV[ƒ“ƒ^ƒCƒgƒ‹%N
-Update%NScene title%NTimes of Day
+Update%NScene title%NTime
 ;;43;ƒQ[ƒ€’†‚Ìî•ñ•\¦‚ğİ’è‚·‚é–‚ª‚Å‚«‚Ü‚·B
 
 ;;39;ƒQ[ƒ€’†‚Ìî•ñ•\¦‚ğİ’è‚µ‚Ä‚­‚¾‚³‚¢B
@@ -1079,7 +1079,7 @@ Update%NScene title%NTimes of Day
 ## With ascii patch will compare every byte as is.
 ## The following symbols dont allow a line break right before them
 ;12b948;71;ABvj„zph‚Á‚á‚ã‚å‚Ÿ‚¡‚£‚¥‚§ƒbƒƒƒ…ƒ‡ƒ@ƒBƒDƒFƒHIH[ô™x`t
-,.!?abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ)]@&
+,.!?abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ)]@&'"
 ## The following symbols dont allow a line break right after them
 ;12b990;19;uiƒyogws
 ([
