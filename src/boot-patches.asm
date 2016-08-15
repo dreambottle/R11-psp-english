@@ -36,7 +36,7 @@
 
 ; Decrease spacing between characters in scene texts (originally 2 px)
 ; (Doesn't apply to menus, choice texts, history)
-@FontSpacing equ 0x1
+@FontSpacing equ 0x0
 ; .org 0x881AA9C - width calc subroutine address
 .org 0x881AAF4
 ;	nop
@@ -50,25 +50,41 @@
 
 ; Comparator for a string of unbreakable symbols. Rewrote it to only check the 1st ascii byte.
 ; returns v0: 1 - if matched, 0 - not matched
-.org 0x881A984
+.org 0x0881A984
 .area 4*18, 0
-	lb	a2, 0x0(a0)
-	addiu a0, a2, -0x80
-	bgez a0, @@NotMatched   ;don't even try to match jap symbols
-	nop  ;next  instruction is compiled wrong if removed
-	lb	v0, 0x0(a1)
-	.resetdelay
+	lbu	a2, 0x0(a0)
+	lbu	v1, 0x0(a1)
 @@CheckNext:
-	beq	v0,zero, @@NotMatched
+	nop
+	nop
+	beq	v1,zero, @@NotMatched
 	addiu a1, a1,1
-	bnel v0,a2, @@CheckNext
-	lb	v0, 0x0(a1)
+	bnel v1,a2, @@CheckNext
+	lbu	v1, 0x0(a1)
 @@Matched:
 	jr	ra
 	li	v0,0x1
 @@NotMatched:
 	jr	ra
 	li	v0,0
+
+HACK_00:
+	addiu t1, a3, -0x1000
+	bgez t1, @@Ret
+	li	t1, 1
+	li	t1, 2
+@@Ret:
+	j	HACK_00_RETURN
+	nop
+.endarea
+
+; menu glyph spacing, depending (somewhat) on scale
+.org 0x08866908
+.area 4*2
+	;li	t1, 2	;<-original
+	j	HACK_00
+	li	t2, 2
+HACK_00_RETURN:
 .endarea
 
 ; Increases the size of the glyph buffer for choice lines from 22 to 44
