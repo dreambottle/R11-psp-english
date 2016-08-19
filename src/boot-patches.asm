@@ -69,8 +69,8 @@
 HACK_00:
 	addiu t1, a3, -0x1000
 	bgez t1, @@Ret
-	li	t1, 1
 	li	t1, 2
+	li	t1, 3
 @@Ret:
 	j	HACK_00_RETURN
 	nop
@@ -80,14 +80,19 @@ HACK_00:
 .orga 0x1518D4
 	.word 0x0
 
+
 ; menu glyph spacing, depending (somewhat) on scale
 .org 0x08866908
 .area 4*2
 	;li	t1, 2	;<-original
-	j	HACK_00
+	j	HACK_00  ; uses free space from a different subroutine
 	li	t2, 2
 HACK_00_RETURN:
 .endarea
+; do not multiply the value by 2
+.org 0x08866570
+	sll fp, t1, 0
+
 
 ; Increases the size of the glyph buffer for choice lines from 22 to 44
 ; (Caused some choice lines to be overwritten by the following ones)
