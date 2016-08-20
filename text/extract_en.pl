@@ -54,7 +54,7 @@ while(<>) {
         my $trailing = $3;
         if($speaker) {
             $speaker =~ s/\x{300c}$//;
-            $line .= join ", ", map {$name{$_} || $_} split /\x{30fb}/, $speaker;
+            $line .= join ",", map {$name{$_} || $_} split /\x{30fb}/, $speaker;
             $line .= "\x{300c}";
         }
         if($_ =~ /"/ and $speaker eq "" and $trailing =~ s/\x{300d}[\x{3000}-\x{ffff}]+//) {

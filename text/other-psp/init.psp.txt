@@ -48,19 +48,19 @@ Pilot
 ;117c;12;RŠx‹~•‘àˆõ
 
 ;1180;16;‚ä‚ÉE‰©ò–ØE‘á
-Yuni, Yomogi, Mayuzumi
+Yuni,Yomogi,Mayuzumi
 
 ;1184;16;‚±‚±‚ëE‚ä‚ÉE‘á
-Kokoro, Yuni, Mayuzumi
+Kokoro,Yuni,Mayuzumi
 
 ;1188;16;‚ä‚ÉE•ä’¹E“àŠC
-Yuni, Hotori, Utsumi
+Yuni,Hotori,Utsumi
 
 ;118c;14;‚ä‚ÉEŒåE•ä’¹
-Yuni, Satoru, Hotori
+Yuni,Satoru,Hotori
 
 ;1190;10;‰©ò–ØE‘á
-Yomogi, Mayuzumi
+Yomogi,Mayuzumi
 
 ;1194;6;¹–ç
 
@@ -6394,7 +6394,6 @@ Arrangements: Isoe Toshimichi    Vocals: Minagawa Junko
 ;4410;12;‰ÌF‹{è‰Hˆß
 ;dupe:4400
 ;4414;20;||||||||||
-----------
 
 ;4418;0;
 ;dupe:1230
@@ -7323,7 +7322,7 @@ Lyrics/Composition: Shikura Chiyomaru
 ;6f84;13;MOV_END01.PMF
 
 ;74c8;2;ƒA
-
+A
 ;74d0;2;ƒJ
 
 ;74d8;2;ƒT
