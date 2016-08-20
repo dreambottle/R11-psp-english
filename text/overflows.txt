@@ -108,22 +108,6 @@ CO6_02.txt
 CO6_03.txt
 Line 18: 469 chars in last 3 lines.
 CO6_04.txt
-Line 156: 444 chars in last 10 lines.
-Line 157: 475 chars in last 11 lines.
-Line 158: 511 chars in last 12 lines. May cause buffer overflow!
-'I listened on as Satoru, not myself.'
-Line 159: 556 chars in last 13 lines. May cause buffer overflow!
-'I was Satoru in these moments alone with her.'
-Line 160: 575 chars in last 14 lines. May cause buffer overflow!
-'I watched Mayuzumi.'
-Line 161: 633 chars in last 15 lines. May cause buffer overflow!
-'It was there in one of her white, small, well-shaped ears.'
-Line 162: 650 chars in last 16 lines. May cause buffer overflow!
-'A simple earring.'
-Line 163: 686 chars in last 17 lines. May cause buffer overflow!
-'Could this be a present from Satoru?'
-Line 164: 732 chars in last 18 lines. May cause buffer overflow!
-'I slowly reached out and touched that earring.'
 CO6_05.txt
 CO7_01.txt
 CO7_02.txt
@@ -146,8 +130,7 @@ SA1_02.txt
 SA1_03.txt
 Line 207: 417 chars in last 4 lines.
 Line 208: 461 chars in last 5 lines.
-Line 259: 482 chars in last 4 lines. May cause buffer overflow!
-'I derived only the general concept of my body, and decided to just input that information into my brain.'
+Line 259: 478 chars in last 4 lines.
 SA1_04.txt
 SA1_05.txt
 SA1_06.txt
@@ -167,8 +150,7 @@ Line 167: 461 chars in last 6 lines.
 SA2_02.txt
 Line 163: 418 chars in last 4 lines.
 Line 167: 417 chars in last 4 lines.
-Line 168: 507 chars in last 5 lines. May cause buffer overflow!
-'Speculations flew, even including those that accredited the crash to something paranormal.'
+Line 171: 441 chars in last 4 lines.
 Line 175: 455 chars in last 4 lines.
 Line 181: 441 chars in last 6 lines.
 Line 191: 408 chars in last 5 lines.
@@ -179,8 +161,8 @@ SA2_05.txt
 Line 56: 424 chars in last 5 lines.
 Line 64: 411 chars in last 4 lines.
 Line 65: 477 chars in last 5 lines.
-Line 70: 499 chars in last 5 lines. May cause buffer overflow!
-'So if we were to believe what they said, then we have no choice but to accept that your consciousness and mine are coming and going between each other's bodies.'
+Line 73: 414 chars in last 4 lines.
+Line 74: 443 chars in last 5 lines.
 Line 79: 430 chars in last 5 lines.
 Line 88: 413 chars in last 6 lines.
 SA2_06.txt
@@ -188,8 +170,7 @@ SA2_07.txt
 SA2_08.txt
 SA2_09.txt
 Line 647: 468 chars in last 5 lines.
-Line 652: 483 chars in last 5 lines. May cause buffer overflow!
-'It may actually be a personality exchange, but because the two possessed the same DNA, it wouldn't be too difficult to consider it a time-only jump.'
+Line 652: 480 chars in last 5 lines.
 Line 658: 418 chars in last 6 lines.
 SA2_10.txt
 SA2_11.txt
@@ -216,8 +197,7 @@ SA3_14.txt
 SA3_15.txt
 SA4_01.txt
 Line 14: 424 chars in last 4 lines.
-Line 18: 492 chars in last 4 lines. May cause buffer overflow!
-'If I strive to see it as a whole, I lose sight of the details. And if I try to narrow my field of vision and study a particular point, I lose my perspective on the essentials of the whole thing....'
+Line 23: 453 chars in last 6 lines.
 Line 57: 420 chars in last 5 lines.
 Line 87: 473 chars in last 5 lines.
 SA4_02.txt
@@ -225,9 +205,8 @@ SA4_03.txt
 SA4_04.txt
 Line 181: 469 chars in last 5 lines.
 Line 188: 441 chars in last 7 lines.
-Line 223: 426 chars in last 4 lines.
-Line 224: 481 chars in last 5 lines. May cause buffer overflow!
-'He was covered in scratches and scrapes all year round.'
+Line 223: 424 chars in last 4 lines.
+Line 224: 479 chars in last 5 lines.
 SA4_05.txt
 SA4_06.txt
 SA4_07.txt
@@ -240,10 +219,6 @@ SA4_13.txt
 Line 112: 424 chars in last 4 lines.
 Line 132: 417 chars in last 5 lines.
 SA5_01.txt
-Line 77: 430 chars in last 11 lines.
-Line 78: 462 chars in last 12 lines.
-Line 79: 511 chars in last 13 lines. May cause buffer overflow!
-'What had Kokoro drunk―or been forced to drink...?'
 Line 90: 433 chars in last 6 lines.
 SA5_02.txt
 SA5_03.txt

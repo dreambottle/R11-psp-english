@@ -663,7 +663,9 @@ So he squeezed both eyes shut in an attempt to look gallant.
 "That's why I said that bikes were faster!"
 
 小学校にあがる頃には、手放し運転ができるまでになっていた。%K%N
-By the time he'd started elementary school, he could even ride it with no hands.
+By the time he started elementary school, he could even ride it with no hands.
+//By the time he'd started elementary school, he could even ride it with no hands.
+//(Buffer overflow fix)
 
 坂道を下るときにも、車とすれ違うときにも、それをやめなかった。%K%N
 Even when going downhill, even when passing a car, he wouldn't stop.

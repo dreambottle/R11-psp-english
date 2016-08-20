@@ -499,10 +499,10 @@ For about a week, the state of the investigation remained unchanged: "The wherea
 Even among the other plane crash incidents that happened in our country, this was an exception among exceptions, an unprecedented event.
 
 『忽然と姿を消してしまったＨＡＬ１８便』――機体が見つかるまでのその１週間、日本国中が騒然となった。%K%N
-"The sudden disappearance of Flight HAL18"――during the week before the airframe was found, Japan was in an uproar.
+"The sudden disappearance of Flight HAL18"――during the week before the airframe was found, Japan was in an uproar.%K%P
 
 オカルトまがいの解釈も含めて、あれやこれやと憶測が飛び交った。%K%P
-Speculations flew, even including those that accredited the crash to something paranormal.
+Speculations flew, even including those that accredited the crash to something paranormal.%K%N
 
 日本海に墜落したのではないか、某国の戦闘機に撃墜されたのではないか、地対空ミサイルの誤射だったのではないか、%K%N
 It might've crashed into the Sea of Japan! Or been shot down by a fighter plane from a certain country! No, it was accidentally hit by a ground-to-air missile!

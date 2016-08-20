@@ -774,7 +774,9 @@ We're programmed to naturally think that "the me of ten years ago and the me of 
 Yet in practice, both physically and mentally, the two are almost completely different.
 
 同じようにオレも、目覚める前の自分と、今の自分が、同一のものであると思い込んでいた。%K%N
-In much the same way, I too was convinced that the me of before and the me of the present were identical.
+In much the same way, I was convinced that the me of before and the me of the present were identical.
+//In much the same way, I too was convinced that the me of before and the me of the present were identical.
+//(Preventing a buffer overflow)
 
 だから手足や服装を垣間見ても、それは『自分というものを構成する要素のうちのひとつだ』としか認識されなかったのだろう。%K%N
 Therefore, even if my foot or a part of my clothing entered my field of vision, I didn't recognize them as anything other than "one of the components which makes up that which I think of as myself."

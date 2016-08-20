@@ -1966,7 +1966,8 @@ But in terms of genes, they were the same individual.
 That's why, regarding Yuni, it would probably be okay to omit the "personality exchange phenomenon" concept.
 
 実際には人格交換したのだろうが、両者のＤＮＡは同一なのだから、単に時間跳躍しただけだと考えても支障ないだろうということだ。%K%P
-It may actually be a personality exchange, but because the two possessed the same DNA, it wouldn't be too difficult to consider it a time-only jump.
+It may actually be a personality exchange, but because both possessed the same DNA, it wouldn't be too difficult to consider it a time-only jump.
+//It may actually be a personality exchange, but because the two possessed the same DNA, it wouldn't be too difficult to consider it a time-only jump.
 
 さて、そこでだ。%K%N
 Well then, that's the question.
