@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# a slower version of extract-init-bin-tables, which searches the text
-# references, instead of doing a table lookup.
-
 import sys
 import re
 

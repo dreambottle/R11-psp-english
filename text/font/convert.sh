@@ -4,7 +4,9 @@
 # This script below helps to batch-convert any png to proper format using ImageMagick 'convert' tool.
 # Use it on your fonts or just for reference.
 
+# imagemagick version 7 is recommended
+
 # input files directory
 SRC="misc/glyphs"
 # outputs to glyphs-new/
-ls $SRC | xargs -I{} convert "$SRC/{}" -colorspace Gray -depth 2 -define png:bit-depth=2 -define png:exclude-chunks=date glyphs-new/{}
+ls $SRC | xargs -I{} convert "$SRC/{}" -colorspace Gray -depth 2 -define png:bit-depth=2 -define png:exclude-chunks=date,time glyphs-new/{}
