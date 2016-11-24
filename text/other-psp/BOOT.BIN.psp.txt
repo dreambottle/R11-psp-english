@@ -1079,7 +1079,7 @@ Update%NScene title%NTime
 ## With ascii patch will compare every byte as is.
 ## The following symbols dont allow a line break right before them
 ;12b948;71;、。」）＞】｝”っゃゅょぁぃぅぇぉッャュョァィゥェォ！？ー♪☆』～》
-,.!?abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ)]@&'";:
+,.!?abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ)];:1234567890"
 ## The following symbols dont allow a line break right after them
 ;12b990;19;「（＜【｛“『《
-([
+([@&'"

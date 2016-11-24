@@ -800,10 +800,10 @@ With Kokoro's consciousness controlling it, "my body" left the building once and
 It rushed over to the door, then suddenly looked up, as though surprised.
 
 恐る恐る部屋を離れ、ダイニングを通り過ぎ、再び地下倉庫へと降りていった。%K%N
-Timidly, it left the room, passed through the dining area, and then once again descended the stairs to the basement storeroom.
+Timidly, it left the room, passed through the dining area, and then once again descended the stairs to the basement storeroom.%K%P
 
 待ちかまえていたかのように、榎本がオレの肩を突き飛ばした。%K%P
-As though he'd been waiting for me, Enomoto's hand shot out and made contact with my shoulder.
+As though he'd been waiting for me, Enomoto's hand shot out and made contact with my shoulder.%K%N
 
 倒れる『オレの身体』……。%K%N
 "My body" fell....

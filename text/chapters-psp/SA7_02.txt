@@ -753,10 +753,10 @@ I found this interval until the next transfer simply too short.
 Based on this, let's try thinking about the events that occurred on the 11th, "between 8:02 PM and 9:08 PM."
 
 こちらの方は６６分間もあった。%K%P
-This interval is 66 minutes long too.
+This interval is 66 minutes long too.%K%N
 
 このとき初めて避難小屋が青鷺島に飛ばされてきた。%K%N
-That was when the shelter cabin was teleported to Aosagi Island for the first time.
+That was when the shelter cabin was teleported to Aosagi Island for the first time.%K%P
 
 オレは転移現象のことにはまったく思い至らず、状況が把握できずにうろたえるばかりだった。%K%N
 Completely oblivious to the exchange phenomenon, I was confused and unable to figure out what was going on around me.
