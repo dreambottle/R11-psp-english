@@ -15,7 +15,7 @@ saveas = "tips.init.psp.txt"
 
 Tip = namedtuple("Tip", "i, ipsp, jpname, enname, lines")
 
-def fix_sjis(bstr):
+def prepare_sjis_conv(str):
 #         %w|301C FF5E|, # WAVE DASH            => FULLWIDTH TILDE
 #         %w|2212 FF0D|, # MINUS SIGN           => FULLWIDTH HYPHEN-MINUS
 #         %w|00A2 FFE0|, # CENT SIGN            => FULLWIDTH CENT SIGN
@@ -23,13 +23,13 @@ def fix_sjis(bstr):
 #         %w|00AC FFE2|, # NOT SIGN             => FULLWIDTH NOT SIGN
 #         %w|2014 2015|, # EM DASH              => HORIZONTAL BAR
 #         %w|2016 2225|, # DOUBLE VERTICAL LINE => PARALLEL TO
-  bstr = bstr.replace(b"\u2163", b"\xfa\x4d") # Roman numeral IV
-  bstr = bstr.replace(b"\u301c", b"\xff\x5e")
-  bstr = bstr.replace(b"\u2014", b"\x20\x15")
-  bstr = bstr.replace(b"\\xf6", b"o") # ö => o
-  bstr = bstr.replace(b"\\xe9", b"e") # é => e
-  bstr = bstr.replace(b"''I''", b"%CFF8FI%CFFFF") # Yellow-colored I
-  return bstr;
+  str = str.replace("\u2163", "\ufa4d") # Roman numeral IV
+  str = str.replace("\u301c", "\uff5e")
+  str = str.replace("\u2014", "\u2015")
+  str = str.replace("\\xf6", "o") # ö => o
+  str = str.replace("\\xe9", "e") # é => e
+  str = str.replace("''I''", "%CFF8FI%CFFFF") # Yellow-colored I
+  return str;
 
 def readlines_in_textfile(filepath):
   with open(filepath, "r", encoding="UTF-8") as f:
@@ -81,31 +81,31 @@ def main():
   # print(tips)
   
   f_tips = open(mergewith, "r+b")
-  tipslines = f_tips.readlines()
+  tips_inittxt_lines = f_tips.readlines()
   f_tips.close()
   
   # Hardcode. Change this if required
-  tipstart = 7344
-  tipsend = 8110
+  tipstart = 7343 #line, starting from 0
+  # tipsend = 8110
   
   i = tipstart+1
   for tip in tips:
     print(tip.ipsp, "(pc:%d)"%(tip.i+1), tip.enname, tip.jpname)
-    tipslines[i] = tip.enname.encode("SJIS") + b'\n'
+    tips_inittxt_lines[i] = tip.enname.encode("SJIS") + b'\n'
     
-    if (not tipslines[i-1].endswith(tip.jpname.encode("SJIS", "backslashreplace")+b'\n')
+    if (not tips_inittxt_lines[i-1].endswith(tip.jpname.encode("SJIS", "backslashreplace")+b'\n')
         and tip.ipsp!=37 and not 102>=tip.ipsp>=92):
-      print("mismatch!", tip.jpname, tipslines[i-1].decode("SJIS", "replace"))
+      print("Mismatch!", tip.jpname, "not in the one of", tips_inittxt_lines[i-1].decode("SJIS", "replace"))
       break
     
     i += 2
     for line in tip.lines:
-      tipslines[i] = fix_sjis(line.encode("SJIS", "backslashreplace")) + b'\n'
+      tips_inittxt_lines[i] = prepare_sjis_conv(line).encode("SJIS", "backslashreplace") + b'\n'
       i += 2
 
   # Write modified lines
   with open(saveas, "wb") as f_out:
-    for l in tipslines:
+    for l in tips_inittxt_lines:
       f_out.write(l)
 
 
