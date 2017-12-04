@@ -1,25 +1,39 @@
 
-The goal of this project is to port the translation of the Remember 11 pc game to its psp counterpart.
+This project ports the translation of **Remember 11 - the age of infinity** game to PSP.
 
-Help wanted in translation and testing. Contributions are highly welcome!
+If you know Japanese and want to improve some parts of this translation, talk to me [at gbatemp directly](https://gbatemp.net/members/dreambottle.384881/), or using the thread below.
 
-### Current status:
+[Thread on Gbatemp.net](https://gbatemp.net/threads/release-remember11-the-age-of-infinity-psp-english-translation.470256/)
 
-Scenes: Yes - But text overflows the windows in some places. (Crashes are expected)
-<br>
-Shortcuts (init.bin): Yes.
-<br>
-TIPS (init.bin): Transferred, but it will very likely overflow the screen.
-<br>
-Names (init.bin): Yes.
-<br>
-Chronology (init.bin): No.
-<br>
-Menus (BOOT.BIN): Partial. Need translation help here, because these strings are different from the PC version. HOME menu - Yes.
-<br>
-Font (FONT00.FOP): Tweaked glyph widths (kerning). Most EN glyphs are brightened and sharpened.
+[**Donwloads here**](https://github.com/dreambottle/R11-psp-english/releases)
 
-How To Use This
+Credits for English translation go to [TLWiki team](https://tlwiki.org/?title=Remember11_-_the_age_of_infinity)
+
+
+Current status
+-----------
+
+Scenes: Ported - But text overflows the text box in some places. (Move the text box a bit up in game settings)
+<br>
+Shortcuts (init.bin): Ported.
+<br>
+TIPS (init.bin): Ported, but with bugs - there's too much English text in some of the tips. Those will either have unreadable parts, or crash the game.
+<br>
+Names (init.bin): Ported.
+<br>
+Chronology (init.bin): Not ported.
+<br>
+Menus (BOOT.BIN): Partial. Need translation help here, because text is different from the PC version. HOME menu - Done.
+<br>
+Font (FONT00.FOP): Tweaked for English text. Reduced width a bit. EN glyphs are brightened and sharpened.
+
+Other Projects
+-----------
+
+I want to release a similar patch and sources of the tools for Ever 17 for English and, hopefully, Spanish and Russian translations. However, I can't give any timelines for this, because I do this in free time, whenever I have inspiration for it. Meanwhile, you can use [this patch, released by other fellas](https://gbatemp.net/threads/release-ever17-the-out-of-infinity-psp-english-translation.469362/).
+
+
+For Developers
 -----------
 
 [Babun](http://babun.github.io/) (Windows/Cygwin) environment was used for developing and running this, but should work on linux/mac as well.
@@ -32,19 +46,18 @@ How To Use This
 
 Tip: If you make any changes to the text or other resources, run ./repack-all.sh script to skip the "unpacking" phase.
 
-Dependencies
-----------
+##### Dependencies:
 
 The following tools should be available on your PATH:
 
 `7z mkisofs gcc perl python3`
 
-`mkisofs` is a part of `cdrtools` package.
+`mkisofs` is a part of `cdrtools` package (google it).
 
-Also you will need to install File::Slurp module for Perl:<br>
+Also you will need to have File::Slurp module for Perl. Use the following command:<br>
 `cpan File::Slurp`
 
 
-##### Brew install command for mac:
+##### Brew command for mac:
 
 `brew install p7zip cdrtools python3`
