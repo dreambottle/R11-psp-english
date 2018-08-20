@@ -482,8 +482,8 @@ A voice I'd heard so often, but now thought I'd never hear again.
 %N%N%N%N
 
 
-%LC「（お父さん……お父さん……）」%K%P
-Dad... Dad...
+%LC（お父さん……お父さん……）%K%P
+(Dad... Dad...)
 
 幻だということはわかっていた。%K%N
 I knew it had to be an illusion.
@@ -503,14 +503,14 @@ Junichi! Junichi, is that you...?
 %N%N%N%N
 
 
-%LC「（お父さん！　こっち！　こっちだよ！）」%K%P
-Dad! Here! Here!
+%LC（お父さん！　こっち！　こっちだよ！）%K%P
+(Dad! Here! Here!)
 
 %N%N%N%N
 
 
-%LC「（こっちに山小屋があるんだ！　見つけたんだよ！）」%K%P
-There's a mountain cabin here! I found it!
+%LC（こっちに山小屋があるんだ！　見つけたんだよ！）%K%P
+(There's a mountain cabin here! I found it!)
 
 気がつくと、僕の前にはひとりの少年が立っていた。%K%P
 When I snapped out of it, I saw a boy standing in front of me.

@@ -296,10 +296,10 @@ And he has the angel's feather.
 
 %N
 「そう、記念だよ」%K%N
-Yes, a memento.
+"Yes, a memento."
 
 「こころんと出逢ったことを、忘れないようにするための……」%K%P
-So that I don't ever forget that I met Kokoron...
+"So that I don't ever forget that I met Kokoron..."
 
 ゆにの目を見る。%K%P
 I looked into Yuni's eyes.

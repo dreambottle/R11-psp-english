@@ -268,7 +268,7 @@ Shocked, the doctor knelt down and firmly covered the patient's neck with his ha
 Male patient
 
 %X050「影だ……」%K%P
-The shadow...
+"The shadow..."
 
 %N%N%N%N
 
@@ -277,7 +277,7 @@ The shadow...
 Male patient
 
 %X050「影が……来たんだ……」%K%N
-The shadow... has come...
+"The shadow... has come..."
 
 %N%N
 
@@ -344,7 +344,7 @@ Right before her arrest, "she" had muttered something as she dropped her blood-s
 %N%N%N%N%N
 
 %FS%LC%C777A「セルフはどこ？」%FE%K%O
-Where is "Self"?
+"Where is "Self"?"
 
 これが、阿波墨市立病院無差別殺傷事件の経緯だ。%K%P
 Those were the details of the Awazumi Municipal Hospital Indiscriminate Murder Case.
@@ -433,7 +433,7 @@ If he were still alive, he'd be right around Yuni's age now.
 無邪気に戯れるゆにの姿に胸が絞めつけられる想いだった。%K%P
 That thought made my chest tighten as I watched Yuni play on innocently.
 
-闇に閉ざされた部屋の隅……。%K%P\
+闇に閉ざされた部屋の隅……。%K%P
 In the corner of the room engulfed in darkness....
 
 少女は膝を抱えてうずくまっていた。%K%P
