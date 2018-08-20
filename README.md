@@ -50,12 +50,9 @@ Tip: If you make any changes to the text or other resources, run ./repack-all.sh
 
 The following tools should be available on your PATH:
 
-`7z mkisofs gcc perl python3`
+`7z mkisofs gcc python3`
 
 `mkisofs` is a part of `cdrtools` package (google it).
-
-Also you will need to have File::Slurp module for Perl. Use the following command:<br>
-`cpan File::Slurp`
 
 
 ##### Brew command for mac:

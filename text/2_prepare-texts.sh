@@ -12,21 +12,18 @@
 
 merge_translation () {
 	# process special characters and remove unimportant lines
-    ./extract_en.pl chapters-psp/$1.txt > mac-en-only/$1.txt || exit 1;
+	# ./extract_en.pl chapters-psp/$1.txt > mac-en-only/$1.txt || exit 1; # deprecated
+	./translation_preproc.py chapters-psp/$1.txt > mac-en-only/$1.txt || exit 1;
 	# combine with my format
 	./merge-scene-lines.py mac-ja-psp/$1.txt mac-en-only/$1.txt mac-combined-psp/$1.txt || exit 1;
 }
 
-START=$(date +%s.%N)
 mkdir -p mac-en-only/
 WAITPIDS=""
 for i in chapters-psp/[A-Z0-9]*_[0-9]*.txt ; do
 	f=`basename $i .txt`
-	echo Processing translation: $i	
+	echo Processing translation: $i
 	merge_translation $f & WAITPIDS="$WAITPIDS $!"
 done
 
 wait $WAITPIDS &> /dev/null
-END=$(date +%s.%N)
-DIFF=$(echo "$END - $START" | bc)
-echo "Finished processing in: "$DIFF
