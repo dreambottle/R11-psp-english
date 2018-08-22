@@ -122,81 +122,108 @@ DNAシークエンスの画期的な解析法を発見した、
 あるいはゼロとも言われ、真相は定かでない。
 </pre>
 <pre>
+# This TIP has tweaked paragraphs and minor wording changes, in order to fit in the PSP buffer.
+
+#1
 The bodies of all living things are derived from biological blueprints called genes (DNA).%N
 The methods used to analyze and manipulate the information stored in genes,
 recombination, synthesis, and other similar technologies,
 are collectively classified under the umbrella term of genetic engineering.%N
 Currently, the technology enjoying the limelight in the field of genetic engineering
-is cloning technology.%P
+is cloning technology.%N
 
+#2
 The term "clone" is from biology. It refers to a life form
 produced through asexual reproduction, whose cells
 are perfectly genetically identical to those of its parent.%N
 Those born from this technology are called human clones.%N
-（As an aside, the word clone is derived from the Greek word "klon," meaning "twig")%N
-In 1997, the birth in England of the world's first somatic cell clone, a sheep named Dolly, was announced.
-The successful creation of Dolly shed new light on the potentials of genetic engineering.%P
+(As an aside, the word clone is derived from the Greek word "klon", meaning "twig")%N
+In 1997, the birth in England of the world's first somatic cell clone, a sheep named Dolly, was announced.%N
 
+The successful creation of Dolly shed new light on the potentials of genetic engineering.%N%N
+#3
 Dolly was different from the embryonic cell clones that had previously been born from reproductive cell tissue.
 She was cloned from the mammary tissue (somatic cells) of an adult sheep,
 making her the first "somatic cell clone using nuclear transfer"
 (hereinafter simply "clone") in the world.%N
+
 In other words, the success of the technology to create a
 "somatic cell clone using nuclear transfer" served to verify the hypothesis that
 "if somatic cells were available, it would be possible to bring any animal
-back to life as an exact copy, any number of times."%P
+back to life as an exact copy, any number of times."%N
 
+#4
 After that, various transgenic clones were created,
 but since the process of their birth (cell development) was viewed
 as diverging too far from the natural way, human cloning research was banned,
 or otherwise strictly regulated.%N
 
+#5
 In the year 2001, the pronounced "human-related cloning regulation law" (cloning law) was being enforced in Japan.%N
 Additionally, principle countries such as England, France and Germany
-had prohibited the creation of human clones, calling it "an affront to human dignity."%P
+had prohibited the creation of human clones, calling it "an affront to human dignity."%N
+#6
+However, the combined power of forces such as sheer human curiosity, infertility problems,
+and possibly "the wish to meet with lost loved ones again" would not let it be stopped altogether.%N
 
-However, the combined power of forces such as sheer human curiosity, infertility problems, and possibly "the wish to meet with lost loved ones again" would not let it be stopped altogether.
-Thus, illegal research continued behind the scenes, and before long, the birth cries of the very first human clones were heard in the world.%N
-As a result, various protests and controversies took root, and in many countries, the ethical issue was back on the table for the furious debate about to unfold.%P
-
-In the midst of this, a trial concerning the issue
-of the birth of clones was held.%N
-——The year was 2010.%N
+Thus, illegal research continued behind the scenes, and before long,
+the birth cries of the very first human clones were heard in the world.
+#7
+As a result, various protests and controversies took root, and in many
+countries, the ethical issue was back on the table for the furious debate about to unfold.%N
+In the midst of this, a trial concerning the issue of the birth of clones was held.%N
+The year was 2010.%N
 The accused, a certain lone scientist.%N
-He had created a clone of his own son.%N
-And the reason for that, he said, was simply 
-"I just wanted to see my son, who was killed
-in an accident, one more time, no matter the cost."%N
-But before long, his secret had been revealed, and thus judgment was pronounced upon him.%P
+He had created a clone of his own son.
 
+And the reason for that, he said, was simply
+#"I just wanted to see my son, who was killed in an accident, one more time, no matter the cost."%N
+"I just wanted to see my son, who was killed in an accident, one more time, at any cost."%N
+But before long, his secret had been revealed, and thus judgment was pronounced upon him.%N
+#8
 And the result of the judges' decision was... life imprisonment.%N
 However, when the content of the cloned boy's testimony
 was reported, it caused a complete turnover of public opinion,
 which grew powerful enough to lead to amendment of the law in the end.%N
+
 So what was it that the boy said so plaintively through his tears?%N
 "Papa didn't do anything wrong. I'm so grateful to Papa. Because Papa is the one
-who gave me this life..."%P
-
+who gave me this life..."%N%N
+#9
 And so, that same year saw the lifting of the ban of the birth of human clones.%N
-Now anyone was free to use cloning technologies as a form of infertility treatment, as long as permission from the proper authorities has been granted.%N
-Since then, legal human clones have continued to be born; it has even been estimated that by the year 2019, one to two of every 1000 primary school children will be clones.%P
+Now anyone was free to use cloning technologies as a form of infertility treatment,
+as long as permission from the proper authorities has been granted.%N
 
+Since then, legal human clones have continued to be born; it has even been
+estimated that by the year 2019, one to two of every 1000 primary school children will be clones.%P
+#10
 As for the revised cloning law...%N
-For it to have been struck down by public opinion rallied simply for the sake of the happiness of one small boy, perhaps it truly was a law that stood in opposition to human kindness.%N
+For it to have been struck down by public opinion rallied simply for the sake of the happiness
+of one small boy, perhaps it truly was a law that stood in opposition to human kindness.%N
+
 However, even after the amendment of the law, many problems still remained.%N
 Cloned people faced opposition and discrimination.%N
-As previously stated, the paradoxical method of their birth led some people to shun them.%P
-
-Since the clones' genetic information was perfectly identical to that of their nucleoplasm provider ("genome mother" or "original"), 
+As previously stated, the paradoxical method of their birth led some people to shun them.%N%N
+#11
+Since the clones' genetic information was perfectly identical to that of
+their nucleoplasm provider ("genome mother" or "original"), 
 they were mockingly referred to as "copies of the original."%N
 
+#12
 (However, strictly speaking, this belief is mistaken. At the time of a clone's creation, he or she inherits the mitochondria 
-of the woman who provided the unfertilized egg ("host mother"). Since the genome mother and host mother are two different people, the clone cannot be said to be an exact replica of the original.)%P
+of the woman who provided the unfertilized egg ("host mother"). Since the genome mother and host
+mother are two different people, the clone cannot be said to be an exact replica of the original.)%P
 
-Perhaps there is really no solution to such problems, unless humanity gets more accustomed to clones with time and deepens their understanding of genetic engineering.%N
-Until then, clones and their supporters can only keep on hoping, believing that the day will surely come when clones can live without fear...%P
-
+#13
+Perhaps there is really no solution to such problems, unless humanity gets more accustomed to clones with time and deepens
+their understanding of genetic engineering.%N
+Until then, clones and their supporters can only keep on hoping, believing that the day will surely come when clones can live without fear...%N
+#14
 Finally, we shall introduce a certain person who had a global influence in the field of genetic engineering.%N
 He is Japan's Professor Morino Shigezou.%N
-Since the latter part of the 20th Century, Professor Morino has taken part in the international Human Genome Project, where he had been credited with the discovery of a groundbreaking method for analyzing the sequence of DNA. Furthermore, the professor himself is known to have been creating human clones.%P
-However, there are opinions as to exactly what number of successfully produced clones his achievements amount to (if any at all), and the truth remains uncertain.
+
+Since the latter part of the 20th Century, Professor Morino has taken part in the international Human Genome Project,
+where he had been credited with the discovery of a groundbreaking method for analyzing the sequence of DNA. Furthermore,
+the professor himself is known to have been creating human clones.%P
+However, there are opinions as to exactly what number of successfully produced clones his achievements amount to (if any at all),
+and the truth remains uncertain.

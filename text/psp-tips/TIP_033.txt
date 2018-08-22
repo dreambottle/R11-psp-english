@@ -11,12 +11,17 @@
 要因となって起こる。
 </pre>
 <pre>
+# This TIP has some wording changes, in order to fit in the PSP buffer.
+
 A stream of plasma which emanates from the upper atmosphere of the sun.
 It is composed mainly of electromagnetic waves and protons,
 and moves at speeds of 350-700 kilometers per second.%N
-Comets which leave trails tracing to the far side of the sun 
-are blown there by the solar wind.%N
-It does not reach as far as the surface of the Earth 
-and thus has no effect on terrestrial magnetism; 
-however, magnetic storms, the aurora borealis, or disruptions in the ionosphere 
-are all caused by this solar wind.
+Comets always have tails tracing away from the sun,
+blown there by the solar wind.%N
+# Comets which leave trails tracing to the far side of the sun 
+# are blown there by the solar wind.%N
+It does not reach as far as the surface of the Earth
+and thus has no effect on terrestrial magnetism;
+however, it can cause magnetic storms, the aurora borealis, or disruptions in the ionosphere.
+# however, magnetic storms, the aurora borealis, or disruptions in the ionosphere
+# are all caused by this solar wind.

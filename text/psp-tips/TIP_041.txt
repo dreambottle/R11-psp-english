@@ -22,6 +22,7 @@ Diagnostic and Statistical Manual of Mental Disorders
 適切な治療が施せる。
 </pre>
 <pre>
+# This TIP has some wording changes, in order to fit in the PSP buffer.
 
 The Diagnostic and Statistical Manual of Mental Disorders%N
 A handbook of diagnostic criteria for mental disorders
@@ -30,16 +31,17 @@ The title is followed by its revision number.%N
 Published editions so far include the%N
 DSM-I (1952), DSM-II (1968), DSM-III (1980),%N
 DSM-III-R (1987), and DSM-IV(1994).%N
-This manual is, so to speak, a "simplified guide to the diagnosis of mental illnesses."%P
+This manual is, so to speak, a "simplified guide to the diagnosis of mental illnesses."%N
 
 Mental illnesses may affect a person in many forms,
 and are notoriously difficult to diagnose.
 It is also not uncommon for separate examining doctors 
 to differ in their diagnoses.
-To help eliminate such errors, the DSM is used as a guide
-for doctors to determine the name of the illness based on observed symptoms.%N
+To help eliminate such errors, the DSM is used as a guide for doctors.%N
+#To help eliminate such errors, the DSM is used as a guide
+#for doctors to determine the name of the illness based on observed symptoms.%N
 By asking the patient certain questions, such as about said patient's condition, and checking their responses against the data in the DSM, 
 even an inexperienced doctor can establish a diagnosis
-and begin appropriate treatment.%P
+and begin appropriate treatment.%N
 
 #Note: Since the time the story of Remember11 takes place, there have been two further editions of the DSM: the DSM-IV-TR (2000), an expansion of the DSM-IV with updated diagnostic codes and extra information on each diagnosis, and the upcoming DSM-V (planned for 2012).

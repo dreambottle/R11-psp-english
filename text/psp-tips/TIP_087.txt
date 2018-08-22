@@ -44,12 +44,14 @@
 不確定性によって確率的にわーっと広がった
 ような状態で存在する、と考える。
 
+#6
 それを実際に見るまでは、
 それが存在しうる場所に確率を求めて、
 その広がりで解釈するのである。
 このような状態を『電子雲』と呼ぶ。そして、
 その電子を、何らかの方法で観測したとする。
 
+#7
 このとき、仮にその位置が特定されたとすると、
 それまで広がっていた雲は、その観測した一点に
 シュッと集まることになる（運動量でも同様）。
@@ -61,6 +63,7 @@
 『コペンハーゲン解釈』と呼ばれており、
 現在の量子力学のメインストリームとなっている。
 
+#8
 さて、対抗馬の多世界解釈ではどうか？
 その電子の存在を確率分布として見る
 ところまでは、コペンハーゲン解釈と同じである。
@@ -113,13 +116,13 @@ In science fiction literature and the like, authors sometimes include settings c
 worlds that are very similar to the one we live in, but are
 different in subtle ways. Every time the protagonist makes
 a choice in life, several worlds diverge from that point
-based on the number of alternatives.%P
+based on the number of alternatives.%N
 
 It turns out that a similar way of thinking also exists in physics.%N
 This is the so-called "many-worlds interpretation," proposed by 
 a scholar named Hugh Everett. It elaborates on the quantum mechanical
 way of thinking, and is competitive with the current mainstream 
-interpretation of quantum mechanics.%P
+interpretation of quantum mechanics.%N
 
 In quantum mechanics, both matter and energy are seen as a 
 certain kind of "wave."%N
@@ -127,14 +130,14 @@ To avoid confusion, the word "wave" here refers
 strictly to waves in the world of quantum mechanics, rather
 than the concept of waves in classical theory which are transmitted and
 spread outward in all directions.%N
-Quantum mechanical waves are basically "waves of probability."%P
+Quantum mechanical waves are basically "waves of probability."%N
 
 When dealing with the world on a microscopic scale, there is a restriction
 that prevents an object's position and momentum from both being known simultaneously (the uncertainty principle), meaning that you can only
 say the object exists in a particular place with some probability.
 Because of this, quantum mechanics considers the existence of the object 
 from a probabilistic perspective. The mathematical tool used to describe this phenomenon
-is called a "wave function."%P
+is called a "wave function."%N
 
 Before looking at the many-worlds interpretation, we'll try thinking 
 about how standard quantum mechanics currently explains the world.%N
@@ -142,58 +145,67 @@ For example, consider a single electron. Before you perform the
 act of observing that it exists in a particular location,
 its existence is spread out in a probabilistic way due to uncertainty.%N
 
-Until you actually look at it,%N
+#6
+Until you actually look at it,
 its existence is described by assigning a probability
-to all of the places where it could possibly exist.%P
-In this state, we call it an "electron cloud."%N
-
+to all of the places where it could possibly exist.%N
+In this state, we call it an "electron cloud."%N%N
+# In the original, paragraph breaks here, starting #7
 Now, suppose you were to use some method to observe the electron.%N
 At that moment, assuming that the electron's position was
 determined, the previously spread-out cloud would immediately
 gather at that single observed point (likewise for momentum).%N
+
+#7
+# Doing a break here instead, to avoid overflows
 This is called a "wave function collapse"; it basically
 means that the act of observing the electron, which was previously
-viewed as a probability distribution,%P
+viewed as a probability distribution,
 renders its fixed existence as a real phenomenon.%N
 This explanation is known as the "Copenhagen interpretation,"
-and is considered mainstream in modern quantum mechanics.%P
+and is considered mainstream in modern quantum mechanics.%N
 
+#8
 Now then, what about the rivaling many-worlds interpretation?%N
 It agrees with the Copenhagen interpretation on the treatment
 of the electron's existence as a probability distribution.%N
 The question is, what happens after the moment the electron is
 observed? Under the many-worlds interpretation, the probability
 distribution is considered to be maintained regardless of whether
-the electron is observed or not.  But what does that mean?%P
+the electron is observed or not.  But what does that mean?%N
 
+#9
 For example,%N
 when an observer confirms that the electron is in a particular
 position, the other possibilities don't just disappear. Instead,
 they actually persist in other worlds the observer can't perceive.
 It's not such a ridiculous idea. Isn't it because we can't perceive 
 them in our world that we say "they don't exist"?%N
+
 Certainly, if an observer observes that a possibility doesn't exist,
 then it doesn't exist in his world. However, "it does exist" in the 
-worlds of observers other than that one.%P
-
+worlds of observers other than that one.%N%N
+#10
 In other words, under the many-worlds interpretation,
 even the observers are explained probabilistically
 (the wave function does not only consist of the target of
 observation, but also the observer's entire space-time).%N
+
 That means that every possibility, which has a non-zero probability,
 exists at the same time.%N
 Every possible world advances simultaneously, which can be interpreted
-as truly "many worlds."%P
-
+as truly "many worlds."%N%N
+#11
 If you think about it, the main point is this:%N
 observers and observed things are made from the same substance
 to begin with. There's no reason whatsoever for an interpretation 
 to distinguish between the two.%N
 
+#12
 Someone who dislikes the idea of a person receiving special treatment
 might find the many-worlds interpretation easy to warm up to.%N
 It gives the impression that it was originally created for the
 purpose of explaining why waves should suddenly collapse
-at the moment of observation.%P
+at the moment of observation.%N
 In that sense, perhaps we can say it has advanced a step beyond
 the present-day standard quantum mechanics as a theory.
