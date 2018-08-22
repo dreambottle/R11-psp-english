@@ -13,11 +13,6 @@ elif [ `uname` == "Linux" ]; then
 fi
 
 
-# Apply init and EBOOT strings
-./text/apply-boot-translation.py text/other-psp/BOOT.BIN.psp.txt workdir/BOOT.BIN workdir/BOOT.BIN.en || exit 1;
-./text/apply-init-translation.py text/other-psp/init.psp.txt workdir/init.dec workdir/init.dec.en || exit 1;
-
-
 # Repack mac.afs (texts)
 repack_mac_afs () {
 	repack_scene () {
@@ -43,51 +38,62 @@ repack_mac_afs () {
 	$REPACK_AFS $WORKDIR/mac.afs $WORKDIR/mac-repacked.afs ./mac-en || exit 1;
 	mv -f $WORKDIR/mac-repacked.afs $ISO_RES_DIR/mac.afs
 }
-repack_mac_afs
 
-# Repack fonts
-repack_fonts () {
+# Compose and repack font
+# compose_font builds the font file 
+compose_font () {
+	mkdir -p etc-en
 	cd text/font
-	mkdir -p ../../etc-en
 	cp -f glyphs-new/* glyphs/
 	python3 extract-font.py repack glyphs/ || exit 1;
 	cp FONT00.NEW ../../etc-en/FONT00.NEW
 	cd ../..
 }
-repack_fonts
 
+# repack_etc_afs repacks etc.afs with the new font file from "compose_font"
+repack_etc_afs () {
+	compose_font
 
-# Repack etc.afs
-#for i in etc-en/*.FNT ; do
-#	echo $i
-#	f=`basename $i .FNT`
-#	$COMPRESS etc-en/$f.{FNT,FOP}
-#done
-if [ -f etc-en/FONT00.NEW ]; then
-$COMPRESS etc-en/FONT00.NEW etc-en/FONT00.FOP
-$REPACK_AFS $WORKDIR/etc.afs $WORKDIR/etc-repacked.afs etc-en || exit 1;
-mv -f $WORKDIR/etc-repacked.afs $ISO_RES_DIR/etc.afs
-fi
-
+	if [ -f etc-en/FONT00.NEW ]; then
+	$COMPRESS etc-en/FONT00.NEW etc-en/FONT00.FOP
+	$REPACK_AFS $WORKDIR/etc.afs $WORKDIR/etc-repacked.afs etc-en || exit 1;
+	mv -f $WORKDIR/etc-repacked.afs $ISO_RES_DIR/etc.afs
+	fi
+}
 
 # Repack init.bin
-INIT_SRC=$WORKDIR/init.dec.en
-if [ ! -f $INIT_SRC ]; then
-	# If modified file does not exist, just repack the original one.
-	# Used for testing purposes
-	INIT_SRC=$WORKDIR/init.dec
-fi
-echo "Compressing $INIT_SRC"
-$COMPRESS $INIT_SRC $WORKDIR/init.en.bin || exit 1;
-mv -f $WORKDIR/init.en.bin $ISO_RES_DIR/init.bin
+repack_init_bin () {
+	# Apply init.bin strings
+	./text/apply-init-translation.py text/other-psp/init.psp.txt workdir/init.dec workdir/init.dec.en || exit 1;
 
+	INIT_SRC=$WORKDIR/init.dec.en
+	if [ ! -f $INIT_SRC ]; then
+		# If modified file does not exist, just repack the original one.
+		# Used for testing purposes
+		INIT_SRC=$WORKDIR/init.dec
+	fi
+	echo "Compressing $INIT_SRC"
+	$COMPRESS $INIT_SRC $WORKDIR/init.en.bin || exit 1;
+	mv -f $WORKDIR/init.en.bin $ISO_RES_DIR/init.bin
+}
 
 # Patch BOOT.BIN
-echo "Applying patches to EBOOT (BOOT.BIN)"
-cp -f $WORKDIR/BOOT.BIN.en $WORKDIR/BOOT.BIN.patched
-$ARMIPS src/boot-patches.asm -root workdir/ || exit 1;
-#rm -f $ISO_BIN_DIR/BOOT.BIN
-rm -f $ISO_BIN_DIR/EBOOT.BIN
-cp -f $WORKDIR/BOOT.BIN.patched ./$ISO_BIN_DIR/EBOOT.BIN
-cp -f $WORKDIR/BOOT.BIN.patched ./$ISO_BIN_DIR/BOOT.BIN
-#cp -f $WORKDIR/BOOT.bin $ISO_BIN_DIR/BOOT.BIN #unnecessary
+patch_boot_bin () {
+	# Apply translation
+	./text/apply-boot-translation.py text/other-psp/BOOT.BIN.psp.txt workdir/BOOT.BIN workdir/BOOT.BIN.en || exit 1;
+
+	echo "Applying patches to BOOT.BIN"
+	cp -f $WORKDIR/BOOT.BIN.en $WORKDIR/BOOT.BIN.patched
+	$ARMIPS src/boot-patches.asm -root workdir/ || exit 1;
+	rm -f $ISO_BIN_DIR/BOOT.BIN
+	rm -f $ISO_BIN_DIR/EBOOT.BIN
+	cp -f $WORKDIR/BOOT.BIN.patched ./$ISO_BIN_DIR/EBOOT.BIN
+	cp -f $WORKDIR/BOOT.BIN.patched ./$ISO_BIN_DIR/BOOT.BIN
+	#cp -f $WORKDIR/BOOT.bin $ISO_BIN_DIR/BOOT.BIN #unnecessary
+}
+
+# Actually running above functions
+repack_mac_afs
+repack_etc_afs
+repack_init_bin
+patch_boot_bin
