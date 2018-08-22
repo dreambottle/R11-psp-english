@@ -60,7 +60,7 @@ table - text locations
 137528:141520 - large empty area. Test if this can be used as an scratchpad/area for long strings.
 
 
-The engine has a limit of 380 simultaneous characters on the scene, which causes crashes when the buffer is overflown. The workaround is to insert more %K%P sequences to the text.
+The engine has a limit of 480 simultaneous characters on the scene, which causes crashes when the buffer is overflown. The workaround is to insert more %K%P sequences to the text.
 
 
 init.bin
@@ -107,7 +107,6 @@ BTW, analyzing this file revealed that developers actually transliterated charac
 天より墜ちたオレ／Satoru
 ```
 (proof: 0x260a0 in init.bin)
-So we might change these in the translation
 
 Fonts
 ============
@@ -116,9 +115,8 @@ The game uses FONT00 (lzss-compressed .FOP), found in etc.afs, as a main font.
 
 See folder `text/font/` for scripts.
 
-Game engine adds to much width between glyphs (seems like 4px), so 
-currently the right border was decreased by 2 px for all glyphs, which may 
-cause some side effects.
+Game engine adds additional space between glyphs in scene textxs. This has been
+fixed (additional spacing removed) by one of the patches in `boot-patches.asm`.
 
 Glyph 751 is a whitespace.
 
@@ -133,7 +131,8 @@ TIM2 format
 Graphics format found in some T2P files after they are decompressed.
 
 
-Useful links:
+Useful links
+============
 
 HOME menu language: http://bbs.blacklabel-translations.com/showthread.php?tid=35&pid=84
 
