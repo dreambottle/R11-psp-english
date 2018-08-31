@@ -38,44 +38,46 @@
 雪山とスフィアとの間を行き交う。
 </pre>
 <pre>
+
+#1
 Full Name: Fuyukawa Kokoro%N
 Sex: Female%N
 Age: 20%N
 Birthday: February 22nd, 1990%N
 Blood Type: B%N
-Occupation: Third-year social sciences student in the%N
-                             humanities department at Kyumeikan Women's%N
-                             University (Major: anthropology).%P
+Occupation: Third-year social sciences student in the
+humanities department at Kyumeikan Women's%N
+University (Major: anthropology).%N
 Intelligence: Average%N
 Physical Strength: Average%N
 Cooperativeness: High%N
 
-Personality: The type that believes in her emotions. Honest%N
-                             with herself. Extroverted. Brimming with%N
-                             curiosity. Capricious.%N
-                             Interested in the liberal arts.%N
-Hobbies: Birdwatching, bonsai%P
+#2
+Personality: The type that believes in her emotions. Honest
+with herself. Extroverted. Brimming with
+curiosity. Capricious.%N
+Interested in the liberal arts.%N
+Hobbies: Birdwatching, bonsai%N
 Likes: Believing that the end justifies the means,%N
-               harmonious moods, fun things%N
+harmonious moods, fun things%N
 Dislikes: Silence, fighting or quarreling,%N
-                     troublesome things, cucumbers%N
+troublesome things, cucumbers%N
 Dominant Hand: Left%N
-Beyond%N
-the Surface: Represents the "Anima%N
-                           (The Female Within the Male)" (→ Archetype)%N
-                             This is her status as of 2011.%P
+Beyond the Surface: Represents the "Anima%N
+(The Female Within the Male)" (→ Archetype)%N
+This is her status as of 2011.%N
 
 Fuyukawa Kokoro is the female protagonist.%N
-She was involved in a plane crash. She was fortunately%N
-saved and joined the other survivors of the incident, but they were%N
+She was involved in a plane crash. She was fortunately
+saved and joined the other survivors of the incident, but they were
 stranded on a snowy mountain in the middle of nowhere.%N
-Together with the other survivors, she had no choice but to%N
-find a way to escape that isolated place.%P
+Together with the other survivors, she had no choice but to
+find a way to escape that isolated place.%N
 
-After the incident, Kokoro's mind and body experienced%N
+After the incident, Kokoro's mind and body experienced
 abnormalities.%N
-Sometimes, her mind and body separate, exchanging places%N
-with those of another person (Satoru) in a different%N
+Sometimes, her mind and body separate, exchanging places
+with those of another person (Satoru) in a different
 location.%N
-Her mind and memory switch back and forth between the%N
+Her mind and memory switch back and forth between the
 snowy mountain and SPHIA.

@@ -34,6 +34,8 @@ GPS機能付きの携帯端末を所持している。
 絶えない。
 </pre>
 <pre>
+
+#1
 Full Name: Yomogi Seiji%N
 Sex: Male%N
 Age: 35%N
@@ -44,26 +46,30 @@ Intelligence: Average%N
 Physical Strength: Very high%N
 Cooperativeness: High%N
 
-Personality: Gentle, brave and patient; has a good sense of%N
-                             humor; very careful and is always prepared.%P
+#2
+Personality: Gentle, brave and patient; has a good sense of
+humor; very careful and is always prepared.%N
 Hobbies: Mountain climbing, exploring, all sports%N
 Likes: Alcohol, self-discipline, stupid jokes%N
-Dislikes: Things that disturb group harmony, betrayal,%N
-                     additives in food%N
+Dislikes: Things that disturb group harmony,
+betrayal, additives in food%N
 
-Beyond%N
-the Surface: Represents the "Old Wise Man" (→ Archetype)%N
-                             He is the husband of Utsumi. They had a child,%N
-                             but he became one of the victims of the mass%N
-                             murder incident several years previously,%N
-                             dying at the hand of Inubushi Keiko.%N
-                             This is his status as of 2011.%P
-
+#3
+Beyond the Surface: Represents the "Old Wise Man" (→ Archetype)%N
+He is the husband of Utsumi. They had a child,
+but he became one of the victims of the mass
+murder incident several years previously,
+dying at the hand of Inubushi Keiko.%N
+This is his status as of 2011.%N
+%N
+#4
 Yomogi Seiji mainly appears in the snowy mountain side of the story.%N
+
 While traveling, he becomes involved in the plane crash and,
 like Kokoro, is one of the survivors.%N
-He possesses an abundance of emergency survival knowledge. He is also proficient in survival methods
+He possesses an abundance of emergency survival knowledge.
+He is also proficient in survival methods
 and owns a cell phone equipped with a GPS function.%N
-Due to his keen insight, he took on the role of group leader, 
-but he is continuously hindered by the actions of 
+Due to his keen insight, he took on the role of group leader,
+but he is continuously hindered by the actions of
 some of its more assertively individualistic members.

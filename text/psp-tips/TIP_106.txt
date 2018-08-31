@@ -37,29 +37,29 @@ Sex: Male%N
 Age: 11 (12 as seen by Satoru)%N
 Birthday: October 19th, 1999 (Libra)%N
 Blood type: AB%N
-Occupation: Fifth-grade student%N
-                           (Sixth grade, as seen by Satoru)%N
+Occupation: Fifth-grade student (Sixth grade, as seen by Satoru)%N
 Intelligence: Very high%N
 Physical Strength: Average (appropriate for his age)%N
-Cooperativeness: Sometimes ridiculously high,%N
-                                         sometimes unbelievably low.%P
+Cooperativeness: Sometimes ridiculously high,
+sometimes unbelievably low.%N
 
 Personality: Innocent. Cowardly but kind-hearted.%N
-                             Very quick-witted.%N
+Very quick-witted.%N
 Hobbies: Occult-related activities (tarots, divination, etc.)%N
 Likes: Lively things, happy things, friends%N
 Dislikes: Materialism, loneliness, Leiblich Pharmaceutical%N
 %N
-Beyond%N
-the Surface: Represents the "Trickster" (→ Archetype)%N
-                             The Yuni who exists on the snowy mountain%N
-                             knows the truth about the time-space transfer%N
-                             phenomenon.%P
+Beyond the Surface: Represents the "Trickster" (→ Archetype)%N
+The Yuni who exists on the snowy mountain
+knows the truth about the time-space transfer
+phenomenon.%N
 
-Somehow, Kusuda Yuni appears in both the snowy mountain and SPHIA sides of the story.%N
+Somehow, Kusuda Yuni appears in both the snowy mountain
+and SPHIA sides of the story.%N
 In the former, he is a survivor of the plane crash,
 and in the latter, a resident of SPHIA.%N
 Has abundant knowledge related to the occult, especially theology.%N
-He sometimes surprises those around him with his predictions of the future (since they often come true!).%N
+He sometimes surprises those around him with his
+predictions of the future (since they often come true!).%N
 An enigmatic boy who appears in both places.%N
 What are his true intentions...?%N

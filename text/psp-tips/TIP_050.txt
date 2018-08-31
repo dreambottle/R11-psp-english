@@ -19,6 +19,7 @@
 夾雑物として排される。
 </pre>
 <pre>
+#1
 From the Latin, literally meaning "god from the machine."%N
 A frequently-used plot device in old plays and literature, where, 
 in the midst of a seemingly hopeless situation, 
@@ -27,14 +28,16 @@ and provide a convenient resolution to the story.%N
 Use of this type of device in a story later 
 came to be called by this name.%N
 Frequently seen in the Greek tragedies of Euripides, 
-whose conclusions were often marked by a god appearing from%P
-above and being lowered onto the stage via a mechanism similar to a crane.%N
+whose conclusions were often marked by a god
 
-Aristotle, in his writings on aesthetics, 
-argued that all the elements of a story 
-should arise internally (naturally and necessarily), 
+appearing from above and being lowered onto the stage
+via a mechanism similar to a crane.%N
+#2
+Aristotle, in his writings on aesthetics,
+argued that all the elements of a story
+should arise internally (naturally and necessarily),
 following up the previous actions in the play,
 and opposed the use of this device, saying that
-the sudden deus ex machina appearance of a previously unseen character 
+the sudden deus ex machina appearance of a previously unseen character
 in the middle of the play (contingent on the needs of the plot)
 was poor storytelling.

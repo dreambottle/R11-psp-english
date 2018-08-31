@@ -42,40 +42,40 @@
 グループのお荷物・トラブルメーカー。
 </pre>
 <pre>
+
+#1
 Full Name: Inubushi Keiko%N
 Sex: Female%N
 Age: 20%N
 Birthday: April 30th, 1991 (Taurus)%N
 Blood Type: AB%N
-Occupation: A convicted criminal, suffering from mental%N
-                             disorders; currently confined in the medical%N
-                             facility called SPHIA.%N
+Occupation: A convicted criminal, suffering from mental
+disorders; currently confined in the medical
+facility called SPHIA.%N
 Knowledge: Average%N
 Physical Strength: Extremely low%N
-Cooperativeness: Extremely low%P
+Cooperativeness: Extremely low%N
 
-Personality: Aggressive, goes by the carpe diem philosophy%N
-                             of living for the moment, subject to extreme%N
-                             mood swings, tends to turn others' impressions%N
-                             of her upside down, loves despair and fears%N
-                             hope (related to Borderline Personality%N
-                             Disorder)%N
+#2
+Personality: Aggressive, goes by the carpe diem philosophy
+of living for the moment, subject to extreme
+mood swings, tends to turn others' impressions
+of her upside down, loves despair and fears
+hope (related to Borderline Personality
+Disorder)%N
 Hobbies: Talking by phone, e-mail, and chat%N
-Likes: Pleasure, total despair, attracting others' attention,%N
-               self-mutilation, those who will accept who she is%N
-             (to whom she can cling)%P
+Likes: Pleasure, total despair, attracting others' attention,
+self-mutilation, those who will accept who she is
+(to whom she can cling)%N
 
-Dislikes: Being abandoned, unreliable dreams, half-hearted%N
-                     sympathy and hope, facile statements (stemming%N
-                     from popular opinion, etc)%N
-Beyond%N
-the Surface: Represents the "Shadow" (→Archetype)%N
-                             The one that Kokoro sees is the real%N
-                             Suzukage Hotori.%N
-                             The body is the same, but they're different%N
-                             individuals.%N
-                             Has DID (Dissociative Identity Disorder).%N
-                             This is her status as of 2012.%P
+Dislikes: Being abandoned, unreliable dreams, half-hearted
+sympathy and hope, facile statements (stemming
+from popular opinion, etc)%N
+Beyond the Surface: Represents the "Shadow" (→Archetype)%N
+The one that Kokoro sees is the real Suzukage Hotori.%N
+The body is the same, but they're different individuals.%N
+Has DID (Dissociative Identity Disorder).%N
+This is her status as of 2012.%N
 
 Inubushi Keiko mainly appears in the SPHIA side of the story.%N
 Like Satoru, she's one of the inmates of SPHIA.%N

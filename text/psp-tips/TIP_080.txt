@@ -42,37 +42,42 @@
 過ぎないのだ。
 </pre>
 <pre>
+
+#1
 A joint Japanese-German pharmaceutical company.%N
 Its head office is in Frankfurt and the majority of its staff are German.%N
 An internationally renowned drug manufacturer, its capital is generated worldwide,
 and it has very strong ties with the governments of several countries.%N
 The company's area of expertise isn't limited to the pharmaceutical sector, but includes
 a wide range of business endeavors, such as the management%N
-of recreational facilities and so on.%P
+of recreational facilities and so on.%N
 
+#2
 An example of this would be an ocean theme park called LeMU which the company manages
 (strictly speaking, they provide funding to "LeMU Ltd.," the park management organization).%N
 Additionally, regarding their microorganism research, it is said that the company owns
-one of the top research facilities in the field.%P
+one of the top research facilities in the field.
 However, this business enterprise has a hidden agenda.%N
 They are, in fact, developing biological weapons for military purposes.%N
+
 It seems that the company is amassing huge amounts of capital from several countries
 for the purpose of developing highly lethal viruses and their respective cures.%N
-
+#3
 It might seem as though this microorganism research is the extent of the company's hidden dark side,
 but in fact, as suggested by its public face as a company specializing in the field of pharmaceuticals,
-much of their medical research%P
-is conducted using inhumane practices.%N
+much of their medical research is conducted using inhumane practices.%N
+
 Among their activities are using human test subjects without any regard to basic civil rights;
 the research, development, synthesis, and refinement of illegal drugs;
-expanding profit by trafficking their drugs on the black market....%P
-
+expanding profit by trafficking their drugs on the black market....%N
+#4
 Furthermore, according to certain sources, the company has recently ventured into the area of
 long-range missile development as a result of its ties with a certain heavy chemical enterprise.%N
-In fact, their deep involvement with information engineering-
-and quantum physics-related research projects would perhaps best be explained as an investment
-for the sole purpose of subsequent adoption of technologies developed thereof into military use.%P
 
+In fact, their deep involvement with information engineering
+and quantum physics-related research projects would perhaps best be explained as an investment
+for the sole purpose of subsequent adoption of technologies developed thereof into military use.%N
+#5
 In short,%N
 it would take ages to even try and enumerate all of their wrongdoings.%N
 A pharmaceutical company with a reputation this bad——%N

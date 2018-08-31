@@ -28,6 +28,8 @@
 いうことになる。
 </pre>
 <pre>
+
+#1
 In fact, the positions on the Earth's surface such that each of them, when coupled
 with the two known transfer points, forms the figure which has all of the distances
 between its vertices in equilibrium, seem to be six.%N
@@ -35,17 +37,18 @@ As for where do these positions lie exactly,
 it is as follows....%N
 First, let's designate the surface distance between "point: Aosagi Island"
 and "point: Mount Akakura" as ｒ.%N
-Next, draw two circles of a radius ｒ, centered on "point: Aosagi Island"
-and "point: Mount Akakura" respectively.%P
-Let's designate the intersection points of these two circles as ｐ１ and ｐ２.%N
 
+Next, draw two circles of a radius ｒ, centered on "point: Aosagi Island"
+and "point: Mount Akakura" respectively.%N
+Let's designate the intersection points of these two circles as ｐ１ and ｐ２.%N
+#2
 Draw a line passing through ｐ１ and ｐ２.%N
 Also, draw another line passing through "point: Aosagi Island" and "point: Mount Akakura."%N
 "Lines" here should be understood in the sense of lying atop a curved surface,
 and thus forming two more circles around the Earth when fully drawn.%N
-With this, we now have two small circles
-and two big ones.%P
 
+With this, we now have two small circles and two big ones.%N
+#3
 Now,%N
 there should be a total of eight points of intersections between all circles——%N
 Since two of them are "point: Aosagi Island" and "point: Mount Akakura" we exclude these.%N

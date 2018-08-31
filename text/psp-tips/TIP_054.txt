@@ -62,32 +62,34 @@ has a contiguous memory (we may also call it
 a record) composed of ABCDEF.%N
 Memory loss, to put it simply, is a state wherein,
 for example, parts B, D, and F in the A〜F sequence are lost,
-and the only memories which can be recalled are ACE.%P
+and the only memories which can be recalled are ACE.%N
 
+#2
 On the other hand, the memory transplant mentioned
 herein refers to a state where, for example, the memory parts A, C, and E are embedded
 into an initially empty, "zero" state memory.%N
 Both cases are similar in that X does not remember
 anything besides ACE; the crucial difference, however, lies
-in the question of "whether the 'rest' is recoverable or not."%P
+in the question of "whether the 'rest' is recoverable or not."%N
 In the case of a memory loss, it is possible that
 X would still have parts B, D, and F residing somewhere in the mind.%N
+
 Thus X might perhaps be able
 to recover these lost memories.%N
-
+#3
 On the other hand, if X had had these memories transplanted, then it would mean
 that BDF had never existed in the first place.%N
 In this case, X is left with no other alternative but to
 accumulate new memories over time.%N
 So then, if by any chance, this memory content of mine
-was transplanted....%P
+was transplanted....%N
 
 Just whose ACE memories are these, I wonder?%N
 The fact remains that "my consciousness" belongs to me,
 but it is in fact possible that "my memory" is
 one that was originally someone else's and not mine.%N
 And that this someone had planted the ACE-reduced memories inside me,
-so that even I myself am not aware of how and why that happened exactly.%P
+so that even I myself am not aware of how and why that happened exactly.%N
 
 Why not A〜F, but ACE...?%N
 Why didn't they transplant BDF as well...?%N
@@ -95,7 +97,7 @@ Could it be that...%N
 It's not that they didn't transplant them,%N
 but... that they couldn't?%N
 Could it be that, just like me, this other person
-lacks BDF?%P
+lacks BDF?%N
 
 Can I assume that this limited knowledge composed only of ACE
 was all that was available to this person?%N

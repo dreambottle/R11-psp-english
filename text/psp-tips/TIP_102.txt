@@ -36,6 +36,7 @@
 グループのお荷物・トラブルメーカー。
 </pre>
 <pre>
+
 Full Name: Mayuzumi Lin%N
 Sex: Female%N
 Age: 23%N
@@ -44,34 +45,32 @@ Blood Type: A%N
 Occupation: Office worker%N
 Intelligence: Fairly high%N
 Physical Strength: Fairly low%N
-Cooperativeness: Low%P
+Cooperativeness: Low%N
 
-Personality: Strong-willed. Very proud.%N
-                           At times, she worries greatly about her outward%N
-                           appearance. Slightly obsessed with cleanliness.%N
-                           Eats a very unbalanced diet (is extremely%N
-                           picky).%N
-                           Seems to be considerably lacking in sympathy.%N
+Personality: Strong-willed. Very proud.
+At times, she worries greatly about her outward
+appearance. Slightly obsessed with cleanliness.
+Eats a very unbalanced diet (is extremely
+picky).%N
+Seems to be considerably lacking in sympathy.%N
 Hobbies: Collecting clothes, hats and shoes%N
 Likes: Her work, animals, high places, herself%N
-Dislikes: Proud men, losing to men, dirty jokes%P
+Dislikes: Proud men, losing to men, dirty jokes%N
 
-Beyond%N
-the Surface: Represents the "Persona (Mask)"%N
-                           (→ Archetype)%N
-                             She has a fiancé.%N
-                             Satoru and Mayuzumi were once going out,%N
-                             but are now estranged.%N
-                             She keeps a wish locked inside her heart.%N
-                             This is her status as of 2011.%P
+Beyond the Surface: Represents the "Persona (Mask)" (→ Archetype)%N
+She has a fiancé.%N
+Satoru and Mayuzumi were once going out,
+but are now estranged.%N
+She keeps a wish locked inside her heart.%N
+This is her status as of 2011.%N
 
-Mayuzumi Lin mainly appears in the snowy mountain side of%N
+Mayuzumi Lin mainly appears in the snowy mountain side of
 the story.%N
-During a business trip, she becomes involved in the plane%N
+During a business trip, she becomes involved in the plane
 crash and, like Kokoro, is one of the survivors.%N
-Uncooperative, she makes a point of standing in the way of%N
+Uncooperative, she makes a point of standing in the way of
 the refugees, disturbing the unity of the group.%N
-She is antagonistic toward men, and hates yielding to them%N
+She is antagonistic toward men, and hates yielding to them
 more than anything else.%N
 Thus, she doesn't get along with Yomogi.%N
 A burden to the group, and a troublemaker.

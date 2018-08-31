@@ -9,14 +9,24 @@
 となる。
 </pre>
 <pre>
+# The central concept of the philosophy of Immanuel Kant,
+# an eighteenth-century German philosopher.%N
+# It refers not to the object's phenomenon characteristic, 
+# that which concerns empirical recognition,
+# but to the actual object itself, the very substance of
+# the phenomenon's origin, independent of any subjectivity.
+# It means that we can only make sense of the phenomenon, and
+# can never directly "know" the actual object(s) or way(s).%P
+# The thing-in-itself is not something which can be understood, 
+# only contemplated; however, the contemplation itself is 
+# a sort of transcendental freedom.
+
 The central concept of the philosophy of Immanuel Kant,
-an eighteenth-century German philosopher.%N
-It refers not to the object's phenomenon characteristic, 
-that which concerns empirical recognition,
+an 18th-century German philosopher.%N
+It refers not to the phenomenon's empirical recognition,
 but to the actual object itself, the very substance of
 the phenomenon's origin, independent of any subjectivity.
 It means that we can only make sense of the phenomenon, and
-can never directly "know" the actual object(s) or way(s).%P
-The thing-in-itself is not something which can be understood, 
-only contemplated; however, the contemplation itself is 
-a sort of transcendental freedom.
+can never directly "know" the actual object or way.%N
+The thing-in-itself can not be understood, 
+only contemplated; but even that is a transcendental freedom.

@@ -41,43 +41,47 @@
 犬伏景子に対して、憎悪の念を抱いている。
 </pre>
 <pre>
+
+#1
 Full Name: Utsumi Kali%N
 Sex: Female%N
 Age: 27%N
 Birthday: September 16th, 1984 (Virgo)%N
 Blood Type: O%N
 Occupation: Public school teacher%N
-                           (Beyond the surface: temporarily retired)%N
+(Beyond the surface: temporarily retired)%N
 Intelligence: High%N
 Physical Strength: Average%N
-Cooperativeness: Extremely high%P
+Cooperativeness: Extremely high%N
 
-Personality: Generally gentle and kind (sometimes%N
-                             goes overboard and borders on pampering).%N
-                             Easily moved to tears, but strong at heart.%N
-                             Incredibly scary when she snaps.%N
+#2
+Personality: Generally gentle and kind (sometimes
+goes overboard and borders on pampering).%N
+Easily moved to tears, but strong at heart.%N
+Incredibly scary when she snaps.%N
 Hobbies: Cooking, gardening, collecting vases%N
-Likes: Meddling in others' business, listening to other%N
-               people's stories, nature, the sound of the heartbeat,%N
-               silly jokes%N
-Dislikes: Things that make her think of death, actions%N
-                     that are harmful to nature, forsaking people%N
-Background: Half-Indian%P
+Likes: Meddling in others' business, listening to other
+people's stories, nature, the sound of the heartbeat,
+silly jokes%N
+Dislikes: Things that make her think of death, actions
+that are harmful to nature, forsaking people%N
+Background: Half-Indian%N
 
-Beyond%N
-the Surface: Represents the "Great Mother" (→ Archetype)%N
-                             Yomogi's wife. They had a child, but he became%N
-                             one of the victims of the mass murder incident%N
-                             several years ago, dying at the hands of%N
-                             Inubushi Keiko.%N
-                             The loss of her child has caused her great%N
-                             psychological suffering which is why, until%N
-                             several months ago, she was institutionalized%N
-                             in a psychiatric hospital.%P
-                             In August 8th, 2011, she gave birth.%N
-                             The newborns are (fraternal) twins.%N
-                             This is her status as of 2012.%P
+#3
+Beyond the Surface: Represents the "Great Mother" (→ Archetype)%N
+Yomogi's wife. They had a child, but he became
+one of the victims of the mass murder incident
+several years ago, dying at the hands of
+Inubushi Keiko.%N
+The loss of her child has caused her great
+psychological suffering which is why, until
+several months ago, she was institutionalized
+in a psychiatric hospital.%N
+In August 8th, 2011, she gave birth.%N
+The newborns are (fraternal) twins.%N
+This is her status as of 2012.%N
 
+#4
 Utsumi Kali mainly appears in the SPHIA side of the story.%N
 Like Satoru, she is one of the inmates of SPHIA.%N
 She possesses extensive knowledge, especially in the field of psychology.%N

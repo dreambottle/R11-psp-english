@@ -12,8 +12,10 @@
 </pre>
 <pre>
 A weather condition in which the field
-of vision is obscured by white due to
-windblown snow in the air, greatly diminishing
+# of vision is obscured by white due to
+# windblown snow in the air, greatly diminishing
+of vision is obscured by
+windblown snow, greatly reducing
 one's ability to discern vertical/horizontal
 directions and distance. It can be described
 as a "white darkness" of sorts.%N

@@ -30,6 +30,7 @@
 2011年も2012年も、ある意味『今年』なのだから。
 </pre>
 <pre>
+#1
 It is 2011 here in the cabin shelter; in SPHIA, it is 2012.%N
 She exists a year in the future for me, so maybe "now" is not
 an appropriate name for it.%N
@@ -38,19 +39,21 @@ No matter how you look at it, the fact remains that
 it is still "now" to me and Fuyukawa Kokoro.%N
 Having felt out of place from the normal flow of history,
 we are living within our own designated "time" now.%N
-The flow of time that she and I experience and the
-flow of time in the rest of the world are different.%P
 
+The flow of time that she and I experience and the
+flow of time in the rest of the world are different.%N
+#2
 If, for example, the latter is represented as%N
 "A→B→C→D→E→F→......U→V→W→X→Y→Z"%N
 then the time flow that I'm experiencing becomes%N
 "A→V→C→X→E→Z,"%N
 and that which Fuyukawa Kokoro experiences becomes%N
 "U→B→W→D→Y→F."%N
-
+#3
 Therefore, whenever I bring up time-related
 concepts such as "now," "just now," "today," "tomorrow" and so on,
-these are supposed to be understood and hold meaning%P
+
+these are supposed to be understood and hold meaning
 in accordance with my individual timeline of "A→V→C→X→E→Z."%N
 On a side note, ever since I've been experiencing
 this personality exchange phenomenon, the concepts of

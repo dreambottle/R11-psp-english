@@ -36,30 +36,35 @@
 いる。
 </pre>
 <pre>
+
+#1
 A paper published by Albert Einstein, Boris Podolsky, and Nathan Rosen.%N
 Also known as the EPR Paradox.%N
 It presents a thought experiment that is extremely critical of quantum 
 mechanics, and was originally published by Einstein and his coauthors
 as an attack on it. Ironically, it ended up having the opposite effect,
-and became the best material for deepening one's understanding of the field.%P
+and became the best material for deepening one's understanding of the field.%N
 
+#2
 The details of the experiment are as follows:%N
 According to quantum theory, when two particles are created at
 some location by the same event, they share a certain kind of
 state. For example, a stationary π-meson decays into two photons
 traveling in opposite directions, but both members of the photon 
-pair are represented with a single Schrödinger equation.%P
-
+pair are represented with a single Schrödinger equation.%N
+#3
 Quantum theory states that as long as they aren't observed,
-the particles can be expressed by the same equation forever. 
-So even if one of them flies a long distance away, if 
+the particles can be expressed by the same equation forever.
+
+So even if one of them flies a long distance away, if
 you observe some information about it——such as spin or
 polarization——then you should know the state of the particle that
-remained behind. But at the moment that you observe one particle, 
+remained behind. But at the moment that you observe one particle,
 the wave function of the other particle collapses accordingly,
-appearing as if the measured information had been instantly 
-transmitted from one to the other.%P
+appearing as if the measured information had been instantly
+transmitted from one to the other.%N
 
+#4
 The EPR paper argues that this is a violation of causality.%N
 However, modern quantum mechanics has successfully come up with a
 proper explanation, and experimental results that support it have
