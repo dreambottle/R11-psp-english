@@ -621,39 +621,39 @@ Children's Theatre・Act XI
 ;124530;7;Ｌｖ２
 
 ;124538;23;黄泉木からのメッセージ
-Message from Yomogi
+Yomogi's message
 ;124550;7;Ｌｖ３
 
 ;124558;19;黛からのメッセージ
-Message from Mayuzumi
+Mayuzumi's message
 ;12456c;7;Ｌｖ４
 
 ;124574;31;ゆにからのメッセージ・その１
-Message from Yuni・No.1
+Yuni's message・No.1
 ;124594;7;Ｌｖ５
 
 ;12459c;23;内海からのメッセージ
-Message from Utsumi
+Utsumi's message
 ;1245b4;7;Ｌｖ６
 
 ;1245bc;23;穂鳥からのメッセージ
-Message from Hotori
+Hotori's message
 ;1245d4;7;Ｌｖ７
 
 ;1245dc;31;ゆにからのメッセージ・その２
-Message from Yuni・No.2
+Yuni's message・No.2
 ;1245fc;7;Ｌｖ８
 
 ;124604;23;こころからのメッセージ
-Message from Kokoro
+Kokoro's message
 ;12461c;7;Ｌｖ９
 
 ;124624;19;悟からのメッセージ
-Message from Satoru
+Satoru's message
 ;124638;7;Ｌｖ∞
 
 ;124640;23;みんなからのメッセージ
-Message from everyone
+everyone's message
 ;124658;3;？
 
 ;;27;スクリーンアジャスト設定
@@ -1079,7 +1079,7 @@ Update%NScene title%NTime
 ## With ascii patch will compare every byte as is.
 ## The following symbols dont allow a line break right before them
 ;12b948;71;、。」）＞】｝”っゃゅょぁぃぅぇぉッャュョァィゥェォ！？ー♪☆』～》
-,.!?abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ)];:1234567890"
+,.!?abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ)]:1234567890"'
 ## The following symbols dont allow a line break right after them
 ;12b990;19;「（＜【｛“『《
 ([@&'"

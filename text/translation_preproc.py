@@ -45,11 +45,11 @@ def main():
       if("\u2473" in line) or \
           re.match(r"^(%[NOPp])+$", line) or \
           re.match(r"^(%FS)?-{40,}[%A-Z0-9]+$", line):
-        line = re.sub("\u2473", "  ", line)
+        # line = re.sub("\u2473", "  ", line)
         # just keep these as is
+        println_sjis(clean_translation_line(line))
         state = STATE_JA
         if text_validations and ("%P" in line or "%O" in line): page_buf = 0
-        println_sjis(line)
 
     elif state == STATE_TRANSLATED:
       translated_trailing_meta = re.search(r"\s*((?:%[KNOP])+)$", line)
@@ -57,25 +57,8 @@ def main():
       # if translated_trailing_meta: eprint("translated_trailing_meta %s" % translated_trailing_meta)
 
       # TODO make this reusable in TIPS
-      line = re.sub(r"\s*((?:%[KNOP])+)$", "", line) # override the original escape codes if the translation specifies some
-      line = re.sub(r"%(?![A-Z])", "\uff05", line) # replacing % metachar, with a lookalike char
-      line = re.sub("\uff5e", "\u301c", line) # two versions of tilde, only one of which has a shift_jis codepoint
-      line = re.sub("\u2013|\u2014", "\u2015", line) # likewise for mdash '―'
-      line = re.sub("\u2015\u2015", "\u2015", line) # double -> single emdash
-      line = re.sub("\uff0d", "-", line) # fullwidth minus hyphen -> '-'
-      # ($en_linebreak || $p) =~ /%K$/ and $_ .= " "; # no trailing newline, so the sentence will be continued
-      line = re.sub(r"(?<!\b\S \S)  +", " ", line) # collapse multiple spaces unless there are also extra spaces within the neighboring words
-      line = re.sub("\u00f6", "o", line) # ö no shift_jis for vowel+macron. which is strange considering that it's used by Hepburn
-      line = re.sub("\u014d", "o", line) # no shift_jis for vowel+macron. which is strange considering that it's used by Hepburn
-      line = re.sub("\u00e9", "e", line) # é (utf8:c3a9) in fiancé; SA5_07, TIP_102
-      line = re.sub("na\u00efve", "naive", line) # "naïve": no umlaut for i
-      line = re.sub(r"''I''", "%CFF8FI%CFFFF", line) # colored text (yellow) to signify "ore", as deviated from Kokoro's normal "watashi".
-      line = re.sub(r"'I'", "%C8CFFI%CFFFF", line) # colored text (blue) to signify "watashi", as deviated from Satoru's normal "ore".
-      if "''" in line:
-        exit("unmatched ''")
-      # line = re.sub("\u2473", "\u2473", line) # ⑳ ('CIRCLED NUMBER TWENTY' (U+2473)). No need to replace, rendered as a wide space. (glyph #1147)
-      # spaces are too thin on pc; Not the case for psp.
-      
+      line = clean_translation_line(line)
+     
       last_ja_line = re.sub(r"%TS\d+|%TE", "", last_ja_line) # remove ja tips. any that make sense will be in the translation.
       
       # split ja line
@@ -147,6 +130,28 @@ def main():
   
   # re.purge()
 
+def clean_translation_line(line):
+  line = re.sub(r"\s*((?:%[KNOP])+)$", "", line) # override the original escape codes if the translation specifies some
+  line = re.sub(r"%(?![A-Z])", "\uff05", line) # replacing % metachar, with a lookalike char
+  line = re.sub("\uff5e", "\u301c", line) # two versions of tilde, only one of which has a shift_jis codepoint
+  line = re.sub("\u2013|\u2014", "\u2015", line) # likewise for mdash '―'
+  line = re.sub("\u2015\u2015", "\u2015", line) # double -> single emdash
+  line = re.sub("\uff0d", "-", line) # fullwidth minus hyphen -> '-'
+  # ($en_linebreak || $p) =~ /%K$/ and $_ .= " "; # no trailing newline, so the sentence will be continued
+  line = re.sub(r"(?<!\b\S \S)  +", " ", line) # collapse multiple spaces unless there are also extra spaces within the neighboring words
+  line = re.sub("\u00f6", "o", line) # ö no shift_jis for vowel+macron. which is strange considering that it's used by Hepburn
+  line = re.sub("\u014d", "o", line) # no shift_jis for vowel+macron. which is strange considering that it's used by Hepburn
+  line = re.sub("\u00e9", "e", line) # é (utf8:c3a9) in fiancé; SA5_07, TIP_102
+  line = re.sub("na\u00efve", "naive", line) # "naïve": no umlaut for i
+  line = re.sub(r"''I''", "%CFF8FI%CFFFF", line) # colored text (yellow) to signify "ore", as deviated from Kokoro's normal "watashi".
+  line = re.sub(r"'I'", "%C8CFFI%CFFFF", line) # colored text (blue) to signify "watashi", as deviated from Satoru's normal "ore".
+  if "''" in line:
+    exit("unmatched ''")
+  # line = re.sub("\u2473", "\u2473", line) # ⑳ ('CIRCLED NUMBER TWENTY' (U+2473)). No need to replace, rendered as a wide space. (glyph #1147)
+  # spaces are too thin on pc; Not the case for psp.
+
+  return line
+
 def println_sjis(line):
   sys.stdout.buffer.write(line.encode("shift_jis_2004"))
   sys.stdout.buffer.write(b'\n')
@@ -157,4 +162,4 @@ def eprint(*args, **kwargs):
   print(*args, **kwargs, file=sys.stderr)
 
 if __name__ == '__main__':
-  main();
+  main()
