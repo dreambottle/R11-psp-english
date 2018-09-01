@@ -46,6 +46,7 @@ Girl
 Pilot
 
 ;117c;12;山岳救助隊員
+Mountain rescue worker
 
 ;1180;16;ゆに・黄泉木・黛
 Yuni,Yomogi,Mayuzumi
@@ -63,11 +64,13 @@ Yuni,Satoru,Hotori
 Yomogi,Mayuzumi
 
 ;1194;6;沙也香
+Sayaka
 
 ;1198;10;ユウキドウ
-Yuukidou
+Yukidoh
 
 ;119c;6;みんな
+Everyone
 
 ;11a4;10;ゲーム回数
 Playthroughs
@@ -79,7 +82,7 @@ Mayuzumi Stress Level
 Message Illustration
 
 ;11b0;16;段ボールが崩れた
-The cardboards collapsed
+The Cardboard Boxes Collapsed
 
 ;11b4;10;ゆに双子説
 Yuni's a Twin Theory
@@ -91,7 +94,7 @@ Kokoro Manages the Rations
 Very Worried
 
 ;11c0;26;２日目にコーヒー飲んでない
-Didn't drink coffee on the second day
+Didn't Drink Coffee on the 2nd Day
 
 ;11c4;30;こころが生きていてくれて嬉しい
 Glad Kokoro's Alive
@@ -103,9 +106,10 @@ Didn't Speak with Lin About the "Round and Round"
 You didn't drink the sleeping pill
 
 ;11d0;30;３日目と４日目スフィアで食べた
-You ate at SPHIA the 3rd and 4th day
+Ate at SPHIA on the 3rd and 4th day
 
 ;11d4;14;榎本に殺される
+Killed By Enomoto
 
 ;11d8;18;スフィアで遭難した
 Incident at SPHIA
@@ -129,20 +133,25 @@ Incident at Mount Akakura
 Death from cold at crash site
 
 ;11f4;18;ゆに低体温症で死亡
-Yuni's death by hypothermia
+Yuni's death from hypothermia
 
 ;11f8;19;こころ7日目で死亡Ａ
+Kokoro's death on the seventh day A
 
 ;11fc;19;こころ7日目で死亡Ｂ
+Kokoro's death on the seventh day B
 
 ;1200;16;悟バッドエンドＡ
+Satoru Bad End A
 
 ;1204;14;水飲んでＢＡＤ
+Drank Water BAD
 
 ;1208;18;指飛ばされてＢＡＤ
 Fingers Cut Off BAD
 
 ;120c;16;ロール有りＢＡＤ
+Roll BAD
 
 ;1210;8;ＥＤ回数
 ED Count
@@ -232,30 +241,40 @@ TIPS Fully Unlocked
 Maximum Choices
 
 ;12a8;14;こころ編クリア
+Kokoro Chapter Clear
 
 ;12ac;18;睡眠薬飲まずＢＡＤ
+Didn't Take the Sleeping Pills BAD
 
 ;12b0;16;悟バッドエンドＡ
 ;dupe:1200
 ;12b4;14;水飲んでＢＡＤ
 ;dupe:1204
 ;12b8;14;黛発狂ＡＢＡＤ
+Mayuzumi's Madness A BAD
 
 ;12bc;20;スフィアで遭難ＢＡＤ
+Incident at SPHIA BAD
 
 ;12c0;20;榎本に殺されるＢＡＤ
+Killed By Enomoto BAD
 
 ;12c4;14;黛発狂ＢＢＡＤ
+Mayuzumi's Madness B BAD
 
 ;12c8;16;黄泉木発狂ＢＡＤ
 
 ;12cc;20;スフィアで食事ＢＡＤ
+Meal at SPHIA BAD
 
 ;12d0;14;黛発狂ＣＢＡＤ
+Mayuzumi's Madness C BAD
 
 ;12d4;18;朱倉で遭難１ＢＡＤ
+Incident at Mount Akakura 1 BAD
 
 ;12d8;18;朱倉で遭難２ＢＡＤ
+Incident at Mount Akakura 2 BAD
 
 ;12dc;22;事故現場で凍死１ＢＡＤ
 Death from Cold at the Crash Site 1 BAD
@@ -264,17 +283,23 @@ Death from Cold at the Crash Site 1 BAD
 Death from Cold at the Crash Site 2 BAD
 
 ;12e4;14;ゆに凍死ＢＡＤ
+Yuni Dies From Cold BAD
 
 ;12e8;12;雪崩１ＢＡＤ
+Avalanche 1 BAD
 
 ;12ec;12;雪崩２ＢＡＤ
+Avalanche 2 BAD
 
 ;12f0;12;雪崩３ＢＡＤ
+Avalanche 3 BAD
 
 ;12f4;10;胡蝶の夢２
+Dream of the Butterfly 2
 
 #Satoru Chapter Clear (All Clear)
 ;12f8;26;悟編クリア（オールクリア）
+Satoru Chapter Clear (Everything Clear)
 
 ;12fc;16;悟バッドエンドＡ
 ;dupe:1200
@@ -297,6 +322,7 @@ Death from Cold at the Crash Site 2 BAD
 ;1320;16;ロール有りＢＡＤ
 ;dupe:120c
 ;1324;22;小屋に誰もいないＢＡＤ
+Nobody at the Cabin BAD
 
 ;1328;14;ゆに凍死ＢＡＤ
 ;dupe:12e4
@@ -504,6 +530,7 @@ Minute
 ;1470;16;悟エピローグ判定
 
 ;1474;24;ショートカット許可判定用
+Shortcuts Unlocked 判定用
 
 ;1478;24;ショートカット許可判定用
 ;dupe:1474
@@ -975,6 +1002,7 @@ DID Breakout
 ;dupe:1628
 ;1830;14;絶望の深淵・Ⅰ
 Abyss of Despair I
+
 ;1838;8;ココロ編
 ;dupe:1628
 ;183c;10;一握の安息
@@ -1099,6 +1127,7 @@ God Descends to the New World
 ;dupe:1628
 ;195c;14;絶望の深淵・Ⅱ
 Abyss of Despair II
+
 ;1964;8;ココロ編
 ;dupe:1628
 ;1968;14;籠の中の．．．
@@ -7313,7 +7342,7 @@ Lyrics/Composition: Shikura Chiyomaru
 
 ;6f44;9;MOV15.PMF
 
-;6f54;9;MVED1.PMF
+Sociology
 
 ;6f64;9;MVED2.PMF
 
@@ -7748,7 +7777,7 @@ It seems that the company is amassing huge amounts of capital from several count
 ;7b90;220;また、ある情報筋によれば、最近、%Nある重化学企業と提携し、%N長距離ミサイルの研究にも着手したとか。%N情報工学や量子物理学の研究・開発に熱心%Nなのは、それもすべて軍事方面へ転用するための%N投資であると言えるのかも知れない。
 Among their activities are using human test subjects without any regard to basic civil rights; the research, development, synthesis, and refinement of illegal drugs; expanding profit by trafficking their drugs on the black market....%NFurthermore, according to certain sources, the company has recently ventured into the area of long-range missile development as a result of its ties with a certain heavy chemical enterprise.%N
 ;7b94;138;つまりは、%Nこの企業の悪行を挙げればキリがないのである。%N悪名高き製薬会社――%Nしかしそれは、世界におけるごく一部の闇に%N過ぎないのだ。%N
-In fact, their deep involvement with information engineering and quantum physics-related research projects would perhaps best be explained as an investment for the sole purpose of subsequent adoption of technologies developed thereof into military use.%NIn short,%Nit would take ages to even try and enumerate all of their wrongdoings.%NA pharmaceutical company with a reputation this bad―%Nand yet, this is merely a glimpse of all the darkness the world possesses.
+In fact, their deep involvement with information engineering and quantum physics-related research projects would perhaps best be explained as an investment for the sole purpose of subsequent adoption of technologies developed thereof into military use.%NIn short, it would take ages to even try and enumerate all of their wrongdoings.%NA pharmaceutical company with a reputation this bad―%Nand yet, this is merely a glimpse of all the darkness the world possesses.
 ;7ba0;18;飛び出し式のナイフ
 Switchblade
 ;7ba4;144;スイッチナイフのこと。%N日本では規制されているので作れないし、%N売られていない。%Nスイッチナイフをジャックナイフと%N呼んだこともあったらしい。%N
@@ -7836,17 +7865,17 @@ However, he failed in his God-given mission to become an instrument of the Lord.
 ;7ca0;10;最終レベル
 The Final Level
 ;7ca4;216;それは『彼ら』の企てた計画を%N最終形に導くための行為。%Nそれは『彼ら』が求めた真実へと導く、%N最後の一手。%Nそれは『彼ら』がアイツに出会うために必要な、%N最終の手段。%Nそれが行われたとき――%N世界は大変貌を遂げる。%N
-It is the level to which the plan "they" devised will move as it transitions into its final stage.%NThe final move%Nthat will lead to the truth "they" have wished for.%NThe final measure necessary%Nfor "them" to meet "That Guy."%NWhen it is executed―%NThe world will undergo a great transfiguration.%N
+It is the level to which the plan "they" devised will move as it transitions into its final stage.%NThe final move that will lead to the truth "they" have wished for.%NThe final measure necessary for "them" to meet "That Guy."%NWhen it is executed―%NThe world will undergo a great transfiguration.%N
 ;7ca8;187;それが行われたとき――%N仮初めの世界――⑳『Imaginary』は失われ……%N世界の架橋――⑳『Symbolic』を経て……%N真理の世界――⑳『Real』は姿を現わす。%N『第３の眼』の開眼とともに――――。%N
 When it is executed―%NThe transient world― "Imaginary" is lost...%NThe bridge of the world― "Symbolic" is crossed...%NThe true world― "Real" will reveal its shape.%NTogether with the awakening of the "Third Eye"――
 ;7cb4;16;ｉｎｆｉｎｉｔｙ
 Infinity
 ;7cb8;138;インフィニティ／ｉｎｆｉｎｉｔｙ%N１⑳：⑳――無限、無限大。%N⑳⑳　　　限りがないこと。どこまでも続くこと。%N⑳⑳　　　また、その様子。%N
-1. Limitless, endless.%N   Something that is without limit. Something that continues endlessly.%N   And so on.%N
+1. Limitless, endless.%NSomething that is without limit. Something that continues endlessly.%NAnd so on.%N
 ;7cbc;230;２⑳：⑳インフィニティ・シリーズ%N%N2000.3.23　infinity%N2000.11.23　infinity～Cure～%N2000.12.21　Never7-the⑳end⑳of⑳infinity-%N2002.8.29　Ever17-the⑳out⑳of⑳infinity-%N2004.3.18　Remember11-the⑳age⑳of⑳infinity-%N．．．and
 2. Infinity Series%N
 ;7cc0;34;“infinity”シリーズは永遠に続く。
-2000．3．23　infinity%N2000．11．23　infinity ～Cure～%N2000．12．21　Never7 -the end of infinity-%N2002．8．29　　Ever17 -the out of infinity-%N2004．3．18　　Remember11 -the age of infinity-%N... and%N%Nthe "infinity" series will go on forever.%N
+2000．3．23　infinity%N2000．11．23　infinity ～Cure～%N2000．12．21　Never7 -the end of infinity-%N2002．8．29　Ever17 -the out of infinity-%N2004．3．18　　Remember11 -the age of infinity-%N... and%N%Nthe "infinity" series will go on forever.%N
 ;7ccc;4;邂逅
 Chance Meeting
 ;7cd0;322;『邂逅』とは、思いがけず出逢うこと、%Nめぐり逢うことの意である。%N余談だが、このとき内海が何を思ったのかは%N想像を絶するものがある。%Nなにしろ、１年前に死んだはずの夫が、%N突然目の前に現れたのだから。%Nしかも、あたりは苛烈な雪地獄……。%N少なくともこのときはまだ、%Nここが天国だなどという発想は%N抱きもしなかっただろう。%N
@@ -10938,205 +10967,247 @@ Me in the Mirror/Kokoro
 -#Ｍｉｎｄ?Ｅｄｕｃａｔｉｏｎ
 Ｍｉｎｄ-Ｅｄｕｃａｔｉｏｎ
 
-+#事故現場で凍死２ＢＡＤ－クリア
-Death from Cold at the Crash Site 2 BAD - Clear
-
-+指飛ばされてＢＡＤ－バイオＢＡＤローカル
-Fingers cut off BAD - Bio BAD Local
-
-こころ7日目で死亡Ａ－バイオＢＡＤローカル
++こころ7日目で死亡Ａ－バイオＢＡＤローカル
 Kokoro's death on the seventh day A - Bio BAD
 
-スフィアで遭難ＢＡＤ－クリア
++こころ7日目で死亡Ｂ－バイオＢＡＤローカル
+Kokoro's death on the seventh day B - Bio BAD
+
+=こころ7日目で死亡Ａ－バイオＢＡＤ
+Kokoro's Death on the Seventh Day A - Bio BAD
+
+=こころ7日目で死亡Ｂ－バイオＢＡＤ
+Kokoro's Death on the Seventh Day B - Bio BAD
+
++スフィアで遭難ＢＡＤ－クリア
 Incident at SPHIA BAD - Clear
 
-榎本に殺される－バイオＢＡＤローカル
+=スフィアで遭難した－バイオＢＡＤ
+Incident at SPHIA - Bio BAD
+
+=スフィアで遭難した－バイオＢＡＤローカル
+Incident at SPHIA - Bio BAD local
+
+++榎本に殺される－バイオＢＡＤローカル
 Killed By Enomoto - Bio BAD local
 
-黛発狂Ｃ－バイオＢＡＤローカル
+=榎本に殺されるＢＡＤ－クリア
+Killed by Enomoto BAD - Clear
+
+=榎本に殺される－バイオＢＡＤ
+Killed By Enomoto - Bio BAD
+
+++黛発狂ＣＢＡＤ－クリア
+Mayuzumi's Madness C BAD - Clear
+
+++黛発狂ＢＢＡＤ－クリア
+Mayuzumi's Madness B Bad - Clear
+
+++黛発狂ＡＢＡＤ－クリア
+Mayuzumi's Madness A BAD - Clear
+
+=黛発狂Ｃ－バイオＢＡＤ
+Mayuzumi's Madness C - Bio BAD
+
+=黛発狂Ｃ－バイオＢＡＤローカル
 Mayuzumi's madness C - Bio BAD Local
+
+=黛発狂Ｂ－バイオＢＡＤローカル
+Mayuzumi's madness B - Bio BAD Local
+
+=黛発狂Ｂ－バイオＢＡＤ
+Mayuzumi's Madness B - Bio BAD
+
+=黛発狂Ａ－バイオＢＡＤローカル
+Mayuzumi's madness A - Bio BAD Local
+
+=黛発狂Ａ－バイオＢＡＤ
+Mayuzumi's Madness A - Bio BAD
 
 +#ゆに双子説－バイオローカル
 Yuni's a Twin Theory - Bio local
 
-睡眠薬飲んでない－バイオＢＡＤローカル
+=ゆに双子説－バイオ
+Yuni's a Twin Theory - Bio
+
++睡眠薬飲まずＢＡＤ－クリア
+Didn't Take the Sleeping Pills BAD - Clear
+
+=#睡眠薬飲んでない－バイオＢＡＤローカル
 Didn't drink the sleeping pill - Bio BAD local
 
-Ｖｉｒｇｉｎ?Ｃｅｉｌｉｎｇ
+=#睡眠薬飲んでない－バイオＢＡＤ
+Didn't Take the Sleeping Pills - Bio BAD
+
+-Ｖｉｒｇｉｎ－Ｃｅｉｌｉｎｇ
 Ｖｉｒｇｉｎ-Ｃｅｉｌｉｎｇ
 
-ゆに低体温症で死亡－バイオＢＡＤローカル
++ゆに低体温症で死亡－バイオＢＡＤ
+Yuni's Death From Hypothermia - Bio BAD
+
+=ゆに低体温症で死亡－バイオＢＡＤローカル
 Yuni's death from hypothermia - Bio BAD local
 
-+チラミンとＤＭＴのＢＡＤ－クリア
++#チラミンとＤＭＴのＢＡＤ－クリア
 Tyramine and DMT BAD - Clear
 
 +指飛ばされてＢＡＤ－クリア
 Fingers Cut Off BAD - Clear
 
+=指飛ばされてＢＡＤ－バイオＢＡＤ
+Fingers cut off BAD - Bio BAD
+
+=指飛ばされてＢＡＤ－バイオＢＡＤローカル
+Fingers cut off BAD - Bio BAD Local
+
 +#とても悩んだ－バイオ
 Very Worried - Bio
 
-雪崩１ＢＡＤ－クリア
+=とても悩んだ－バイオローカル
+Very worried - Bio local
+
++雪崩１ＢＡＤ－クリア
 Avalanche 1 BAD - Clear
 
-黄泉木発狂－バイオＢＡＤ
++雪崩２ＢＡＤ－クリア
+Avalanche 2 BAD - Clear
+
++雪崩３ＢＡＤ－クリア
+Avalanche 3 BAD - Clear
+
++黄泉木発狂ＢＡＤ－クリア
+Yomogi's Madness BAD - Clear
+
+=黄泉木発狂－バイオＢＡＤ
 Yomogi's Madness - Bio BAD
 
-ミュージック許可
+=黄泉木発狂－バイオＢＡＤローカル
+Yomogi's madness - Bio BAD Local
+
+?ミュージック許可
 Music Unlocked
 
-ゆに低体温症で死亡－バイオＢＡＤ
-Yuni's Death From Hypothermia - Bio BAD
-
-スフィアで食事ＢＡＤ－クリア
++スフィアで食事ＢＡＤ－クリア
 Meal at SPHIA BAD - Clear
-
-黛発狂ＢＢＡＤ－クリア
-Mayuzumi's Madness B Bad - Clear
 
 +こころが生きていてくれて嬉しい－バイオＢＡＤ
 Glad Kokoro's Alive - Bio BAD
 
-黛発狂Ｂ－バイオＢＡＤローカル
-Mayuzumi's madness B - Bio BAD Local
+=こころが生きていてくれて嬉しい－バイオローカル
+Glad Kokoro's alive - Bio local
+
++絶望の深淵・\x{2}
+Abyss of Despair I
 
 +絶望の深淵・\x{3}
 Abyss of Despair II
 
-こころ編－クリア
++こころ編－クリア
 Kokoro Chapter - Clear
 
-水飲んでＢＡＤ－クリア
++水飲んでＢＡＤ－クリア
 Drank Water BAD - Clear
 
-黛発狂Ｂ－バイオＢＡＤ
-Mayuzumi's Madness B - Bio BAD
+=水飲んでＢＡＤ－バイオＢＡＤ
+Drank Water BAD - Bio BAD
 
-こころ7日目で死亡Ｂ－バイオＢＡＤローカル
-Kokoro's death on the seventh day B - Bio BAD
-
-スフィアで遭難した－バイオＢＡＤ
-Incident at SPHIA - Bio BAD
+=水飲んでＢＡＤ－バイオＢＡＤローカル
+Drank water BAD - Bio BAD local
 
 +悟編エピローグ－クリア
 Satoru Chapter Epilogue - Clear
 
-黛発狂Ａ－バイオＢＡＤローカル
-Mayuzumi's madness A - Bio BAD Local
++事故現場で凍死１ＢＡＤ－クリア
+Death from Cold at the Crash Site 1 BAD - Clear
 
-とても悩んだ－バイオローカル
-Very worried - Bio local
++事故現場で凍死２ＢＡＤ－クリア
+Death from Cold at the Crash Site 2 BAD - Clear
 
-雪崩３ＢＡＤ－クリア
-Avalanche 3 BAD - Clear
-
-睡眠薬飲んでない－バイオＢＡＤ
-Didn't Take the Sleeping Pills - Bio BAD
-
-事故現場で凍死－バイオＢＡＤローカル
++事故現場で凍死－バイオＢＡＤローカル
 Death from cold at the crash site - Bio BAD local
 
-榎本に殺されるＢＡＤ－クリア
-Killed by Enomoto BAD - Clear
+=事故現場で凍死－バイオＢＡＤ
+Death From Cold at the Crash Site - Bio BAD
 
-水飲んでＢＡＤ－バイオＢＡＤ
-Drank Water BAD - Bio BAD
-
-朱倉で遭難－バイオＢＡＤローカル
++朱倉で遭難－バイオＢＡＤローカル
 Incident at Mt Akakura - Bio BAD local
 
-ロール有りＢＡＤ－クリア
+=朱倉で遭難－バイオＢＡＤ
+Incident at Mount Akakura - Bio BAD
+
++朱倉で遭難１ＢＡＤ－クリア
+Incident at Mount Akakura 1 BAD - Clear
+
++朱倉で遭難２ＢＡＤ－クリア
+Incident at Mount Akakura 2 BAD - Clear
+
++ロール有りＢＡＤ－クリア
 Roll BAD - Clear
 
-ゆに凍死ＢＡＤ－クリア
+=ロール有りＢＡＤ－バイオＢＡＤローカル
+Roll BAD - Bio BAD Local
+
+=ロール有りＢＡＤ－バイオＢＡＤ
+Roll BAD - Bio BAD
+
++ゆに凍死ＢＡＤ－クリア
 Yuni Dies From Cold BAD - Clear
 
 +#黛ストレス値－バイオ
 Mayuzumi Stress Level - Bio
 
-クリアリスト許可
+?クリアリスト許可
 Clear List Unlocked
 
-朱倉で遭難２ＢＡＤ－クリア
-Incident at Mount Akakura 2 BAD - Clear
-
-３日目と４日目スフィアで食べた－バイオＢＡＤ
++３日目と４日目スフィアで食べた－バイオＢＡＤ
 Ate at SPHIA on the Third and Fourth Day - Bio BAD
 
-悟バッドエンドＡ－クリア
+=３日目と４日目スフィアで食べた－バイオＢＡＤローカル
+Ate at SPHIA on the third and fourth day - Bio BAD local
+
++悟バッドエンドＡ－クリア
 Satoru Bad End A - Clear
 
-黄泉木発狂ＢＡＤ－クリア
-Yomogi's Madness BAD - Clear
-
-朱倉で遭難１ＢＡＤ－クリア
-Incident at Mount Akakura 1 BAD - Clear
-
-+指飛ばされてＢＡＤ－バイオＢＡＤ
-Fingers cut off BAD - Bio BAD
-
-黛発狂ＡＢＡＤ－クリア
-Mayuzumi's Madness A BAD - Clear
-
-ショートカット許可
-Shortcuts Unlocked
-
-黛発狂Ｃ－バイオＢＡＤ
-Mayuzumi's Madness C - Bio BAD
-
-+#段ボールが崩れた－バイオローカル
-The cardboards collapsed - Bio local
-
-こころ7日目で死亡Ａ－バイオＢＡＤ
-Kokoro's Death on the Seventh Day A - Bio BAD
-
-悟バッドエンドＡ－バイオＢＡＤ
+=悟バッドエンドＡ－バイオＢＡＤ
 Satoru Bad End A - Bio BAD
 
-黛発狂ＣＢＡＤ－クリア
-Mayuzumi's Madness C BAD - Clear
+=悟バッドエンドＡ－バイオＢＡＤローカル
+Satoru Bad End A - Bio BAD Local
 
-小屋に誰もいないＢＡＤ－クリア
+?#ショートカット許可
+Shortcuts Unlocked
+
++#段ボールが崩れた－バイオ
+The Cardboard Boxes Collapsed - Bio
+
+=#段ボールが崩れた－バイオローカル
+The cardboards collapsed - Bio local
+
++小屋に誰もいないＢＡＤ－クリア
 Nobody at the Cabin BAD - Clear
 
 +#食料をこころが管理－バイオ
 Kokoro Manages the Rations - Bio
 
-スフィアで遭難した－バイオＢＡＤローカル
-Incident at SPHIA - Bio BAD local
+=#食料をこころが管理－バイオローカル
+Kokoro manages the rations - Bio local
 
-ゆに双子説－バイオ
-Yuni's a Twin Theory - Bio
-
-黄泉木発狂－バイオＢＡＤローカル
-Yomogi's madness - Bio BAD Local
-
-アルバム許可
+?アルバム許可
 Album Unlocked
 
-+こころが生きていてくれて嬉しい－バイオローカル
-Glad Kokoro's alive - Bio local
-
-+#段ボールが崩れた－バイオ
-The Cardboard Boxes Collapsed - Bio
-
-悟グッド－クリア
+?悟グッド－クリア
 Satoru Good End - Clear
-
-事故現場で凍死１ＢＡＤ－クリア
-Death from Cold at the Crash Site 1 BAD - Clear
-
-+２日目にコーヒー飲んでない－バイオローカル
-Didn't drink coffee on the second day - Bio local
 
 +２日目にコーヒー飲んでない－バイオＢＡＤ
 Didn't Drink Coffee on the Second Day - Bio BAD
 
-Ｂｒｅａｋ?Ｔｉｍｅ
+=２日目にコーヒー飲んでない－バイオローカル
+Didn't drink coffee on the second day - Bio local
+
+-Ｂｒｅａｋ?Ｔｉｍｅ
 Ｂｒｅａｋ-Ｔｉｍｅ
 
-胡蝶の夢２－クリア
++胡蝶の夢２－クリア
 Dream of the Butterfly 2 - Clear
 
 +#メモのイラスト－バイオ
@@ -11145,51 +11216,9 @@ Message Illustration - Bio
 +#Ｔｒｉｃｋ\x{1}Ｓｔａｒ
 Ｔｒｉｃｋｓｔｅｒ
 
-こころ7日目で死亡Ｂ－バイオＢＡＤ
-Kokoro's Death on the Seventh Day B - Bio BAD
-
-３日目と４日目スフィアで食べた－バイオＢＡＤローカル
-Ate at SPHIA on the third and fourth day - Bio BAD local
-
-水飲んでＢＡＤ－バイオＢＡＤローカル
-Drank water BAD - Bio BAD local
-
-+#食料をこころが管理－バイオローカル
-Kokoro manages the rations - Bio local
-
-睡眠薬飲まずＢＡＤ－クリア
-Didn't Take the Sleeping Pills BAD - Clear
-
-ロール有りＢＡＤ－バイオＢＡＤローカル
-Roll BAD - Bio BAD Local
-
-朱倉で遭難－バイオＢＡＤ
-Incident at Mount Akakura - Bio BAD
-
-ロール有りＢＡＤ－バイオＢＡＤ
-Roll BAD - Bio BAD
-
-+絶望の深淵・\x{2}
-Abyss of Despair I
-
-雪崩２ＢＡＤ－クリア
-Avalanche 2 BAD - Clear
-
-悟バッドエンドＡ－バイオＢＡＤローカル
-Satoru Bad End A - Bio BAD Local
-
-事故現場で凍死－バイオＢＡＤ
-Death From Cold at the Crash Site - Bio BAD
-
 +鈴とぐるぐる話してない－バイオＢＡＤ
 Didn't Speak with Lin About the "Round and Round" - Bio BAD
 
-榎本に殺される－バイオＢＡＤ
-Killed By Enomoto - Bio BAD
-
-黛発狂Ａ－バイオＢＡＤ
-Mayuzumi's Madness A - Bio BAD
-
-+鈴とぐるぐる話してない－バイオローカル
+=鈴とぐるぐる話してない－バイオローカル
 Didn't speak with Lin about the "Round and Round" - Bio local
 

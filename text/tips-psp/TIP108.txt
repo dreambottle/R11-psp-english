@@ -182,7 +182,6 @@ The plan formed within the walls of the inhuman research institute.%N
 【Anima】%N
 The inner self.%N
 The face of the feminine within the masculine (in Jungian psychology).%N
-%N
 【Animus】%N
 Intentions. Violent hostility.%N
 The face of the masculine within the feminine (in Jungian psychology).%N
@@ -199,10 +198,15 @@ The one who brought forth everything and envelops all, bringing them up. That si
 
 #EN#4
 【Shadow】%N
-The individualistic shadow and the omnipresent shadow. To the person in question, their Shadow is something which they hate. An entity which is one's polar opposite.%N
-Possessed of a primal darkness. The more it is repressed, the stronger it becomes.%N
+The individualistic shadow and the omnipresent shadow. To the person
+in question, their Shadow is something which they hate. An entity
+which is one's polar opposite.%N
+Possessed of a primal darkness. The more it is repressed,
+the stronger it becomes.%N
 【Puer aeternus】%N
-The eternal boy. Associated with the Eleusinian Mysteries of Greece and their principal god or priest Iakchos. Creative, and possessing a vibrant imagination. However, not well-suited to everyday society.%N
+The eternal boy. Associated with the Eleusinian Mysteries of Greece
+and their principal god or priest Iakchos. Creative, and possessing
+a vibrant imagination. However, not well-suited to everyday society.%N
 
 #EN#5
 【Trickster】%N
@@ -211,11 +215,12 @@ One possessing a disordered soul which rejects all boundaries, destroys all orde
 #EN#6
 【Self】%N
 Quickening/Self%N
+%N
 【Communication】%N
 Contact.%N
+%N
 【Anxiety】%N
 Uneasiness.%N
-%N
 
 #EN#7
 【Cue】%N
@@ -244,9 +249,9 @@ The intricacies of mental awareness → bewilderment, agitation and confusion.%N
 #EN#10
 【Dreamy lens】%N
 Imagining something which calms the heart.%N
+%N
 【Dark Gestalt】%N
 Gestalt: a single entity, such as a shape or a melody, which is part of a whole that is greater than the sum of its parts. However, though part of a whole, it contains its own structure and significant meaning, and retains its own shape even when changes are undergone.%N
-%N
 
 #EN#11
 【Will -Theme-】%N
@@ -256,7 +261,6 @@ A process within the mind, in which conscious thoughts and actions are independe
 #EN#12
 【Catharsis】%N
 First referred to in Aristotle's "Poetics." The meaning is one of purification or purging. The release of the negative emotions built up by watching a tragedy in order to purify the mind is a catharsis. In its old definition, it seems this word's emphasis was on catharsis as a therapeutic process or treatment.%N
-%N
 【All or None】%N
 The All or None Principle.%N
 Put another way, "Life or Death."%N

@@ -29,8 +29,8 @@ pc_index:TIP_097
 #PARAGRAPHS_TRANSLATED:
 #EN#1
 1. Limitless, endless.%N
-   Something that is without limit. Something that continues endlessly.%N
-   And so on.%N
+Something that is without limit. Something that continues endlessly.%N
+And so on.%N
 
 #EN#2
 2. Infinity Series%N
@@ -39,7 +39,7 @@ pc_index:TIP_097
 2000．3．23　infinity%N
 2000．11．23　infinity 〜Cure〜%N
 2000．12．21　Never7 -the end of infinity-%N
-2002．8．29　　Ever17 -the out of infinity-%N
+2002．8．29　Ever17 -the out of infinity-%N
 2004．3．18　　Remember11 -the age of infinity-%N
 ... and%N
 %N

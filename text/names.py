@@ -17,5 +17,11 @@ names = dict([
   ["少年", "Boy"],
   ["少女", "Girl"],
   ["機長", "Pilot"],
-  ["ユウキドウ", "Yuukidou"],
+  # "Yukidoh", rather than "Yuukidou", because it is written everywhere else this way
+  ["ユウキドウ", "Yukidoh"],
+
+  # These occur in init.bin only, but pasting them here, for reference
+  ["山岳救助隊員", "Mountain rescue worker"],
+  ["沙也香", "Sayaka"],
+  ["みんな", "Everyone"],
 ])

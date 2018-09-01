@@ -151,7 +151,9 @@ Until you actually look at it, its existence is described by assigning a probabi
 In this state, we call it an "electron cloud."%N
 %N
 Now, suppose you were to use some method to observe the electron.%N
-At that moment, assuming that the electron's position was determined, the previously spread-out cloud would immediately gather at that single observed point (likewise for momentum).%N
+At that moment, assuming that the electron's position was determined,
+the previously spread-out cloud would immediately gather at that single
+observed point (likewise for momentum).%N
 
 #EN#7
 This is called a "wave function collapse"; it basically means that the act of observing the electron, which was previously viewed as a probability distribution, renders its fixed existence as a real phenomenon.%N
