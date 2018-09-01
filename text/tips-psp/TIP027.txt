@@ -1,0 +1,20 @@
+TIP027
+フライトレコーダー
+Flight Recorder
+paragraph_count:1
+init_addr:7808
+pc_index:TIP_032
+
+#PARAGRAPHS_JP:
+#JP#1
+;780c;114;飛行高度など、飛行に関するデータを自動的に%N
+時刻とともに記録する装置。%N
+耐熱・耐震性の堅牢な箱に納められている。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+(a.k.a. Black Box)%N
+An aviation device that automatically records speed, altitude, and other information about the flight in real time.%N
+Housed in a very sturdy casing which makes it highly resistant to damage by fire or force trauma.
+

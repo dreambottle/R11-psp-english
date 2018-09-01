@@ -1,0 +1,18 @@
+TIP026
+三葉虫
+Trilobite
+paragraph_count:1
+init_addr:77f8
+pc_index:TIP_031
+
+#PARAGRAPHS_JP:
+#JP#1
+;77fc;70;カンブリア紀に生きていた節足動物。%N
+体長は２〜４ｃｍほどの物が多い。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+Arthropods that lived in the Cambrian period.%N
+Most had a body length of about 2-4 centimeters.
+

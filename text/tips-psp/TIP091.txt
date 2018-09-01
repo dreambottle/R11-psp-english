@@ -1,0 +1,106 @@
+TIP091
+疳の虫
+Baby Colic
+paragraph_count:7
+init_addr:7d28
+pc_index:TIP_096
+
+#PARAGRAPHS_JP:
+#JP#1
+;7d2c;268;ここにひとつの論文がある。%N
+乳児の『疳の虫』はなぜ起こるのか？%N
+『疳の虫』は赤ちゃんが理由もなく%N
+不機嫌になってぐずったり、%N
+夜泣きをしたりする症状のことで、%N
+乳児の自律神経失調症から起きる%N
+神経異常興奮に当たるとされているが、%N
+詳しい原因はまだよくわかっていない。%N
+
+#JP#2
+;7d30;222;一説によると、%N
+赤ん坊はその鮮明な意識とは裏腹に、%N
+肉体をうまく操ることができないため、%N
+激しいストレスを覚え、いらだち、%N
+泣き叫ぶのではないかと言われている。%N
+このため、%N
+大人には訳もなく泣いているようにしか見えない。%N
+
+#JP#3
+;7d34;318;赤ん坊に、意のままになる肉体を与えたら、%N
+冷酷な殺人鬼になるだろうという医学者もいる。%N
+彼（彼女）は人間社会の道徳を学んでおらず、%N
+本能のままに殺戮を繰り広げるだろうと%N
+いうのだ。%N
+えてして幼児とは残酷なものである。%N
+少しのためらいも見せずに%N
+生き物を平気で殺すことができる。%N
+それも遊戯の一環として、彼らは行なう。%N
+
+#JP#4
+;7d38;292;成長するにつれ、およそ３歳程度から、%N
+ひとは他人の立場にたってものを考えることが%N
+できるようになる。共感の確立である。%N
+自分がされたら嫌なことは、%N
+他者に対しても決してしてはいけないのだと、%N
+このときになって初めて学ぶ。%N
+乳児の体力が他の哺乳類に比べて未熟なのは%N
+このためではないだろうか。%N
+
+#JP#5
+;7d3c;132;それは乳児の生存にとって著しく不利ではあるが、%N
+実はそうでなければ、%N
+むしろ成人の生命の方が脅かされることにも%N
+なりかねないのだ。%N
+
+#JP#6
+;7d40;216;他のあらゆる生物の中で、%N
+比類なき残虐性向を有するこの人類は、%N
+進化の途上に於いて、%N
+この内なる残虐性から互いの身を守るために、%N
+文化を確立し、教育によって精神の向上を%N
+はかるに至ったと考えることもできなくはない。%N
+
+#JP#7
+;7d44;272;またそれとともに、精神の未発達な乳児からは、%N
+自然淘汰的に体力が奪われていったのだとも%N
+考えられる。%N
+『疳の虫』は本能的な欲求の発露であるがゆえに、%N
+人間の本質を知らしめる。%N
+それは狂気の叫び声であると同時に、%N
+この世に生を受けたことに対する哀切な%N
+嘆き声でもあるのだ。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+Here is one of the theories about baby colic.%N
+Why does "baby colic" occur in infants?%N
+"Baby colic" is a condition in which a baby becomes unsettled and irritable for no apparent reason, and cries frequently (e.g. at night). It is normally categorized as abnormal neuronal excitability resulting from dysautonomia in infants, but the exact reasons for its occurrence remain unclear.%N
+
+#EN#2
+One explanation suggested%N
+that the contrast between the clear, vivid consciousness of an infant and the inability to properly control its body results in an intense stress for the baby, which could cause it to become irritated and cry.%N
+That is why, from the point of view of an adult, it seems that they are just crying for no reason.%N
+
+#EN#3
+There are also medics who suppose that if a baby was given a body which would properly obey its will, it would turn into a cold-blooded killer.%N
+They argue that since babies have not yet learned human morals, their instincts would cause them to go on a bloody rampage.%N
+Infants often exhibit cruelty.%N
+They can calmly kill other living beings with no reservation, thinking it nothing more than part of a game.%N
+
+#EN#4
+As a person grows up, when they reach the age of about three, they come to be able to think from the perspective of other people, and put themselves in their shoes; the ability to empathize is established.%N
+It is at that age that they learn for the first time that things which one doesn't like being done to them must never be done to others as well.%N
+Perhaps this is the reason why human infants are so underdeveloped in physical strength compared with other mammals.%N
+
+#EN#5
+This represents a considerable obstacle in the newborn's path to survival, but in fact, it is actually not so far-fetched a thought that it is rather the lives of adults that would be in danger if it was the other way around.%N
+
+#EN#6
+It is not impossible to imagine that it is through realizing the need to protect each other from this inner cruelty, the nature of brutality unparalleled in any other life form, that humankind has come, over the course of evolution, to create the civilization in which we live, and to establish the education system as a means for spiritual growth.%N
+
+#EN#7
+Additionally, it makes sense to think that the fact that as-of-yet mentally undeveloped newborns are deprived of physical strength lies in accordance with the principle of natural selection.%N
+"Baby colic," being a representation of the instinctive desires, makes known the true nature of man.%N
+It is the scream of madness, and at the same time, the pathetic lamentation of having been given life in this world.
+

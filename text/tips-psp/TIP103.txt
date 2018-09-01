@@ -1,0 +1,24 @@
+TIP103
+おれ
+I
+paragraph_count:1
+init_addr:7e84
+pc_index:TIP_093
+
+#PARAGRAPHS_JP:
+#JP#1
+;7e88;126;オレはオレであって、俺ではない。%N
+ここに、ふたりの『おれ』がいる。%N
+だとしたら、俺とは誰だ？%N
+だとしたら……%N
+オレとは誰だ？%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+I am I and not ''I''.%N
+There are two of me here.%N
+And if that's the case, who exactly is ''I'' ?%N
+And if that's the case...%N
+Who exactly am I?
+

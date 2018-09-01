@@ -1,0 +1,18 @@
+TIP019
+ホストコンピューター
+Host Computer
+paragraph_count:1
+init_addr:777c
+pc_index:TIP_024
+
+#PARAGRAPHS_JP:
+#JP#1
+;7780;106;接続されている二台以上のコンピューターのうち、%N
+大容量をもち主演算・制御を受け持つ%N
+上位コンピューター。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+In a network of two or more interconnected computers, the most powerful computer in the group, which performs most of the computations and network control, is known as the host computer.
+

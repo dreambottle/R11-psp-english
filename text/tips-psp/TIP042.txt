@@ -1,0 +1,20 @@
+TIP042
+低体温症
+Hypothermia
+paragraph_count:1
+init_addr:791c
+pc_index:TIP_047
+
+#PARAGRAPHS_JP:
+#JP#1
+;7920;108;胴体内部の体温（深部体温）が%N
+異常低下することによって引き起こされる、%N
+身体的不調。%N
+死に至ることがある。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+A physical condition in which the core body temperature is abnormally low, causing it to gradually fall further and further.%N
+May result in death.
+

@@ -1,0 +1,19 @@
+TIP005
+ビバーク
+Bivouac
+paragraph_count:1
+init_addr:7664
+pc_index:TIP_008
+
+#PARAGRAPHS_JP:
+#JP#1
+;7668;82;野宿や露営を示す登山用語。%N
+小屋やキャンプ地ではない場所で%N
+ひと晩を過ごすこと。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+A mountain-climbing term, meaning to sleep outdoors.%N
+To pass the night at a location where there are no cabins or campgrounds.
+

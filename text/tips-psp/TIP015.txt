@@ -1,0 +1,22 @@
+TIP015
+主人格・副人格
+Dominant and Alternate Personalities
+paragraph_count:1
+init_addr:773c
+pc_index:TIP_020
+
+#PARAGRAPHS_JP:
+#JP#1
+;7740;214;いわゆる多重人格において、最も長い間、%N
+身体を支配している人格を主人格と呼ぶ%N
+（出生して最初に持つ人格＝オリジナル人格が%N
+⑳主人格となることが多い）。%N
+主人格とは別に、身体を短期間支配する人格を、%N
+副人格と呼ぶ。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+In a person exhibiting so-called multiple personality disorder, the personality which is in control of the body for the longest periods of time is called the dominant personality (this is most often the "original" baseline personality which the person has had since birth).%N
+Other personae which assume control of the body from time to time for shorter periods are called alternate personalities.
+

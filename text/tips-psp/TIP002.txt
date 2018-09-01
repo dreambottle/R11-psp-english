@@ -1,0 +1,19 @@
+TIP002
+晩
+Evening
+paragraph_count:1
+init_addr:7630
+pc_index:TIP_003
+
+#PARAGRAPHS_JP:
+#JP#1
+;7634;112;晩／ばん%N
+現在では夜全体を意味することもあるが、%N
+本来は黄昏時から日没後まだ間もない%N
+夜の初め頃のことをさす。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+Even though the term is now used to mean night in general, originally it was used to describe the period of time between twilight and sunset; in other words, the time when night begins.
+

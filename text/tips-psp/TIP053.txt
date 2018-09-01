@@ -1,0 +1,25 @@
+TIP053
+カポエラ
+Capoeira
+paragraph_count:1
+init_addr:79ec
+pc_index:TIP_058
+
+#PARAGRAPHS_JP:
+#JP#1
+;79f0;248;ブラジルの格闘技のひとつ。%N
+打楽器を中心としたリズム演奏にのせ、%N
+２人１組で踊るようにして足技を繰り出す。%N
+もともとは黒人奴隷がアフリカの格闘技を%N
+発展させたもの。%N
+支配者から練習をカモフラージュするため、%N
+民族舞踊に見せかけたという歴史を持つ。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+An Afro-Brazilian martial art.%N
+Moving to the rhythm of drum-centric live music, two people move as one in an intricately choreographed dance.%N
+Created by black slaves, it had roots in ancient African techniques.%N
+Historically, leaders of the art disguised it as a form of folk dance so that it could be practiced openly.
+

@@ -1,0 +1,110 @@
+TIP038
+境界性人格障害
+Borderline Personality Disorder
+paragraph_count:6
+init_addr:78bc
+pc_index:TIP_043
+
+#PARAGRAPHS_JP:
+#JP#1
+;78c0;287;別名：境界例・境界例人格障害・ボーダーライン%N
+症状として次のうち５つ以上あてはまるものを、%N
+境界性人格障害と呼ぶ。%N
+⑳１)現実や想像の中での見捨てられ感。%N
+⑳２)不安定で激しい対人関係。%N
+⑳３)著明で持続的な不安定な自己像や自己観。%N
+⑳４)現実喪失感。%N
+⑳５)自殺・自傷行為など自虐的思考。%N
+
+#JP#2
+;78c4;242;⑳６)虚無感。空虚感。%N
+⑳７)顕著な気分反応性による感情不安定性。%N
+⑳８)不適切で激しい怒り、%N
+⑳　または怒りの制御の困難。%N
+⑳９)一過性のストレス関連性の妄想様観念、%N
+⑳　または重篤な解離性症状。%N
+１０）自暴自棄な行動とそれに対する自己嫌悪。%N
+
+#JP#3
+;78c8;123;その他、衝動性なものとしては、%N
+⑳１)浪費。%N
+⑳２)性行為。%N
+⑳３)物質濫用。%N
+⑳４)無謀な運転。%N
+⑳５)過食。%N
+などがある。%N
+
+#JP#4
+;78cc;380;境界性人格障害は、対人関係、自己像、感情の%N
+不安定および著しい衝動性の広範な様式で、%N
+成人期早期に始まり、種々の状況で明らかになる。%N
+障害という名前はついているが、比較的誰にでも%N
+あらわれる症状も多い。%N
+特徴的なものとして、感情の波、起伏が異常に%N
+激しいことがあげられる。%N
+そしてその中で、どうしようもない取り残され感%N
+と、それをとどめるための狂わんばかりの努力を%N
+見せたりする。
+
+#JP#5
+;78d0;332;自傷行為も多く見られるようである。%N
+自分が霧の中にでもいるような気がして、%N
+なんだかはっきりしなかったり、自分が%N
+このままバラバラになってしまうのではないか、%N
+というような感情を伴い、また、%N
+自分はいったい何者なのか、という思いに%N
+悩まされることもある。%N
+そして、うまくコントロールがきかなくなり、%N
+自傷行為に発展してしまうのだ。%N
+
+#JP#6
+;78d4;314;境界性人格障害の場合、周囲の人々を%N
+自分の敵か味方かに頭の中でふりわけ、味方と%N
+している人が自分から離れていこうとすると、%N
+不安になり、わざとトラブルを起こすような%N
+こともある。%N
+しかし、決してやりたくてやっているわけではなく、%N
+これはいろんなココロの病気に通じていること%N
+だが、それはその人本来の性格ではない。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+alias: ambulatory schizophrenia, preschizophrenia, schizotypal disorder%N
+For a patient to be diagnosed with borderline personality disorder, they must display symptoms matching five or more of the following criteria.%N
+ 1) Inability to distinguish fantasy from reality.%N
+ 2) A pattern of unstable and intense interpersonal relationships.%N
+ 3) Identity disturbance: markedly and persistently unstable self-image or sense of self.%N
+
+#EN#2
+ 4) Feelings of disconnection from reality.%N
+ 5) Recurrent suicidal behavior, gestures, threats or self-injuring behavior.%N
+ 6) Chronic feelings of emptiness.%N
+ 7) Marked affective instability due to a marked reactivity of mood.%N
+ 8) Inappropriate anger or difficulty controlling anger.%N
+ 9) Transient, stress-related paranoid ideation, delusions or severe dissociative symptoms.%N
+ 10) Frantic efforts to avoid real or imagined abandonment.%N
+
+#EN#3
+Additionally, impulsivity in at least two areas that may be self-damaging, including:%N
+ 1) impulsive spending%N
+ 2) promiscuous sex%N
+ 3) substance abuse%N
+ 4) reckless driving%N
+ 5) binge eating%N
+　　　are observed.%N
+
+#EN#4
+A borderline personality disorder sufferer's personal relationships, self-image, emotional stability, and particularly indulgence in impulsive acts are heavily influenced and impaired by the disorder, with the onset of symptoms typically occurring during adolescence or young adulthood.%N
+Though said to be a severe impairment to normal life, relatively few of the symptoms are detected by most people.
+
+#EN#5
+It is characterized by fluctuating emotional states and abnormal outbursts of anger or violence.%N
+Furthermore, many sufferers show frantic attempts to avoid abandonment. This feeling often manifests itself in the form of self-harm behaviors.%N
+Sufferers often report having a foggy mental state, being unable to perceive things clearly, or feeling as if they will go to pieces, as well as feeling lost and unsure of their own identity.
+
+#EN#6
+Moreover, many say that this feeling of having no self-control is what leads them to start self-injuring.%N
+Individuals with borderline personality disorder tend to view the world in black and white, with all people viewed strictly as either enemy or ally; if they think an ally is in danger of leaving them, many individuals will become anxious and deliberately harm themselves or otherwise cause trouble in an effort to get the ally to stay.%N
+However, it is important to remember that the individual is not doing these things because they want to, and as with many other similar illnesses of "the heart," their behavior does not reflect their true personality.
+

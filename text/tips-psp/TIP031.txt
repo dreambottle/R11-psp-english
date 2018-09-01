@@ -1,0 +1,19 @@
+TIP031
+標本
+Sample
+paragraph_count:1
+init_addr:7848
+pc_index:TIP_036
+
+#PARAGRAPHS_JP:
+#JP#1
+;784c;128;統計で、ある集団（母集団）の%N
+全部についてではなく、一部を抜き出して%N
+調査する場合の、その抜き出された個々の資料。%N
+サンプル。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+A statistics term, meaning a subset of a population which is used for collecting information; may or may not be representative of the population as a whole.
+

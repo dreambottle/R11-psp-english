@@ -1,0 +1,25 @@
+TIP073
+ベル測定
+Bell Measurement
+paragraph_count:1
+init_addr:7b60
+pc_index:TIP_078
+
+#PARAGRAPHS_JP:
+#JP#1
+;7b64;282;すでに孤立しているふたつの粒子を%N
+絡み合いの状態にして、%N
+ふたつの粒子を区別できないように%N
+（絡み合いの状態を維持しつつ）同時に%N
+観測する方法。%N
+ふたつの粒子を同時にビームスプリッタ%N
+（これにはハーフミラー等が用いられる）に%N
+達しさせなければいけないため、%N
+技術的に非常に難しい。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+A method of placing an isolated pair of particles in an entangled state, and then observing both of them at the same time in a way that doesn't permit them to be distinguished from each other (in order to maintain the entanglement).%N
+Since the particles must be passed through a beam splitter (such as a half-silvered mirror) at exactly the same time, this is extremely difficult in practice.
+

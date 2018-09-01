@@ -1,0 +1,20 @@
+TIP007
+ＧＰＳ
+GPS
+paragraph_count:1
+init_addr:7684
+pc_index:TIP_010
+
+#PARAGRAPHS_JP:
+#JP#1
+;7688;156;Ｇｌｏｂａｌ　Ｐｏｓｉｔｉｏｎｉｎｇ　Ｓｙｓｔｅｍ%N
+人工衛星を使って、三次元空間の受信者%N
+（人間、船や飛行機、自動車など）の位置を%N
+求めるためのシステム。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+Global Positioning System%N
+A system which uses man-made satellites to calculate the position of a receiver (a person, boat, plane, car, etc.) on a 3D grid system which spans the entire Earth.
+

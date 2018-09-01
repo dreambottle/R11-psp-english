@@ -1,0 +1,26 @@
+TIP072
+量子コンピューター
+Quantum Computer
+paragraph_count:1
+init_addr:7b50
+pc_index:TIP_077
+
+#PARAGRAPHS_JP:
+#JP#1
+;7b54;346;ひとつの素子でふたつの状態の重ね合わせを%N
+つくって、その両方の状態を計算に使う。%N
+（ノイマン型コンピューターでは、%N
+⑳ひとつの素子でひとつの計算しかできない）%N
+このため、もし素子が10個あれば、%N
+1回にできる計算が2の10乗（1024）通りまで増える。%N
+素子を多くすれば、急激に計算能力が向上する。%N
+まさに、驚異の計算速度を誇るコンピューターと%N
+言える。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+A computer which creates a superposition of two states as a single element and performs calculations using both states.%N
+(A von Neumann computer can only perform a single calculation per element.)%N
+Because of this, if there are ten elements, the number of calculations it can perform simultaneously rises to 2^10 (1024). As more elements are added, the computational power grows dramatically. The speed this computer boasts of can truly be called wondrous.
+

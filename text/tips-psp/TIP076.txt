@@ -1,0 +1,22 @@
+TIP076
+飛び出し式のナイフ
+Switchblade
+paragraph_count:1
+init_addr:7ba0
+pc_index:TIP_081
+
+#PARAGRAPHS_JP:
+#JP#1
+;7ba4;144;スイッチナイフのこと。%N
+日本では規制されているので作れないし、%N
+売られていない。%N
+スイッチナイフをジャックナイフと%N
+呼んだこともあったらしい。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+A switch-deployed knife.%N
+Their use is highly restricted by law in Japan; none are produced or sold within the country.%N
+Also called a switch knife or jacknife.
+

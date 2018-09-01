@@ -1,0 +1,18 @@
+TIP022
+テレポーテーション
+Teleportation
+paragraph_count:1
+init_addr:77ac
+pc_index:TIP_027
+
+#PARAGRAPHS_JP:
+#JP#1
+;77b0;78;超能力などを用い、物体や人などが離れた地点に%N
+一瞬で移動すること。瞬間移動。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+The act by which an object or person, by use of powers such as ESP, moves instantaneously to another place.%N
+Also referred to as instantaneous movement.
+

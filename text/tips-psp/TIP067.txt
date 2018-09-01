@@ -1,0 +1,66 @@
+TIP067
+ＥＰＲ論文
+EPR Paper
+paragraph_count:4
+init_addr:7ae8
+pc_index:TIP_072
+
+#PARAGRAPHS_JP:
+#JP#1
+;7aec;292;アインシュタイン、ポドルスキー、ローゼンらに%N
+よって提示された論文。%N
+別名：ＥＰＲパラドックス。%N
+量子力学を批判する思考実験の中でも%N
+最高のもので、アインシュタインら３人は%N
+元々量子力学を攻撃するつもりで考えたのだが、%N
+皮肉にも逆に量子力学の理解を深めるための%N
+至高のネタになってしまった。%N
+
+#JP#2
+;7af0;302;その骨子は以下のとおり。 %N
+量子論によると、ある場所でひとつのきっかけで%N
+２個の素粒子を発生させたときには、%N
+このふたつの素粒子はある種の状態を%N
+共有することになる。%N
+例えば静止した⑳π⑳中間子は%N
+お互いに逆向きの光子に分解するが、%N
+このふたつの光子ペアはひとつの%N
+シュレディンガー方程式で表される。 %N
+
+#JP#3
+;7af4;408;量子論では観測しない限りは%N
+永遠にひとつの式で表されるから、%N
+遥か彼方まで飛んでいった素粒子の情報%N
+――スピンや偏光等の状態といったもの――を%N
+観測すればこちらの素粒子の状態が解る筈だが、%N
+しかし一方を観測したら、その瞬間もう一方も%N
+それに併せて波動関数が収縮してしまい、%N
+あたかも一方で観測がなされたという情報が%N
+瞬時に他方へ伝わってしまうように見えるため、%N
+因果律を破ってしまうのではないかという主張。%N
+
+#JP#4
+;7af8;112;しかし現在では量子力学においても%N
+正しい解釈がなされており、%N
+それを裏付ける実験結果も次々と発表されて%N
+いる。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+A paper published by Albert Einstein, Boris Podolsky, and Nathan Rosen.%N
+Also known as the EPR Paradox.%N
+It presents a thought experiment that is extremely critical of quantum mechanics, and was originally published by Einstein and his coauthors as an attack on it. Ironically, it ended up having the opposite effect, and became the best material for deepening one's understanding of the field.%N
+
+#EN#2
+The details of the experiment are as follows:%N
+According to quantum theory, when two particles are created at some location by the same event, they share a certain kind of state. For example, a stationary π-meson decays into two photons traveling in opposite directions, but both members of the photon pair are represented with a single Schrödinger equation.%N
+Quantum theory states that as long as they aren't observed, the particles can be expressed by the same equation forever.
+
+#EN#3
+So even if one of them flies a long distance away, if you observe some information about it——such as spin or polarization——then you should know the state of the particle that remained behind. But at the moment that you observe one particle, the wave function of the other particle collapses accordingly, appearing as if the measured information had been instantly transmitted from one to the other.%N
+
+#EN#4
+The EPR paper argues that this is a violation of causality.%N
+However, modern quantum mechanics has successfully come up with a proper explanation, and experimental results that support it have been published one after another.
+

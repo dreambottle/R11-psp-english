@@ -1,0 +1,83 @@
+TIP101
+榎本⑳尚哉
+Enomoto Naoya
+paragraph_count:4
+init_addr:7e50
+pc_index:TIP_107
+
+#PARAGRAPHS_JP:
+#JP#1
+;7e54;198;氏名：榎本⑳尚哉／Enomoto Naoya%N
+性別：男%N
+年齢：21歳%N
+誕生日：1990年11月27日（Sagittarius）%N
+血液型：Ｂ型%N
+職業：ライプリヒ製薬工学研究部研究第３課勤務%N
+知力：高い%N
+体力：平均的%N
+協調性：やや低い%N
+
+#JP#2
+;7e58;206;性格：冷酷そうに見えて実は情に深い性格%N
+⑳理知的・冷静・感情表現が苦手%N
+趣味：仕事・クロスワードパズル%N
+好き：機械%N
+嫌い：非文明的な環境%N
+設定：施設の地下に潜む男%N
+⑳時空間転移現象について知り尽くしている%N
+
+#JP#3
+;7e5c;216;裏設定：悟が記憶を失ってしまったこと、並びに、%N
+⑳双子の胎児の戯れによって不具合が%N
+⑳生じていることを苦々しく思ってはいるが、%N
+⑳今更中止することもできず、%N
+⑳黙って成り行きを見守っている%N
+⑳この設定は2012年のもの%N
+
+#JP#4
+;7e60;154;主にスフィアサイドに登場。%N
+悟の同僚。%N
+悟とともに時空間転移装置を生み出し、%N
+『計画』を実行する。%N
+スフィアの地下において計画のすべてを%N
+監視している。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+Full Name: Enomoto Naoya%N
+Sex: Male%N
+Age: 21%N
+Birthday: November 27th, 1990 （Sagittarius）%N
+Blood Type: B%N
+Occupation：Employed in the Third Research Department
+of Leiblich Pharmaceuticals%N
+Intelligence： High%N
+Physical Strength： Average%N
+Cooperativeness： Fairly low%N
+
+#EN#2
+Personality:　Seemingly coldhearted, but deeply emotional.
+Intellectual. Calm. Poor at expressing
+emotions.%N
+Hobbies: Work, crossword puzzles%N
+Likes: Machines%N
+Dislikes: Uncivilized environments%N
+Status: The man lurking under the facility.
+Knows everything about the space-time transfer
+phenomenon.%N
+
+#EN#3
+Beyond the Surface: Displeased with the flaws born from Satoru's
+memory loss and as well as the caprices of
+the fetal twins, but not being able to stop
+them, he silently observes the course of
+events.%N
+This is his status as of 2012.%N
+
+#EN#4
+Enomoto Naoya mainly appears in the SPHIA side of the story.%N
+He is Satoru's colleague.%N
+Together with Satoru, he created the space-time warping device and executed the "project."%N
+He continues to monitor the progress of the plan from beneath SPHIA.
+

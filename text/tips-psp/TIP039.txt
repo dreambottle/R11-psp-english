@@ -1,0 +1,20 @@
+TIP039
+ユングフラウ
+Jungfrau
+paragraph_count:1
+init_addr:78e0
+pc_index:TIP_044
+
+#PARAGRAPHS_JP:
+#JP#1
+;78e4;122;スイスのベルナー・アルプスの連なる山のひとつ。%N
+標高4158メートル。名前は「処女峰」という意味。%N
+2001年に世界遺産に登録。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+A mountain range in the Swiss Bernese Alps.%N
+Its peak stands 4158 meters above sea level. The name means "virgin peak."%N
+It was designated a World Heritage Site in 2001.
+

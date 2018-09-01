@@ -1,0 +1,40 @@
+TIP068
+同時に発生させたふたつの粒子
+Particle Pair Generation
+paragraph_count:2
+init_addr:7b04
+pc_index:TIP_073
+
+#PARAGRAPHS_JP:
+#JP#1
+;7b08;304;具体的な操作としては次のようなものがある。%N
+ホウ酸バリウムのような%N
+光学的に非線形な性質をもつ結晶に%N
+ＵＶレーザー光をぶつけた場合、%N
+ひとつの光子が波長の長いふたつの光子に%N
+分裂することがある。%N
+また、分裂したそれぞれの光子は、ふたつの%N
+円錐に沿って、初めのＵＶレーザーを軸として%N
+対称的に飛んでいく。%N
+
+#JP#2
+;7b0c;351;ふたつの円錐が交わるところでは、ふたつの%N
+光子を区別できない%TS070絡み合いの状態%TEにある。%N
+この絡み合いの光子対については偏光が互いに%N
+直交していることは分かっているが、%N
+それぞれの偏向角が具体的にどうなっているかを%N
+知ることはできない。%N
+このようにして絡み合いにある光子を作成する。%N
+この方法はパラメトリックダウンコンバージョンと%N
+呼ばれている。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+As an example of an established method, the following procedure exists.%N
+When the UV laser beam interacts with a crystal of non-linear optical material such as barium borate, each single photon splits into two other photons with long wavelengths. These split photons travel along the contours of two cones that, in turn, are symmetric about the initial beam.%N
+
+#EN#2
+The points where the contours of the two cones intersect have photons in the state of %TS070entanglement%TE, i.e. there is no distinction as to their origins there. What is known about these entangled photons is that their polarization is mutually orthogonal, however it is impossible to definitely know their respective deflection angles.%N
+This method of creating entangled photons is called parametric down-conversion.
+

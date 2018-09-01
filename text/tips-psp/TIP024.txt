@@ -1,0 +1,51 @@
+TIP024
+ナイフの手入れ
+Knife Maintenance
+paragraph_count:3
+init_addr:77d0
+pc_index:TIP_029
+
+#PARAGRAPHS_JP:
+#JP#1
+;77d4;180;ナイフは使っていくうちにだんだん切れなく%N
+なってくる。%N
+ナイフの切れ味を維持するためには日頃の%N
+手入れが重要になってくる。%N
+日常の手入れの基本は、使ったあとは刃を%N
+磨いておくこと。
+
+#JP#2
+;77d8;160;ナイフは水が苦手！　今のナイフは%N
+ステンレス製が主流。%N
+ステンレスは錆びにくい素材だが、%N
+錆びないわけではない。%N
+よって水にぬらしたあとは手入れが欠かせない。%N
+
+#JP#3
+;77dc;228;切れ味を取り戻す手法には、%N
+ホーニングとタッチアップというものがある。%N
+ホーニングとは、ナイフを研ぐこと。%N
+タッチアップとは、%N
+ナイフの切れ味をよくする作業のこと。%N
+ナイフの切れ味が落ちたときの応急手当と%N
+考えて頂ければいい。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+As a knife is used, it will gradually grow dull over time.%N
+To maintain an optimum level of sharpness, daily care is essential.%N
+The most basic form of daily maintenance is to polish the blade after each use.%N
+
+#EN#2
+Water is very bad for knives!%N
+Most modern knives are made from stainless steel, which is resistant to rust; however, this doesn't mean that they are rustproof.%N
+Therefore, they should be dried off quickly after coming%N
+into contact with water.%N
+
+#EN#3
+To return a dull knife to its sharpened state, different methods of honing and touch-up exist.%N
+Honing refers to sharpening a knife.%N
+To touch up a knife means to improve its ability to cut.%N
+When a knife becomes dull, it's best to think about seeing to it right away.
+

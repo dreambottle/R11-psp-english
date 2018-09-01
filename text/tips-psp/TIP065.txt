@@ -1,0 +1,44 @@
+TIP065
+ＥＰＲ
+EPR
+paragraph_count:2
+init_addr:7ac4
+pc_index:TIP_070
+
+#PARAGRAPHS_JP:
+#JP#1
+;7ac8;240;ＥＰＲ／イーピーアール%N
+３人の物理学者、%N
+アインシュタイン＝Ｅ、%N
+ポドルスキー＝Ｐ、%N
+ローゼン＝Ｒ、%N
+の頭文字をとって繋げたもの。%N
+この３名は量子力学の『%TS066不確定性原理%TE』という%N
+概念に異論を唱え、『%TS067ＥＰＲ論文%TE』を提示した。%N
+
+#JP#2
+;7acc;332;特に、アインシュタインは%N
+『神はサイコロを振りたまわず』という名文句で%N
+わかるように、その有用性は十二分に%N
+認識してはいたけれども、自然を確定的に%N
+記述できない量子力学に不快感を持ち%N
+生涯抵抗したことは良く知られており、量子力学を%N
+攻撃する数々の思考実験を考えては論敵の%N
+ニールス・ボーア（量子力学の創始者のひとり）を%N
+悩ませた。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+An abbreviation composed of the first letters%N
+of the names of three physicists:%N
+Einstein=E,%N
+Podolsky=P,%N
+Rosen=R.%N
+These three presented the "%TS067EPR Paper%TE" to argue against the concept of the "%TS066Uncertainty Principle%TE" of quantum mechanics.%N
+This opposition was especially pronounced in the case of Einstein, summed up by his famous remark "God does not play dice."%N
+
+#EN#2
+Although fully recognizing its usefulness, he was known to be uncomfortable with and to oppose quantum mechanics until his death because of its inability to definitely describe the microscopic aspects of physical reality.%N
+Einstein conducted many thought experiments that criticized quantum mechanics and troubled his opponent Niels Bohr (one of the founders of quantum mechanics).
+

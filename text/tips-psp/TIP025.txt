@@ -1,0 +1,19 @@
+TIP025
+奥尻島
+Okushiri Island
+paragraph_count:1
+init_addr:77e8
+pc_index:TIP_030
+
+#PARAGRAPHS_JP:
+#JP#1
+;77ec;124;北海道南西部、渡島半島西方海上にある島。%N
+1993年（平成５年）７月に発生した、%N
+北海道南西沖地震により、甚大な被害を受けた。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+An island to the southwest of Hokkaido, off the western edge of the Oshima Peninsula.%N
+It was severely damaged in the Southwestern Hokkaido Earthquake that struck in July of 1993 (Heisei 5).
+

@@ -1,0 +1,88 @@
+TIP097
+犬伏⑳景子
+Inubushi Keiko
+paragraph_count:4
+init_addr:7de8
+pc_index:TIP_105
+
+#PARAGRAPHS_JP:
+#JP#1
+;7dec;240;氏名：犬伏⑳景子／Inubushi Keiko%N
+性別：女%N
+年齢：20歳%N
+誕生日：1991年４月30日（Taurus）%N
+血液型：AB型%N
+職業：精神に障害のある犯罪者で『ＳＰＨＩＡ』と%N
+⑳呼ばれる医療施設に軟禁されている%N
+知力：平均的%N
+体力：極めて低い%N
+協調性：極めて低い%N
+
+#JP#2
+;7df0;266;性格：攻撃的・刹那主義・極度な躁鬱気質%N
+⑳他人の評価を極端に変える%N
+⑳絶望を愛し希望を恐れる%N
+⑳（境界性人格障害の傾向あり）%N
+趣味：電話・メール・チャット%N
+好き：快楽・完全なる絶望%N
+⑳人の関心を寄せること・自傷行為%N
+⑳自分を受け入れてくれる存在%N
+⑳（すがれる対象）%N
+
+#JP#3
+;7df4;265;嫌い：見捨てられること%N
+⑳中途半端な夢や希望や同情%N
+⑳安易な言葉（一般論など）%N
+裏設定：『シャドウ（影）』を象徴する（→元型）%N
+⑳こころ視点で登場する方が、%N
+⑳本物の涼陰穂鳥%N
+⑳肉体は同一だが人格は別もの%N
+⑳DID（乖離性同一性障害）を患う%N
+⑳この設定は2012年のもの%N
+
+#JP#4
+;7df8;270;主にスフィアサイドに登場。%N
+悟と同じく、あるスフィアに滞在中。%N
+本人は特に意識していないが、%N
+周囲を翻弄することに喜びを感じ、%N
+度々問題を引き起こす。%N
+内海を鬱陶しく思っている。%N
+悟の気を引こうとしている。%N
+生に対する執着が希薄。%N
+グループのお荷物・トラブルメーカー。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+Full Name: Inubushi Keiko%N
+Sex: Female%N
+Age: 20%N
+Birthday: April 30th, 1991 (Taurus)%N
+Blood Type: AB%N
+Occupation: A convicted criminal, suffering from mental disorders; currently confined in the medical facility called SPHIA.%N
+Knowledge: Average%N
+Physical Strength: Extremely low%N
+Cooperativeness: Extremely low%N
+
+#EN#2
+Personality: Aggressive, goes by the carpe diem philosophy of living for the moment, subject to extreme mood swings, tends to turn others' impressions of her upside down, loves despair and fears hope (related to Borderline Personality Disorder)%N
+Hobbies: Talking by phone, e-mail, and chat%N
+Likes: Pleasure, total despair, attracting others' attention, self-mutilation, those who will accept who she is (to whom she can cling)%N
+
+#EN#3
+Dislikes: Being abandoned, unreliable dreams, half-hearted sympathy and hope, facile statements (stemming from popular opinion, etc)%N
+Beyond the Surface: Represents the "Shadow" (→Archetype)%N
+The one that Kokoro sees is the real Suzukage Hotori.%N
+The body is the same, but they're different individuals.%N
+Has DID (Dissociative Identity Disorder).%N
+This is her status as of 2012.%N
+
+#EN#4
+Inubushi Keiko mainly appears in the SPHIA side of the story.%N
+Like Satoru, she's one of the inmates of SPHIA.%N
+She herself isn't particularly aware of it, but she takes pleasure in trifling with her surroundings, often causing problems.%N
+She sees Utsumi as a depressing person.%N
+She tries to draw Satoru in.%N
+She has no particular attachment to life.%N
+A burden to the group, and a troublemaker.
+

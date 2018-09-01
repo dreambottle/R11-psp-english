@@ -1,0 +1,73 @@
+TIP098
+楠田⑳ゆに
+Kusuda Yuni
+paragraph_count:3
+init_addr:7e04
+pc_index:TIP_106
+
+#PARAGRAPHS_JP:
+#JP#1
+;7e08;261;氏名：楠田⑳ゆに／Kusuda Uni%N
+性別：男%N
+年齢：11歳（悟視点では12歳）%N
+誕生日：1999年10月19日（Libra）%N
+血液型：AB型%N
+職業：小学５年（悟視点では小学６年）%N
+知力：極めて高い%N
+体力：平均的（年齢相応）%N
+協調性：とんでもなく高かったり、%N
+⑳⑳とてつもなく低かったり%N
+
+#JP#2
+;7e0c;300;性格：無邪気・臆病だが心優しい%N
+⑳機転に富んでいる%N
+趣味：オカルト的な儀式%N
+⑳（タロット占い・こっくりさん等）%N
+好き：賑やかなこと・愉快なこと・友達%N
+嫌い：唯物論・孤独・ライプリヒ製薬%N
+裏設定：『トリックスター（道化）』を%N
+⑳象徴する（→元型）%N
+⑳雪山の彼は、時空間転移現象の真実を%N
+⑳熟知している%N
+
+#JP#3
+;7e10;288;なぜか、雪山サイド／スフィアサイド、ともに登場。%N
+一方では飛行機事故の生存者であり、%N
+一方ではスフィアに滞在中。%N
+オカルト方面、特に神智学に関する知識が豊富。%N
+時折、予知まがいなことを言って周囲を驚かす。%N
+（事実、当たる！）%N
+ふたつの舞台に登場する謎多き少年。%N
+果たして彼の真意は……？%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+Full Name: Kusuda Yuni%N
+Sex: Male%N
+Age: 11 (12 as seen by Satoru)%N
+Birthday: October 19th, 1999 (Libra)%N
+Blood type: AB%N
+Occupation: Fifth-grade student (Sixth grade, as seen by Satoru)%N
+Intelligence: Very high%N
+Physical Strength: Average (appropriate for his age)%N
+Cooperativeness: Sometimes ridiculously high, sometimes unbelievably low.%N
+
+#EN#2
+Personality: Innocent. Cowardly but kind-hearted.%N
+Very quick-witted.%N
+Hobbies: Occult-related activities (tarots, divination, etc.)%N
+Likes: Lively things, happy things, friends%N
+Dislikes: Materialism, loneliness, Leiblich Pharmaceutical%N
+%N
+Beyond the Surface: Represents the "Trickster" (→ Archetype)%N
+The Yuni who exists on the snowy mountain knows the truth about the time-space transfer phenomenon.%N
+
+#EN#3
+Somehow, Kusuda Yuni appears in both the snowy mountain and SPHIA sides of the story.%N
+In the former, he is a survivor of the plane crash, and in the latter, a resident of SPHIA.%N
+Has abundant knowledge related to the occult, especially theology.%N
+He sometimes surprises those around him with his predictions of the future (since they often come true!).%N
+An enigmatic boy who appears in both places.%N
+What are his true intentions...?%N
+

@@ -1,0 +1,19 @@
+TIP018
+シナプス
+Synapse
+paragraph_count:1
+init_addr:776c
+pc_index:TIP_023
+
+#PARAGRAPHS_JP:
+#JP#1
+;7770;104;ニューロン同士をつなげる役割を持つ。%N
+神経細胞は、このシナプスを通して信号を%N
+やりとりすることとなる。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+A communication method between neurons.%N
+Neurons send messages to each other via synapses.
+

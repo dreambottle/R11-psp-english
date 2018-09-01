@@ -1,0 +1,16 @@
+TIP078
+時刻
+Time
+paragraph_count:1
+init_addr:7bc0
+pc_index:TIP_083
+
+#PARAGRAPHS_JP:
+#JP#1
+;7bc4;42;日付と時刻は映像の片隅に表示されていた。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+The date and time were indicated by a timestamp in the corner of the videos.
+

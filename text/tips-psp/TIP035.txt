@@ -1,0 +1,24 @@
+TIP035
+占星術
+Astrology
+paragraph_count:1
+init_addr:7888
+pc_index:TIP_040
+
+#PARAGRAPHS_JP:
+#JP#1
+;788c;264;ａｓｔｒｏｌｏｇｙ%N
+ここでは西洋占星術のことを指す。%N
+ある時点、ある地点における%N
+天体の配置図・ホロスコープ（惑星、%N
+黄道十二宮、十二室、角度の要素からなる）を%N
+解読し、地上の事象と結びつけて解釈して、%N
+個人および社会の運命を読みとろうとする%N
+学問あるいは技術。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+Astrology here refers to Western astrology.%N
+A study, or skill, based on the belief that through the movement of heavenly bodies and their positions at certain times and places, an individual person's horoscope (drawn from the positions of the planets, the twelve signs of the zodiac, and the twelve astrological houses) can be interpreted and used to foretell their future.
+

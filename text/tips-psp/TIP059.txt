@@ -1,0 +1,25 @@
+TIP059
+スパコン
+Supercomputer
+paragraph_count:1
+init_addr:7a5c
+pc_index:TIP_064
+
+#PARAGRAPHS_JP:
+#JP#1
+;7a60;298;スーパーコンピューターの略。%N
+並列処理機能などの採用によって大量の%N
+データの超高速処理を実現したコンピューター。%N
+１秒間に約１０の１２乗回の計算が%N
+できる能力（2003年現在）をもつ。%N
+身近なところでは、日本各地の%N
+気温・気圧・雲の動きをスパコンで計算して、%N
+未来の天気を予測するために使われている。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+A computer capable of processing very large amounts of data at ultra high speeds through the employment of technologies such as parallelism.%N
+The processing speed can be as high as 10^12 operations/second (as of 2003).%N
+In recent years, supercomputers have come to be used for weather forecasting across Japan, calculating things like temperature, pressure, and the movement of clouds.
+

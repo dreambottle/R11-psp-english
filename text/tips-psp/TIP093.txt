@@ -1,0 +1,114 @@
+TIP093
+優希堂⑳悟
+Yukidoh Satoru
+paragraph_count:7
+init_addr:7d6c
+pc_index:TIP_101
+
+#PARAGRAPHS_JP:
+#JP#1
+;7d70;252;氏名：優希堂⑳悟／Yukidoh Satoru%N
+性別：男%N
+年齢：21歳%N
+誕生日：1990年２月22日（Pisces）%N
+血液型：Ａ型%N
+職業：鳩鳴館大学大学院・工学部物理工学科%N
+⑳修士課程２年（量子物理学研究室に所属）%N
+⑳２年飛び級している%N
+⑳ライプリヒ製薬工学研究部研究第３課勤務%N
+
+#JP#2
+;7d74;142;知力：かなり高い%N
+体力：平均的%N
+協調性：やや低い%N
+性格：行動力はあるが慎重なタイプ%N
+⑳合理的な思考を常とする%N
+⑳他人をすぐに信用しない・理系%N
+
+#JP#3
+;7d78;266;趣味：読書%N
+⑳（ジャンルは問わない、%N
+⑳⑳活字中毒で電話帳さえ楽しく読める）%N
+好き：有言実行・『答』を導きだすこと%N
+嫌い：嘘（真実を言えない場合は喋らない）%N
+⑳中途半端・約束を破ること・南瓜%N
+設定：右利き%N
+⑳本来なら大学４年だが、%N
+⑳２年飛び級して院生になっている%N
+
+#JP#4
+;7d7c;126;裏設定：『アニムス（女性にとっての男性像）』を%N
+⑳象徴する（→元型）%N
+⑳悟と黛はかつて交際していた%N
+⑳この設定は2012年のもの%N
+
+#JP#5
+;7d80;266;⑳真の彼は独特の価値観を有しており、%N
+⑳限られた周囲の人間には献身的に優しく接するが、%N
+⑳それ以外の者には身も凍るほどの冷酷さを見せる。%N
+⑳その理由を悟は『本当に大切な誰かを大事にするため』と考えている。%N
+⑳何かを得るためには、何かを失わなければならないのだから。%N
+
+#JP#6
+;7d84;230;男性視点の主人公。%N
+ある日、スフィアの屋上から落下して意識を失う。%N
+記憶が錯乱しており、%N
+事故の原因・直前の状態などは不明。%N
+目覚めると……なぜか、そこは雪深い山の中。%N
+おまけに、自分の身体は見知らぬ女性に変わってしまっている。%N
+
+#JP#7
+;7d88;200;転落事故を契機に、%N
+悟の心身は変調をきたしてしまった。%N
+時折、精神と肉体が乖離し、%N
+異なる場所にいる別の人物（こころ）と%N
+入れ替わってしまうのだ。%N
+彼の記憶と心は、%N
+雪山とスフィアとの間を行き交う。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+Full Name: Yukidoh Satoru%N
+Sex: Male%N
+Age: 21%N
+Birthday: February 22nd, 1990 (Pisces)%N
+Blood Type: A%N
+Occupation: Kyumeikan University Graduate School, Department of Technological Engineering Second-year master's student (as a member of the quantum physics lab). Skipped ahead two grade levels. Employed in the Third Research Department of Leiblich Pharmaceuticals%N
+
+#EN#2
+Intelligence: Very high%N
+Physical Strength: Average%N
+Cooperativeness: Fairly low%N
+Personality: The type that is willing to take action, but does so with caution. Tends toward a more rational way of thinking. Does not trust others right away. Interested in the sciences.%N
+
+#EN#3
+Hobbies: Reading (Genre does not matter. Such is his reading addiction that even a telephone book can be a fun read)%N
+Likes: Being as good as his word, finding "answers"%N
+Dislikes: Lies (keeps silent if he can't tell the truth), leaving things unfinished, breaking promises,pumpkins%N
+Surface: Right-handed.%N
+Originally a four-year university student, but has%N
+skipped two grades and is now in graduate studies.%N
+
+#EN#4
+Beyond the Surface: Represents the "Animus (The Male Within the Female)" (→ Archetype)%N
+Satoru and Mayuzumi were once going out. This is his status as of 2012.%N
+
+#EN#5
+真の彼は独特の価値観を有しており、%N
+限られた周囲の人間には献身的に優しく接するが、%N
+それ以外の者には身も凍るほどの冷酷さを見せる。%N
+その理由を悟は『本当に大切な誰かを大事にするため』と考えている。%N
+何かを得るためには、何かを失わなければならないのだから。%N
+
+#EN#6
+Yukidoh Satoru is the male protagonist.%N
+One day, he fell from the roof of SPHIA and lost his memory.%N
+As his memories are in disorder, he cannot remember the details of this incident such as the reason for it or what was happening before the fall.%N
+When he awoke... for some reason, he found himself on a snowy mountain. On top of that, his own body had changed into that of an unknown woman.%N
+
+#EN#7
+After the incident, Satoru's mind and body experienced abnormalities.%N
+Sometimes, his mind and body separate, exchanging places with those of another person (Kokoro) in a different location.%N
+His mind and memory switch back and forth between the snowy mountain and SPHIA.
+

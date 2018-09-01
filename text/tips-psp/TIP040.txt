@@ -1,0 +1,32 @@
+TIP040
+国選弁護人
+Court-Appointed Attorney
+paragraph_count:2
+init_addr:78f0
+pc_index:TIP_045
+
+#PARAGRAPHS_JP:
+#JP#1
+;78f4;216;刑事訴訟法は、憲法にもとづき、被疑者または%N
+被告人は何時でも弁護人を選任できる%N
+としている。%N
+ところが、弁護人を選任できるとしても、%N
+弁護料を払えない貧しい人達は事実上、%N
+弁護士に弁護を頼むことができないことになる。
+
+#JP#2
+;78f8;206;そこで、憲法は『被告人が自らこれを依頼できない%N
+ときは、国でこれを付する』（３７条３項）とした。%N
+このように貧困などの理由で弁護人を頼めない%N
+場合に、国の費用で裁判所が選任する弁護人が%N
+国選弁護人である。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+In accordance with both the Criminal Procedure Code and the Japanese Constitution, the suspect or defendant in any case is entitled to legal counsel. However, though everyone has the right to counsel, in reality, there are many people who are too poor to hire an attorney to defend themselves.%N
+
+#EN#2
+Therefore, as written in the Constitution, "When a defendant is not able to appoint an attorney, that duty falls upon the state" (article 37, paragraph 3).%N
+Thus, in cases where the defendant's poverty prevents them from being able to seek the services of an attorney, the court will appoint a public defender to assist them, with the cost being borne by the state.
+

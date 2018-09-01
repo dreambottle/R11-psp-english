@@ -1,0 +1,34 @@
+TIP028
+太陽風
+Solar Wind
+paragraph_count:1
+init_addr:7818
+pc_index:TIP_033
+
+#PARAGRAPHS_JP:
+#JP#1
+;781c;290;太陽から太陽系空間に放出されている%N
+プラズマの流れ。%N
+主に電子と陽子から成り、%N
+速さは毎秒約350〜700キロメートル。%N
+彗星が太陽の反対側へ尾を引くのは太陽風で%N
+吹き飛ばされるためである。%N
+地磁気のために地球上には到達しないが、%N
+磁気嵐・極光・電離層の乱れなどは太陽風が%N
+要因となって起こる。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+A stream of plasma which emanates from the upper atmosphere
+of the sun. It is composed mainly of electromagnetic waves
+and protons, and moves at speeds of 350-700 kilometers per second.%N
+# Comets which leave trails tracing to the far side of the sun 
+# are blown there by the solar wind.%N
+Comets always have their tails tracing away from the sun, blown there by the solar wind.%N
+It does not reach as far as the surface of the Earth
+and thus has no effect on terrestrial magnetism;
+# however, magnetic storms, the aurora borealis, or disruptions in the ionosphere
+# are all caused by this solar wind.
+however, it can cause magnetic storms, the aurora borealis,
+or disruptions in the ionosphere.

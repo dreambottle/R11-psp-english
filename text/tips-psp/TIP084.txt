@@ -1,0 +1,50 @@
+TIP084
+ダビデ
+David
+paragraph_count:3
+init_addr:7c60
+pc_index:TIP_089
+
+#PARAGRAPHS_JP:
+#JP#1
+;7c64;188;ヘブライ語で『愛された者』の意。%N
+その名の由来となったダビデは、%N
+古代イスラエルの２代目の王であり、%N
+エルサレムを都に定め、イスラエルを統一し、%N
+イスラエルの最盛期を築いたとされている。%N
+
+#JP#2
+;7c68;284;ダビデ王は戦略に優れ、あまりの強さに%N
+魔術的なものを感じた秘術師達は、%N
+ダビデ王の軍旗は『悪魔召喚の呪符』に違いない%N
+と考えた。%N
+そのダビデが旗印にしたのが『ダビデの星』。%N
+なお、イスラエルでは危険から身を護る%N
+紋章であると考えられており、%N
+その正射影が国旗の図案に採用されている。%N
+
+#JP#3
+;7c6c;233;日本でもこのダビデの星は六芒星といわれ、%N
+伊勢神宮の紋章としても知られている。%N
+このダビデの星と真逆の意味を持つのが%N
+五芒星――『ソロモンの星』。%N
+%TS085ソロモン%TEの星の呪力は、%N
+自分に向けて放たれた悪魔を無限ループに%N
+封印する。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+Means "beloved" in Hebrew.%N
+The Biblical David from whom this name is derived was the second king of ancient Israel who established Jerusalem as its capital, united Israel and built Israel's era of prosperity.%N
+
+#EN#2
+King David excelled in battle tactics, and the mystics who felt that sorcery was behind those tremendous abilities thought that the battle flag of David was undoubtedly a "demon-summoning charm."%N
+The symbol David used as an emblem is known as "the Star of David."%N
+It is also believed to be a crest that protects Israel from danger; the symbol can be found in the Israeli national flag.%N
+
+#EN#3
+In Japan, the Star of David, called the "rokubousei" (六芒星), or hexagram, is known as the crest of the Ise Grand Shrine.%N
+The symbol that holds the opposite meaning to the Star of David is the "gobousei" (五芒星), or pentagram, also called "the Star of Solomon."%N
+The magical power of the Star of %TS085Solomon%TE seals the inner demons inside the infinity loop.
+

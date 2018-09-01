@@ -1,0 +1,37 @@
+TIP043
+ホワイトアウト
+Whiteout
+paragraph_count:1
+init_addr:792c
+pc_index:TIP_048
+
+#PARAGRAPHS_JP:
+#JP#1
+;7930;274;吹雪で舞い上がった雪が原因で、%N
+視界が白く閉ざされる現象。%N
+高低や方向・距離がわからなくなり、%N
+言わば“白い闇”となる。%N
+雪表面や雲の乱反射などが原因で%N
+発生するケースもあり、%N
+その場合、空間が白光で満ちてしまうため、%N
+一切、情報がわからなくなり、%N
+身動きが取れなくなる。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+A weather condition in which the field
+# of vision is obscured by white due to
+# windblown snow in the air, greatly diminishing
+of vision is obscured by
+windblown snow, greatly reducing
+one's ability to discern
+vertical/horizontal directions and distance.
+It can be described as a "white darkness" of sorts.%N
+There is also another form of a whiteout
+which is caused by diffuse reflections
+from snowy surfaces, clouds, and the like.
+In this case, the air becomes saturated with
+white light, rendering movement and
+the gathering of visual information virtually impossible.
+

@@ -1,0 +1,249 @@
+TIP090
+目覚し時計
+Alarm Clock
+paragraph_count:16
+init_addr:7cdc
+pc_index:TIP_095
+
+#PARAGRAPHS_JP:
+#JP#1
+;7ce0;192;ここで目覚まし時計の狂いについて、%N
+少しだけ補足しよう。%N
+なぜそれが３３分進んでいるだけで、%N
+オレとこころは同時刻に入れ替わっていると%N
+思い込んでしまったのだろうか？%N
+理由は以下の通り……。%N
+
+#JP#2
+;7ce4;230;まず、仮に転移時刻を１時としよう。%N
+――⑳１時。%N
+こころ意識がスフィアに来る。%N
+このとき彼女は狂った目覚し時計を見る。%N
+『１時３３分』という誤まった時刻を、%N
+彼女は転移時刻と勘違いする。%N
+それから２度の転移を経ての６６分後……。%N
+
+#JP#3
+;7ce8;248;――⑳２時６分。%N
+こころ意識は避難小屋に戻る。%N
+このとき彼女は自分の腕時計を見る。%N
+『２時６分』という正確な時刻を彼女は知る。%N
+スフィアに転移したのが１時３３分、%N
+避難小屋に戻ったのが２時６分だから、%N
+彼女はスフィアにいた時間は３３分間だと思う。%N
+
+#JP#4
+;7cec;298;確かに滞在時間が３３分というのは%N
+誤りではないが、%N
+実際には１時３３分から２時６分の間には、%N
+彼女の意識は第３空間にあったのだ。%N
+その意味で言えば、%N
+彼女は転移時刻を誤解していたことになる。さて%N
+（彼女が避難小屋から転移する時間は%N
+⑳ランダムに訪れるので）さらにそれから%N
+１時間が経過したとする。%N
+
+#JP#5
+;7cf0;248;――⑳３時６分。%N
+こころ意識がスフィアに……。%N
+彼女は目覚し時計を見る。%N
+『３時３９分』という誤まった時刻を、%N
+彼女は転移時刻と勘違いする。%N
+ここで重要なのは、いついかなるときでも%N
+『彼女は転移の直前には時刻を確認していない』%N
+ということである。%N
+
+#JP#6
+;7cf4;268;だからこのとき彼女は、%N
+避難小屋に於ける滞在時間を１時間３３分間だと%N
+思い込んでしまう。%N
+実際には１時間しかいなかったのに、だ。%N
+あとはこの繰り返し……。%N
+『４時１２分』に避難小屋に戻り、%N
+正確な腕時計を見てそれを知り、%N
+スフィアにいた時間は３３分間だと彼女は思う。%N
+
+#JP#7
+;7cf8;188;では、オレの場合はどうだろう？%N
+――⑳１時。%N
+オレの意識が第３空間へ……。%N
+このとき、オレの感覚器官は%N
+正常に機能していなかったので、%N
+オレは転移には気づかない。%N
+それから３３分後……。%N
+
+#JP#8
+;7cfc;148;――⑳１時３３分。%N
+オレの意識が避難小屋へ……。%N
+彼女の腕時計を見て正確な時刻を知る。%N
+『１時３３分』が転移時刻だとわかる。%N
+さらに３３分後……。%N
+
+#JP#9
+;7d00;128;――⑳２時６分。%N
+オレの意識はスフィアに戻る。%N
+このときオレは自分の腕時計を見る。%N
+『２時６分』という正確な時刻をオレは知る。%N
+
+#JP#10
+;7d04;274;スフィアに転移したのが１時３３分、%N
+避難小屋に戻ったのが２時６分だから、%N
+オレはスフィアにいた時間は３３分間だと思う。%N
+滞在時間が３３分というのも正しいし、%N
+１時３３分から２時６分の間に%N
+避難小屋にいたというのも誤りではない。%N
+オレは常に転移時刻を誤解することはなかった。%N
+
+#JP#11
+;7d08;120;さて、オレがスフィアから転移する時間は、%N
+こころが避難小屋から転移する時間と%N
+等しいので、さらにそれから１時間が経過。%N
+
+#JP#12
+;7d0c;132;――⑳３時６分。%N
+オレの意識が第３空間に……。%N
+感覚器官は機能していないので、%N
+オレは転移には気づかない。%N
+それから３３分後……。%N
+
+#JP#13
+;7d10;232;――⑳３時３９分。%N
+オレの意識は避難小屋へ……。%N
+彼女の腕時計を見て正確な時刻を知る。%N
+『３時３９分』が転移時刻だとわかる。%N
+ここで重要なのは、いついかなるときでも%N
+『オレは転移の直前には時刻を確認していない』%N
+ということである。%N
+
+#JP#14
+;7d14;268;だからこのときオレは、%N
+スフィアに於ける滞在時間を１時間３３分間だと%N
+思い込んでしまう。%N
+実際には１時間しかいなかったのに、だ。%N
+あとはこの繰り返し……。%N
+『４時１２分』にスフィアに戻り、%N
+正確な腕時計を見てそれを知り、%N
+避難小屋にいた時間は３３分間だとオレは思う。%N
+
+#JP#15
+;7d18;256;かくして、こころはメモ用紙に%N
+次のような転移時刻を書き残すことになる。%N
+『１時３３分：避難小屋からスフィアへと転移』%N
+『２時０６分：スフィアから避難小屋へと転移』%N
+『３時３９分：避難小屋からスフィアへと転移』%N
+『４時１２分：スフィアから避難小屋へと転移』%N
+
+#JP#16
+;7d1c;344;一方オレが計測する時刻も以下のように……。%N
+『１時３３分：スフィアから避難小屋へと転移』%N
+『２時０６分：避難小屋からスフィアへと転移』%N
+『３時３９分：スフィアから避難小屋へと転移』%N
+『４時１２分：避難小屋からスフィアへと転移』%N
+ゆえに、ちょうど真逆の対称形となるので、%N
+オレもこころも、同時刻に２点間を転移していると%N
+思い込んでしまったのだ。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+Let's reflect a bit on the consequences of the alarm clock being wrong.%N
+Why is it that just because it was 33 minutes fast, Kokoro and I have assumed that our minds were exchanging simultaneously?%N
+The reason is as follows....%N
+
+#EN#2
+First, for example let's suppose that the transfer occurs at 1:00.%N
+—— 1:00%N
+Kokoro's mind comes to SPHIA.%N
+There, she looks at the incorrect alarm clock.%N
+She mistakes the mistaken time it shows, which is "1:33," for the actual time of the transfer.%N
+Then, 66 minutes later, after two more transfers have occurred....%N
+
+#EN#3
+—— 2:06%N
+Kokoro's mind returns to the shelter cabin.%N
+There, she looks at her wristwatch.%N
+She sees the correct time of the transfer, which is "2:06."%N
+Seeing as she had transferred to SPHIA at 1:33 and returned to the shelter cabin at 2:06, she thinks that she spent 33 minutes at SPHIA.%N
+
+#EN#4
+Indeed, there is no mistake in that the time of her stay at SPHIA was 33 minutes.%N
+However, from 1:33 until 2:06, her mind was actually in the third area. It is from this perspective that we could say that she is mistaken about the time of the transfer.%N
+Well then (since the times of her transfers from the shelter cabin are random), let's assume that one more hour has passed.%N
+
+#EN#5
+—— 3:06%N
+Kokoro's mind is at SPHIA....%N
+She looks at the alarm clock.%N
+She mistakes the incorrect time it shows, "3:39," for the actual time of the transfer.%N
+What's important here is the fact that each and every time, "she cannot confirm what the time was directly before the transfer."%N
+
+#EN#6
+That's why, here, each time she is led to think that the time of her stay at the shelter cabin is an hour and 33 minutes——regardless of the fact that, in reality, no longer than a hour actually passes.%N
+Then this process repeats....%N
+At "4:12," she'll return to the shelter cabin, check the correct time against her wristwatch, and assume that she was at SPHIA for 33 minutes.%N
+
+#EN#7
+So then, what happens in my case?%N
+—— 1:00%N
+My mind goes to the third area....%N
+At that time, my sensory organs don't function normally, so I'm not even aware that a transfer took place.%N
+Then, 33 minutes later....%N
+
+#EN#8
+—— 1:33%N
+My mind goes to the shelter cabin....%N
+I check Kokoro's wristwatch and see the correct time.%N
+I can see that the time of the transfer was "1:33."%N
+33 more minutes pass....%N
+
+#EN#9
+—— 2:06%N
+My mind returns to SPHIA.%N
+There, I look at my wristwatch.%N
+I see the correct time of the transfer, "2:06."%N
+
+#EN#10
+Seeing as I have transferred to the shelter cabin at 1:33, and returned to SPHIA at 2:06, I think that the time I have spent at the shelter cabin is 33 minutes.%N
+In my case, it is true both that the time of my stay at the shelter cabin is 33 minutes, and that from 1:33 to 2:06, I was in the shelter cabin.%N
+Thus, I am always aware of the correct times of the transfers.%N
+
+#EN#11
+Well then, since the moment when I transfer from SPHIA is simultaneous with Kokoro's transfer from the shelter cabin, let's assume that one more hour has passed.%N
+
+#EN#12
+—— 3:06%N
+My mind goes to the third area....%N
+My sensory organs don't function normally,%N
+so I'm not even aware that a transfer took place.%N
+Then, 33 minutes later....%N
+
+#EN#13
+—— 3:39%N
+My mind goes to the shelter cabin....%N
+I check Kokoro's wristwatch and see the correct time.%N
+I can see that the time of the transfer was "3:39."%N
+What's important here is the fact that each and every time, "I cannot confirm what the time was directly before the transfer."%N
+
+#EN#14
+That's why, here, each time I'm led to think that the time of my stay at SPHIA is an hour and 33 minutes——regardless of the fact that, in reality, no longer than a hour actually passes.%N
+Then this process repeats....%N
+At "4:12," I'll return to SPHIA, check the correct time on my wristwatch, and assume that I was at the shelter cabin for 33 minutes.%N
+
+#EN#15
+Thus, the times of the transfers that Kokoro writes in the notepad would be as follows.%N
+%N
+"1:33: Transferred from the shelter cabin to SPHIA"%N
+"2:06: Transferred from SPHIA to the shelter cabin"%N
+"3:39: Transferred from the shelter cabin to SPHIA"%N
+"4:12: Transferred from SPHIA to the shelter cabin"%N
+
+#EN#16
+While the times of my own measurements would be as follows....%N
+%N
+"1:33: Transferred from SPHIA to the shelter cabin"%N
+"2:06: Transferred from the shelter cabin to SPHIA"%N
+"3:39: Transferred from SPHIA to the shelter cabin"%N
+"4:12: Transferred from the shelter cabin to SPHIA"%N
+%N
+Therefore, since these possess the perfect symmetry of a mirror image, both I and Kokoro were led to believe that we were transferring simultaneously between two locations.
+

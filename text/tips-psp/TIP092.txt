@@ -1,0 +1,86 @@
+TIP092
+冬川⑳こころ
+Fuyukawa Kokoro
+paragraph_count:4
+init_addr:7d50
+pc_index:TIP_100
+
+#PARAGRAPHS_JP:
+#JP#1
+;7d54;217;氏名：冬川⑳こころ／Fuyukawa Cocoro%N
+性別：女%N
+年齢：20歳%N
+誕生日：1990年２月22日（Pisces）%N
+血液型：Ｂ型%N
+職業：鳩鳴館女子大学・人文学部社会学科３年%N
+⑳（人間学講座に所属）%N
+知力：平均的%N
+体力：平均的%N
+協調性：高い%N
+
+#JP#2
+;7d58;320;性格：感情（カン）を信じるタイプ・自分に正直%N
+⑳外向的・好奇心旺盛・気まぐれ・文系%N
+趣味：野鳥観察・盆栽%N
+好き：嘘も方便・和気藹々としたムード・楽しいこと%N
+嫌い：だんまり・喧嘩（いがみ合い）・面倒なこと%N
+⑳胡瓜%N
+設定：左利き%N
+裏設定：『アニマ（男性にとっての女性像）』を%N
+⑳象徴する（→元型）%N
+⑳この設定は2011年のもの%N
+
+#JP#3
+;7d5c;220;女性視点の主人公。%N
+飛行機事故に巻き込まれる。運良く助かり、%N
+事故の生存者のひとりとなるが、%N
+周囲は雪深い人里離れた山中。%N
+彼女は生き残った数人のメンバー達と%N
+ともに、隔絶された空間から%N
+脱出することを余儀なくされる。%N
+
+#JP#4
+;7d60;184;また事故後、こころの心身は変調をきたす。%N
+時折、精神と肉体が乖離し、%N
+異なる場所にいる%N
+別の人物（悟）と入れ替わってしまうのだ。%N
+彼女の記憶と心は、%N
+雪山とスフィアとの間を行き交う。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+Full Name: Fuyukawa Kokoro%N
+Sex: Female%N
+Age: 20%N
+Birthday: February 22nd, 1990%N
+Blood Type: B%N
+Occupation: Third-year social sciences student in the humanities department at Kyumeikan Women's%N
+University (Major: anthropology).%N
+Intelligence: Average%N
+Physical Strength: Average%N
+Cooperativeness: High%N
+
+#EN#2
+Personality: The type that believes in her emotions. Honest with herself. Extroverted. Brimming with curiosity. Capricious.%N
+Interested in the liberal arts.%N
+Hobbies: Birdwatching, bonsai%N
+Likes: Believing that the end justifies the means,%N
+harmonious moods, fun things%N
+Dislikes: Silence, fighting or quarreling,%N
+troublesome things, cucumbers%N
+Dominant Hand: Left%N
+Beyond the Surface: Represents the "Anima%N
+(The Female Within the Male)" (→ Archetype)%N
+This is her status as of 2011.%N
+
+#EN#3
+Fuyukawa Kokoro is the female protagonist.%N
+She was involved in a plane crash. She was fortunately saved and joined the other survivors of the incident, but they were stranded on a snowy mountain in the middle of nowhere.%N
+Together with the other survivors, she had no choice but to find a way to escape that isolated place.%N
+
+#EN#4
+After the incident, Kokoro's mind and body experienced abnormalities.%N
+Sometimes, her mind and body separate, exchanging places with those of another person (Satoru) in a different location.%N
+Her mind and memory switch back and forth between the snowy mountain and SPHIA.
+

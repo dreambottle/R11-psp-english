@@ -1,0 +1,17 @@
+TIP001
+インサニティ
+Insanity
+paragraph_count:1
+init_addr:7620
+pc_index:TIP_002
+
+#PARAGRAPHS_JP:
+#JP#1
+;7624;56;インサニティ／ｉｎｓａｎｉｔｙ%N
+狂気、愚行、精神障害。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+Madness, foolish actions, mental illness.
+

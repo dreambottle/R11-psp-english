@@ -1,0 +1,37 @@
+TIP060
+海馬
+Hippocampus
+paragraph_count:2
+init_addr:7a6c
+pc_index:TIP_065
+
+#PARAGRAPHS_JP:
+#JP#1
+;7a70;269;海馬／カイバ%N
+〔hippocampus〕%N
+大脳の古皮質に属する部位で、%N
+欲求・本能・自律神経などのはたらきと%N
+その制御を行う。%N
+また、情報の必要性を判断し、脳の他の部分に%N
+記憶を蓄える、記憶の製造工場と言われている。%N
+海馬がないと５分前のことも覚えていることが%N
+できないそうだ。%N
+
+#JP#2
+;7a74;160;また、『年を取ったから物忘れをする』%N
+のではなくて、子どもと違って%N
+たくさんの記憶がある大人は、%N
+その必要な情報を選び出すのに時間がかかる%N
+ということなのだ。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+A part of the cerebral cortex, the hippocampus controls the functions of desire, instinct, the autonomic nerves, and so on.%N
+Due to its responsibility for deciding the level of urgency of received information and storing memory in other parts of the brain, it is referred to as the "memory factory."%N
+It is said that without the hippocampus, a person won't be able to remember what had happened even five minutes ago.%N
+
+#EN#2
+Additionally, it is not simply the case that "one becomes forgetful with age."%N
+Adults, because of having a much greater store of memories than children, are said to take much longer to remember a single essential piece of information.
+

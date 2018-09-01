@@ -1,0 +1,32 @@
+TIP069
+アリスとボブ
+Alice and Bob
+paragraph_count:2
+init_addr:7b18
+pc_index:TIP_074
+
+#PARAGRAPHS_JP:
+#JP#1
+;7b1c;216;暗号業界では、%N
+情報の送信者のことをアリス（Alice）、%N
+受信者のことをボブ（Bob）と呼ぶのが%N
+慣例となっている。%N
+この呼び方は1993年に発表された%N
+量子テレポーテーションに関する論文で%N
+用いられたことが発端となっている。
+
+#JP#2
+;7b20;143;なお余談であるが、アリスとボブに対して、%N
+両者で取り交わされる情報を%N
+傍受（盗聴）しようとする存在をイヴ（Eve）と%N
+呼ぶのも慣例となっている。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+In cryptography, the one conveying the information is commonly referred to as Alice, while the recipient is referred to as Bob.%N
+This naming convention was first used in a 1978 article presenting the RSA cryptosystem.%N
+
+#EN#2
+Additionally, a person found to be intercepting communications (i.e. through a bug or wiretap) between Alice and Bob is customarily referred to as Eve.
+

@@ -1,0 +1,24 @@
+TIP063
+シュレディンガー方程式
+Schrodinger Equation
+paragraph_count:1
+init_addr:7aa4
+pc_index:TIP_068
+
+#PARAGRAPHS_JP:
+#JP#1
+;7aa8;222;別名：波動方程式。%N
+量子力学で、物質波を表す%N
+波動関数の時間的変化を決める微分方程式。%N
+系の全エネルギーに対応する演算子%N
+ハミルトニアンによる波動関数の変化が、%N
+波動関数の時間的変化に相応しているという%N
+形式で示される。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+(a.k.a. Wave Equation)%N
+In quantum mechanics, the Schrödinger Equation is a differential equation that describes the changes over time of the quantum state of a system.%N
+It can be shown formally that evolution of the wave function is given in the equation by the Hamiltonian operator, which corresponds to the total energy of the system.
+

@@ -1,0 +1,25 @@
+TIP104
+Ｒ
+R
+paragraph_count:1
+init_addr:7e94
+pc_index:TIP_004
+
+#PARAGRAPHS_JP:
+#JP#1
+;7e98;226;１⑳：⑳半径（radius）、比（ratio）を表す記号。%N
+⑳⑳　長じて弧の意。%N
+２⑳：⑳英語のアルファベットの第１８字。%N
+３⑳：⑳右（right）を表す記号。%N
+そして、本作のタイトル（Remember11）のＲ。%N
+Ｒには様々な意味が込められている。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+1. The symbol for "radius" and "ratio." Represents an arc extension.%N
+2. The 18th letter of the alphabet.%N
+3. The symbol for "right."%N
+And also, the R from the title of this game (Remember11).%N
+The letter R is full of significant meanings.
+

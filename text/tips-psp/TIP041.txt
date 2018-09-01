@@ -1,0 +1,58 @@
+TIP041
+アンドロメダ
+Andromeda
+paragraph_count:3
+init_addr:7904
+pc_index:TIP_046
+
+#PARAGRAPHS_JP:
+#JP#1
+;7908;327;地球から230万光年離れたところにある星雲。%N
+形は楕円形で渦を巻いている。%N
+ギリシャ神話によると、アンドロメダは%N
+エチオピアの王女である。%N
+彼女の母カシオペアは、海のニンフ・ネイレス達%N
+よりもアンドロメダは美しい、と自慢していた。%N
+ネイレスを気に入っている海の神ポセイドンは%N
+これを聞いて怒り、海の怪物を送って沿岸を%N
+荒らした。%N
+
+#JP#2
+;790c;314;王は神託を伺った。%N
+神託によれば、アンドロメダが生贄として%N
+捧げられない限り怒りは治まらないという、%N
+ことであった。%N
+アンドロメダは怪物の生贄になるために、%N
+岩に鎖でつながれた。%N
+そこへペルセウスが通りかかり、%N
+持っていたメドゥサの頭を怪物に見せて%N
+怪物を石に変えた。%N
+ペルセウスはアンドロメダを妻に迎え入れる。%N
+
+#JP#3
+;7910;206;アンドロメダは死後、天の星の仲間に加えられた。%N
+夫ペルセウス、父ケペウス、母カシオペア、%N
+海蛇とともに星座となった。%N
+しかし母カシオペアは、高慢の罪で%N
+椅子に腰掛けたまま天から逆さに%N
+吊り下げられている。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+A galaxy approximately 2,500,000 lightyears from Earth.%N
+A spiral galaxy, its shape is that of an elliptical coil.%N
+In Greek mythology, Andromeda was the name of an Ethiopian princess. Her mother, Cassiopeia, bragged that she was more beautiful than the sea nymphs known as the Nereids. The sea god Poseidon, who was fond of the Nereids, was angered by her words and sent a sea monster to lay waste to the coast of her kingdom.%N
+
+#EN#2
+The king went to consult an oracle for help.%N
+This oracle told him that only sacrificing Andromeda would return peace to the kingdom.%N
+Andromeda was chained to a rock and left as a sacrifice to the monster.%N
+At that time, Perseus, carrying the freshly-severed head of the Medusa in a sack, happened to come along.%N
+Uncovering the head before the monster's eyes, Perseus turned it to stone.%N
+Perseus then took Andromeda as his wife.%N
+
+#EN#3
+When Andromeda died, she was placed among the stars and became a constellation alongside her husband Perseus, her father Cepheus, her mother Cassiopeia, and the great sea serpent.%N
+However, because of Cassiopeia's pride, she was placed in the heavens such that the chair in which she sits appears upside-down half the time.
+

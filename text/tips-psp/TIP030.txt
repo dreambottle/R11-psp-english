@@ -1,0 +1,27 @@
+TIP030
+ブロッケンの妖怪
+Brocken Specter
+paragraph_count:1
+init_addr:7838
+pc_index:TIP_035
+
+#PARAGRAPHS_JP:
+#JP#1
+;783c;312;日の出や日没時の高山で、%N
+前面に霧がたちこめているとき、%N
+太陽の光を背に受けて立つと自分の影が%N
+霧に投影されて虹の輪がうかびあがる。%N
+これをブロッケン現象と言う。%N
+怪物のような巨大な影を、%N
+ブロッケンの妖怪と呼ぶことがある。%N
+ドイツのババリア地方にあるブロッケン山で%N
+しばしば見られたので、この名が付けられた。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+On a high mountain at sunrise or sunset, when one is standing in front of a bank of fog, the sunlight shining from behind you may project your shadow onto the fog, surrounded by a ring of rainbow light.%N
+This is called a Brocken specter.%N
+The resulting gigantic shadows, like those of a monster, have been called the phantoms of the Brocken.%N
+The name of the phenomenon comes from the Brocken, a mountain in Bavaria, Germany, where it has often been observed.
+

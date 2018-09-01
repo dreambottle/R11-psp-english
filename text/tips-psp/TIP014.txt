@@ -1,0 +1,17 @@
+TIP014
+ブラウザ
+Browser
+paragraph_count:1
+init_addr:772c
+pc_index:TIP_019
+
+#PARAGRAPHS_JP:
+#JP#1
+;7730;68;インターネット上のホームページの情報を%N
+表示するための閲覧ソフト。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+A software application that retrieves, traverses and displays the information resources from various sources such as web servers or the Internet on web pages.
+

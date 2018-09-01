@@ -1,0 +1,22 @@
+TIP080
+午後−−時−−分
+--:-- PM
+paragraph_count:1
+init_addr:7be0
+pc_index:TIP_085
+
+#PARAGRAPHS_JP:
+#JP#1
+;7be4;162;『午後−−時−−分』というのは%N
+計測不可能だったことを示す。%N
+停電の暗闇の中で、%N
+オレが刃物を手にした人影を見たときだ。%N
+腕時計を確かめている余裕などなかった。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+"--:-- PM" indicates that it was impossible for me to check what the time was.%N
+This was when I saw the shadow holding a knife when the lights went out.%N
+I had no time to look at my watch.
+

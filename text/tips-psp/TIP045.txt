@@ -1,0 +1,40 @@
+TIP045
+デウス・エクス・マキナ
+Deus Ex Machina
+paragraph_count:2
+init_addr:794c
+pc_index:TIP_050
+
+#PARAGRAPHS_JP:
+#JP#1
+;7950;281;〔deus ex machina〕%N
+ラテン語で『機械仕掛けの神』の意。%N
+演劇や文芸で、行き詰まった状況や難しい結末を%N
+必然性なく登場して解決する便宜的な役柄。%N
+また、そのような技法を差していう。%N
+ギリシャ悲劇でエウリピデスが多用したもので、%N
+クレーンのような機械で神の役を登場させた%N
+ことによる。
+
+#JP#2
+;7954;272;アリストテレスの美学では、%N
+物語のすべての要素が厳密な因果連関（必然性）に%N
+置かれてなければならず、%N
+無から生じること（偶然性）が許されるのは%N
+物語の初めだけである以上、%N
+途中でいきなり現れる人物である%N
+デウス・エクス・マキナは物語論理にはずれた%N
+夾雑物として排される。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+From the Latin, literally meaning "god from the machine."%N
+A frequently-used plot device in old plays and literature, where, in the midst of a seemingly hopeless situation, a previously unseen character or object will suddenly appear and provide a convenient resolution to the story.%N
+Use of this type of device in a story later came to be called by this name.%N
+Frequently seen in the Greek tragedies of Euripides, whose conclusions were often marked by a god
+
+#EN#2
+appearing from above and being lowered onto the stage via a mechanism similar to a crane.%N
+Aristotle, in his writings on aesthetics, argued that all the elements of a story should arise internally (naturally and necessarily), following up the previous actions in the play, and opposed the use of this device, saying that the sudden deus ex machina appearance of a previously unseen character in the middle of the play (contingent on the needs of the plot) was poor storytelling.
+

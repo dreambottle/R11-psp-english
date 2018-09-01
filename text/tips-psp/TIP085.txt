@@ -1,0 +1,34 @@
+TIP085
+ソロモン
+Solomon
+paragraph_count:2
+init_addr:7c78
+pc_index:TIP_090
+
+#PARAGRAPHS_JP:
+#JP#1
+;7c7c;208;ヘブライ語で『平和、平安』の意。%N
+その名前の由来となったソロモンは、%N
+古代イスラエルの３代目の王。%N
+当初ソロモンは主に対する信仰と従順によって%N
+卓越した知恵と英知を発揮し、%N
+イスラエルをその黄金期に導いた。%N
+
+#JP#2
+;7c80;186;またダビデが果たし得なかった%N
+神のための黄金の神殿を建設したが、晩年、%N
+盛んに建築工事を行って民衆に重税を課した。%N
+そのため、彼の没後まもなく%N
+イスラエルは南北に分裂することになった。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+Means "peace" or "tranquility" in Hebrew.%N
+The Biblical Solomon from whom this name is derived was the third king of ancient Israel.%N
+Solomon excelled because of his faith and obedience to God, and possessed great wisdom and intelligence with which he led Israel into a Golden Age.%N
+
+#EN#2
+However, in King Solomon's later years, he placed heavy taxation upon his people in order to construct a golden temple for the Lord, a task that his father David was unable to accomplish.%N
+As a result, soon after his death, Israel split into two northern and southern kingdoms.
+

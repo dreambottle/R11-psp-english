@@ -1,0 +1,82 @@
+TIP094
+黛⑳鈴
+Mayuzumi Lin
+paragraph_count:4
+init_addr:7d94
+pc_index:TIP_102
+
+#PARAGRAPHS_JP:
+#JP#1
+;7d98;156;氏名：黛⑳鈴／Mayuzumi Lin%N
+性別：女%N
+年齢：23歳%N
+誕生日：1987年４月30日（Taurus）%N
+血液型：Ａ型%N
+職業：ＯＬ%N
+知力：やや高い%N
+体力：やや低い%N
+協調性：低い%N
+
+#JP#2
+;7d9c;236;性格：気が強い・プライドが高い%N
+⑳やたらと外面を気にする・軽度の潔癖性%N
+⑳極度の偏食家（好き嫌いが激しい）%N
+⑳やや思いやりに欠けている%N
+趣味：服や帽子や靴の収集%N
+好き：仕事・動物・高いところ・私%N
+嫌い：威張る男・男に負けること・下ネタ%N
+
+#JP#3
+;7da0;198;裏設定：『ペルソナ（仮面）』を象徴する（→元型）%N
+⑳婚約者がいる%N
+⑳悟と黛はかつて交際していた%N
+⑳現在は互いに疎遠な関係であるが、%N
+⑳彼女の心の内には秘められた想いがある%N
+⑳この設定は2011年のもの%N
+
+#JP#4
+;7da4;290;主に雪山サイドに登場。%N
+仕事で出張中、飛行機事故に巻き込まれ、%N
+こころと同じく事故の生存者のひとりとなる。%N
+非協力的。団体行動を乱し、%N
+何かとグループの足を引っ張る。%N
+男に対して挑戦的で、%N
+男に屈することを何よりも嫌う。%N
+ゆえに黄泉木とは相性が悪い。%N
+グループのお荷物・トラブルメーカー。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+Full Name: Mayuzumi Lin%N
+Sex: Female%N
+Age: 23%N
+Birthday: April 30th, 1987 (Taurus)%N
+Blood Type: A%N
+Occupation: Office worker%N
+Intelligence: Fairly high%N
+Physical Strength: Fairly low%N
+Cooperativeness: Low%N
+
+#EN#2
+Personality: Strong-willed. Very proud. At times, she worries greatly about her outward appearance. Slightly obsessed with cleanliness. Eats a very unbalanced diet (is extremely picky).%N
+Seems to be considerably lacking in sympathy.%N
+Hobbies: Collecting clothes, hats and shoes%N
+Likes: Her work, animals, high places, herself%N
+Dislikes: Proud men, losing to men, dirty jokes%N
+
+#EN#3
+Beyond the Surface: Represents the "Persona (Mask)" (→ Archetype)%N
+She has a fiancé.%N
+Satoru and Mayuzumi were once going out, but are now estranged.%N
+She keeps a wish locked inside her heart.%N
+This is her status as of 2011.%N
+
+#EN#4
+Mayuzumi Lin mainly appears in the snowy mountain side of the story.%N
+During a business trip, she becomes involved in the plane crash and, like Kokoro, is one of the survivors.%N
+Uncooperative, she makes a point of standing in the way of the refugees, disturbing the unity of the group.%N
+She is antagonistic toward men, and hates yielding to them more than anything else.%N
+Thus, she doesn't get along with Yomogi.%N
+A burden to the group, and a troublemaker.
+

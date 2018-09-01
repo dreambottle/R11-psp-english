@@ -1,0 +1,22 @@
+TIP013
+ＬＡＮ
+LAN
+paragraph_count:1
+init_addr:771c
+pc_index:TIP_017
+
+#PARAGRAPHS_JP:
+#JP#1
+;7720;152;Ｌｏｃａｌ　Ａｒｅａ　Ｎｅｔｗｏｒｋ%N
+同一建物内などに構築された、%N
+コンピューターのネットワーク。%N
+多様な情報を一括して送受・処理することが%N
+できる。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+Local Area Network%N
+A network of interconnected computers covering a small physical area such as a building.%N
+Allows for processing of large quantities of data which can be sent and received instantaneously.
+

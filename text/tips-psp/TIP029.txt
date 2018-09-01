@@ -1,0 +1,22 @@
+TIP029
+衛星電話
+Satellite Phone
+paragraph_count:1
+init_addr:7828
+pc_index:TIP_034
+
+#PARAGRAPHS_JP:
+#JP#1
+;782c;186;通信衛星を経由して通話する携帯電話。%N
+『世界のどこにいても繋がる』がキャッチフレーズ。%N
+実際には、各社のシステムや使用する%N
+衛星の種類によって、%N
+使用可能エリアは限定される場合がある。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+A cellular telephone which works by way of communication satellites.%N
+"Connecting you from anywhere in the world" was the catchphrase.%N
+However, in practice, due to different company systems, types of available satellites and so on, there are cases in which signal availability is limited to certain areas.
+

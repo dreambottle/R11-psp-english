@@ -1,0 +1,23 @@
+TIP061
+量子
+Quantum
+paragraph_count:1
+init_addr:7a80
+pc_index:TIP_066
+
+#PARAGRAPHS_JP:
+#JP#1
+;7a84;262;連続的でなく、ある単位量の整数倍に限られる値%N
+（とびとびの値）で表される、物理量の最小単位。%N
+1900年にプランクがエネルギー量子の考え%N
+（量子仮説）を提唱し、量子論の端緒になった。%N
+次いでアインシュタインが光量子（フォトン）を、%N
+ボーアが角運動量の量子を示した。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+The smallest unit of a physical quantity which can be expressed using values limited to a set of integers within a certain range, rather than continuous values.%N
+In 1900, Max Planck proposed the idea of a quantum energy (the quantum hypothesis) that spawned the beginning of quantum theory.%N
+Subsequently, Albert Einstein suggested the existence of a light quantum (photon), and Niels Bohr demonstrated the angular momentum quantum.
+

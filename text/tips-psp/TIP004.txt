@@ -1,0 +1,26 @@
+TIP004
+青鷺島
+Aosagi Island
+paragraph_count:1
+init_addr:7654
+pc_index:TIP_006
+
+#PARAGRAPHS_JP:
+#JP#1
+;7658;262;青鷺島／あおさぎじま%N
+青鷺島は礼文島の西方約５ｋｍの洋上に%N
+浮かぶ孤島で、スフィアが建設されるまでは%N
+無人島だった。%N
+飛行場はなく、稚内港から不定期に出航する%N
+船だけが唯一の交通手段である。%N
+通常、この島には政府発行の許可証がなければ%N
+上陸することはできない。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+Located approximately 5 km west of Rebun Island,%N
+Aosagi Island was uninhabited until the construction of SPHIA.%N
+It possesses no airport, and the only way to get there is by a boat which departs from Wakkanai Harbor on an irregular basis.%N
+Furthermore, entry to the island without a government-issued permit is prohibited.
+

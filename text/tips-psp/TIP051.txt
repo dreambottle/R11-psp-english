@@ -1,0 +1,24 @@
+TIP051
+ロールシャッハテスト
+Rorschach Test
+paragraph_count:1
+init_addr:79cc
+pc_index:TIP_056
+
+#PARAGRAPHS_JP:
+#JP#1
+;79d0;217;投影法による人格検査のひとつ。%N
+インクのシミを落として作った左右対称の%N
+あいまいな図形を示し、%N
+なにに見えるかを言わせて人格の特徴を%N
+診断するもの。%N
+スイスの精神医学者%N
+ロールシャッハ（Hermann R.1884-1922）の考案。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+A type of projective psychological test.%N
+The subject of the test is first asked to interpret a series of cards with ambiguous, bilaterally symmetric inkblot designs. The answers are then analyzed so as to try and determine that person's personality characteristics.%N
+Invented by Rorschach (Hermann R., 1884-1922), a Swiss psychologist.
+

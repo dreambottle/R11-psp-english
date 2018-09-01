@@ -1,0 +1,22 @@
+TIP032
+ピッケル
+Ice Ax
+paragraph_count:1
+init_addr:7858
+pc_index:TIP_037
+
+#PARAGRAPHS_JP:
+#JP#1
+;785c;144;登山用具。%N
+バランスの支持、足場切り、滑落停止、%N
+確保などに用いる。%N
+頭部はブレードとピックによって構成され、%N
+これにシャフトと石突きがつく。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+A mountaineering tool.%N
+Used for aid in balance, to create footholds, and to prevent the climber from slipping.%N
+It is comprised of a long shaft with a pick at the head and a metal spike at the base.
+

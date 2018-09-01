@@ -1,0 +1,24 @@
+TIP077
+およそ１００時間分
+Approximately 100 Hours
+paragraph_count:1
+init_addr:7bb0
+pc_index:TIP_082
+
+#PARAGRAPHS_JP:
+#JP#1
+;7bb4;258;解析の対象となったのは%N
+『１１日の時計台転落時刻：午後４時過ぎ』から%N
+『１５日の最終転移時刻：午後１０時５３分』までの%N
+映像。%N
+正確な総量は『１０３時間弱』ということになる。%N
+それ以外のデータは、調べてもさして意味はない%N
+と判断したため、対象からは省いた。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+The portion analyzed is the record beginning at "the moment of my fall from the clock tower on the 11th: past 4:00 PM" and ending at "the moment of the final transfer on the 15th: 10:53 PM."%N
+The exact aggregate duration turns out to be "a little less than 103 hours."%N
+Even if examined further, any other data has been deemed insignificant and omitted.
+

@@ -1,0 +1,20 @@
+TIP017
+ニューロン
+Neuron
+paragraph_count:1
+init_addr:775c
+pc_index:TIP_022
+
+#PARAGRAPHS_JP:
+#JP#1
+;7760;98;神経細胞の一つの固まり。%N
+神経細胞体・樹状突起・軸索から成る。%N
+刺激を受容・伝達する機能をもつ。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+A bundle of nerve cells.%N
+Composed of a cell body, an axon, and dendrites.%N
+Receives and transmits stimuli.
+

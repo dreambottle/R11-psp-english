@@ -1,0 +1,25 @@
+TIP079
+場所
+Location
+paragraph_count:1
+init_addr:7bd0
+pc_index:TIP_084
+
+#PARAGRAPHS_JP:
+#JP#1
+;7bd4;282;カメラはスフィアの至る所に設置されており、%N
+ゆえに記録されたデータファイルも%N
+カメラの台数分だけ存在した。%N
+しかしそれらのすべてをチェックする必要はない。%N
+そんなことをしている時間もなかった。%N
+そこで、基本的には、%N
+オレの姿が映っていない映像は、%N
+解析対象から除外することにした。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+Cameras are set up everywhere in SPHIA, so there are as many recorded data files as there are cameras.%N
+However, there was neither any need to check all of them nor the time to do so.%N
+Basically, I just excluded all the files I don't appear in from the list of objects to be analyzed.
+

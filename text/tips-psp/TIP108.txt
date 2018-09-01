@@ -1,0 +1,287 @@
+TIP108
+ＢＧＭの曲名に込められた意味
+The Meanings Behind the BGM Titles
+paragraph_count:15
+init_addr:7ed4
+pc_index:TIP_098
+
+#PARAGRAPHS_JP:
+#JP#1
+;7ed8;154;【Chaining】%N
+行動連鎖。%N
+１つ１つ巧みに交差したカオス的言動の連鎖。%N
+%N
+【Scheme】%N
+Scheming[スキーミング]%N
+たくらみ。%N
+無機質な研究所の壁に隠された計画。
+
+#JP#2
+;7edc;210;【Anima】%N
+アニマ。内的自我。%N
+男性の女性的な面（ユング心理学）。%N
+%N
+【Animus】%N
+アニムス。意図。猛烈な敵意。%N
+女性の男性的な面（ユング心理学）。%N
+%N
+【Persona】%N
+ペルソナ。他人に見せるための（抑圧された）性格。
+
+#JP#3
+;7ee0;264;【Old wise man】%N
+老賢者。「智恵」の象徴。父親像（威厳）。%N
+時には試練を課す場合もある。%N
+%N
+【Great mother】%N
+太母。全てのものを生み出して包み込み、%N
+養い育てる。%N
+その側面として対象を掴んで離さず、抱きしめ、%N
+遂には「暗黒の深さ」をもつ母体へと%N
+呑み込んでしまう。
+
+#JP#4
+;7ee4;306;【Shadow】%N
+個人的影と普遍的影。当人にとっては、%N
+嫌なものである。正反対の物。%N
+原始的で暗い。抑圧すればするほど強くなる。%N
+%N
+【Puer aeternus】%N
+永遠の少年。ギリシアのエレウシスの秘儀の童神%N
+イアッコス（Iakchos）に因んでつけられた。%N
+独創的で想像力豊か。が、持続力が無く%N
+社会に不適応。[プエル　エテルヌス]
+
+#JP#5
+;7ee8;269;【Trickstar】%N
+無秩序の精神、境界を無視する精神を持ち、%N
+秩序を壊す者、文化的な約束事を破る者。%N
+自分が欲しいものを、%N
+狡猾なトリックを使って相手を騙して手に入れる。%N
+この側面が高度に発達すると、%N
+神や君主を欺いて得た文化や利益を%N
+人間や民衆にもたらす、文化英雄となる。
+
+#JP#6
+;7eec;112;【Self】%N
+胎動／セルフ%N
+%N
+【Communication】%N
+コミュニケーション、連絡。%N
+%N
+【Anxiety】%N
+[アングザイアティー]不安
+
+#JP#7
+;7ef0;179;【Cue】%N
+手がかり。%N
+%N
+【Paranoia】%N
+妄想症・偏執症%N
+内的原因から発生し、思考・意志・行動の秩序と%N
+明晰さが完全に保たれたまま%N
+徐々に発展する、持続的でゆるぎない%N
+妄想体系である。
+
+#JP#8
+;7ef4;173;【Fear and Insanity】%N
+恐怖と狂気[インサニティ]%N
+%N
+【Thanatos】%N
+ギリシャ神話で、「死」を擬人化した神「タナトス」。%N
+フロイトの用語。攻撃、自己破壊に向かう%N
+死の本能をさす。
+
+#JP#9
+;7ef8;227;【Delusive consciousness】%N
+妄想的な意識。[ディリューシブ　コンシャスネス]%N
+%N
+【Mantra】%N
+マントラ。神秘な力をもつ文句。真言。%N
+元来はヴェーダ聖典中の賛歌のこと。%N
+%N
+【Multiple maze】%N
+多重迷路。意識上の錯綜→困惑・動揺・混乱。
+
+#JP#10
+;7efc;197;【Dreamy lens】%N
+空想的で心を静める。%N
+%N
+【Dark Gestalt】%N
+ゲシュタルト：一つの図形やメロディーのように%N
+個々の要素の総和以上のまとまった意味と構造を%N
+もち、変化・変換を通じて維持される形姿。形態。
+
+#JP#11
+;7f00;134;【Will -Theme-】%N
+意志。%N
+思考や行動を意識的・主体的に展開、%N
+実行する時に働く精神内のプロセス。%N
+意識のエネルギー的側面ともいえる。%N
+
+#JP#12
+;7f04;309;【Catharsis】%N
+カタルシス。アリストテレスが「詩学」で%N
+展開した説。浄化・排泄の意。%N
+悲劇を見ることによって日頃鬱積（うっせき）して%N
+いる情緒を解放し精神を浄化すること。%N
+古い意味では治療的意義を強調したらしい。%N
+%N
+【All or None】%N
+全か無。（All or None Principle　全か無の法則）%N
+置き換えると「生か死か」。%N
+
+#JP#13
+;7f08;279;【δ Wave】%N
+・δ（デルタ）波　０．５〜４Hz未満%N
+……ぐっすり寝ている時に現れる。%N
+⑳⑳　新生児や成人の“深い眠り”の時に出現。%N
+%N
+・θ（シータ）波　４〜８Hz未満%N
+……とろとろと眠くなって来た時に現れる。%N
+%N
+・β（ベータ）波　１３〜４０Hz未満%N
+……精神活動している部位に現れる。%N
+
+#JP#14
+;7f0c;378;・α（アルファ）波　８〜１３Hz未満%N
+……脳の休めている部位に現れる波である。%N
+⑳⑳　健康な成人の、安静、リラックス、%N
+⑳⑳　閉眼時、後頭部に現れる。%N
+⑳⑳　前頭部にはあまり見られない。%N
+⑳⑳　このα波は、目を開けると消えてしまい、%N
+⑳⑳　振幅も小さいβ波へと変わる。これは、%N
+⑳⑳　今まで休んでいた後頭部の視覚野が%N
+⑳⑳　開眼したことにより活発に働き出したから%N
+⑳⑳　である。%N
+
+#JP#15
+;7f10;214;【Heuristic】%N
+ヒュリスティック。%N
+問題解決法の一。%N
+正しいと思われる選択肢を順に試行錯誤しながら%N
+辿ってゆくことで正解を得ようとする解決法。%N
+%N
+【Nucleus】%N
+核。ものごとの中心となるもの。%N
+核心。[ニュークリアス]%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+【Chaining】%N
+A behavioral sequence.%N
+The way that chaotic speech and actions are linked with each other and connected one by one.%N
+%N
+【Scheme】%N
+Scheming.%N
+The plan formed within the walls of the inhuman research institute.%N
+%N
+
+#EN#2
+【Anima】%N
+The inner self.%N
+The face of the feminine within the masculine (in Jungian psychology).%N
+%N
+【Animus】%N
+Intentions. Violent hostility.%N
+The face of the masculine within the feminine (in Jungian psychology).%N
+【Persona】%N
+The (restrained) self that one presents to other people.
+
+#EN#3
+【Old wise man】%N
+A symbol of "wisdom." A father figure (dignified).%N
+At times, one who will put you to the test.%N
+%N
+【Great mother】%N
+The one who brought forth everything and envelops all, bringing them up. That side of her has made her an object of worship, held inseparably close, until she is transfigured and simultaneously becomes the maternal body which carries "the deepest darkness."%N
+
+#EN#4
+【Shadow】%N
+The individualistic shadow and the omnipresent shadow. To the person in question, their Shadow is something which they hate. An entity which is one's polar opposite.%N
+Possessed of a primal darkness. The more it is repressed, the stronger it becomes.%N
+【Puer aeternus】%N
+The eternal boy. Associated with the Eleusinian Mysteries of Greece and their principal god or priest Iakchos. Creative, and possessing a vibrant imagination. However, not well-suited to everyday society.%N
+
+#EN#5
+【Trickster】%N
+One possessing a disordered soul which rejects all boundaries, destroys all order, and defies all social conventions. He will use cunning and trickery to get what he wants from his opponent. At his most extreme, he will deceive even monarchs or gods without a moment's hesitation, and by giving what he gains to the mortal populace, he becomes a mythical hero.%N
+
+#EN#6
+【Self】%N
+Quickening/Self%N
+【Communication】%N
+Contact.%N
+【Anxiety】%N
+Uneasiness.%N
+%N
+
+#EN#7
+【Cue】%N
+Clue.%N
+%N
+【Paranoia】%N
+Paranoia and monomania. Originating internally, the will, thoughts, and actions all become irregular, gradually growing more and more disordered and eventually reaching the point of a persistent set of delusions.%N
+
+#EN#8
+【Fear and Insanity】%N
+Fear and Madness [Insanity]%N
+%N
+【Thanatos】%N
+In Greek mythology, the god who personified "death" is "Thanatos." A Freudian term. The internal instinct toward self-destruction.%N
+%N
+
+#EN#9
+【Delusive consciousness】%N
+A delusional consciousness. [Delusive consciousness]%N
+【Mantra】%N
+A spoken phrase which holds a mysterious power. The True Word. Originates from a song of praise in the Vedic texts.%N
+【Multiple maze】%N
+The intricacies of mental awareness → bewilderment, agitation and confusion.%N
+%N
+
+#EN#10
+【Dreamy lens】%N
+Imagining something which calms the heart.%N
+【Dark Gestalt】%N
+Gestalt: a single entity, such as a shape or a melody, which is part of a whole that is greater than the sum of its parts. However, though part of a whole, it contains its own structure and significant meaning, and retains its own shape even when changes are undergone.%N
+%N
+
+#EN#11
+【Will -Theme-】%N
+A process within the mind, in which conscious thoughts and actions are independently carried out. The energy of awareness is said to be another of its sides.%N
+%N
+
+#EN#12
+【Catharsis】%N
+First referred to in Aristotle's "Poetics." The meaning is one of purification or purging. The release of the negative emotions built up by watching a tragedy in order to purify the mind is a catharsis. In its old definition, it seems this word's emphasis was on catharsis as a therapeutic process or treatment.%N
+%N
+【All or None】%N
+The All or None Principle.%N
+Put another way, "Life or Death."%N
+%N
+
+#EN#13
+【δ Wave】%N
+・δ (Delta) Wave [Between 0.5 and 4 Hz]%N
+...Appears during sound sleep.%N
+In newborns as well as adults, appears during the "deep sleep" stage.%N
+・θ (Theta) Wave, a.k.a. Theta Rhythm [Between 4 and 8 Hz]%N
+...Appears during REM sleep.%N
+・α (Alpha) Wave　[Between 8 and 13 Hz]%N
+...Appears when the brain is at rest.%N
+
+#EN#14
+They occur in the occipital lobe (at the rear of the brain) of a healthy adult at rest with closed eyes. Only rarely observed in the forebrain.%N
+These α waves disappear when the eyes are opened and their amplitude changes to that of β waves. This is because the visual cortex of the resting occipital lobe starts working when the eyes are opened.%N
+・β (Beta) Wave　[Between 13 and 30 Hz]%N
+...Appears during active thinking. %N
+
+#EN#15
+【Heuristic】%N
+One method for problem solving. Using trial and error to evaluate a group of potential choices until the right one is confirmed.%N
+%N
+【Nucleus】%N
+The core. An essential part of matter.
+

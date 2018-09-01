@@ -1,0 +1,83 @@
+TIP099
+涼蔭⑳穂鳥
+Suzukage Hotori
+paragraph_count:4
+init_addr:7e1c
+pc_index:TIP_108
+
+#PARAGRAPHS_JP:
+#JP#1
+;7e20;174;氏名：涼蔭⑳穂鳥／Suzukage Hotori（本物）%N
+性別：女%N
+年齢：19歳%N
+誕生日：1991年10月30日（Scorpio）%N
+血液型：Ａ型%N
+職業：予備校生%N
+知力：平均的%N
+体力：平均的%N
+協調性：平均的%N
+
+#JP#2
+;7e24;284;性格：内向的・物静か・繊細・人見知りする性格%N
+趣味：映画鑑賞（特に女性が主人公のもの）%N
+⑳音楽鑑賞・部屋の模様替え・一人旅%N
+好き：格好良い女性（憧れている）・整理整頓%N
+嫌い：眩しいところ・うるさいところ%N
+⑳散らかっていること%N
+設定：急性失語症に陥っている%N
+⑳（墜落のショックが原因）%N
+
+#JP#3
+;7e28;192;裏設定：航空機事故に遭遇し、%N
+⑳雪山をひとり彷徨い、%N
+⑳やがて、雪原の中で身動きがとれなくなる%N
+⑳発生した時空間転移現象により、%N
+⑳犬伏の肉体との間で転移を繰り返す%N
+⑳この設定は2011年のもの%N
+
+#JP#4
+;7e2c;148;主にスフィアサイドに登場。%N
+だが、劇中に登場する際の肉体は%N
+犬伏景子のものである。%N
+本来の肉体は雪原の中で倒れている。%N
+（悟視点の「穂鳥」は犬伏）%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+Full Name: Suzukage Hotori (the true Hotori)%N
+Sex: Female%N
+Age: 19%N
+Birthday: October 30th, 1991 (Scorpio)%N
+Blood Type: A%N
+Occupation: College preparatory school student%N
+Intelligence: Average%N
+Physical Strength: Average%N
+Cooperativeness: Average%N
+
+#EN#2
+Personality: Introverted, quiet, shy around strangers%N
+Hobbies: Film (especially titles with female leads) and music,
+rearranging her room, traveling alone%N
+Likes: Good-looking women (she admires them), keeping
+things tidy and in order%N
+Dislikes: Overly bright or noisy places, messy rooms%N
+Surface: Suffers from acute aphasia
+(due to the shock from the plane crash)%N
+
+#EN#3
+Beyond the Surface: After being caught in the plane crash, she
+wandered alone in the snowy mountains before
+eventually collapsing in the middle of a
+snowfield.%N
+Due to the space-time transfer phenomenon,
+her mind transfers in and out of Inubushi's
+body.%N
+This is her status as of 2011.%N
+
+#EN#4
+Suzukage Hotori mainly appears in the SPHIA side of the story.%N
+However, the body she resides in is Inubushi Keiko's.%N
+Her real body lies in the middle of a snow field.%N
+(The "Hotori" that Satoru sees is Inubushi.)
+

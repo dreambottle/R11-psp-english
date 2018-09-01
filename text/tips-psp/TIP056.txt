@@ -1,0 +1,40 @@
+TIP056
+箱の中に閉じこめられた猫
+The Cat Locked in the Box
+paragraph_count:2
+init_addr:7a24
+pc_index:TIP_061
+
+#PARAGRAPHS_JP:
+#JP#1
+;7a28;274;シュレディンガーの猫のこと。%N
+ボーアやハイゼンベルグらコペンハ−ゲン学派の%N
+確率論的世界観を批判した例え話。%N
+放射性物質が崩壊すると猛毒ガスが放出される%N
+箱の中に猫を入れるとする。%N
+コペンハ−ゲン学派によれば、%N
+放射線の放出というミクロの世界の現象は%N
+確率的であるという。%N
+
+#JP#2
+;7a2c;206;ならば、それによってひき起こされる猫の死さえも%N
+確率的になってしまう。%N
+猫がピンピン生きていても、%N
+例えば30％死んだ猫となる。%N
+愛らしい猫のパラドックスとして、%N
+量子力学の入門の格好のキーワードとなった。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+Refers to "Schrödinger's Cat," a thought experiment intended as a critique of quantum probability theories proposed by Bohr and Heisenberg (the so-called Copenhagen interpretation).%N
+Suppose that a cat was put in a box equipped with a mechanism that would emit poisonous gas if a certain radioactive material decays.%N
+According to the Copenhagen interpretation,%N
+the micro-world phenomena such as radioactive emission are probabilistic by nature.%N
+
+#EN#2
+Therefore, in this experiment, as it is caused by one such phenomenon, the life/death status of the cat itself ends up being probabilistic as well.%N
+This means the cat is both dead and alive at the same time.%N
+No certain conclusion to its state can be made until the box is open.%N
+The paradox embodied by that cute cat became one of the prime buzzwords of the era that marked the birth of quantum mechanics.
+

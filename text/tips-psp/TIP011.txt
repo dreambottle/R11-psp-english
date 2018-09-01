@@ -1,0 +1,21 @@
+TIP011
+性同一性障害
+Gender Identity Disorder
+paragraph_count:1
+init_addr:76c8
+pc_index:TIP_016
+
+#PARAGRAPHS_JP:
+#JP#1
+;76cc;206;Ｇｅｎｄｅｒ　Ｉｄｅｎｔｉｔｙ　Ｄｉｓｏｒｄｅｒ%N
+形態的には完全に正常で、自分の肉体が%N
+どちらの性に所属しているかを%N
+はっきり認知している一方、%N
+人格的には自分が別の性に所属していると%N
+確信している状態。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+A state in which a person's body is morphologically normal, but they feel that their physical sex is at odds with their gender, and consider themselves to be in actuality a member of the opposite sex.
+

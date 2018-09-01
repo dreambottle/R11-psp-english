@@ -1,0 +1,107 @@
+TIP049
+記憶移植
+Memory Transplant
+paragraph_count:6
+init_addr:7990
+pc_index:TIP_054
+
+#PARAGRAPHS_JP:
+#JP#1
+;7994;277;記憶喪失と記憶移植――。%N
+両者の差とはこういうことだ。%N
+例えば仮に、とある媒体Xに刷り込まれたABCDEF%N
+からなる連続した記憶（記録といってもいい）が%N
+あったとしよう。%N
+記憶喪失とは、簡単に言うと、%N
+このA〜Fの記憶のうち、BDFというものが欠落し、%N
+ACEしか思い出せない状態のことだ。%N
+
+#JP#2
+;7998;346;逆にここで言う記憶移植とは、まずまっさらな記憶%N
+『ゼロ』があり、そこにACEという記憶を%N
+埋め込まれた状態のことを指す。%N
+両者とも、ACEしか思い出せない%N
+という点においては共通だが、致命的な違いは%N
+『救いがあるかどうか』というところにある。%N
+記憶喪失では、XにはBDFが残っている%N
+可能性がある。%N
+だからもしかしたら、それらを再生できるかも%N
+知れない。%N
+
+#JP#3
+;799c;204;しかし記憶移植されたXには、%N
+初めからBDFなんてものは存在しないのだ。%N
+この場合には、新たに記憶を、随時追加して%N
+いかなければならない。%N
+さて、もしもオレのこの記憶内容が、%N
+移植されたものだとしたら……。%N
+
+#JP#4
+;79a0;294;その記憶ACEとは、本来誰のものだったの%N
+だろうか？%N
+『オレの意識』がオレのものであることに%N
+間違いはないが、『オレの記憶』だけは、%N
+オレではない何者かの所有物なのかも知れない。%N
+その何者かは、どんな経緯があったのかは%N
+知らないけれど、とにかくオレの内部にACEという%N
+限定された記憶を埋め込んだ。%N
+
+#JP#5
+;79a4;209;なぜA〜FではなくACEなのか……？%N
+どうしてBDFは移植しなかったのか……？%N
+もしかしたら……。%N
+移植しなかったのではなく、%N
+できなかった、のか……？%N
+その人物も、オレと同じようにBDFを%N
+知らないのではないか……？%N
+
+#JP#6
+;79a8;277;ACEという限定された知識だけしか%N
+持っていないのではないか……？%N
+だから、それだけしかオレの内部に刷り込むことが%N
+できなかった。%N
+オレは、彼の知り得る情報のみを知り得ていて、%N
+彼の知り得ない情報は%N
+知り得ないのかもしれない。%N
+オレの記憶と彼の記憶は同じ。%N
+……そんな気がした。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+Memory loss and memory transplantation——%N
+The difference between the two is as follows.%N
+Suppose that a given entity, X, has a contiguous memory (we may also call it a record) composed of ABCDEF.%N
+Memory loss, to put it simply, is a state wherein, for example, parts B, D, and F in the A〜F sequence are lost, and the only memories which can be recalled are ACE.%N
+
+#EN#2
+On the other hand, the memory transplant mentioned herein refers to a state where, for example, the memory parts A, C, and E are embedded into an initially empty, "zero" state memory.%N
+Both cases are similar in that X does not remember anything besides ACE; the crucial difference, however, lies in the question of "whether the 'rest' is recoverable or not."%N
+In the case of a memory loss, it is possible that X would still have parts B, D, and F residing somewhere in the mind.%N
+
+#EN#3
+Thus X might perhaps be able to recover these lost memories.%N
+On the other hand, if X had had these memories transplanted, then it would mean that BDF had never existed in the first place.%N
+In this case, X is left with no other alternative but to accumulate new memories over time.%N
+So then, if by any chance, this memory content of mine was transplanted....%N
+
+#EN#4
+Just whose ACE memories are these, I wonder?%N
+The fact remains that "my consciousness" belongs to me, but it is in fact possible that "my memory" is one that was originally someone else's and not mine.%N
+And that this someone had planted the ACE-reduced memories inside me, so that even I myself am not aware of how and why that happened exactly.%N
+
+#EN#5
+Why not A〜F, but ACE...?%N
+Why didn't they transplant BDF as well...?%N
+Could it be that...%N
+It's not that they didn't transplant them,%N
+but... that they couldn't?%N
+Could it be that, just like me, this other person lacks BDF?%N
+
+#EN#6
+Can I assume that this limited knowledge composed only of ACE was all that was available to this person?%N
+And that, therefore, it was for this reason that this person couldn't put any other memories inside me?%N
+It might be that I'm only able to know what this person knows, and if this person doesn't know something, neither can I.%N
+My memory and this person's memory are the same.%N
+......was what I thought.
+

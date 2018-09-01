@@ -1,0 +1,83 @@
+TIP075
+企業
+Business Enterprise
+paragraph_count:5
+init_addr:7b80
+pc_index:TIP_080
+
+#PARAGRAPHS_JP:
+#JP#1
+;7b84;274;日独合弁の製薬会社。%N
+本社はフランクフルトにあり、役員の大半も%N
+ドイツ人で占められている。%N
+国際的に有名な製薬メーカーであり、%N
+その資本は全世界に展開し、%N
+各国政府中枢との結びつきも非常に強い。%N
+その事業内容は製薬関係だけに留まらず、%N
+娯楽施設の運営等、多岐に渡っている。%N
+
+#JP#2
+;7b88;342;例えば、海洋テーマパーク『LeMU』の運営%N
+（正確にはLeMUを運営する『㈱LeMU』への出資）が%N
+それに相当する。%N
+また細菌研究においては、全世界でも１，２を争う%N
+研究施設を有していると言われている。%N
+だが、その企業には裏の顔がある。%N
+それは細菌兵器による軍事展開だ。%N
+致死性の高いウイルスとその特効薬の開発により%N
+各国から莫大な富を得ているらしい。%N
+
+#JP#3
+;7b8c;266;さて、細菌研究ばかりに暗部を抱えているように%N
+思われがちだが、%N
+製薬会社という体制が示すとおり、%N
+薬品研究の方面でも非人道的な研究が%N
+行われている。%N
+人権を無視した人体実験や、非合法な薬品の%N
+研究・開発・調合・精製、裏社会を通じての%N
+ドラッグのマーケット展開……。%N
+
+#JP#4
+;7b90;220;また、ある情報筋によれば、最近、%N
+ある重化学企業と提携し、%N
+長距離ミサイルの研究にも着手したとか。%N
+情報工学や量子物理学の研究・開発に熱心%N
+なのは、それもすべて軍事方面へ転用するための%N
+投資であると言えるのかも知れない。
+
+#JP#5
+;7b94;138;つまりは、%N
+この企業の悪行を挙げればキリがないのである。%N
+悪名高き製薬会社――%N
+しかしそれは、世界におけるごく一部の闇に%N
+過ぎないのだ。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+A joint Japanese-German pharmaceutical company.%N
+Its head office is in Frankfurt and the majority of its staff are German.%N
+An internationally renowned drug manufacturer, its capital is generated worldwide, and it has very strong ties with the governments of several countries.%N
+The company's area of expertise isn't limited to the pharmaceutical sector, but includes a wide range of business endeavors, such as the management%N
+of recreational facilities and so on.%N
+
+#EN#2
+An example of this would be an ocean theme park called LeMU which the company manages (strictly speaking, they provide funding to "LeMU Ltd.," the park management organization).%N
+Additionally, regarding their microorganism research, it is said that the company owns one of the top research facilities in the field. However, this business enterprise has a hidden agenda.%N
+They are, in fact, developing biological weapons for military purposes.%N
+
+#EN#3
+It seems that the company is amassing huge amounts of capital from several countries for the purpose of developing highly lethal viruses and their respective cures.%N
+It might seem as though this microorganism research is the extent of the company's hidden dark side, but in fact, as suggested by its public face as a company specializing in the field of pharmaceuticals, much of their medical research is conducted using inhumane practices.%N
+
+#EN#4
+Among their activities are using human test subjects without any regard to basic civil rights; the research, development, synthesis, and refinement of illegal drugs; expanding profit by trafficking their drugs on the black market....%N
+Furthermore, according to certain sources, the company has recently ventured into the area of long-range missile development as a result of its ties with a certain heavy chemical enterprise.%N
+
+#EN#5
+In fact, their deep involvement with information engineering and quantum physics-related research projects would perhaps best be explained as an investment for the sole purpose of subsequent adoption of technologies developed thereof into military use.%N
+In short,%N
+it would take ages to even try and enumerate all of their wrongdoings.%N
+A pharmaceutical company with a reputation this bad——%N
+and yet, this is merely a glimpse of all the darkness the world possesses.
+

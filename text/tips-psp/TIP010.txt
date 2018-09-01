@@ -1,0 +1,19 @@
+TIP010
+アンドロギュノス
+Androgynous
+paragraph_count:1
+init_addr:76b8
+pc_index:TIP_015
+
+#PARAGRAPHS_JP:
+#JP#1
+;76bc;86;ａｎｄｒｏｇｙｎｏｕｓ%N
+ギリシャ語。両性具有（者）の意。%N
+男女両性を兼ね備えた存在。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+From the Greek, meaning one (a person) who possesses both sexes.%N
+An existence that is a combination of both the male and female sex.
+

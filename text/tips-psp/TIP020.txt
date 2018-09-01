@@ -1,0 +1,18 @@
+TIP020
+クライアント
+Client
+paragraph_count:1
+init_addr:778c
+pc_index:TIP_025
+
+#PARAGRAPHS_JP:
+#JP#1
+;7790;104;接続されている２台以上のコンピューターのうち、%N
+ホストコンピューターから指示を受ける側の%N
+端末を指す。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+In a system consisting of two or more interconnected computers, the client is a terminal that receives commands from the host computer.
+

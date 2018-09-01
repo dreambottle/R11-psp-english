@@ -1,0 +1,56 @@
+TIP055
+私はカモメ
+I'm a Seagull
+paragraph_count:3
+init_addr:7a0c
+pc_index:TIP_060
+
+#PARAGRAPHS_JP:
+#JP#1
+;7a10;126;こころは『私はカモメ』という言葉を%N
+『素敵な表現だ』と言った。%N
+しかし実際には、これはたいして感動するような%N
+言葉ではない。%N
+
+#JP#2
+;7a14;344;ロシア語で、カモメのことを『チャイカ』という。%N
+そして『チャイカ』というのは、ボストーク６号の%N
+コールサイン、ニックネームみたいなものだった。%N
+つまり、%N
+『こちらアポロ、こちらアポロ、ヒューストン、%N
+⑳応答願います』%N
+というのと同じような意味で、%N
+テレシコワは%N
+『こちらカモメ、こちらカモメ』と、%N
+管制塔に向かって送信しただけだったのである。%N
+
+#JP#3
+;7a18;346;これが日本語に訳されるときに誤まって%N
+『私はカモメ』とされてしまったために、%N
+日本では、あたかもテレシコワが宇宙空間を漂う%N
+自分を詩的に表現したかのごとく広まって%N
+しまった。%N
+ちなみにガガーリンの乗ったボストーク１号は%N
+『ケードル＝杉の木』と呼ばれていた。%N
+もしもこれが６号のコールサインだったとしたら、%N
+誤訳されることはなかったかも知れない。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+Kokoro had said that these are "beautiful words."%N
+However, in reality, this phrase is not exactly something one should be very awestruck by.%N
+
+#EN#2
+"Seagull" in Russian would be "chayka."%N
+And incidentally, "Chayka" was also the call sign, something akin to a nickname, of Vostok 6.%N
+In other words, just as an astronaut on one of the Apollo spacecraft missions would contact the command center:%N
+"This is Apollo, this is Apollo, Houston, do you copy?"%N
+Tereshkova had contacted the respective command center for the Vostok 6 with%N
+"This is Seagull, this is Seagull."%N
+
+#EN#3
+When this phrase was translated into Japanese, it was mistakenly translated as 『私はカモメ』, i.e. "I am a seagull." As a result, it became widely known in Japan as Tereshkova's poetic description of herself floating in the void of space.%N
+An interesting fact to note: the Vostok 1 that Gagarin piloted was called "Kedr" - "Cedar."%N
+If that name was used as the call sign of Vostok 6, perhaps such a mistranslation would not have occurred.
+

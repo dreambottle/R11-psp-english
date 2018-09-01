@@ -1,0 +1,23 @@
+TIP044
+雪庇／せっぴ
+Snow Cornice
+paragraph_count:1
+init_addr:793c
+pc_index:TIP_049
+
+#PARAGRAPHS_JP:
+#JP#1
+;7940;169;稜線上の風下側にできる大きな雪のひさし。%N
+大きなものは10m以上にもなる。%N
+雪庇の内部は雪だけだからもろく、%N
+人が乗ると崩れる。どこまでが本来の稜線か%N
+区別がつきにくい。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+A large overhanging edge of snow on the leeward side of a mountain ridge.%N
+Larger ones can be in excess of ten meters.%N
+Since the inside of a cornice is composed entirely of snow, it will collapse if trodden on by a human.%N
+The presence of snow cornices make it very difficult to tell where the actual ridge ends.
+

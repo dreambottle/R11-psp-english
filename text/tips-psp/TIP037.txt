@@ -1,0 +1,27 @@
+TIP037
+ＤＳＭ−Ⅳ
+DSM-IV
+paragraph_count:1
+init_addr:78ac
+pc_index:TIP_042
+
+#PARAGRAPHS_JP:
+#JP#1
+;78b0;326;1994年発行のＤＳＭ第４版。%N
+このＤＳＭ−Ⅳにおいて、%N
+それまで多重人格症と呼ばれていた症例が、%N
+乖離性同一性障害と名称を改められた。%N
+これによって、ＤＩＤという病気が『誕生』した。%N
+ちなみに、乖離性同一性障害は、正式には%N
+解離性同一性障害と書く。%N
+ＤＳＭ日本語訳においては、解離性同一性障害%N
+という語が当てられたためである。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+The fourth revision of the DSM, published in 1994. In this edition, the name of the illness formerly called multiple personality disorder was changed to dissociative identity disorder.%N
+It was there that the illness called DID was "born."%N
+Incidentally, dissociative personality disorder is still referred to as multiple personality disorder in other official writings, such as the ICD-10.%N
+In the Japanese edition of the DSM, the latter term is used.
+

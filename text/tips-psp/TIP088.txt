@@ -1,0 +1,47 @@
+TIP088
+ｉｎｆｉｎｉｔｙ
+Infinity
+paragraph_count:3
+init_addr:7cb4
+pc_index:TIP_097
+
+#PARAGRAPHS_JP:
+#JP#1
+;7cb8;138;インフィニティ／ｉｎｆｉｎｉｔｙ%N
+１⑳：⑳――無限、無限大。%N
+⑳⑳　　　限りがないこと。どこまでも続くこと。%N
+⑳⑳　　　また、その様子。%N
+
+#JP#2
+;7cbc;230;２⑳：⑳インフィニティ・シリーズ%N
+%N
+2000.3.23　infinity%N
+2000.11.23　infinity〜Cure〜%N
+2000.12.21　Never7-the⑳end⑳of⑳infinity-%N
+2002.8.29　Ever17-the⑳out⑳of⑳infinity-%N
+2004.3.18　Remember11-the⑳age⑳of⑳infinity-%N
+．．．and
+
+#JP#3
+;7cc0;34;“infinity”シリーズは永遠に続く。
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+1. Limitless, endless.%N
+   Something that is without limit. Something that continues endlessly.%N
+   And so on.%N
+
+#EN#2
+2. Infinity Series%N
+
+#EN#3
+2000．3．23　infinity%N
+2000．11．23　infinity 〜Cure〜%N
+2000．12．21　Never7 -the end of infinity-%N
+2002．8．29　　Ever17 -the out of infinity-%N
+2004．3．18　　Remember11 -the age of infinity-%N
+... and%N
+%N
+the "infinity" series will go on forever.%N
+

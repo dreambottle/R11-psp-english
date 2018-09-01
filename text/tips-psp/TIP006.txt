@@ -1,0 +1,18 @@
+TIP006
+ラッセル
+Russell
+paragraph_count:1
+init_addr:7674
+pc_index:TIP_009
+
+#PARAGRAPHS_JP:
+#JP#1
+;7678;58;深い雪をかき分けて、道を作りながら進むこと。%N
+登山用語。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+To push through deep layers of snow, creating a path while moving forward.%N
+A mountain-climbing term.
+

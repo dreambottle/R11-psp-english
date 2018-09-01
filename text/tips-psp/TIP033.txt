@@ -1,0 +1,23 @@
+TIP033
+ロンブローゾ
+Lombroso
+paragraph_count:1
+init_addr:7868
+pc_index:TIP_038
+
+#PARAGRAPHS_JP:
+#JP#1
+;786c;194;イタリアの解剖学者。%N
+犯罪人には、その犯行形態により特定の%N
+身体的特徴があると考える、犯罪人類学を興し、%N
+それを元に『犯罪人論』を記した。%N
+だが、その考えは今では誤りだったと考えられて%N
+いる。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+Italian anatomist.%N
+Believed that the different types of crimes committed by each criminal corresponded to specific physical traits; also had an interest in the different types of criminals, which is now remembered as the source of modern criminology.%N
+However, his theories are now thought to be incorrect.
+

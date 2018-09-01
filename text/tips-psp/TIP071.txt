@@ -1,0 +1,32 @@
+TIP071
+量子ビット
+Quantum Bit
+paragraph_count:2
+init_addr:7b3c
+pc_index:TIP_076
+
+#PARAGRAPHS_JP:
+#JP#1
+;7b40;277;2003年現在で主流になっているコンピューター%N
+（ノイマン型コンピューター）で使われている%N
+古典ビット（０と１――OFFかONか――の２進数で%N
+表わされる情報）にとって代わる新たな情報量を%N
+示す単位。%N
+「０」と「１」を重ね合わせた物理状態%N
+（量子重ね合わせ状態）を演算単位として使う。%N
+
+#JP#2
+;7b44;147;キュービットとも呼ばれる。%N
+これを利用したコンピューターは%N
+%TS072量子コンピューター%TEと呼ばれ、%N
+超高速な計算（超並列計算）を行うことができる。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+Refers to a new unit of information content, different from the classical bit (information represented by a binary digit, 0, off, or 1, on) used in modern computers (von Neumann machines).%N
+A physical state in which "0" and "1" overlap (a quantum superposition) is treated as an operational unit.%N
+
+#EN#2
+Also known as a qubit. Computers that use them are called %TS072quantum computers%TE, and are capable of carrying out very fast calculations (massively parallel computation).
+

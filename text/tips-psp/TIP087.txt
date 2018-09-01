@@ -1,0 +1,43 @@
+TIP087
+最終レベル
+The Final Level
+paragraph_count:2
+init_addr:7ca0
+pc_index:TIP_092
+
+#PARAGRAPHS_JP:
+#JP#1
+;7ca4;216;それは『彼ら』の企てた計画を%N
+最終形に導くための行為。%N
+それは『彼ら』が求めた真実へと導く、%N
+最後の一手。%N
+それは『彼ら』がアイツに出会うために必要な、%N
+最終の手段。%N
+それが行われたとき――%N
+世界は大変貌を遂げる。%N
+
+#JP#2
+;7ca8;187;それが行われたとき――%N
+仮初めの世界――⑳『Imaginary』は失われ……%N
+世界の架橋――⑳『Symbolic』を経て……%N
+真理の世界――⑳『Real』は姿を現わす。%N
+『第３の眼』の開眼とともに――――。%N
+
+
+#PARAGRAPHS_TRANSLATED:
+#EN#1
+It is the level to which the plan "they" devised will move as it transitions into its final stage.%N
+The final move%N
+that will lead to the truth "they" have wished for.%N
+The final measure necessary%N
+for "them" to meet "That Guy."%N
+When it is executed——%N
+The world will undergo a great transfiguration.%N
+
+#EN#2
+When it is executed——%N
+The transient world—— "Imaginary" is lost...%N
+The bridge of the world—— "Symbolic" is crossed...%N
+The true world—— "Real" will reveal its shape.%N
+Together with the awakening of the "Third Eye"————
+
