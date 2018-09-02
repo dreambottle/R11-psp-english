@@ -72,39 +72,64 @@ pc_index:TIP_043
 #EN#1
 alias: ambulatory schizophrenia, preschizophrenia, schizotypal disorder%N
 For a patient to be diagnosed with borderline personality disorder, they must display symptoms matching five or more of the following criteria.%N
- 1) Inability to distinguish fantasy from reality.%N
- 2) A pattern of unstable and intense interpersonal relationships.%N
- 3) Identity disturbance: markedly and persistently unstable self-image or sense of self.%N
+1) Inability to distinguish fantasy from reality.%N
+2) A pattern of unstable and intense interpersonal relationships.%N
+3) Identity disturbance: markedly and persistently unstable self-image or sense of self.%N
 
 #EN#2
- 4) Feelings of disconnection from reality.%N
- 5) Recurrent suicidal behavior, gestures, threats or self-injuring behavior.%N
- 6) Chronic feelings of emptiness.%N
- 7) Marked affective instability due to a marked reactivity of mood.%N
- 8) Inappropriate anger or difficulty controlling anger.%N
- 9) Transient, stress-related paranoid ideation, delusions or severe dissociative symptoms.%N
- 10) Frantic efforts to avoid real or imagined abandonment.%N
+4) Feelings of disconnection from reality.%N
+5) Recurrent suicidal behavior, gestures, threats or self-injuring behavior.%N
+6) Chronic feelings of emptiness.%N
+7) Marked affective instability due to a marked reactivity of mood.%N
+8) Inappropriate anger or difficulty controlling anger.%N
+9) Transient, stress-related paranoid ideation, delusions or severe dissociative symptoms.%N
+10) Frantic efforts to avoid real or imagined abandonment.%N
 
 #EN#3
-Additionally, impulsivity in at least two areas that may be self-damaging, including:%N
- 1) impulsive spending%N
- 2) promiscuous sex%N
- 3) substance abuse%N
- 4) reckless driving%N
- 5) binge eating%N
-　　　are observed.%N
+Additionally, impulsivity in at least two areas that may be
+self-damaging, including:%N
+1) impulsive spending%N
+2) promiscuous sex%N
+3) substance abuse%N
+4) reckless driving%N
+5) binge eating%N
+    are observed.%N
+A borderline personality disorder sufferer's personal
+relationships, self-image, emotional stability, and
 
 #EN#4
-A borderline personality disorder sufferer's personal relationships, self-image, emotional stability, and particularly indulgence in impulsive acts are heavily influenced and impaired by the disorder, with the onset of symptoms typically occurring during adolescence or young adulthood.%N
-Though said to be a severe impairment to normal life, relatively few of the symptoms are detected by most people.
+particularly indulgence in impulsive acts are heavily
+influenced and impaired by the disorder, with the onset
+of symptoms typically occurring during adolescence or
+young adulthood.%N
+Though said to be a severe impairment to normal life,
+relatively few of the symptoms are detected by most
+people.%N
+It is characterized by fluctuating emotional states and
+abnormal outbursts of anger or violence.%N
+Furthermore, many sufferers show frantic attempts to
+avoid abandonment.
 
 #EN#5
-It is characterized by fluctuating emotional states and abnormal outbursts of anger or violence.%N
-Furthermore, many sufferers show frantic attempts to avoid abandonment. This feeling often manifests itself in the form of self-harm behaviors.%N
-Sufferers often report having a foggy mental state, being unable to perceive things clearly, or feeling as if they will go to pieces, as well as feeling lost and unsure of their own identity.
+This feeling often manifests itself in
+the form of self-harm behaviors.%N
+Sufferers often report having a foggy mental state,
+being unable to perceive things clearly, or feeling as if
+they will go to pieces, as well as feeling lost and unsure
+of their own identity.%N
+Moreover, many say that this feeling of having no self-control
+is what leads them to start self-injuring.%N
+Individuals with borderline personality disorder tend to
+view the world in black and white,
 
 #EN#6
-Moreover, many say that this feeling of having no self-control is what leads them to start self-injuring.%N
-Individuals with borderline personality disorder tend to view the world in black and white, with all people viewed strictly as either enemy or ally; if they think an ally is in danger of leaving them, many individuals will become anxious and deliberately harm themselves or otherwise cause trouble in an effort to get the ally to stay.%N
-However, it is important to remember that the individual is not doing these things because they want to, and as with many other similar illnesses of "the heart," their behavior does not reflect their true personality.
+with all people viewed
+strictly as either enemy or ally; if they think an ally
+is in danger of leaving them, many individuals will become
+anxious and deliberately harm themselves or otherwise
+cause trouble in an effort to get the ally to stay.%N
+However, it is important to remember that the individual
+is not doing these things because they want to, and as
+with many other similar illnesses of "the heart," their
+behavior does not reflect their true personality.
 

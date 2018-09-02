@@ -281,7 +281,7 @@ Save data for%%N『Remember11 -the age of infinity-』%%Nis not present on Memory 
 ;;47;このままゲームを開始してもよろしいですか？%%N
 
 ;;31;%%Sはい%%n⑳／⑳%%n%%Sいいえ
-
+%%SYes%%n  ／  %%n%%SNo
 ;;155;メモリースティック⑱に%%N『Remember11 -the age of infinity-』の%%Nセーブに必要な空き容量がありませんでした%%Nセーブには%sＫＢ以上の空き容量が必要です%%N
 
 ;;47;メモリースティック⑱が%%N挿入されていません%%N
@@ -329,7 +329,7 @@ Do you want to overwrite?%%N%%SYes%%n  /  %%n%%SNo
 ;;59;このデータをロードしますか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
 Do you want to load this data?%%N%%SYes%%n  /  %%n%%SNo
 ;;111;クイックセーブを初期化しますか？%%N（ロックされているデータは初期化されません）%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
-
+クイックセーブを初期化しますか？%%N（ロックされているデータは初期化されません）%%N%%SYes%%n  ／  %%n%%SNo
 ;;11;セーブ完了
 Saved
 ;;11;ロード完了
