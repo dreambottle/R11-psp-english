@@ -123,12 +123,12 @@ def main():
     print("Overflows found: %s"%(overflows))
     print("Merging translated TIPS lines with init.psp.txt file")
   
-  f_tips = open(mergewith, "r+b")
+  f_tips = open(mergewith, "rb")
   tips_inittxt_lines = f_tips.readlines()
   f_tips.close()
   
   # Hardcode. Change this if required
-  tips_start = 7343 #line, starting from 0
+  tips_start = 7372 #line, starting from 0
   # tips_end = 8110
   
   # current line pointer
@@ -140,7 +140,7 @@ def main():
 
     if (not tips_inittxt_lines[cur].endswith(tip.jpname.encode("shift_jis_2004")+b'\n')):
       print("Mismatch!", tip.jpname, "not found, instead got:", tips_inittxt_lines[cur].decode("shift_jis_2004"))
-      break
+      exit()
 
     # if convert2dir:
     #   jp_title_line = tips_inittxt_lines[cur].decode("shift_jis_2004")
