@@ -17,13 +17,13 @@ Scenes: Ported - But text overflows the text box in some places. (Move the text 
 <br>
 Shortcuts (init.bin): Ported.
 <br>
-TIPS (init.bin): Ported, but with bugs - there's too much English text in some of the tips. Those will either have unreadable parts, or crash the game.
+TIPS (init.bin): Ported. Starting from version 2, crashes are fixed.
 <br>
 Names (init.bin): Ported.
 <br>
 Chronology (init.bin): Not ported.
 <br>
-Menus (BOOT.BIN): Partial. Need translation help here, because text is different from the PC version. HOME menu - Done.
+Menus (BOOT.BIN): Partial. Need help with translation here, because text is different from the PC version. HOME menu - Done.
 <br>
 Font (FONT00.FOP): Tweaked for English text. Reduced width a bit. EN glyphs are brightened and sharpened.
 
@@ -36,7 +36,7 @@ I want to release a similar patch and sources of the tools for Ever 17 for Engli
 For Developers
 -----------
 
-[Babun](http://babun.github.io/) (Windows/Cygwin) environment was used for developing and running this, but should work on linux/mac as well.
+This project contains a bunch of scripts and programs written in shell script, python3 and C, which automate the process of applying translation. I ran this on macos, but should work on linux as well.
 
 1. Put the Remember11 iso at `iso/Remember11-jap.iso`
 
@@ -44,7 +44,11 @@ For Developers
 
 3. Result iso will be at `iso/remember11-repacked.iso`
 
-Tip: If you make any changes to the text or other resources, run ./repack-all.sh script to skip the "unpacking" phase.
+Afterwards, `./generate-patches.sh` can be run in order to generate xdelta3 diff files.
+
+For further details, read the contents of shell scripts (and other source files).
+
+Tip: After you've made changes to the text or other resources, run `./repack-all.sh` script to skip the "unpacking" phase and repack changes.
 
 ##### Dependencies:
 
@@ -52,9 +56,8 @@ The following tools should be available on your PATH:
 
 `7z mkisofs gcc python3`
 
-`mkisofs` is a part of `cdrtools` package (google it).
+- `mkisofs` is a part of `cdrtools` package - google it.
 
+- Brew command for macos: `brew install p7zip cdrtools python3`
 
-##### Brew command for mac:
-
-`brew install p7zip cdrtools python3`
+- Last tested to be working with python v3.7.0
