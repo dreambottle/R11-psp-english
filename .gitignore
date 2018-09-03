@@ -16,6 +16,8 @@
 /iso/*.dax
 /iso/*.cso
 
+/patches/
+
 /*.exe
 /*.dll
 /*.DUMP

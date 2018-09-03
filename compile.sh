@@ -1,7 +1,7 @@
 #!/bin/bash
 SRC=./src
 
-CFLAGS="-std=c99"
+CFLAGS="-std=c99 -O2"
 
 mkdir -p bin
 gcc $CFLAGS -o bin/extract_scene_text $SRC/extract_scene_text.c || exit 1;
