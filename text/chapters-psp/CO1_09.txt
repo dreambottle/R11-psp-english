@@ -471,7 +471,7 @@ Now... I can finally join you...
 
 
 %LC「（お父さん……お父さん……）」%K%P
-Dad... Dad...
+(Dad... Dad...)
 
 そのときふと、声を聞いたような気がした。%K%N
 Right then, I thought I heard a voice.
@@ -482,7 +482,7 @@ A voice I'd heard so often, but now thought I'd never hear again.
 %N%N%N%N
 
 
-%LC（お父さん……お父さん……）%K%P
+%LC「（お父さん……お父さん……）」%K%P
 (Dad... Dad...)
 
 幻だということはわかっていた。%K%N
@@ -503,13 +503,13 @@ Junichi! Junichi, is that you...?
 %N%N%N%N
 
 
-%LC（お父さん！　こっち！　こっちだよ！）%K%P
+%LC「（お父さん！　こっち！　こっちだよ！）」%K%P
 (Dad! Here! Here!)
 
 %N%N%N%N
 
 
-%LC（こっちに山小屋があるんだ！　見つけたんだよ！）%K%P
+%LC「（こっちに山小屋があるんだ！　見つけたんだよ！）」%K%P
 (There's a mountain cabin here! I found it!)
 
 気がつくと、僕の前にはひとりの少年が立っていた。%K%P

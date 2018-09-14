@@ -268,7 +268,7 @@ Shocked, the doctor knelt down and firmly covered the patient's neck with his ha
 Male patient
 
 %X050「影だ……」%K%P
-"The shadow..."
+The shadow...
 
 %N%N%N%N
 
@@ -277,7 +277,7 @@ Male patient
 Male patient
 
 %X050「影が……来たんだ……」%K%N
-"The shadow... has come..."
+The shadow... has come...
 
 %N%N
 
@@ -344,7 +344,7 @@ Right before her arrest, "she" had muttered something as she dropped her blood-s
 %N%N%N%N%N
 
 %FS%LC%C777A「セルフはどこ？」%FE%K%O
-"Where is "Self"?"
+Where is "Self"?
 
 これが、阿波墨市立病院無差別殺傷事件の経緯だ。%K%P
 Those were the details of the Awazumi Municipal Hospital Indiscriminate Murder Case.

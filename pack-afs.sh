@@ -20,7 +20,6 @@ repack_mac_afs () {
 		$COMPRESS ./mac-en/$1.{SCN,BIP}
 	}
 
-	START=$(date +%s.%N)
 	mkdir -p mac-en/
 	
 	./text/apply-shortcuts-translation.py text/other-psp/SHORTCUT.SCN.psp.txt mac/SHORTCUT.SCN mac-en/SHORTCUT.SCN || exit 1;
@@ -28,12 +27,10 @@ repack_mac_afs () {
 	
 	for i in text/mac-combined-psp/*.txt ; do
 		echo Repacking $i
-		repack_scene `basename $i .txt` & WAITPIDS="$! "$WAITPIDS
+		repack_scene `basename $i .txt` #& WAITPIDS="$! "$WAITPIDS
 	done
-	wait $WAITPIDS &> /dev/null
-	END=$(date +%s.%N)
-	DIFF=$(echo "$END - $START" | bc)
-	echo "Finished repacking scenes in: "$DIFF
+	# wait $WAITPIDS &> /dev/null
+	echo "Finished repacking scenes"
 
 	$REPACK_AFS $WORKDIR/mac.afs $WORKDIR/mac-repacked.afs ./mac-en || exit 1;
 	mv -f $WORKDIR/mac-repacked.afs $ISO_RES_DIR/mac.afs
@@ -89,7 +86,6 @@ patch_boot_bin () {
 	rm -f $ISO_BIN_DIR/EBOOT.BIN
 	cp -f $WORKDIR/BOOT.BIN.patched ./$ISO_BIN_DIR/EBOOT.BIN
 	cp -f $WORKDIR/BOOT.BIN.patched ./$ISO_BIN_DIR/BOOT.BIN
-	#cp -f $WORKDIR/BOOT.bin $ISO_BIN_DIR/BOOT.BIN #unnecessary
 }
 
 # Actually running above functions

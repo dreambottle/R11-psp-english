@@ -330,7 +330,7 @@ Include the matter of the terabyte disk and it really makes me think that it's n
 3: My amnesia――
 
 「今のあなたは９０分前に初めてこの世界に産声をあげた、特殊な存在なのかも知れないわ」%K%N
-"The current you, the one I'm talking to, is a special existence, one that gave its first birth cry a mere 90 minutes ago."
+The current you, the one I'm talking to, is a special existence, one that gave its first birth cry a mere 90 minutes ago.
 
 ゆうべ内海はそう言った。%K%N
 Utsumi said that yesterday evening.
@@ -441,7 +441,7 @@ Was she trying to kill herself or something...?
 After pondering for a while....
 
 「まさかな……」%K%N
-"There's no way..."
+There's no way...
 
 良からぬ考えを振り払うことにした。%K%N
 I discarded that bad idea as though shaking it off myself.
@@ -450,10 +450,10 @@ I discarded that bad idea as though shaking it off myself.
 Well then, if it wasn't a suicide attempt....
 
 「他殺……？」%K%N
-"Murder...?"
+Murder...?
 
 「殺人未遂、か……？」%K%P
-"Attempted murder...?"
+Attempted murder...?
 
 そう言えば、あのとき聞こえたドアの音……。%K%N
 Come to think of it, the sound of the door closing I heard back then....

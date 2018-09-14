@@ -216,10 +216,10 @@ Mayuzumi has the wrong idea.
 You're wrong...!
 
 「私達はあなたとは違う」
-"We're not like you!"
+We're not like you!
 
 「これは私達３人分の食糧です」
-"This is the three of ours combined!"
+This is the three of ours combined!
 
 こころ「私達はあなたとは違う」%K%P
 We're not like you.

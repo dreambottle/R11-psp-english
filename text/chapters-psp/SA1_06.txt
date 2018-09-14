@@ -867,22 +867,22 @@ When I tried to deceive her with the name of a person she knew, as a matter of c
 In her own words....
 
 「ええ、確かに最初は驚いたわ」%K%N
-"Yes, it certainly was a shock at first."
+Yes, it certainly was a shock at first.
 
 「驚いて、あなたが嘘をついていると思って……」%K%N
-"Although "shock" is rather an understatement. I really did think you were lying..."
+Although "shock" is rather an understatement. I really did think you were lying...
 
 「それで、思わず平手打ちまでしてしまった」%K%N
-"And then I instinctively slapped you."
+And then I instinctively slapped you.
 
 「私がさっき謝ったのは、だからなの」%K%N
-"My apology a little while ago was for that."
+My apology a little while ago was for that.
 
 「誤解してたのよ、優希堂くんのことを……」%K%N
-"I was mistaken about you, Yukidoh-kun..."
+I was mistaken about you, Yukidoh-kun...
 
 「だから、ごめんなさいって……」%K%P
-"Therefore, I'm sorry..."
+Therefore, I'm sorry...
 
 しかし今は、その疑念は晴れたのだと言う。%K%N
 However, she said it doesn't bother her anymore.
@@ -900,46 +900,46 @@ It also seems that Utsumi knew I'd gone out with Lin thanks to a mysterious docu
 This is how she put it:
 
 「優希堂くんは、心の奥深いところで、まだ黛さんのことを強く強く想っているのよ」%K%N
-"Yukidoh-kun, deep within your heart, you still feel strongly for Mayuzumi-san."
+Yukidoh-kun, deep within your heart, you still feel strongly for Mayuzumi-san.
 
 「でも、彼女はもうこの世界には存在しない」%K%N
-"But she has long since left this world."
+But she has long since left this world.
 
 「去年の１月１７日に亡くなってしまった」%K%N
-"She died on the 17th of January last year."
+She died on the 17th of January last year.
 
 「その現実を受け入れるのが嫌だから、認めたくないから……」%K%N
-"It's painful to accept such a reality, so you try not to admit it..."
+It's painful to accept such a reality, so you try not to admit it...
 
 「だから優希堂くんは、黛さんの存在する世界を、歴史を、少なくとも自分の中でだけは成立させようと考えたんだと思う」%K%P
-"But inside yourself, the thought of bringing about a world where Mayuzumi-san is still alive, even if it was just within you, lives on."
+But inside yourself, the thought of bringing about a world where Mayuzumi-san is still alive, even if it was just within you, lives on.
 
 「けれど、それをする為には、黛さん自身の人格を創出しても意味がない」%K%N
-"However, creating an image of her in your mind just won't do for you."
+However, creating an image of her in your mind just won't do for you.
 
 「なぜならあなたの目的は、空想としての彼女を生み出すことではなかったから」%K%N
-"Thus, your purpose isn't to conjure up such an image."
+Thus, your purpose isn't to conjure up such an image.
 
 「『黛さんが生存している』という、いわば歴史的に見れば偽りの現実を……」%K%N
-"But a false reality, so to speak, where it's a fact that "Mayuzumi-san is alive"..."
+But a false reality, so to speak, where it's a fact that "Mayuzumi-san is alive"...
 
 「あなたはできる限り合理的に、整合性のあるものとして、自身の内部に再現したいと考えたのよ」%K%N
-"So, trying to be as logical and consistent as you could, you desperately tried to produce this world within your mind."
+So, trying to be as logical and consistent as you could, you desperately tried to produce this world within your mind.
 
 「自分自身をだますために……説得力を持たせるために……」%K%P
-"To cheat yourself... to make it believable..."
+To cheat yourself... to make it believable...
 
 「そこで、黛さんでもなく、優希堂くんでもない、第三者の人格が求められることになった」%K%N
-"You sought out and found a third personality. Not Mayuzumi-san, nor yourself."
+You sought out and found a third personality. Not Mayuzumi-san, nor yourself.
 
 「その場合、歴史を変えるのに最も適した人物とは誰か……？」%K%N
-"So who would you choose? ...Someone who could perhaps be able to change this sad reality."
+So who would you choose? ...Someone who could perhaps be able to change this sad reality.
 
 「一番簡単なのは、雪崩に巻き込まれた残り２名のうちのいずれかに成り代わることだった」%K%N
-"It would be easiest for you to take on the role of one of the other survivors who was caught in the avalanche. It didn't matter who."
+It would be easiest for you to take on the role of one of the other survivors who was caught in the avalanche. It didn't matter who.
 
 「そこで選ばれたのが……」%K%P
-"And the one you chose was..."
+And the one you chose was...
 
 冬川こころだった、ということらしい。%K%N
 Fuyukawa Kokoro, it seems.
@@ -1104,13 +1104,13 @@ The only possibilities that sprung to mind were that I was a patient here, or a 
 When I asked Utsumi about this....
 
 「あなたはここのスタッフだったはずよ」%K%N
-"You must have been a member of staff."
+You must have been a member of staff.
 
 「でも、今は確信が持てなくなってしまったわ」%K%N
-"But I'm not sure anymore."
+But I'm not sure anymore.
 
 「もしかしたら、あなたは最初から、ここの患者だったのかも知れない」%K%N
-"Perhaps you've been a patient here from the start."
+Perhaps you've been a patient here from the start.
 
 そんなふうに、余計混乱させるようなことを彼女は言った。%K%P
 Just like that, she said something that only added to my unnecessary confusion.
@@ -1131,7 +1131,7 @@ Why is Utsumi in SPHIA?
 The way she put it was....
 
 「私は精神科の医師として、ここで働いてるのよ」%K%N
-"I'm working here as a psychiatrist."
+I'm working here as a psychiatrist.
 
 と言ったが、いまひとつ信憑性に欠けた。%K%N
 ...But those words now lacked credibility.
@@ -1348,34 +1348,34 @@ Is it really alright to have such kind of absurd memory loss?
 Utsumi had this to say.
 
 「確かに、一般的な記憶障害とは明らかに異なるわね」%K%N
-"Your condition certainly differs from typical amnesia."
+Your condition certainly differs from typical amnesia.
  
 「私も、あなたのような症例は見たことがないからよくわからないけど……」%K%N
-"And it's nothing I've ever seen before, so I really can't tell..."
+And it's nothing I've ever seen before, so I really can't tell...
 
 「でも、もしかしたら……」%K%N
-"But, perhaps..."
+But, perhaps...
 
 「今のあなたという存在は、優希堂くんの中に生まれた最も新しい別の人格なのかも知れない」%K%N
-"Your existence right now may be the result of a brand new personality born within your body."
+Your existence right now may be the result of a brand new personality born within your body.
 
 「そう考えてみれば、過去の記憶がないことについても説明できるでしょう？」%K%P
-"If you think about it that way, it would explain why you have no memories of the past."
+If you think about it that way, it would explain why you have no memories of the past.
 
 「断片的に覚えている部分があるのは、それが優希堂くん本人の記憶と直接リンクしているからなんじゃないかしら？」%K%N
-"The fragmentary memories popping up here and there may be directly linked to the "original" Yukidoh-kun."
+The fragmentary memories popping up here and there may be directly linked to the "original" Yukidoh-kun.
 
 「あなたがこのスフィアで目覚めたのは、確か今から１時間半ぐらい前だったわよね？」%K%N
-"If I'm not mistaken, you woke up here in SPHIA about an hour and a half ago, right?"
+If I'm not mistaken, you woke up here in SPHIA about an hour and a half ago, right?
 
 「だとしたら、優希堂くん……」%K%N
-"If that's so, Yukidoh-kun..."
+If that's so, Yukidoh-kun...
 
 「今のあなたは９０分前に初めてこの世界に産声をあげた、特殊な存在なのかも知れないわ」%K%N
-"The current you, the one I'm talking to, is a special existence, one that gave its first birth cry a mere 90 minutes ago."
+The current you, the one I'm talking to, is a special existence, one that gave its first birth cry a mere 90 minutes ago.
 
 「もちろん、可能性のひとつとして、だけれど……」%K%P
-"Of course, it was just a possibility, but..."
+Of course, it was just a possibility, but...
 
 オレの人格が生まれたのは９０分前……？%K%N
 My personality was "born" 90 minutes ago...?
@@ -1438,10 +1438,10 @@ In the darkness, a pale flash illuminated the surroundings.
 At that moment――at that exact instant――
 
 「あなたが落ちて来たの……」%K%N
-"You fell..."
+You fell...
 
 「空から……」%K%N
-"from the sky..."
+from the sky...
 
 オレは落雷と同時に、時計台から墜落してしまったらしい。%K%N
 I fell from the clock tower alongside that bolt of lightning.

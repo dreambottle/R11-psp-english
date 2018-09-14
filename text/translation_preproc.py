@@ -49,6 +49,7 @@ def main():
         # just keep these as is
         println_sjis(clean_translation_line(line))
         state = STATE_JA
+        line = clean_translation_line(line)
         if text_validations and ("%P" in line or "%O" in line): page_buf = 0
 
     elif state == STATE_TRANSLATED:
@@ -57,6 +58,7 @@ def main():
       # if translated_trailing_meta: eprint("translated_trailing_meta %s" % translated_trailing_meta)
 
       # TODO make this reusable in TIPS
+      line = rm_escape_codes(line)
       line = clean_translation_line(line)
      
       last_ja_line = re.sub(r"%TS\d+|%TE", "", last_ja_line) # remove ja tips. any that make sense will be in the translation.
@@ -69,7 +71,7 @@ def main():
       # where it is used not for direct speech, but as a regular quotation.
       
       meta_pattern = "(?:%[A-Zp][A-Z0-9]*)*"
-      main_text_pattern_ja = "^({0})((?:.+?\u300c)?).*?(\u300d)?({0})$".format(meta_pattern)
+      main_text_pattern_ja = "^({0})((?:.*?\u300c)?).*?(\u300d)?({0})$".format(meta_pattern)
       match_ja = re.match(main_text_pattern_ja, last_ja_line)
       
       leading_meta = match_ja.group(1)
@@ -79,21 +81,31 @@ def main():
 
       if debug: eprint("JA match %s:%s,%s,%s,%s;"%(i, leading_meta, ja_speaker, ja_trailing_bracket, ja_trailing_meta))
 
-      if (leading_meta and ja_speaker):
+      if "\u300c" == ja_speaker:
+        if debug: 
+          eprint("\u300c without a speaker %s %s:%s,%s,%s,%s; %s"%(sys.argv[1], i, leading_meta, ja_speaker, ja_trailing_bracket, ja_trailing_meta, last_ja_line))
+      elif (leading_meta and ja_speaker):
         exit("Leading meta in combination w/ speaker exists! %s: %s"%(i, leading_meta))
       
       export_translated_line = leading_meta
 
       if (ja_speaker):
         ja_speaker = ja_speaker[:-1] # crop bracket \u300c
-        # \u30fb (middle dot: ・) is used to separate multiple speakers in JA text
-        translated_names_list = [names.get(s) for s in ja_speaker.split("\u30fb")]
-        if (None in translated_names_list):
-          exit("Speaker translation for %s not found. Values: %s"%(ja_speaker, translated_names_list))
-        translated_speaker = ",".join(translated_names_list)
-        export_translated_line = "{}{}\u300c".format(export_translated_line, translated_speaker)
-        if (ja_trailing_bracket != "\u300d"):
-          exit("Unexpected trailing bracket '%s' captured at line#%s: %s"%(ja_trailing_bracket, i, last_ja_line))
+        if ja_speaker:
+          # \u30fb (middle dot: ・) is used to separate multiple speakers in JA text
+          translated_names_list = [names.get(s) for s in ja_speaker.split("\u30fb")]
+          if (None in translated_names_list):
+            exit("Speaker translation for %s not found. Values: %s"%(ja_speaker, translated_names_list))
+          translated_speaker = ",".join(translated_names_list)
+          export_translated_line = "{}{}\u300c".format(export_translated_line, translated_speaker)
+          if (ja_trailing_bracket != "\u300d"):
+            exit("Unexpected trailing bracket '%s' captured at line#%s: %s"%(ja_trailing_bracket, i, last_ja_line))
+        else:
+          if (ja_trailing_bracket == "\u300d"):
+            export_translated_line += "\u300c"
+          else:
+            # handle inside the text
+            pass
       else:
         # don't append trailing bracket
         ja_trailing_bracket = ""
@@ -130,8 +142,11 @@ def main():
   
   # re.purge()
 
-def clean_translation_line(line):
+def rm_escape_codes(line):
   line = re.sub(r"\s*((?:%[KNOP])+)$", "", line) # override the original escape codes if the translation specifies some
+  return line
+
+def clean_translation_line(line):
   line = re.sub(r"%(?![A-Z])", "\uff05", line) # replacing % metachar, with a lookalike char
   line = re.sub("\uff5e", "\u301c", line) # two versions of tilde, only one of which has a shift_jis codepoint
   line = re.sub("\u2013|\u2014", "\u2015", line) # likewise for mdash '―'

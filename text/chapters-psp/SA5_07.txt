@@ -672,22 +672,22 @@ Because you suddenly disappeared... I...
 %N
 
 「鈴のいる世界を見つけるよ」%K%N
-"I would search for the world where you were."
+I would search for the world where you were.
 
 %N
 
 「じゃあ、その世界が見つからなかったとしたら？」%K%N
-"Then, what if you couldn't find that world?"
+Then, what if you couldn't find that world?
 
 %N
 
 「そうだな……」%K%N
-"Well..."
+Well...
 
 %N
 
 「たぶん、見つかるまで探し続けると思う」%K%O
-"I'd probably keep on searching until I found it."
+I'd probably keep on searching until I found it.
 
 悟「だから、鈴のいる世界を、見つけに来たんだ」%K%P
 So I came and found the world where you were, Lin.

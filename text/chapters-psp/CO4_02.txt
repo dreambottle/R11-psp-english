@@ -1039,7 +1039,7 @@ Closing my eyes, I pray.
 Stop her physically
 
 「やめて！」と叫ぶ
-Shout "Stop it!"
+Shout 「Stop it!」
 
 なおも黄泉木につかみかかろうとする黛を見て、私はとっさに動いた。%K%P
 Seeing Mayuzumi try to grab hold of Yomogi, I made a move.
