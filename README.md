@@ -1,11 +1,17 @@
 
 This project ports the translation of **Remember 11 - the age of infinity** game to PSP.
 
-If you know Japanese and want to improve some parts of this translation, talk to me [at gbatemp directly](https://gbatemp.net/members/dreambottle.384881/), or using the thread below.
+If you know Japanese and want to improve some parts of this translation, contact me [at gbatemp directly](https://gbatemp.net/members/dreambottle.384881/), or in the thread, listed below.
+
+### Useful Links
+
+[**Patch Donwloads**](https://github.com/dreambottle/R11-psp-english/releases)
 
 [Thread on Gbatemp.net](https://gbatemp.net/threads/release-remember11-the-age-of-infinity-psp-english-translation.470256/)
 
-[**Donwloads here**](https://github.com/dreambottle/R11-psp-english/releases)
+[Remember11 Explained](https://adayem.wordpress.com/remember11-explained/) - explanation and analysis of the game mysteries, also has a full walkthrough chart.
+
+[Remember11 links on Wikia](http://remember11.wikia.com/wiki/Analysis_of_Remember_11) - contains other useful links
 
 Credits for English translation go to [TLWiki team](https://tlwiki.org/?title=Remember11_-_the_age_of_infinity)
 
