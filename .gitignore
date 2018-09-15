@@ -16,7 +16,7 @@
 /iso/*.dax
 /iso/*.cso
 
-/patches/
+/patches/xdelta3/
 
 /*.exe
 /*.dll

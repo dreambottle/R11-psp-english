@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Generates xdelta3 patch files.
-# Should be run after pack-afs.sh.
+# Should be run after pack-afs.sh, requires xdelta3 on the PATH
 
 XDELTA="xdelta3 -e -0 -f"
 
