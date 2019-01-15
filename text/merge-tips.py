@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+# This script was used to apply the text from TIPS in `tips-psp/` to the main `other-psp/init.psp.txt` file,
+# which, contains all strings from `init.bin`.
+
 import sys
 import re
 from os import listdir
@@ -13,8 +16,8 @@ tips_folderpath = "tips-psp/"
 tips_titles = "other-psp/Tips.titles.txt"
 tips_order = "other-psp/tips.order.psp.txt"
 mergewith = "other-psp/init.psp.txt"
-# saveas = "other-psp/init.psp.txt"
-saveas = "tips.init.psp.txt"
+saveas = "other-psp/init.psp.txt"
+# saveas = "tips.init.psp.txt"
 
 # Was used to convert old format of TIPS to a new one.
 # Only keeping the code for reference, it is now obsolete.
@@ -128,13 +131,17 @@ def main():
   f_tips.close()
   
   # Hardcode. Change this if required
-  tips_start = 7372 #line, starting from 0
-  # tips_end = 8110
+  tips_start = 7372 #line, starting from 0 (-1 from the line that your editor shows)
+  tips_end = tips_start + 766 # lower boundary line for the tips cursor, exclusive. Also 0-based.
   
   # current line pointer
   cur = tips_start
   
   for tip in tips:
+    if cur >= tips_end:
+      print("Mismatch! Reached the tips end.")
+      exit()
+
     if debug: print("Merging %03d"%(tip.i_psp), "(pc:%03d)"%(tip.i_pc), tip.enname, tip.jpname)
     tips_inittxt_lines[cur + 1] = tip.enname.encode("shift_jis_2004") + b'\n'
 
