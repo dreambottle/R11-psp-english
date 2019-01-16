@@ -664,7 +664,7 @@ bin-win32\decompressbip.exe iso_extracted\PSP_GAME\USRDIR\init.bin tmp\init.dec 
 bin-win32\xdelta3.exe -f -d -s tmp\init.dec xdelta3\init.dec.xdelta3 tmp\init.dec.en
 bin-win32\compressbip.exe tmp\init.dec.en tmp\init.bin >nul
 
-echo 5. Patching BOOT.BIN (Menu text and asembly patches)
+echo 5. Patching BOOT.BIN (Menu text and assembly patches)
 bin-win32\xdelta3.exe -f -d -s iso_extracted\PSP_GAME\SYSDIR\BOOT.BIN xdelta3\BOOT.BIN.xdelta3 tmp\BOOT.BIN
 
 echo 6. Creating a new iso image.
@@ -674,7 +674,7 @@ move /Y tmp\init.bin iso_extracted\PSP_GAME\USRDIR\init.bin >nul
 move /Y tmp\mac.afs iso_extracted\PSP_GAME\USRDIR\mac.afs >nul
 move /Y tmp\etc.afs iso_extracted\PSP_GAME\USRDIR\etc.afs >nul
 
-bin-win32\mkisofs.exe -quiet -iso-level 4 -xa -A "PSP GAME" -V "R11" -sysid "PSP GAME" -volset "" -p "" -publisher "" -o Remember11-eng-v2.0.iso iso_extracted
+bin-win32\mkisofs.exe -quiet -iso-level 4 -xa -A "PSP GAME" -V "R11" -sysid "PSP GAME" -volset "" -p "" -publisher "" -o Remember11-eng-v2.1.iso iso_extracted
 
 echo Deleting temp files.
 rmdir /s /q iso_extracted
