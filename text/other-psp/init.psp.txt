@@ -7951,7 +7951,7 @@ Hobbies: Reading (Genre does not matter. Such is his reading addiction that even
 ;7d7c;126;裏設定：『アニムス（女性にとっての男性像）』を%N⑳象徴する（→元型）%N⑳悟と黛はかつて交際していた%N⑳この設定は2012年のもの%N
 Beyond the Surface: Represents the "Animus (The Male Within the Female)" (→ Archetype)%NSatoru and Mayuzumi were once going out. This is his status as of 2012.%N
 ;7d80;266;⑳真の彼は独特の価値観を有しており、%N⑳限られた周囲の人間には献身的に優しく接するが、%N⑳それ以外の者には身も凍るほどの冷酷さを見せる。%N⑳その理由を悟は『本当に大切な誰かを大事にするため』と考えている。%N⑳何かを得るためには、何かを失わなければならないのだから。%N
-真の彼は独特の価値観を有しており、%N限られた周囲の人間には献身的に優しく接するが、%Nそれ以外の者には身も凍るほどの冷酷さを見せる。%Nその理由を悟は『本当に大切な誰かを大事にするため』と考えている。%N何かを得るためには、何かを失わなければならないのだから。%N
+The real Satoru has a unique set of values. Although he is kind and devoted to a few people around him, he is coldhearted with everyone else.%NSatoru does this to "cherish someone who is very important".%NDoes something have to be lost in order to gain something in return?%N
 ;7d84;230;男性視点の主人公。%Nある日、スフィアの屋上から落下して意識を失う。%N記憶が錯乱しており、%N事故の原因・直前の状態などは不明。%N目覚めると……なぜか、そこは雪深い山の中。%Nおまけに、自分の身体は見知らぬ女性に変わってしまっている。%N
 Yukidoh Satoru is the male protagonist.%NOne day, he fell from the roof of SPHIA and lost his memory.%NAs his memories are in disorder, he cannot remember the details of this incident such as the reason for it or what was happening before the fall.%NWhen he awoke... for some reason, he found himself on a snowy mountain. On top of that, his own body had changed into that of an unknown woman.%N
 ;7d88;200;転落事故を契機に、%N悟の心身は変調をきたしてしまった。%N時折、精神と肉体が乖離し、%N異なる場所にいる別の人物（こころ）と%N入れ替わってしまうのだ。%N彼の記憶と心は、%N雪山とスフィアとの間を行き交う。%N
@@ -8073,7 +8073,7 @@ The Meanings Behind the BGM Titles
 ;7ee8;269;【Trickstar】%N無秩序の精神、境界を無視する精神を持ち、%N秩序を壊す者、文化的な約束事を破る者。%N自分が欲しいものを、%N狡猾なトリックを使って相手を騙して手に入れる。%Nこの側面が高度に発達すると、%N神や君主を欺いて得た文化や利益を%N人間や民衆にもたらす、文化英雄となる。
 【Trickster】%NOne possessing a disordered soul which rejects all boundaries, destroys all order, and defies all social conventions. He will use cunning and trickery to get what he wants from his opponent. At his most extreme, he will deceive even monarchs or gods without a moment's hesitation, and by giving what he gains to the mortal populace, he becomes a mythical hero.%N
 ;7eec;112;【Self】%N胎動／セルフ%N%N【Communication】%Nコミュニケーション、連絡。%N%N【Anxiety】%N[アングザイアティー]不安
-【Self】%NQuickening/Self%N%N【Communication】%NContact.%N%N【Anxiety】%NUneasiness.%N
+【Self】%NFetal movements/Self%N%N【Communication】%NContact.%N%N【Anxiety】%NUneasiness.%N
 ;7ef0;179;【Cue】%N手がかり。%N%N【Paranoia】%N妄想症・偏執症%N内的原因から発生し、思考・意志・行動の秩序と%N明晰さが完全に保たれたまま%N徐々に発展する、持続的でゆるぎない%N妄想体系である。
 【Cue】%NClue.%N%N【Paranoia】%NParanoia and monomania. Originating internally, the will, thoughts, and actions all become irregular, gradually growing more and more disordered and eventually reaching the point of a persistent set of delusions.%N
 ;7ef4;173;【Fear and Insanity】%N恐怖と狂気[インサニティ]%N%N【Thanatos】%Nギリシャ神話で、「死」を擬人化した神「タナトス」。%Nフロイトの用語。攻撃、自己破壊に向かう%N死の本能をさす。
