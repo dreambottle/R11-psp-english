@@ -5,7 +5,7 @@ If you know Japanese and want to improve some parts of this translation, contact
 
 ### Useful Links
 
-[**Patch Donwloads**](https://github.com/dreambottle/R11-psp-english/releases)
+[**Patch Downloads**](https://github.com/dreambottle/R11-psp-english/releases)
 
 [Thread on Gbatemp.net](https://gbatemp.net/threads/release-remember11-the-age-of-infinity-psp-english-translation.470256/)
 
