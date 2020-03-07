@@ -13,7 +13,7 @@ If you know Japanese and want to improve some parts of this translation, contact
 
 [Remember11 links on Wikia](http://remember11.wikia.com/wiki/Analysis_of_Remember_11) - contains other useful links
 
-Credits for English translation go to [TLWiki team](https://tlwiki.org/?title=Remember11_-_the_age_of_infinity)
+Credits for English translation go to [TLWiki team](http://web.archive.org/web/20180819171103/https://tlwiki.org/?title=Remember11_-_the_age_of_infinity)
 
 
 Current status
