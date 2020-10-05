@@ -141,14 +141,15 @@ But...
 
 穂鳥「言い訳なんてしないで」%K%P
 No excuses.
+穗鸟「别找借口」
 
 穂鳥「なにも聞きたくない」%K%P
 I don't want to hear it.
-穗鸟「别找借口」
+穗鸟「我什么都不想听」
 
 穂鳥「この子がどうして怯えてるのか、わかんないの？」%K%P
 Don't you get why he's so scared?
-穗鸟「我什么都不想听」
+穗鸟「你难道不知道他为什么这么害怕吗？」
 
 わからない。わかるわけがなかった。%K%P
 I don't. How could I?

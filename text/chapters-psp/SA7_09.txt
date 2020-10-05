@@ -960,6 +960,7 @@ Yukidoh Satoru!
 
 ロック解除――アルバム（販促ポスター・雑誌扉絵）
 Unlocked――Album (Promotional Poster・Magazine Illustration)
+内容解锁――相册（贩促海报・杂志插图）
 
 //ロック解除――アルバム（全キャラクター表情集）
 //Unlocked――Album (All Characters Facial Expressions)
