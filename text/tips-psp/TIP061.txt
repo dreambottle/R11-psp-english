@@ -1,6 +1,7 @@
-TIP061
+﻿TIP061
 量子
 Quantum
+量子
 paragraph_count:1
 init_addr:7a80
 pc_index:TIP_066
@@ -21,3 +22,11 @@ The smallest unit of a physical quantity which can be expressed using values lim
 In 1900, Max Planck proposed the idea of a quantum energy (the quantum hypothesis) that spawned the beginning of quantum theory.%N
 Subsequently, Albert Einstein suggested the existence of a light quantum (photon), and Niels Bohr demonstrated the angular momentum quantum.
 
+#CN#1
+物理量不是一些列连续的数值，%N
+必然是某个单位量的整数倍，%N
+而量子就是那个最小单位。%N
+1900年，普朗克提出能量量子化%N
+的想法（量子假说），成为量子论的源头。%N
+此后爱因斯坦提出了光量子（光子）%N
+的存在，玻尔则提出了角动量量子的存在。%N

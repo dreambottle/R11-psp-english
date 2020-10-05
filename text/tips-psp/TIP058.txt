@@ -1,6 +1,7 @@
-TIP058
+﻿TIP058
 スコア：０−０
 Score:0-0
+比分：０－０
 paragraph_count:1
 init_addr:7a4c
 pc_index:TIP_063
@@ -15,3 +16,6 @@ pc_index:TIP_063
 #EN#1
 The number on the left represents Hotori and Utsumi's team's score, and the number on the right represents my and Yuni's team's score.
 
+#CN#1
+左方为“穗鸟·内海队”的分数，%N
+右边是“我·悠尼队”的分数。%N

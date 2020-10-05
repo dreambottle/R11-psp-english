@@ -1,6 +1,7 @@
-TIP001
+﻿TIP001
 インサニティ
 Insanity
+精神异常
 paragraph_count:1
 init_addr:7620
 pc_index:TIP_002
@@ -15,3 +16,5 @@ pc_index:TIP_002
 #EN#1
 Madness, foolish actions, mental illness.
 
+#CN#1
+疯狂、愚行、精神障碍。%N

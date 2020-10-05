@@ -1,6 +1,7 @@
-TIP052
+﻿TIP052
 ロックンロール
 Rock'n Roll
+摇滚音乐
 paragraph_count:1
 init_addr:79dc
 pc_index:TIP_057
@@ -20,3 +21,9 @@ A genre of popular music which came into fashion in the 1950s in America, and so
 Based on black musicians' rhythm and blues, with additional influences from Caucasian country music.%N
 Also known as rock.
 
+#CN#1
+自1950年起，%N
+由美国开始往世界各地传播的流行音乐。%N
+以黑人的节奏感与蓝调为基础，%N
+加入白人的乡村音乐要素所产生的音乐。%N
+也简称摇滚。%N

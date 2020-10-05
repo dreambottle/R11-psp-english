@@ -1,6 +1,7 @@
-TIP041
+﻿TIP041
 アンドロメダ
 Andromeda
+仙女座
 paragraph_count:3
 init_addr:7904
 pc_index:TIP_046
@@ -56,3 +57,36 @@ Perseus then took Andromeda as his wife.%N
 When Andromeda died, she was placed among the stars and became a constellation alongside her husband Perseus, her father Cepheus, her mother Cassiopeia, and the great sea serpent.%N
 However, because of Cassiopeia's pride, she was placed in the heavens such that the chair in which she sits appears upside-down half the time.
 
+#CN#1
+距离地球两百三十万光年的星云，%N
+其外观为椭圆形的漩涡。%N
+在希腊神话中，%N
+安德洛墨达（Andromeda，%N
+仙女座的英文原名）%N
+是埃塞俄比亚的公主。%N
+其母卡西俄帕亚认为，%N
+她比宁芙或是涅瑞伊得斯等海中仙女还要漂亮，%N
+为此而非常自豪。%N
+
+#CN#2
+深爱涅瑞伊得斯们的%N
+海神波赛顿听说之后非常生气，%N
+于是把海怪送到埃塞俄比亚附近作乱。%N
+国王请求神谕指示，%N
+依照神谕，%N
+如果不把安德洛墨达当作祭品献出的话，%N
+就无法消除海神心中的怒火。%N
+因此安德洛墨达被锁在岩石上，%N
+被当作献给怪物的祭品。%N
+
+#CN#3
+此时，用布袋装着梅杜莎头颅的珀修斯经过。%N
+珀修斯把梅杜莎的头拿给怪物看，%N
+使怪物变成了石头，%N
+此后珀修斯迎娶安德洛墨达作为妻子。%N
+安德洛墨达死后被变成了天上的星辰。%N
+其夫珀修斯（英仙座）、父亲塞弗斯、%N
+母亲卡西俄帕亚，%N
+以及变成石头的海蛇也一起变成了星辰，%N
+但是她的母亲卡西俄帕亚却因为傲慢之罪，%N
+必须坐着椅子倒挂在天空之中。%N

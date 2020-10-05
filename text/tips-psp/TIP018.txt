@@ -1,6 +1,7 @@
-TIP018
+﻿TIP018
 シナプス
 Synapse
+突触
 paragraph_count:1
 init_addr:776c
 pc_index:TIP_023
@@ -17,3 +18,7 @@ pc_index:TIP_023
 A communication method between neurons.%N
 Neurons send messages to each other via synapses.
 
+#CN#1
+负责连接不同的神经元，%N
+神经细胞就是通过这些突触%N
+来交换彼此之间的讯号。%N

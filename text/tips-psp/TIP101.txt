@@ -1,6 +1,7 @@
-TIP101
+﻿TIP101
 榎本⑳尚哉
 Enomoto Naoya
+鼷本尚哉
 paragraph_count:4
 init_addr:7e50
 pc_index:TIP_107
@@ -81,3 +82,35 @@ He is Satoru's colleague.%N
 Together with Satoru, he created the space-time warping device and executed the "project."%N
 He continues to monitor the progress of the plan from beneath SPHIA.
 
+#CN#1
+姓名：鼷本尚哉%N
+性别：男%N
+年龄：21岁%N
+生日：1990年11月27日（射手座）%N
+血型：B型%N
+职业：在Leiplich（拉比利）制药工学研究部门第三科工作%N
+智力：较高%N
+体力：普通%N
+协调性：稍低%N
+
+#CN#2
+性格：外表冷酷感情深厚、理性、冷静、不会表达感情%N
+兴趣：工作、填字游戏%N
+喜好：机械%N
+厌恶：蛮荒的环境%N
+设定：潜伏在设施地底的男人，%N
+⑳了解时空间转移现象的一切信息%N
+
+#CN#3
+里设定：虽然因为优希堂悟失去记忆%N
+⑳以及胎儿所造成的问题而感到痛苦，%N
+⑳但也不能在计划进行到一半时停止，%N
+⑳只好默默地旁观一切状况的发展。%N
+%N
+这是针对2012年的设定。%N
+
+#CN#4
+主要在SPHIA登场。%N
+优希堂悟的同事。%N
+与优希堂悟一起制造出“时空间转移装置”，进行“计划”。%N
+潜伏在SPHIA地下监视着计划的一切。%N

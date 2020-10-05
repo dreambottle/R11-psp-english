@@ -1,6 +1,7 @@
-TIP032
+﻿TIP032
 ピッケル
 Ice Ax
+冰斧
 paragraph_count:1
 init_addr:7858
 pc_index:TIP_037
@@ -20,3 +21,8 @@ A mountaineering tool.%N
 Used for aid in balance, to create footholds, and to prevent the climber from slipping.%N
 It is comprised of a long shaft with a pick at the head and a metal spike at the base.
 
+#CN#1
+登山用具。%N
+用来维持平衡、凿出踏脚位、防止滑落的工具。%N
+其头部是一片带有刀刃的锄形物，%N
+装在附有尖刺的斧柄上。%N

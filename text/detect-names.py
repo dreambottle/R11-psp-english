@@ -6,7 +6,7 @@ import os
 
 def main():
   fdir = "chapters-psp/"
-  files = os.listdir(fdir);
+  files = os.listdir(fdir)
 
   names = set()
   opening_quote = "「"

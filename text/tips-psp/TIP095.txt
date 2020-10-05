@@ -1,6 +1,7 @@
-TIP095
+﻿TIP095
 黄泉木⑳聖司
 Yomogi Seiji
+黄泉木圣司
 paragraph_count:4
 init_addr:7db0
 pc_index:TIP_103
@@ -74,3 +75,37 @@ While traveling, he becomes involved in the plane crash and, like Kokoro, is one
 He possesses an abundance of emergency survival knowledge. He is also proficient in survival methods and owns a cell phone equipped with a GPS function.%N
 Due to his keen insight, he took on the role of group leader, but he is continuously hindered by the actions of some of its more assertively individualistic members.
 
+#CN#1
+姓名：黄泉木圣司%N
+性别：男%N
+年龄：35岁%N
+生日：1975年9月16日（处女座）%N
+血型：O型%N
+职业：登山家%N
+智力：普通%N
+体力：极高%N
+协调性：极高%N
+
+#CN#2
+性格：温和、勇敢、耐心、有幽默感、细心周到%N
+兴趣：登山、探险、一切体育活动%N
+喜好：酒、自我锻炼、无聊的笑话%N
+厌恶：扰乱和睦的行为、背叛、食品添加剂%N
+
+#CN#3
+里设定：象征“Old Wise Man（智慧老人）”（→原型）%N
+⑳内海卡莉的丈夫。虽然两人曾经生下小孩，%N
+⑳但却在数年前作为虐杀事件的受害者死亡。%N
+⑳凶手的名字是“犬伏景子”。%N
+%N
+这是针对2011年的设定。%N
+
+#CN#4
+主要在雪山登场。%N
+在旅行途中遭遇飞机失事，%N
+与冬川心一样是意外事件的生存者之一。%N
+具有丰富的野外求生知识。%N
+拥有具GPS功能的PDA。%N
+具有敏锐的洞察力，%N
+在生还者中处于领导者的地位，%N
+但是因为个性强烈的伙伴而不断遭遇烦恼。%N

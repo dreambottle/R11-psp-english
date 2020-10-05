@@ -1,6 +1,7 @@
-TIP070
+﻿TIP070
 絡み合いの状態
 Entanglement
+量子缠结
 paragraph_count:1
 init_addr:7b2c
 pc_index:TIP_075
@@ -19,3 +20,9 @@ pc_index:TIP_075
 A form of quantum superposition.%N
 Refers to a situation in which a system of several %TS071quantum bits%TE, in accordance with the laws of quantum mechanics, forms an inseparable state and behaves as if it were a single entity.
 
+#CN#1
+量子重叠的状态。
+多个“%TS071量子字节%TE”之间的状态
+遵循量子力学的法则表现出
+仿佛是同一个物体的性质，
+变成一种无法区分彼此的状态。

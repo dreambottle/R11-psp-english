@@ -1,5 +1,6 @@
-TIP065
+﻿TIP065
 ＥＰＲ
+EPR
 EPR
 paragraph_count:2
 init_addr:7ac4
@@ -41,4 +42,26 @@ This opposition was especially pronounced in the case of Einstein, summed up by 
 #EN#2
 Although fully recognizing its usefulness, he was known to be uncomfortable with and to oppose quantum mechanics until his death because of its inability to definitely describe the microscopic aspects of physical reality.%N
 Einstein conducted many thought experiments that criticized quantum mechanics and troubled his opponent Niels Bohr (one of the founders of quantum mechanics).
+
+#CN#1
+从三个物理学者的名字中%N
+取第一个字母的简称。%N
+E：爱因斯坦%N
+P：波多斯基%N
+R：罗森%N
+这三名学者针对量子力学的%N
+“%TS066测不准原理%TE”概念提出反论，%N
+发表“%TS067EPR悖论%TE”%N
+
+#CN#2
+其中爱因斯坦更曾说出“上帝不会掷骰子”%N
+的名言，由此可以看出他的立场。%N
+虽然爱因斯坦也不能百分之百地了解%N
+量子力学的实际应用，%N
+但是他对于量子力学无法确切地描述%N
+自然界的理论特性感到不满，%N
+因此对这个特性展开了终其一生的反抗，%N
+为了攻击量子力学而设计了种种不同的%N
+思考实验去刁难他论证上的对手%N
+尼尔斯·玻尔（量子力学的创始者之一）。%N
 

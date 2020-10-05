@@ -1,6 +1,7 @@
-TIP005
+﻿TIP005
 ビバーク
 Bivouac
+露宿
 paragraph_count:1
 init_addr:7664
 pc_index:TIP_008
@@ -16,4 +17,8 @@ pc_index:TIP_008
 #EN#1
 A mountain-climbing term, meaning to sleep outdoors.%N
 To pass the night at a location where there are no cabins or campgrounds.
+
+#CN#1
+登山用语，即露宿或扎营休息。%N
+在没有小屋也并非露营区的地方过夜。%N
 

@@ -1,6 +1,7 @@
-TIP102
+﻿TIP102
 黄泉木⑳潤一
 Yomogi Junichi
+黄泉木润一
 paragraph_count:3
 init_addr:7e6c
 pc_index:TIP_109
@@ -63,3 +64,28 @@ Yomogi Junichi appears only in flashbacks.%N
 Outstandingly athletic and honest, he was an ideal child beloved by his family.%N
 His death brought unimaginable despair and hatred to his parents, almost enough to bring on madness....
 
+#CN#1
+姓名：黄泉木润一%N
+性别：男%N
+年龄：9岁（享年）%N
+生日：1999年1月14日（摩羯座）%N
+血型：O型%N
+职业：小学4年级%N
+智力：普通%N
+体力：普通（同年龄中）%N
+协调性：较高%N
+
+#CN#2
+性格：开朗、率直、天真无邪%N
+兴趣：运动、骑自行车%N
+喜好：活动身体、父母开心的表情%N
+厌恶：一个人独处%N
+设定：黄泉木圣司与内海卡莉生下的孩子。%N
+里设定：在2011年的两年前被犬伏景子杀害，已经死亡。%N
+
+#CN#3
+只在回忆画面登场。%N
+运动神经出类拔萃、个性率直，是个非常优秀的孩子。%N
+他的死给黄泉木夫妇带来一种难以想像的绝望，%N
+并且因此引发了憎恨的情感。%N
+那是一种甚至可以令人疯狂的憎恨。%N

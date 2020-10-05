@@ -1,6 +1,7 @@
-TIP016
+﻿TIP016
 拒絶反応
 Rejection
+排斥反应
 paragraph_count:1
 init_addr:774c
 pc_index:TIP_021
@@ -20,4 +21,12 @@ pc_index:TIP_021
 The refusal of the body to accept transplanted foreign tissue; a defensive reaction meant to protect it against infection.%N
 When an organ or similar tissue from another person is transplanted, it is viewed as a foreign substance by the immune system, which will attempt to destroy the tissue and expel it from the body.%N
 This type of immune system attack is called rejection.
+
+#CN#1
+人体中具有用来排除外来异物的机制%N
+——免疫系统。%N
+在利用移植手术移植了别人的器官以后，%N
+被移植的器官对身体来说算是外来的异物，%N
+因而会引发免疫系统对移植的器官产生反应，%N
+这种由免疫系统发动的攻击被称为排斥反应。%N
 

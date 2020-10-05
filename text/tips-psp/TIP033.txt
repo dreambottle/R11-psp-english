@@ -1,6 +1,7 @@
-TIP033
+﻿TIP033
 ロンブローゾ
 Lombroso
+伦柏罗索
 paragraph_count:1
 init_addr:7868
 pc_index:TIP_038
@@ -21,3 +22,9 @@ Italian anatomist.%N
 Believed that the different types of crimes committed by each criminal corresponded to specific physical traits; also had an interest in the different types of criminals, which is now remembered as the source of modern criminology.%N
 However, his theories are now thought to be incorrect.
 
+#CN#1
+意大利的解剖学家。%N
+他认为可以从罪犯的犯罪型态推测其身体特征。%N
+开创犯罪人类学，%N
+并以此为基础编写“犯罪人论”。%N
+然而，他的思想现在被认为是错误的。%N

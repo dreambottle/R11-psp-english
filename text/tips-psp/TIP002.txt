@@ -1,6 +1,7 @@
-TIP002
+﻿TIP002
 晩
 Evening
+夜
 paragraph_count:1
 init_addr:7630
 pc_index:TIP_003
@@ -17,3 +18,7 @@ pc_index:TIP_003
 #EN#1
 Even though the term is now used to mean night in general, originally it was used to describe the period of time between twilight and sunset; in other words, the time when night begins.
 
+#CN#1
+虽然这个字现在也被用来表示整个夜间，%N
+但是它的本义是指称自黄昏%N
+到日落后不久间的时段。%N

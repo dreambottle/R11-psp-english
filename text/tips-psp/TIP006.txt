@@ -1,6 +1,7 @@
-TIP006
+﻿TIP006
 ラッセル
 Russell
+除雪
 paragraph_count:1
 init_addr:7674
 pc_index:TIP_009
@@ -15,4 +16,8 @@ pc_index:TIP_009
 #EN#1
 To push through deep layers of snow, creating a path while moving forward.%N
 A mountain-climbing term.
+
+#CN#1
+拨开深厚的积雪，一边开路一边前进。%N
+登山用语。%N
 

@@ -1,6 +1,7 @@
-TIP047
+﻿TIP047
 コロイド
 Colloid
+胶体
 paragraph_count:1
 init_addr:7970
 pc_index:TIP_052
@@ -17,4 +18,11 @@ pc_index:TIP_052
 #EN#1
 A chemical mixture in which particles of one substance are dispersed evenly throughout another substance such that, though they are larger than most molecules, they cannot be seen with ordinary optical microscopes.%N
 Examples include glue, starch, agar, egg white, mayonnaise, and smoke.
+
+#CN#1
+在溶液中均匀分布，%N
+比普通分子还要大，%N
+但是无法用显微镜观测的粒子的状态。%N
+例如：动物胶、淀粉、琼脂、蛋白、%N
+美乃滋、烟雾等。%N
 

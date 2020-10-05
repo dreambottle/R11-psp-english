@@ -1,6 +1,7 @@
-TIP037
+﻿TIP037
 ＤＳＭ−Ⅳ
 DSM-IV
+ＤＳＭ－Ⅳ
 paragraph_count:1
 init_addr:78ac
 pc_index:TIP_042
@@ -25,3 +26,13 @@ It was there that the illness called DID was "born."%N
 Incidentally, dissociative personality disorder is still referred to as multiple personality disorder in other official writings, such as the ICD-10.%N
 In the Japanese edition of the DSM, the latter term is used.
 
+#CN#1
+1994年发行的DSM第四版。%N
+在这本DSM第四版中，%N
+将过去被称为多重人格症的症状%N
+改称为分离性身份识别障碍。%N
+因此，简称为DID的这个疾病于焉“诞生”。%N
+另外，分离性身份识别障碍的日文正式名称是%N
+“解离性同一性障害”。%N
+因为在日文版DSM里这个疾患名称的翻译是%N
+“解离性同一性障害”。%N

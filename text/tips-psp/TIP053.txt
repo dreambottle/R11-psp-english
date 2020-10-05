@@ -1,6 +1,7 @@
-TIP053
+﻿TIP053
 カポエラ
 Capoeira
+卡波耶拉
 paragraph_count:1
 init_addr:79ec
 pc_index:TIP_058
@@ -23,3 +24,11 @@ Moving to the rhythm of drum-centric live music, two people move as one in an in
 Created by black slaves, it had roots in ancient African techniques.%N
 Historically, leaders of the art disguised it as a form of folk dance so that it could be practiced openly.
 
+#CN#1
+一种巴西格斗技。%N
+在打击乐器的伴奏之下，%N
+两个人像是跳舞一样地使用各种踢击技巧。%N
+此种格斗技本来是%N
+黑奴将非洲的格斗技加以发展而创造的战斗技巧。%N
+为了要在练习的时候瞒过统治者，%N
+才会把这种格斗技伪装成一种民族舞蹈。%N

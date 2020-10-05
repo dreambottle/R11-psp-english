@@ -1,6 +1,7 @@
-TIP077
+﻿TIP077
 およそ１００時間分
 Approximately 100 Hours
+大约１００小时
 paragraph_count:1
 init_addr:7bb0
 pc_index:TIP_082
@@ -22,3 +23,11 @@ The portion analyzed is the record beginning at "the moment of my fall from the 
 The exact aggregate duration turns out to be "a little less than 103 hours."%N
 Even if examined further, any other data has been deemed insignificant and omitted.
 
+#CN#1
+解析的目标是从%N
+“11日从钟塔上摔下来的时刻：约下午4时”%N
+到“15日的最后转移时刻：晚上10时53分”%N
+为止的影片。%N
+正确的总时间长度是“接近103小时”。%N
+因为其它的部分就算调查了也没有用，%N
+所以就从解析对象中省略了。%N

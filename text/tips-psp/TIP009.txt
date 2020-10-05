@@ -1,6 +1,7 @@
-TIP009
+﻿TIP009
 ラプラスの悪魔
 Laplace's Demon
+拉普拉斯的恶魔
 paragraph_count:2
 init_addr:76a4
 pc_index:TIP_014
@@ -37,4 +38,25 @@ Then, no matter how brief this moment is, it would always be enough for the demo
 What Laplace was trying to say with this is that, basically, "everything which occurs in the world has been predetermined from the beginning."%N
 That, no matter how big or how small an event is, its occurrence is by no means accidental, but in fact inevitable.%N
 In philosophy, this is called causal determinism.
+
+#CN#1
+法国的数学家兼天文学家%N
+皮耶尔·西蒙·拉普拉斯所提出的概念。%N
+依照他的假设，这世界上存在着一个%N
+能确切知道宇宙中所有物体%N
+在某一个瞬间的位置与状态的“恶魔”。%N
+即使那只是非常短暂的一瞬间的信息，%N
+对于这个恶魔来说，%N
+这已经足以用来推算整个时间轴上的所有状态。%N
+
+#CN#2
+简单地说，拉普拉斯所要表达的概念是：%N
+“这世界上所发生的所有事件%N
+在最一开始就已经完全确定了”。%N
+无论是多么微小的事件或是多么重大的事件，
+都不是因为偶然的变故而发生，%N
+一切都是必然的结果。%N
+在哲学用语里用“决定论的世界观”%N
+来描述这种概念。%N
+
 

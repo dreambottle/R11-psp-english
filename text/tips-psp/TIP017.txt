@@ -1,6 +1,7 @@
-TIP017
+﻿TIP017
 ニューロン
 Neuron
+神经元
 paragraph_count:1
 init_addr:775c
 pc_index:TIP_022
@@ -18,3 +19,7 @@ A bundle of nerve cells.%N
 Composed of a cell body, an axon, and dendrites.%N
 Receives and transmits stimuli.
 
+#CN#1
+神经细胞。%N
+由胞体、树突与轴突组成。%N
+具有传达与接收刺激的功能。%N

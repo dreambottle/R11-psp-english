@@ -1,6 +1,7 @@
-TIP106
+﻿TIP106
 パーソナルスペース
 Personal Space
+个人空间
 paragraph_count:1
 init_addr:7eb4
 pc_index:TIP_007
@@ -18,3 +19,7 @@ The region surrounding each person, or the area which a person considers their d
 Often, when someone enters the range of your personal space, you will begin to feel uneasy or uncomfortable.%N
 While it is highly variable and difficult to measure accurately, the best estimates for personal physical space place it around 60 centimeters to either side, 70 centimeters in front, and 40 centimeters behind the body for the average westerner.
 
+#CN#1
+指每个人都会有的一种%N
+一旦有别人进入就会令自己感到不快的空间范围。%N
+可以说是属于人类的“势力范围”。%N

@@ -1,6 +1,7 @@
-TIP039
+﻿TIP039
 ユングフラウ
 Jungfrau
+少女峰
 paragraph_count:1
 init_addr:78e0
 pc_index:TIP_044
@@ -18,3 +19,7 @@ A mountain range in the Swiss Bernese Alps.%N
 Its peak stands 4158 meters above sea level. The name means "virgin peak."%N
 It was designated a World Heritage Site in 2001.
 
+#CN#1
+瑞士伯尔纳阿尔比斯山脉群峰中的一个，%N
+海拔4158米，名为少女峰（Jungfrau）。%N
+2001年时被登记为世界遗产。%N

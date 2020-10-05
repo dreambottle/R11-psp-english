@@ -1,6 +1,7 @@
-TIP079
+﻿TIP079
 場所
 Location
+地点
 paragraph_count:1
 init_addr:7bd0
 pc_index:TIP_084
@@ -22,4 +23,13 @@ pc_index:TIP_084
 Cameras are set up everywhere in SPHIA, so there are as many recorded data files as there are cameras.%N
 However, there was neither any need to check all of them nor the time to do so.%N
 Basically, I just excluded all the files I don't appear in from the list of objects to be analyzed.
+
+#CN#1
+SPHIA的每个地方都设有摄影机，%N
+因此记录里的影片数量也与%N
+摄影机的数量相对应。%N
+但是没有必要检查每一部摄影机的影片。%N
+也没有时间去作那种事情。%N
+所以，基本上，只要没有拍摄到我的影片画面%N
+通通不列入解析对象之中。%N
 

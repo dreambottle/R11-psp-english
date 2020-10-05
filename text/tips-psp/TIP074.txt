@@ -1,6 +1,7 @@
-TIP074
+﻿TIP074
 ユニタリ変換
 Unitary Transformation
+幺正变换
 paragraph_count:1
 init_addr:7b70
 pc_index:TIP_079
@@ -23,3 +24,11 @@ In a unitary space, a linear transformation which preserves the value of the Her
 Suppose we denote the adjoint of an n-by-n matrix M as M*.%N
 Then M is unitary if it is a complex-valued square matrix fulfilling the equation M*M = MM* = E, where E is the identity matrix of order n.
 
+#CN#1
+对于向量空间中的任意两个向量来说，%N
+可以使线性变换前后的内积值保持%N
+不变的线性转换即为幺正转换。%N
+幺正性质：%N
+令n*n的矩阵M的共轭转置矩阵为M*，%N
+使M*M=MM*=E的非零矩阵即为幺正矩阵。%N
+此处E为n次单位矩阵。%N

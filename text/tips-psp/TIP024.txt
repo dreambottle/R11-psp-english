@@ -1,6 +1,7 @@
-TIP024
+﻿TIP024
 ナイフの手入れ
 Knife Maintenance
+保养小刀的方法
 paragraph_count:3
 init_addr:77d0
 pc_index:TIP_029
@@ -49,3 +50,22 @@ Honing refers to sharpening a knife.%N
 To touch up a knife means to improve its ability to cut.%N
 When a knife becomes dull, it's best to think about seeing to it right away.
 
+#CN#1
+小刀会随着使用而变得越来越钝。%N
+如果想要让小刀永葆锋利，%N
+每天保养小刀就显得非常重要。%N
+日常的基本保养方式是在使用后打磨刀刃。%N
+
+#CN#2
+小刀是不耐水的！%N
+现在的小刀大部分是用不锈钢制造的，%N
+虽然不锈钢是不易生锈的材质，%N
+但却不是完全不会生锈。%N
+所以在小刀被水沾湿以后必须要进行保养。%N
+
+#CN#3
+要恢复小刀锋利度的手法有两种，%N
+一种是打磨，一种是修补。%N
+所谓的打磨就是研磨刀刃，%N
+所谓的修补，就是一种恢复小刀锋利度的手段，%N
+把它当作是小刀变钝时的应急处置法就行了。%N

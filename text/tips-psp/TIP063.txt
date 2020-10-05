@@ -1,6 +1,7 @@
-TIP063
+﻿TIP063
 シュレディンガー方程式
 Schrodinger Equation
+薛定谔方程
 paragraph_count:1
 init_addr:7aa4
 pc_index:TIP_068
@@ -22,3 +23,10 @@ pc_index:TIP_068
 In quantum mechanics, the Schrödinger Equation is a differential equation that describes the changes over time of the quantum state of a system.%N
 It can be shown formally that evolution of the wave function is given in the equation by the Hamiltonian operator, which corresponds to the total energy of the system.
 
+#CN#1
+别名：波动方程式，在量子力学中用来判断%N
+代表物质波的波函数对应于时间变化的微分%N
+方程式。%N
+薛定谔方程是一个用来表示全系统能量运算%N
+的Hermite算符对波函数造成的变化与%N
+波函数对应时间的变化之间的关系式。%N

@@ -1,6 +1,7 @@
-TIP050
+﻿TIP050
 今
 Now
+今
 paragraph_count:3
 init_addr:79b4
 pc_index:TIP_055
@@ -62,3 +63,36 @@ these are supposed to be understood and hold meaning in accordance with my indiv
 On a side note, ever since I've been experiencing this personality exchange phenomenon, the concepts of "next year" and "last year" no longer apply to me either.%N
 Now that I'm in the Mount Akakura shelter, both 2011 and 2012 are, in a certain sense, "this year" to me.
 
+#CN#1
+对这个避难小屋来说是2011年，%N
+对SPHIA来说是2012年。%N
+因为她其实是存在于一年以后的未来，%N
+所以使用“现在”这个词语也许不是很恰当吧。%N
+但这也是没有办法的事情。%N
+对于我与冬川心来说，%N
+所谓的“现在”这个概念都是一样的，%N
+我们都脱离了历史的洪流，%N
+而行走在属于自己的“时间”里。%N
+
+#CN#2
+对于我跟她来说，%N
+外在世界的时间流动完全是另外一回事。%N
+假设外在世界的时间流动可以用%N
+“A→B→C→D→E→F→%N
+……U→V→W→X→Y→Z”%N
+来表示，对我来说，时间的流动就是%N
+“A→V→C→X→E→Z”，%N
+而对冬川心来说就是%N
+“U→B→W→D→Y→F”。%N
+
+#CN#3
+所以对我来说，当我想到“现在”、%N
+“刚才”或是“今天”“明天”之类的概念时，%N
+那基本上都是要依照我自己独特的时间轴：%N
+“A→V→C→X→E→Z”的顺序来表示。%N
+顺便，由于我被这种人格交换现象所影响，%N
+所以对我来说是没有“明年”、%N
+“去年”这种概念的，%N
+毕竟当我存在于朱仓岳避难小屋的时候，%N
+不管是2011年或是2012年也好，%N
+从某种角度来看都一样是“今年”。%N

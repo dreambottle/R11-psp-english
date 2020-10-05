@@ -50,7 +50,7 @@ def main():
     t_line = t_line.strip()
     result_lines.append(t_line)
     
-    jp_match = jp_pattern.match(t_line);
+    jp_match = jp_pattern.match(t_line)
     if (jp_match and jp_match.group(3) != "" and \
           not target_lines[i+1].startswith(b";dupe:")):
       en_match = current_dict.pop(jp_match.group(3), None)
@@ -65,7 +65,7 @@ def main():
   for k, v in current_dict.items():
     f_target.write(k + b"\n" + v + b"\n\n")
 
-  f_target.close();
+  f_target.close()
 
 if __name__ == '__main__':
-  main();
+  main()

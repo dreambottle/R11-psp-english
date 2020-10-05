@@ -1,6 +1,7 @@
-TIP031
+﻿TIP031
 標本
 Sample
+样本
 paragraph_count:1
 init_addr:7848
 pc_index:TIP_036
@@ -17,3 +18,9 @@ pc_index:TIP_036
 #EN#1
 A statistics term, meaning a subset of a population which is used for collecting information; may or may not be representative of the population as a whole.
 
+#CN#1
+统计过程中，%N
+如果不对某一群体（母群体）%N
+的所有个体进行普查%N
+而只是取出少数个体进行抽查时，%N
+被选择的那些个体即为样本。%N

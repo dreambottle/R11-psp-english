@@ -1,6 +1,7 @@
-TIP045
+﻿TIP045
 デウス・エクス・マキナ
 Deus Ex Machina
+解围之神
 paragraph_count:2
 init_addr:794c
 pc_index:TIP_050
@@ -38,3 +39,22 @@ Frequently seen in the Greek tragedies of Euripides, whose conclusions were ofte
 appearing from above and being lowered onto the stage via a mechanism similar to a crane.%N
 Aristotle, in his writings on aesthetics, argued that all the elements of a story should arise internally (naturally and necessarily), following up the previous actions in the play, and opposed the use of this device, saying that the sudden deus ex machina appearance of a previously unseen character in the middle of the play (contingent on the needs of the plot) was poor storytelling.
 
+#CN#1
+当戏剧或文字故事的剧情发展受到局限%N
+或难以导向结局时，%N
+无必然性地登场并解决剧情问题的一种角色，%N
+或者用来指称这种技巧，%N
+也可称作机械装置操控的神明。%N
+欧里庇得斯常常在希腊悲剧中使用的手法，%N
+因为使用类似起重机的机械%N
+让扮演神明的角色登场而得名。%N
+
+#CN#2
+依照亚里士多德的美学观点，%N
+一个故事里的各种要素之间%N
+必须具有严格的因果关系（必然性），%N
+无中生有的状况（偶然性）%N
+只能在故事的序盘发生，%N
+所以会让故事里突然出现全新角色的这个手法%N
+就被当作违背剧本编写原则的杂质%N
+而被亚里士多德摒弃了。%N

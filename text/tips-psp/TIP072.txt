@@ -1,6 +1,7 @@
-TIP072
+﻿TIP072
 量子コンピューター
 Quantum Computer
+量子计算机
 paragraph_count:1
 init_addr:7b50
 pc_index:TIP_077
@@ -24,3 +25,14 @@ A computer which creates a superposition of two states as a single element and p
 (A von Neumann computer can only perform a single calculation per element.)%N
 Because of this, if there are ten elements, the number of calculations it can perform simultaneously rises to 2^10 (1024). As more elements are added, the computational power grows dramatically. The speed this computer boasts of can truly be called wondrous.
 
+#CN#1
+在同一个元件上制造两个重叠的不同状态，%N
+利用这两个不同的状态来进行计算。%N
+（在冯诺依曼型架构的电脑中，%N
+一个元件同一时间只能进行一次运算。）%N
+因此，如果有十个元件，%N
+同时可以进行的运算次数%N
+就可以增加2的10次方倍（1024倍）。%N
+只要元件数量增加，%N
+计算能力就会急剧地向上增长。%N
+可以说是一种以惊人的计算速度为特征的电脑。%N

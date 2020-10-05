@@ -1,826 +1,1112 @@
 
 黄泉木「落ち着いたか？」%K%P
 Have you calmed down?
+黄泉木「冷静下来了吗？」
 
 こころ「はい……」%K%P
 Yes...
+心「嗯……」
 
 散々はしゃいだ後は、たちまち気恥ずかしくなる。%K%P
 After my outburst ended, I felt embarrassed right away.
+闹了个够之后，我立刻就觉得难为情了。
 
 少し気まずい。%K%P
 It was a little awkward.
+有些尴尬。
 
 黄泉木は半分照れたような、半分呆れたような様子で壁を見つめている。%K%P
 Yomogi stared at the wall, seemingly half shy and half shocked.
+黄泉木用有些害羞，又有些诧异的表情盯着墙看。
 
 小屋の中に、しばらく沈黙が続いた。%K%P
 Inside the cabin, the silence continued.
+小屋中，沉默持续了一段时间。
 
 カモミールティの最後のひと口を飲み干すと、やることがなくなった。%K%P
 I drank the last of the chamomile tea, and found myself with nothing else to do.
+我喝完最后一口洋甘菊茶，也没什么能做的事了。
 
 こころ「あの……」%K%P
 Um...
+心「我说……」
 
 黄泉木「抱きつき禁止」%K%P
 Clinging is prohibited.
+黄泉木「不准再抱了」
 
 もしかして、けっこう根に持つタイプだろうか。%K%P
 Perhaps he was the type to hold a grudge.
+难道说他这个人很记仇？
 
 こころ「そうじゃなくって」%K%P
 That's not it!
+心「不是啊」
 
 黄泉木「んん？」%K%P
 Hmm?
+黄泉木「嗯？」
 
 こころ「どうするんですか、これから？」%K%P
 What are we going to do from now on?
+心「以后该怎么办呢？」
 
 黄泉木「どうする、って」%K%P
 What, you say?
+黄泉木「“怎么办”？」
 
 こころ「ずっと、この小屋にいるわけにいかないでしょう」%K%P
 It's not like we can stay in this cabin forever, right?
+心「总不能一直呆在这个小屋里面吧」
 
 こころ「なにかいい方法ありますよね？　黄泉木さん、プロの登山家なんだし」%K%P
 You must have some good ideas, right? You're a pro mountain climber after all, Yomogi-san.
+心「一定有好办法的吧？黄泉木先生是职业登山家呢」
 
 黄泉木は肩をすくめた。%K%P
 Yomogi shrugged his shoulders.
+黄泉木耸了耸肩。
 
 こころ「ここがどこか、わからないんですか？　たとえば、前に来たことのある山とか……」%K%P
 Don't you know where we are? For example, a mountain you've visited in the past...
+心「这里是哪里，你不知道吗？会不会是以前攀登过的山之类的……」
 
 黄泉木「そんな偶然があればいいんだが……残念ながら、あの吹雪じゃ、場所の特定は……」%K%P
 I'd be happy if a coincidence like that happened... but unfortunately, in that snowstorm, finding out the specific location was...
+黄泉木「有这么巧就好了……很可惜，下那么大的暴风雪，无法确定这里的位置……」
 
 こころ「そう……ですよね……」%K%P
 That's... right...
+心「也对……呢……」
 
 こころ「この小屋には、なにかないんですか？　地図とか」%K%P
 Isn't there anything we can use in this cabin? Like a map?
+心「这个小屋里有吗？地图什么的……」
 
 黄泉木「さんざん探したよ」%K%P
 I've already searched everywhere.
+黄泉木「早就找遍了」
 
 こころ「…………」%K%P
 ......
+心「……」
 
 私は途方に暮れてしまう。さっきははしゃいでしまったけど、予想以上に絶望的な状況かもしれない。%K%P
 I was at a loss. I was happy before, but our situation might be even more hopeless than I imagined.
+已经走投无路了。刚才还闹得那么凶，没想到情况比想象中还要令人绝望。
 
 なにか、手がかりになるようなものはないかどうか、自分のポケットの中を探ってみた。%K%P
 I searched in my pocket for anything that might serve as a clue.
+我开始翻自己的口袋，想找找看有没有能成为线索的东西。
 
 出てきたのはボイスレコーダー（ＶＲ）ぐらいだ。%K%P
 All I found was a voice recorder (ＶＲ).
+能找到的只有一个录音机（ＶＲ）。
 
 当然だろう。私の持ち物に、この小屋の場所の手がかりとなるものがあったら、逆に怖い。%K%P
 I guess that was to be expected. After all, if something I'd been carrying had turned out to be a clue about this cabin, it'd just be scary.
+这也是当然。我的行李里要是有能确认小屋位置的工具，那才奇怪呢。
 
 再生リストを呼び出すとＤＡＴＡ１とＤＡＴＡ２だけしか入っていなかった。%K%P
 The playback display only reads ＤＡＴＡ１ and ＤＡＴＡ２.
+我打开播放菜单，里面只有ＤＡＴＡ１和ＤＡＴＡ２。
 
 自分で吹き込んだのだから内容は知っているが、なんとなくＤＡＴＡ１を再生してみる。%K%P
 Having recorded ＤＡＴＡ１ myself, I already know what was on it, but I played it back even so.
+因为是自己录进去的，所以内容当然也都知道，不过我还是试着播放了ＤＡＴＡ１。
 
 『Я　чайка』%K%P
 "Я　чайка"
+“Я　чайка”
 
 『『私はカモメ』』%K%P
 "I'm a seagull."
+“‘我是海鸥’”
 
 『これは世界初の女性宇宙飛行士ワレンチナ・テレシコワの言葉だ』%K%P
 "These were the words uttered by the first woman in space, Valentina Tereshkova."
+“这句话出自全球第一位女性宇航员瓦莲京娜·捷列什科娃之口。”
 
 『旧ソ連の宇宙船ヴォストーク６号に乗り込んだ彼女は、ひとり、完全な静寂と虚無に支配された宇宙空間を漂いながら……』%K%P
 "All alone aboard the former Soviet Union spaceship Vostok 6, floating in the void of space, a place of complete silence and emptiness..."
+“独自一人乘入前苏联宇宙飞船东方６号的她，漂浮在被完全的静寂和虚无支配的宇宙空间中……”
 
 私の声だ。当たり前だけど。%K%P
 It was my voice. Although that was obvious.
+是我的声音。理所当然。
 
 ……と、黄泉木が懐からなにか機器らしき物を取り出した。%K%P
 ...And then, Yomogi too took out something that appeared to be a machine from his breast pocket.
+……这时，黄泉木从怀中取出了一个像机器一样的东西。
 
 しばらくそれをジッと見つめ、小さく首を振ってテーブルの上にゴトリと置いた。%K%P
 While continuously staring at it, he shook his head slightly and laid it on the table.
+对着它凝视了一会儿，摇了摇头，将它丢在桌上。
 
 最初、それは腕時計かと思った。%K%P
 At first, I thought it was a wristwatch.
+刚开始，我以为那是个手表。
 
 しかし時計にしては少し大きい。それにゴテゴテとした付属物がいろいろ付いている。%K%P
 But it was a little bigger than an ordinary watch. It also had so many different attachments that it looked like it would be cumbersome.
+但比手表的尺寸大了些。而且还装有许多附件。
 
 何かの端末だろうか？%K%P
 Was it some sort of computer terminal?
+是某种终端机吗？
 
 液晶画面には、なんだかよく分からない数字が羅列されている。%K%P
 The liquid crystal display was showing figures that I didn't know the meaning of.
+液晶画面上，罗列着我看不懂的数字。
 
 こころ「なんです？」%K%P
 What's that?
+心「那是什么？」
 
 黄泉木「%TS007ＧＰＳ%TE。まあ、簡単に言えば、今いる場所の座標を表示してくれる機械かな」%K%P
 A %TS007GPS%TE. Well, simply put, it's a device that shows the coordinates of our current position.
+黄泉木「%TS007ＧＰＳ%TE。简单来说就是用来标示所处位置坐标的仪器」
 
 こころ「ええっ？　すごいじゃないですか」%K%P
 Huh? Isn't that great?!
+心「唉？很棒啊」
 
 黄泉木「使えれば、ね」%K%P
 It would be, if it worked.
+黄泉木「能用的话是很棒啊」
 
 こころ「…………ということは」%K%P
 ......Meaning...
+心「……就是说……」
 
 黄泉木「ブッ壊れてる」%K%P
 Thing's busted.
+黄泉木「已经坏了」
 
 私はがっくりと肩を落とした。%K%P
 Heartbroken, I dropped my shoulders.
+我失望地垂下双肩。
 
 黄泉木「たぶん、墜落のショックでイカレたんだろう。動くことは動くけどな、デタラメな座標ばっかり表示してるんだ」%K%P
 The shock of the crash was probably what did it in. It isn't completely broken, but it only displays messed-up coordinates.
+黄泉木「可能是坠落时撞坏的吧。显示倒是没问题，但是显示的坐标都是乱的」
 
 こころ「直したり、とかは……」%K%P
 As for fixing it...
+心「能修好吗……」
 
 黄泉木「できるならとっくにやってるよ」%K%P
 If I could do that, I would have a while ago.
+黄泉木「能修好的话早就修了」
 
 黄泉木「あー、けっこう高かったんだけどな、これ」%K%P
 Ahh, and this thing was pretty expensive too.
+黄泉木「唉，还挺贵的呢，这个」
 
 黄泉木はため息をついている。%K%P
 Yomogi let out a sigh.
+黄泉木叹了口气。
 
 私はイスに座り直した。%K%P
 I sat back down in the chair.
+我重新在椅子上坐好。
 
 壊れてて使い物にならない物を、思わせぶりに見せたりなんかしないでほしい。%K%P
 I wish he wouldn't thoughtlessly show me broken and useless things.
+既然已经不能用了，就不要煞有介事地把它拿出来嘛。
 
 期待した分、その反動で失望はより大きくなる。%K%P
 The momentary hope I'd had caused my despair to return stronger than ever.
+期望越大，失望就越大。
 
 私は少し口を尖らせつつ、皮肉るように呟いた。%K%P
 My tongue sharpened with disappointment, I began to murmur sarcastically.
+我稍稍撅起嘴，挖苦一般地说道。
 
 こころ「なんでそんな物、持ってるんですか？」%K%P
 Then why are you still holding onto something like that?
+心「你干嘛带着这种东西？」
 
 黄泉木「つい癖でね。いつも持ち歩いてたからな」%K%P
 It's an old habit. I'm always carrying it around, after all.
+黄泉木「成习惯了。因为总是随身带着」
 
 苦笑する黄泉木を見て、私は首を傾げる。%K%P
 Yomogi looked at it with a bitter smile as I tilted my head.
+望着苦笑的黄泉木，我歪了歪脑袋。
 
 変なおじさんだ。普通の人はこんな物持ち歩かない。%K%P
 What a weird old guy. A normal person wouldn't carry something like that around.
+奇怪的大叔。普通人才不会把这种东西带在身上呢。
 
 黄泉木「ま、場所については僕もあれこれ考えていたんだが」%K%P
 Well, as to our location, I've considered a few things.
+黄泉木「关于我们的所在地，我也考虑了很多」
 
 こころ「ええ」%K%P
 Yes?
+心「嗯」
 
 黄泉木「墜落する前までの状況を思い出してみたんだ」%K%P
 I've tried to remember the situation before the crash.
+黄泉木「我试过回想坠落之前的情况」
 
 黄泉木「羽田を飛び立ってから墜落するまで、２時間は経ってなかったと思う」%K%P
 I don't think two hours passed from the time we took off from Haneda to the crash.
+黄泉木「从羽田机场起飞到飞机坠落，中间应该不超过两个小时」
 
 こころ「１時間から１時間半くらい…ですね」%K%P
 It was about one to one and a half hours... right?
+心「大约是一个小时到一个半小时之间……吧？」
 
 黄泉木「飛行ルートから推測すれば、ここは東北の山の中って可能性が高い」%K%P
 If I were to guess from the flight's course, I'd say there's a high chance that we're on a mountain in Tohoku.
+黄泉木「从航线推算，这里很有可能是东北地区的山里」
 
 黄泉木「青森、秋田、岩手……そんなところだろう」%K%P
 Aomori, Akita, Iwate... most likely somewhere around there.
+黄泉木「青森，秋田，岩手……八九不离十吧」
 
 ダメだ。漠然としすぎている。%K%P
 It's no good. That's too vague.
+不行。太含糊了。
 
 黄泉木「空気が薄いから標高は高いと思う」%K%P
 The air is thin, so I think we're pretty high up.
+黄泉木「这里空气稀薄，海拔应该很高」
 
 黄泉木「救助が来るのは、しばらく時間がかかるかも知れない」%K%P
 It'll probably take a while for our rescuers to arrive.
+黄泉木「救援恐怕还要花上一段时间才能到达」
 
 そう言ってから、黄泉木は私を安心させるためか少し笑った。%K%P
 After saying that, Yomogi smiled as if to comfort me.
+可能是想让我安心吧，这么说着，黄泉木稍微笑了笑。
 
 黄泉木「そう、心配するな」%K%P
 Hey, don't worry.
+黄泉木「别太担心了」
 
 黄泉木「小屋があるってことは……ここは、人が来る場所ってことなんだから」%K%P
 The fact that there's a cabin... it means that this is a place where people come.
+黄泉木「这里有小屋……也就是说这里会有人来」
 
 それを聞いて、私はかろうじて笑みを返した。%K%P
 Hearing that, I mustered a thin smile in return.
+听到这里，我也勉强还给他一个笑脸。
 
 もちろん、黄泉木の気休めを聞いて安心したわけじゃない。%K%P
 Of course, I wasn't reassured by what Yomogi said.
+当然，我并没有因为听到黄泉木的安慰而安下心来。
 
 やはり状況はかなり悪いようだ。%K%P
 As I thought, the situation was pretty bad.
+说到底，情况还是很糟糕。
 
 こころ「……本当にここ、日本なんでしょうか？」%K%P
 ...Is this place really in Japan?
+心「……这里真的是日本吗？」
 
 黄泉木「変なこと言うなぁ。なんでそんなこと？」%K%P
 That's an odd thing to say. Why do you ask?
+黄泉木「很奇怪的意见啊。为什么这么说？」
 
 こころ「……なんだか、現実じゃないみたいで」%K%P
 ...Somehow, it feels like this isn't reality.
+心「……总觉得，这里不是现实」
 
 黄泉木「都会暮らしのお嬢さんじゃ、そう思うのも無理ないかもな」%K%P
 For a lady from the big city, it's not odd that you'd think that.
+黄泉木「城里长大的大小姐会这么想也正常啊」
 
 いたずらっぽい口調に、私は少しムッとする。%K%P
 Hearing his slightly teasing tone angered me just a little.
+他那恶作剧般的口吻令我有些不爽。
 
 それじゃまるで、私がひとりじゃなにもできないみたいじゃない。%K%P
 In that case, it was like I was totally helpless by myself, wasn't it?
+说得就好像我一个人什么也做不到。
 
 ゆに「ここがどこか、ぼく、知ってるよ」%K%P
 I know where this place is.
+悠尼「我知道这里是哪里啊」
 
 ゆにが、もぞもぞとベッドから身体を起こした。%K%P
 Yuni slowly got up from the bed.
+悠尼慢慢地从床上爬起来。
 
 少し寝惚けまなこのまま、確信に満ちた口調で言う。%K%P
 Though he still seemed partly asleep, he spoke with conviction as he rose.
+他依然一副睡眼惺忪的样子，却用充满确信的口吻说道。
 
 ゆに「朱倉岳っていうんだ」%K%P
 It's called Mount Akakura.
+悠尼「这里叫做朱仓岳」
 
 こころ「……え？」%K%P
 ...Huh?
+心「……唉？」
 
 私は、驚いて、ゆにの顔を見た。%K%P
 I looked at Yuni's face, surprised.
+我吃惊地望着悠尼。
 
 黄泉木も、戸惑ったように顔をしかめている。%K%P
 Yomogi was wearing a perplexed expression as well.
+黄泉木也困惑地皱着眉头。
 
 黄泉木「……どうしてわかるんだ？」%K%P
 ...How do you know that?
+黄泉木「……你怎么知道的？」
 
 ゆには唇の端を薄くほころばせた。%K%P
 Yuni's thin lips curled into a smile.
+悠尼的嘴角现出了微笑。
 
 メガネを外したその表情は、今まで以上に幼く見える。%K%P
 His face without glasses was the most childish I'd ever seen it.
+摘去眼镜的他露出了幼稚的表情。
 
 なのに遠い目をして、すべてを悟りきったように笑っている。%K%P
 Even so, with a distant look in his eyes, he laughed as if he was one who understood everything.
+但却目光深远，如同参透一切一般地笑着。
 
 その目付きは、なんだか普通じゃないように思えて……背筋がゾクリとした。%K%P
 I thought his facial expression was strange somehow... my spine suddenly tingled.
+那眼神让人觉得他绝非常人……这让我不由地打了个冷颤。
 
 こころ「ゆに……？」%K%P
 Yuni...?
+心「悠尼……？」
 
 ゆには答えず、フラフラと立ち上がった。%K%P
 Yuni stood up unsteadily, without answering.
+悠尼没有回答，而是摇摇晃晃地站了起来。
 
 おぼつかない足取りで、玄関へ向かう。%K%P
 Walking uncertainly, he turned to the entrance.
+他步履蹒跚地往门口走去。
 
 こころ「ゆに……！」%K%P
 Yuni...!
+心「悠尼……！」
 
 黄泉木「おい、どこへ……」%K%P
 Hey, where are you...
+黄泉木「喂，你去哪里……」
 
 ゆに「ついて……おいでよ」%K%P
 Come... follow me.
+悠尼「跟我……来吧」
 
 ゆにはまだ笑っている。%K%P
 Yuni smiled again.
+悠尼依旧在笑。
 
 顔は私達の方を向いているのに、目は私達を見ていない。%K%P
 He was facing us, but his eyes weren't focused on us.
+他的脸虽然朝向这边，但双眼却没有在看我们。
 
 どこを見ているの？%K%P
 Where is he looking?
+他在看哪里？
 
 ゆに「教えてあげる……」%K%P
 I'll tell you...
+悠尼「我来告诉你……」
 
 ゆにが扉を開いた。%K%P
 Yuni opened the door.
+悠尼打开了门。
 
 強烈な風と雪が、小屋の中に舞い込んでくる。%K%P
 Strong wind and snow blew into the cabin.
+强烈的风雪闯进小屋。
 
 ゆにの姿が、白い景色の中へ消えていく。%K%P
 Yuni's figure disappeared into the white landscape.
+悠尼的身影，逐渐消失在白色的风景中。
 
 黄泉木「おい、待て！」%K%P
 Hey, wait!
+黄泉木「喂，等等！」
 
 黄泉木に続いて私も後を追った。%K%P
 Yomogi went after him, with me following right behind.
+我跟着黄泉木追过去。
 
 吹雪がもの凄い勢いで私の頬を打つ。%K%P
 The snowstorm hits my cheeks with amazing force.
+猛烈的暴风雪打在我脸上。
 
 ――痛い。%K%P
 ――Pain.
+——很痛。
 
 感じるのは、冷たさよりも――痛さ。%K%P
 More than the cold, what I felt was――pain.
+感受到的与其说是冷，不如说是——痛。
 
 前が見えない。目を開いていられない。%K%P
 I couldn't see in front of me. My eyes wouldn't open at all.
+看不见前方。根本睁不开眼。
 
 こころ「ゆに！！」%K%P
 Yuni!!
+心「悠尼！！」
 
 叫んでみた。だが声は風にかき消される。%K%P
 I tried to yell. But my voice was erased by the wind.
+我叫道。但是声音被风声掩盖了。
 
 こころ「ゆに！！」%K%P
 Yuni!!
+心「悠尼！！」
 
 と、私の手を、なにかが引っ張った。%K%P
 And then, something pulled at my hand.
+突然，我的手被什么东西拽住了。
 
 ゆにが私を見上げていた。%K%P
 I looked up and saw Yuni.
+悠尼正仰望着我。
 
 ゆに「ほら」%K%P
 There.
+悠尼「看」
 
 小屋の、玄関脇を指さしている。%K%P
 His finger pointed to beside the cabin's entrance.
+他指着小屋大门的门框边。
 
 何事かと目を凝らしてみると……%K%P
 I saw something with my freezing eyes...
+我沿着他指的方向看了过去……
 
 %N
+
 %LC『朱倉岳緊急避難小屋』%K%P
 "Mount Akakura Emergency Shelter Cabin."
+“朱仓岳紧急避难小屋”
 
 黄泉木「は……はは……はははは」%K%P
 Ha... haha... hahahaha!
+黄泉木「哈……哈哈……哈哈哈……」
 
 黄泉木「大したカラクリだったな。吹雪のせいでまったく気づかなかった。大手柄だ」%K%P
 That was quite a trick. I didn't notice at all because of the snowstorm. You got me!
+黄泉木「真是妙计。就因为那暴风雪，我居然没有发现。干得漂亮」
 
 ゆに「へへーん」%K%P
 Heheh.
+悠尼「嘿嘿」
 
 こころ「もう！　ゆにったらびっくりさせないでよ」%K%P
 Geez! Yuni, don't scare me like that!
+心「真是的！悠尼你不要吓我呀」
 
 外に出たわずかの間に、身体がすっかり凍えてしまった。震えた声しか出せない。%K%P
 In the short time I had been outside, my body had become frozen through and through. It was impossible to keep the shivering out of my voice.
+仅仅是这么短的时间，身体已经冻僵了。连说话的声音都在颤抖。
 
 こびりついた雪を払うのも忘れて、私はストーブに駆け寄った。%K%P
 Forgetting to wipe off the snow that clung to me, I rushed to the stove.
+顾不上掸去身上的积雪，我径直跑向暖炉。
 
 ゆに「何がー？」%K%P
 What do you mean?
+悠尼「怎么吓到你了？」
 
 こころ「いいの。なんでもない……」%K%P
 Never mind. It's nothing...
+心「算了。没什么……」
 
 ゆには目をしょぼつかせて、私にすがりついてきた。視線が泳いでいる。%K%P
 Yuni squinted and followed me. His eyes seemed to swim.
+悠尼眨着眼睛靠了过来。视线游离不定。
 
 ゆに「ねえ、それよりメガネー。ぼくのメガネー」%K%P
 Hey, before that, glasses. My glasses.
+悠尼「喂，我的眼镜。我的眼镜」
 
 こころ「あ、ごめん」%K%P
 Oh, sorry.
+心「啊，不好意思」
 
 私はテーブルからメガネを持ってきて彼にかけてあげた。%K%P
 I picked up the glasses from the table and returned them to him.
+我从桌子上把眼镜拿来给他戴上。
 
 黛「何？　なんの騒ぎ？」%K%P
 What? What's all the fuss about?
+黛「怎么了？在吵什么？」
 
 黛が起き出してきていた。%K%P
 Mayuzumi had gotten up.
+黛起来了。
 
 場所がわかったことを黄泉木が説明する。%K%P
 Yomogi explained to her about figuring out where we were.
+黄泉木告诉她已经知道了现在所在的位置。
 
 黛「それなら、脱出できるのね」%K%P
 That means we can escape now, right?
+黛「就是说，有办法逃离这里了？」
 
 黄泉木「脱出？」%K%P
 Escape?
+黄泉木「逃离？」
 
 黛「場所がわかったんでしょ。下山できるじゃないの」%K%P
 We know where we are, right? We can climb down now, can't we?
+黛「不是知道位置了吗？这不就能下山了吗？」
 
 いかにも、『なにを当たり前なことを』という感じで言う。%K%P
 It certainly felt like what she said was overly obvious.
+俨然一副理所当然的架势。
 
 黄泉木「いや、無理だ」%K%P
 No, it's impossible.
+黄泉木「不，办不到」
 
 黛「なんでよ！」%K%P
 Why?!
+黛「为什么啊！」
 
 黄泉木「わかったのは山の名前だけだ。僕はここに来たこともない」%K%P
 All we know is the name of the mountain. I've never been here before.
+黄泉木「知道的只有这座山的名字而已。我以前又没来过」
 
 黄泉木「下山ルートはわからない」%K%P
 We don't know the route down.
+黄泉木「并不清楚下山路线」
 
 黛は、ゆにの方に顎をしゃくった。%K%P
 Mayuzumi pointed in Yuni's direction with her chin.
+黛冲悠尼扬了扬下巴。
 
 黛「そこのガキが、コンパス持ってるんでしょ！？」%K%P
 That brat over there has a compass, right?!
+黛「那个小鬼不是有指南针吗！？」
 
 黛「それを使えば……」%K%P
 If we use that...
+黛「用那个不就……」
 
 どうやら、さっきの私と黄泉木の話に、しっかりと聞き耳を立てていたらしい。%K%P
 It seems the conversation between Yomogi and myself earlier had reached her ears all right.
+看样子，刚才我和黄泉木对话的时候她一直在听。
 
 だが黄泉木は首を振り、苦々しい様子で玄関の戸を睨んだ。%K%P
 However, Yomogi shook his head and glared balefully at the doorway.
+但是黄泉木摇了摇头，用别扭的表情瞪着大门。
 
 黄泉木「コンパスごときでどうにかなれば、苦労しないさ」%K%P
 If we could do something just because we have a compass, we wouldn't be having any trouble.
+黄泉木「光靠个指南针就能行的话，才不会这么伤脑筋呢」
 
 黄泉木「この吹雪の中を歩き回るのは自殺行為だ」%K%P
 Walking around in that blizzard would be suicide.
+黄泉木「光靠个指南针就能行的话，才不会这么伤脑筋呢」
 
 黄泉木「おとなしく救助を待つのが得策だ」%K%P
 Waiting quietly to be rescued is the best plan.
+黄泉木「老老实实等待救援才是上策」
 
 黛「フン……」%K%P
 Hmph...
+黛「哼……」
 
 黛は不機嫌そうに鼻を鳴らし、また２段ベッドの上段にのぼっていってしまった。%K%P
 Displeased, Mayuzumi let out a snort, and again retreated to the top bunk.
+黛不快地哼了声鼻子，又爬到了双层床的上铺。
 
 ふて寝の再開、かな。%K%P
 Continuing her nap, maybe.
+看样子又开始睡赌气觉了。
 
 その気持ちもわかるような気がした。%K%P
 I kind of understood how she felt.
+那种心情我倒是可以理解。
 
 私達のいる山の名前がわかったところで、なんの解決にもならないのだから。%K%P
 We now know the name of the mountain we're on, but that didn't lead to any sort of solution at all.
+就算明白了我们所在的山的名字，也无济于事。
 
 他になにかできることはないか、さらに考えてみた。%K%P
 I continued to try to think of something else we could do.
+我继续考虑着有没有其它能做的事情。
 
 だが、私が考えつくような程度のことは、もうほとんど黄泉木が試していた。%K%P
 However, everything I thought of, Yomogi had already tried.
+但是，我能想到的，黄泉木几乎都已经尝试过了。
 
 麓との連絡手段はないらしい。%K%P
 It seems there was no method to establish contact with the base of the mountain.
+看样子没有和山脚进行联络的手段。
 
 幸い、小屋の地下倉庫には薪のストックがある程度は残っているようだ。%K%P
 Fortunately, the cabin's basement still had a decent stock of firewood remaining.
+所幸小屋的地下仓库里还储存着一些柴火。
 
 火がおこせるのならば水はなんとかなる。雪を溶かせばいい。%K%P
 If there's some fire remaining, then we're all right when it comes to water. We just have to melt some snow.
+有火的话，水的问题也就解决了。只要把雪融化就行了。
 
 少量だが、食糧も置いてあった。%K%P
 It wasn't a great amount, but there was a supply of food stored in there as well.
+粮食也有少量库存。
 
 ４人でも節約すれば４日は持ちこたえられる、という黄泉木の言葉に私は勇気づけられた。%K%P
 If we ration it, with four people we can endure for four days, said Yomogi in an attempt to keep my courage up.
+黄泉木说节约的话可以撑四天，这对我是个不小的鼓舞。
 
 あとは、吹雪がやみ、救助隊がやって来るのを辛抱強く待つしかない。%K%P
 After that, all we can do is wait patiently for the blizzard to stop and the rescue team to arrive.
+接下来就只有耐心等待暴风雪的停止和救援队的到来。
 
 ゆに「ねーねー、お腹すいたよ」%K%P
 Hey, hey, I'm hungry.
+悠尼「喂喂，我肚子饿了」
 
 黄泉木「そうだな。メシにしよう」%K%P
 That's right. Let's eat.
+黄泉木「是啊。开饭吧」
 
 こころ「あ、手伝います」%K%P
 Ah, I'll help.
+心「啊，我来帮忙」
 
 黄泉木「はは、手伝うことなんてなにもないよ」%K%P
 Haha, there's nothing you can really help with.
+黄泉木「哈哈，没什么好帮的啊」
 
 笑いながら、部屋の隅に置いてあった段ボールへと歩み寄っていった。%K%P
 While laughing, he picked up the cardboard box in the corner of the room.
+他笑着向放在房间一角的纸箱走去。
 
 私も後を追う。%K%P
 I follow behind him.
+我也跟了过去。
 
 ３つほどある段ボールのひとつをのぞき込んでみる。%K%P
 I peeked into one of the three cardboard boxes that were there.
+我向三个纸箱中的一个里面望去。
 
 中には、拳より小さいくらいのパックがいくつも入っていた。%K%P
 Inside were a number of little packages, each smaller than a fist.
+里面有几个比拳头还要小一点的盒子。
 
 %TS008フリーズドライ%TE製の非常食だ。シチューや雑炊、米だけというものもある。%K%P
 They were %TS008freeze-dried%TE emergency provisions. There was stew, seasoned porridge, and rice.
+是%TS008冷冻干燥%TE制成的储备粮。有炖牛肉、菜粥、还有大米。
 
 ひとつを手にとって、賞味期限を調べてみる。全然大丈夫みたいだ。%K%P
 I took one into my hand and checked the expiration date. It seemed to be totally fine.
+我拿起一个，查了查保质期。看来完全没问题。
 
 フリーズドライ食品は、１０年は軽く保つらしい。%K%P
 It seemed freeze-dried food could be preserved for up to ten years.
+冷冻干燥制成的食品，据说至少可以保存十年。
 
 人類の知恵に感謝。%K%P
 I'm thankful for the wisdom of mankind.
+真要感谢人类的智慧。
 
 他にも、定番のカンパンなども見つけた。%K%P
 Besides those, we'd found some hard tack biscuits as well.
+此外，不出意料地，我们还找到了压缩饼干。
 
 少し懐かしくなった私は……。%K%p
 Feeling slightly nostalgic, I....
+稍稍有些怀念的我……
 
 カンパンを食べてみた
 Try eating the hard tack
+吃了一点压缩饼干
 
 やっぱり食べるのはやめた
 I won't eat it after all
+还是不吃了吧
 
 包みを開いて、カンパンをひと口、かじってみた。%K%P
 I opened the packaging and put some of the hard tack into my mouth.
+我打开包装，咬了一口压缩饼干。
 
 味はまったくしない。%K%P
 There was no taste at all.
+一点味道都没有。
 
 口の中の水分が奪われ、ぱさぱさになった。%K%P
 The moisture inside my mouth was sucked away, drying it out completely.
+嘴里的水分被吸收，变得干巴巴的。
 
 こころ「マズ……」%K%P
 Yuck...
+心「难吃……」
 
 非常食だから当たり前か。%K%P
 They were emergency rations, so I guess that was to be expected.
+储备粮嘛，难吃是当然的
 
 黄泉木「おいおい。貴重な食糧なんだからもっと大事にしてくれよ」%K%P
 Hey now, they're our precious rations, so value them more.
+黄泉木「喂喂，这可是珍贵的粮食，要好好珍惜啊」
 
 そうだった。食糧は４日分しかないんだった。%K%P
 That's right. We only have four days' worth of food.
+心「对不起……」
 
 こころ「ごめんなさい……」%K%P
 I'm sorry...
+悠尼「啊～，真羡慕啊，心。我也要！」
 
 ゆに「あー、いいなー、こころん。ぼくも食べたい！」%K%P
 Aaah, lucky you, Kokoron. I want some too!
+黄泉木「不行。这个没收了」
 
 黄泉木「ダメだ。これは没収」%K%P
 No way. This is confiscated.
+悠尼「切。小气鬼」
 
 ゆに「ちぇっ。けちぃ」%K%P
 Tch. Stingy.
+黄泉木把压缩饼干放回了纸箱里。
 
 黄泉木はカンパンを段ボールの中に戻した。%K%P
 Yomogi placed the biscuits back into the cardboard box.
+虽然很想吃，不过想到粮食只够四天的了。
 
 食べてみようかと思ったが、食糧は４日分しかないことを思い出した。%K%P
 I thought I'd try them out, but I remembered that we only had four days' worth.
+一定要好好珍惜。
 
 もっと大事にしないと。%K%P
 We have to value it more.
+我把压缩饼干放回了纸箱里。
 
 私はカンパンを、段ボールの中に戻した。%K%P
 I put the biscuits back into the cardboard box.
+黄泉木从旁边的纸箱里翻出了一个铝箔锅。
 
 横の箱をあさっていた黄泉木が、アルミ箔鍋を引っ張り出した。%K%P
 Yomogi pulled out an aluminum pot from the box beside it.
+看上去很不牢靠，但能用来煮东西就行了。
 
 どことなく頼りないが、温めるだけならそれでじゅうぶんだろう。%K%P
 It seemed somewhat flimsy, but if all we'd be using it for was heating things, then it was just fine.
+黄泉木「帮我去往这个锅里装点雪」
 
 黄泉木「それじゃ、この鍋に雪を入れてきてくれ」%K%P
 Well then, please put some snow into this pot.
+心「明白了」
 
 こころ「わかりました」%K%P
 Got it.
+心「明白了」
 
 ゆに「ぼくが行くー！」%K%P
 I'll go!
+悠尼「我去！」
 
 私の手から、ゆにが鍋を引ったくる。%K%P
 Yuni snatched the pot from my hand.
+悠尼从我手里把锅抢走。
 
 こころ「あ、もう！　ゆに！」%K%P
 Ah, geez! Yuni!
+心「啊，真是的！悠尼！」
 
 私の声を無視して、ゆには軽い足取りで玄関へ向かった。%K%P
 Ignoring my cry, Yuni walked nimbly to the entrance.
+门一打开，冰冷的暴风又冲进屋里。
 
 ドアを開けると、また冷たい突風が吹き込んでくる。%K%P
-When he opened the door, another freezing gust blew in. 
+When he opened the door, another freezing gust blew in.
+门一打开，冰冷的暴风又冲进屋里。
 
 黛「寒いぞ！」%K%P
 It's cold!
+黛「很冷啊！」
 
 ベッドの中から、黛が文句を言う。%K%P
 Mayuzumi complained from her bed.
+黛在床上发着牢骚。
 
 小屋の中を、雪とともに風が渦を巻いた。%K%P
 Inside the cabin, the wind swirled the snow it was carrying around.
+风卷着雪刮进小屋。
 
 その風に煽られて、段ボール箱の陰に落ちていた新聞紙が宙を舞った。%K%P
 Carried by the wind, a newspaper flew out of a box and fluttered in the air.
+被这阵风一吹，落在纸箱后面的报纸飞舞起来。
 
 私はそれを、何気なく拾い上げた。%K%P
 I picked it up without a second thought.
+我随手将它拾起。
 
 そして、その中の記事に目が釘付けになった。%K%P
 And then, one of the articles inside caught my eye.
+然后，其中的一篇报道牢牢地吸引住了我的视线。
 
 %X070２０１１年（平成２３年）７月４日（月曜日）%K%P
 July 4th (Monday) 2011 (Heisei 23)
+２０１１年（平成２３年）７月４日（星期一）
 
 %N%N%N%N%N
+
+
 %LC朱倉岳に男女３人の腐乱死体%K%P
 Three Decomposed Male and Female Corpses Found on Mount Akakura
+朱仓岳惊现男女三人的腐尸
 
 %N%N%N%N%N
+
+
 %LCＨＡＬ墜落事故の不明者か？%K%P
 Missing passengers from the HAL crash?
+疑为ＨＡＬ坠机事故的失踪者
 
 喉がカラカラになっていた。%K%P
 My throat went dry.
+我的喉咙发干。
 
 心臓が早鐘を打つ。治まらない。%K%P
 My heart was pounding like a hammer. It wouldn't calm down.
+心跳加速。情绪无法平息。
 
 ……変だ。%K%P
 ...It's strange.
+……奇怪。
 
 何かが変だ。この新聞は、どこかがおかしい。%K%P
 Something was strange. There was something wrong with this newspaper.
+总觉得奇怪。这张报纸有问题。
 
 日付……。%K%P
 Date....
+日期……
 
 そう、日付だ……。%K%P
 Yes, it was the date....
+对，是日期……
 
 今日は、平成２３年――つまり２０１１年の１月１１日のはず。%K%P
 Today's date is in Heisei 23――in other words, it should be January 11, 2011.
+今天应该是平成２３年——也就是２０１１年的１月１１日。
 
 なのに、この新聞の日付は『２０１１年７月４日』になっている。%K%P
 However, this newspaper's dated "July 4, 2011."
+可是，这张报纸的日期却是２０１１年７月４日。
 
 そんなはずはない。ありえない。%K%P
 That shouldn't be. It's impossible.
+不可能。没道理的。
 
 呼吸が苦しい。%K%P
 My breathing became pained.
+我呼吸困难。
 
 ゼイゼイと私の喉が鳴る。%K%P
 Wheezing sounds came from my throat.
+喉咙呼哧呼哧地响着。
 
 まるで自分の身体が自分でないようだ。%K%P
 It was like my body wasn't my own.
+身体变得好像不属于自己一样。
 
 新聞を持つ手が震える。%K%P
 The hand holding the newspaper was trembling.
+握着报纸的手在颤抖。
 
 それでも、私は必死になって記事を読み進めた。%K%P
 Even so, I frantically read the article.
+即使如此，我还是拼命地读了下去。
 
 今年１月、青森県%TS107朱倉岳%TEにＨＡＬ１８便が墜落し２７人が死亡した事故に関連して、%K
 The Aomori prefectural police announced the recent discovery of the remains of three men and women on Aomori's %TS107Mount Akakura%TE,
+关于今年１月ＨＡＬ１８次航班于青森县%TS107朱仓岳%TE坠落导致２７人死亡的事故，青森县警方对外发表声明，又有三名男女的遗体被收容。
 
 青森県警は新たに男女３人の遺体を収容したことを発表した。%K%N
 believed to be victims of the crash of Flight HAL18, which claimed 27 lives last January.
+关于今年１月ＨＡＬ１８次航班于青森县朱仓岳坠落导致２７人死亡的事故，青森县警方对外发表声明，又有三名男女的遗体被收容。
 
 収容された遺体は、すでに死後６ヶ月が経過しているために腐乱が激しく、まだ身元をはっきりと断定できていない、としながらも、%K
 As they had undergone extensive decomposition over a period of six months, the identities of the bodies are unclear,
+三具遗体均在距离朱仓岳避难小屋东方１公里处被发现，遗体上发现多处雪崩造成的裂伤，可以推断三人在坠机之后仍然生存。
 
 ＨＡＬ１８便に乗っていた乗員・乗客のうち、いまだ発見されていなかった残る３人にほぼ間違いないとしている。%K%P
 but they are assumed to be the last three unaccounted for among the missing passengers and crew members on HAL18.
+但是，遗体被发现的地点却偏离了下山路线，青森县警方正对遇难者死亡当天的行踪展开调查。
 
 遺体はいずれも、朱倉岳避難小屋から東へ１ｋｍ離れた場所で見つかっており、%K
 The bodies were discovered 1km east of the Mount Akakura shelter cabin.
+据青森气象站报告，当时该地点周边的雪崩发生在２０１１年１月１７日清晨６时５３分。
 
 遺体には雪崩に巻き込まれた際に受ける裂傷も多数確認されていることから、３人は墜落直後は生存していたものと考えられる。%K%N
 It has been confirmed that the three bodies, which sustained a large number of lacerations in an avalanche days after the crash, are those of the survivors.
+参照朱仓岳避难小屋里留下的痕迹，可以推断三人在坠机后大约生存了七天。
 
 しかし、発見場所は下山ルートからは離れているため、遭難者の死亡当日の足取りについて、青森県警では調査を進めている。%K%P
 However, due to the bodies of the victims being discovered away from the route down the mountain, the Aomori prefectural police investigation into the day of their death will continue.
+在发现这些遗体之后，ＨＡＬ１８次航班坠机事故成为了乘员３１人中死亡３０人的重大事故。
 
 青森気象観測所によると、%K
 According to the Aomori weather observation department,
+据青森气象站报告
 
 この時期に朱倉岳の該当箇所周辺で発生した雪崩は、２０１１年１月１７日午前６時５３分であることがわかっている。%K%N
 an avalanche affecting Mount Akakura and its surrounding area occurred on January 17, 2011, at around 6:53.
+当时该地点周边的雪崩发生在２０１１年１月１７日清晨６时５３分。
 
 朱倉岳避難小屋に残されていた痕跡とも照らし合わせると、３人はおよそ７日間を生き延びたことになる。%K%N
 After analyzing the traces left at the Mount Akakura shelter cabin, it was concluded that those who had used it survived for seven days after the crash.
+参照朱仓岳避难小屋里留下的痕迹，可以推断三人在坠机后大约生存了七天。
 
 １８便の墜落事故では、今回の３人の遺体の発見により、乗員・乗客３１人中、３０人が亡くなるという大惨事となった。%K%P
 The horrific crash of Flight 18, with the discovery of the three bodies, claimed 30 lives out of the 31 crew members and passengers aboard.
+在发现这些遗体之后，ＨＡＬ１８次航班坠机事故成为了乘员３１人中死亡３０人的重大事故。
 
 ３１人中、３０人死亡……。%K%N
 31 passengers, 30 deaths....
+３１人中，３０人死亡……
 
 助かったという唯一の生存者の氏名は――%K%N
 Saved was the sole survivor of the crash――
+唯一获救的生还者姓名是——
 
 %N%N
+
+
 %LC『楠田ゆにくん（１１）』%K%P
 Kusuda Yuni-kun (11)
+“楠田　悠尼（１１岁）”
 
 となっていた。%K%P
 What's happening?
+心「什么啊……这是……？」
 
 こころ「なに……これ……？」%K%P
 What... is this...?
+……这是……？
 
 声がかすれる。全身が震え出す。%K%P
 My voice grows hoarse. My entire body begins to tremble.
+我的嗓音嘶哑。全身不住地发抖。
 
 おかしい。%K%P
 It's weird.
+有问题。
 
 やっぱりこの新聞はおかしい。%K%P
 As I thought, this newspaper is weird.
+这张报纸还是有问题。
 
 黄泉木「おい？　どうしたんだ？　おい！？」%K%P
 Hey? What's wrong? Hey?!
+黄泉木「喂？怎么了？喂！？」
 
 誰かが私を呼んでいる。%K%P
 Someone was calling for me.
+有人在叫我。
 
 その声がやけに遠い。%K%P
 The voice seemed far away.
+声音显得好遥远。
 
 私の肩が揺すられる。%K%P
 My shoulders trembled.
+我的肩膀被人摇着。
 
 私はそれを振り払い、震える指先を紙面に走らせる。%K%P
 I shook that off, but the trembling ran to my fingertips instead.
+我甩开手臂，用颤抖的指尖沿着纸面划下去。
 
 収容された３つの遺体の氏名――%K%N
 The identity of the three discovered bodies――
+被收容的三具遗体的姓名——
 
 氏名は――%K%P
 They are――
+姓名是——
 
 %N
+
+
 『黄泉木聖司さん（３５）』%K%N
 "Yomogi Seiji-san (35)"
+“黄泉木圣司（３５岁）”
 
 %N%N%N
+
+
 『黛鈴さん（２３）』%K%N
 "Mayuzumi Lin-san (23)"
+“黛铃（２３岁）”
 
 %N%N%N
+
+
 『冬川こころさん（２０）』%K%P
 "Fuyukawa Kokoro-san (20)"
+“冬川心（２０岁）”
 
 目の前が真っ暗になる。%K%P
 Everything turns black.
+眼前变得一片漆黑。
 
 頭の芯から、すうっと意識が遠くなっていく。%K%P
 From within the core of my brain, my consciousness recedes to somewhere far, far away.
+脑中的意识逐渐远去。
 
 これは……夢？%K%P
 Is this... a dream?
+这是……梦？
 
 そう……夢だ。%K%P
 Yes... it's a dream.
+没错……是梦。
 
 じゃなければ……じゃなければ……%K%P
 If it wasn't... if it wasn't...
+不然的话……不然的话……
 
 私は……%K%P
 I'm...
+我会……
 
 私達は…………%K%P
 We're......
+我们会……
 
 ……死ぬ、の？%K%P
 ...going to die?
+……死掉吗？
 
 そこまで考えた時、私の中に激しい怒りのようなものが湧き上がってきた。%K%P
 As I thought that, an intense feeling of anger boiled over from within me.
+想到这里，我的体内涌出了暴怒一般的感情。
 
 こころ「嘘、嘘、こんなもの嘘に決まってる！」%K%P
 Lies, lies, it's obvious this thing is lying!
+心「骗人，骗人，一定是骗人的」
 
 嘘だ。%K%P
 It's a lie.
+骗人。
 
 嘘だ。%K%P
 It's a lie.
+骗人。
 
 これは何かの間違いだ。%K%P
 This has to be some sort of mistake.
+一定是搞错什么了。
 
 私はそれを抹消しようとした。%K%P
 I tried to blot it out.
+我打算将它毁掉。
 
 そして、新聞紙を持った手に力を込め――……%K%P
 And then, I gripped the newspaper more tightly――...
+于是，我握住报纸的手开始用力……

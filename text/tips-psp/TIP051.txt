@@ -1,6 +1,7 @@
-TIP051
+﻿TIP051
 ロールシャッハテスト
 Rorschach Test
+沙盘实验
 paragraph_count:1
 init_addr:79cc
 pc_index:TIP_056
@@ -22,3 +23,9 @@ A type of projective psychological test.%N
 The subject of the test is first asked to interpret a series of cards with ambiguous, bilaterally symmetric inkblot designs. The answers are then analyzed so as to try and determine that person's personality characteristics.%N
 Invented by Rorschach (Hermann R., 1884-1922), a Swiss psychologist.
 
+#CN#1
+利用投影法进行人格检查的一种方法。%N
+将墨迹形成的左右对称图案给受测者观看，%N
+让对方自己说出看到了什么，%N
+藉此判断对方的人格特质。%N
+这是由瑞士的精神医学家罗尓沙赫提出的想法。%N

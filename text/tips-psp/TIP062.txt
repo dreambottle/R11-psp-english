@@ -1,6 +1,7 @@
-TIP062
+﻿TIP062
 量子力学
 Quantum Mechanics
+量子力学
 paragraph_count:2
 init_addr:7a90
 pc_index:TIP_067
@@ -32,3 +33,17 @@ It introduced the principles in the %TS063Schrödinger equation%TE, conducted pr
 Quantum mechanics serves as the theoretical foundation of modern physics, which concerns particles as well as particle bodies.%N
 Additionally, it paved the way for the development of the physical/atomic theory, elementary particle theory, and the field theory.
 
+#CN#1
+应用在基本粒子、原子、分子等围观系统的%N
+力学理论。%N
+%TS063薛定谔方程%TE%N
+从随机的角度去解释依照“薛定谔方程”%N
+所推导的数值与实际观测所得的数值之间的%N
+关系，藉此可以毫无矛盾地解释物质的波粒%N
+二象性以及观测所造成的不确定现象。%N
+
+#CN#2
+探讨粒子以及粒子团的近代物理学基本理论%N
+，其中一个分支往凝聚态物理、原子核理论%N
+方向发展，另一个分支则往基本粒子理论、%N
+量子场论方向发展。%N

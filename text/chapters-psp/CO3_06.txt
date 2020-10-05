@@ -1,405 +1,525 @@
 
 犬伏景子――現在１９歳。%K%N
 Inubushi Keiko――currently age 19.
+犬伏景子——现年１９岁。
 
 １７歳のときに、阿波墨市立病院で１２人もの罪もない人々を殺害したシリアルキラー。%K%N
 She is the serial killer who, at age 17, murdered twelve innocent people at Awazumi Municipal Hospital.
+１７岁时在阿波墨市立医院杀害了１２名无辜平民的连环杀手。
 
-だが、ＤＩＤと診断されたために極刑を免れ、スフィアへと送致された――%K%N 
+だが、ＤＩＤと診断されたために極刑を免れ、スフィアへと送致された――%K%N
 However, due to being diagnosed with DID, she escaped capital punishment and was sent to SPHIA――
+不过，因为被诊断为ＤＩＤ，她没有被判处死刑，而是被遣送到ＳＰＨＩＡ软禁起来——
 
 %N
 
 
 犬伏景子は、いろいろな意味で、日本の犯罪史を塗り替えている。%K%P
 Inubushi Keiko had rewritten the history of crime in Japan, in many different ways.
+犬伏景子，从各个方面刷新了日本的犯罪史。
 
 未成年による連続殺人事件で、最も多い人命を奪った。%K%N
 Her case marked the largest number of lives ever taken by a serial killer who was a minor.
+在未成年人所犯的连续杀人案件中，这起案件死亡人数位居首位。
 
 そして、日本犯罪史上、女性による殺人事件ではトップの殺人数である。%K%N
 And, in the history of crime in Japan, it was in the top place in terms of the number of people murdered by a female.
+同时，这起案件也是日本犯罪史上，女性犯下的杀人案件中受害人数最多的。
 
 一般に、女性の連続殺人鬼というのは例がない。%K%N
 In general, there is no precedent for a female serial killer like her.
+一般来说，女性连环杀手非常罕见。
 
 アメリカで、『ハイウェイの死の貴婦人』と呼ばれた女殺人鬼アイリーン・ウォルノスが現れるまで、女性は連続殺人は行わないとさえ言われていたのだ。%K%N
 Until the murderous monster known as the "Highway Lady of Death" appeared in America, it was even said that women couldn't be serial killers.
+在美国，直到被称为“公路妓女”的女杀人魔艾莲·乌尔诺出现，人们都认为女性不会进行连续杀人。
 
 当然、日本では彼女が最初の女性殺人鬼である。%K%P
 Of course, she was the first of her kind in Japan.
+当然，她是日本的第一个女性连续杀手。
 
 そして彼女は、日本裁判史上初のＤＩＤ認定者となった。%K%N
 And she was the first person ever to be recognized as suffering from DID in the history of criminal trials in Japan.
+而且，她也是日本审判史上第一个被认定为ＤＩＤ的人。
 
 これまでの裁判事例においても、ＤＩＤの疑いがあるという容疑者は存在した。%K%N
 Before that court precedent was made, there had been several criminals suspected of having DID.
- 
+迄今为止的审判案例中，也曾经有嫌疑犯被怀疑是ＤＩＤ。
+
 だが、裁判においてＤＩＤを理由に免罪された例は、今までなかったのだ。%K%P
 However, there were no cases of trial acquittals by reason of DID until then.
+不过，因为ＤＩＤ而被免罪的案例，仍是前所未有的。
 
 理由は簡単。%K%N
 The reason was simple.
+理由非常简单。
 
 乖離性同一性障害という病気の存在そのものが、疑わしいとされていたのだ。%K%N
 The very existence of a dissociative identity disorder had been disputed.
+就连分离性身份识别障碍这种病是否真实存在都受到质疑。
 
 精神医学界でも、いまだに意見は割れている。%K%N
 The opinions of those in the field of psychiatry are still divided.
+即使是在精神医学界，现在意见也不统一。
 
 そのため、判決に際して考慮されることはあっても、それが免罪の理由とされることはなかった。%K%P
 That's why, even if brought into consideration during sentencing, it was never used as a reason for a pardon.
+因此，即便是在判决时被列入考虑范围，也从未成为免罪的理由。
 
 そんな過去の事例を塗り替えて、犬伏景子には、ＤＩＤを理由に刑法３９条が適用された。%K%N
 The past precedent was rewritten, and because of Inubushi Keiko, for the first time DID became a valid reason for application of article 39 of the penal code.
+犬伏景子因ＤＩＤ而利用刑法第３９条得以免罪，书写了审判史上新的篇章。
 
 彼女がＤＩＤであると認定された理由は諸説あるが、中でも%TS036ＤＳＭ%TE－Ⅵの存在が最も大きな理由と言われている。%K%N
 There are various reasons that she was acknowledged as suffering from DID, but the biggest one is said to have been the %TS036DSM%TE-VI.
+她被认定为ＤＩＤ的理由众说纷纭，不过其中最重要的就是%TS036ＤＳＭ%TE－Ⅵ。
 
 ＤＳＭ－Ⅵは、ほんの数年前――２００８年に発行された最新版のことである。%K%P
 The DSM-VI had been published just a few years earlier――the latest revision had been issued in 2008.
+ＤＳＭ－Ⅵ是在几年前——２００８年发行的最新版诊断与统计手册。
 
 １９９４年発行の%TS037ＤＳＭ－Ⅳ%TEにおいて、ＤＩＤだと診断すべき症状は、次の四点を満たすものと規定されていた。%K%N
 In the 1994 edition of the %TS037DSM-IV%TE, the criteria for a DID diagnosis comprised the following four points.
+在１９９４年发行的%TS037ＤＳＭ－Ⅳ%TE中规定，被确诊为ＤＩＤ的症状，必须满足以下四点：
 
 %N
 
 
 １――ふたつ以上の、明確なアイデンティティ・人格状態が存在する
 1――Two or more distinct identities and personalities exist.
+１——要拥有两个以上明确的身份·人格状态
 
 （環境や自己を認識し・関係づけ・考えることにおいて、それぞれが独自の、比較的持続するパタ－ンをもつ）%K%P
  (Possess awareness, recognition and cognition of self and surrounding environment, as well as individual personality characteristics.)
+（它们必须要能够对环境和自我产生认识·建立联系·在思考方式上要有独自的、相对持久的模式）
 
 ２――これらのアイデンティティ・人格状態の少なくともふたつが、個人の行動を繰り返し支配する%K%N
 2――These identities, having at least two distinct personalities, continuously show individual behavior and conduct.
+２——这些身份·人格状态中至少有两个在重复支配个人的行动
 
 %N
 
 
 ３――重要な個人情報を思い出すことができず、その広がりは通常の健忘で説明できない%K%N
 3――Important personal information cannot be recalled, and this by extension cannot be explained with normal forgetfulness.
+３——无法回忆起重要的个人情报、依此产生的情况用通常的健忘无法解释说明
 
 %N
 
 
 ４――このような障害は、薬物による直接の生理的影響（例えば、アルコ－ル中毒で生じる記憶喪失・混乱行動）や一般的な病的状態によるものではない%K%P
 4――These symptoms are not directly due to the influence of the physiological effects of drugs (for example, memory loss or violent behavior due to disorientation from alcohol poisoning) or a result of other general abnormal conditions.
+４——该障碍并非因药物而产生的直接生理影响（例如因酒精中毒而产生的记忆丧失·行动混乱）或一般的病态所造成
 
 この４点を満たせば、乖離性同一性障害と認定されるのである。%K%N
 If these four criteria are fulfilled, the condition is recognized as Dissociative Identity Disorder.
+满足如上四点，就可以被认定为分离性身份识别障碍。
 
 しかし、以上の４点では、詐病の患者を弾くことができなかった。%K%N
 However, even with the establishment of the four criteria above, they couldn't completely rule out out malingerers.
+不过，只凭借以上四点，并不能排除诈病的可能。
 
 ふたつ以上の人格を完璧に演じ分けることができれば、ＤＩＤと認定されてしまうのである。%K%N
 If two or more personalities could be perfectly acted out, it would be acknowledged as a case of DID.
+因为只要能同时演绎多于两个的人格，就能被认定为ＤＩＤ。
 
 それを悪用して、向精神薬の投薬を受ける者も現れた。%K%P
 There have also been those who have tried to exploit this through the misuse of psychotropic drugs.
+而且已经出现了利用此种方法，获取精神性药物的人。
 
 そこで、２００８年発行のＤＳＭ－Ⅵにおいて、次の項目が追加された。%K%N
 As a result, the 2008 edition of DSM-VI included the following appended criterion.
+因此，在２００８年发行的ＤＳＭ－Ⅵ中追加了以下条目：
 
 %N
 
 
 ５――以上の結果が、催眠導入中にも発現する%K%N
 5――The above symptoms appear even while under induced hypnosis.
+５——以上结果，在催眠中也能发现
 
 %N
 
 
 つまり、催眠術にかけられて演技ができない状態でも別の人格が現れるようなら、ＤＩＤと認めようというわけだ。%K%P
 In other words, if a different personality arose even during hypnosis, a condition in which the patient is unable to act, they'll acknowledge it as DID.
+也就是说，在接受催眠而无法说谎的状态下，如果仍能出现其他人格，就可以被确诊为ＤＩＤ。
 
 この指針はＤＩＤに懐疑的だった日本精神医学界にも影響を及ぼした。%K%N
 The addition of this guideline had an influence on the skeptical field of Japanese psychology.
+这一准则也影响了质疑ＤＩＤ存在的日本精神医学界。
 
 日本でも上記の５項目に該当するならばＤＩＤと認定されるようになったのだ。%K%N
 In Japan, it became accepted that a person was suffering from DID if the above five items were fulfilled.
+即便是在日本，只要满足以上５项也就可以被认定为ＤＩＤ。
 
 犬伏景子はＤＳＭ－Ⅵの基準に従って催眠検査が行われ、ＤＩＤであることが認定された。%K%N
 Inubushi Keiko had undergone an examination under hypnosis in accordance with the DSM-VI's standard, and was confirmed to have DID.
+犬伏景子按照ＤＳＭ－Ⅵ的基准进行了催眠检查，并被认定为ＤＩＤ。
 
 それが裁判でも証拠として認められ、犬伏景子は心神喪失者として免罪されたのだ。%K%P
 That was acknowledged as evidence in court, and Inubushi Keiko was acquitted as a person suffering from an unsound mind.
+这一点在审判时作为证据得到承认，犬伏景子作为心神丧失者免于刑罚。
 
 こころ「ふむ……我ながらよく覚えてるかも」%K%P
 Yup... I remembered it pretty well, in any case.
+心「嗯……我也记得不少嘛」
 
 授業の内容をキチンと思い返すことができた自分を、ちょっとスゴイと思った。%K%P
 I was impressed with myself for being able to clearly remember every detail they told us in class.
+能够轻易回忆起上课所讲过的内容，都有些佩服自己了。
 
 まあ、好きなことなのだから、覚えているのは当然なのだけれど。%K%P
 Well, it's a topic that I like, though, so it's only natural that I'd remember it.
+不过，因为喜欢，所以会记住也是理所当然的。
 
 私は『人間』に興味があって、社会学を――犯罪心理学を学ぶことにした。%K%P
 I'm interested in "humans" and society――that's why I decided to study criminal psychology.
+我对“人类”感兴趣，所以专业选择了社会学——中的犯罪心理学。
 
 人は不思議だ。%K%P
 People are mysterious.
+人真是不可思议。
 
 宇宙遊泳を実現する英知と、それを『私はカモメ』なんて表現する情緒を持っている。%K%P
 They have the intelligence to make space travel a reality, and say something like "I'm a seagull" to express that feeling.
+既拥有能够实现遨游宇宙的睿智，也有能将其用“我是海鸥”表现出来的情趣。
 
 それでいて、戦争を続ける愚鈍さと、カッとなった程度で人を殺す短絡さを持っている。%K%P
 Even so, they continue the stupidity that is war, and have tempers short enough to enable them to kill someone in a blind rage.
+可是，同时也拥有持续战争的愚钝，以及因为一时冲动便取人性命的武断。
 
 深い愛情と、罪の無い人を殺す残酷さを併せ持っている。%K%P
 They can experience deep love, as well as murder the innocent.
+深不可测的爱情与虐杀无辜的残酷并存。
 
 爪も牙も持たない脆弱な身体の中に、人間は大きなカオスを孕んでいる……。%K%P
 Inside a frail body that possesses neither claws nor fangs, humans are filled with chaos....
+在失去爪牙的脆弱身体中，人类孕育着庞大的混沌……
 
 男の子が、光明の届かぬ深海や宇宙の果てに冒険心をくすぐられるように、私は人間に宿る精神の深淵に――特にその闇の部分に興味を惹かれたのだ。%K%P
 Men have adventurous hearts, searching for glory by traveling to the depths of the ocean and the cosmos. My interest lies in the abyss of the human heart.
+就好像男孩子按捺不住对光明无法触及的深海与宇宙尽头的冒险欲望一样，我对人类的精神深渊——特别是它的阴暗部分感兴趣。
 
 そして、私が犯罪心理学を学ぶうちに、最も興味を惹かれたのが、犬伏景子である。%K%P
 And while studying criminal psychology, what attracted my interest the most was Inubushi Keiko.
+而在我学习犯罪心理学的过程中，最让我感兴趣的就是犬伏景子。
 
 私はファイルのページをめくった。%K%P
 I turned to the next page of the file.
+我翻开了文件。
 
 犬伏景子は乖離性同一性障害である。%K%P
 Inubushi Keiko has Dissociative Identity Disorder.
+犬伏景子患有分离性身份识别障碍。
 
 改めて、この症例について復習してみようかな。%K%p
 Maybe I should review the case one more time.
+要重新复习一下这种病症的具体内容吗？
 
 復習する
 Review it
+复习
 
 復習しない
 Don't review it
+不复习
 
 この病気は、簡単に言えば、生来持っている人格とは別に、複数の人格が生まれてしまう病気だ。%K%N
 This illness is, simply put, an illness where the birth of another personality not present when the person was born occurs.
+这种疾病，简单的说，就是会衍生出和与生俱来的人格不同的若干人格。
 
 原因は諸説あるが、『自我の発達が未発達な１２歳未満のときに、虐待などを受けること』が、主な理由であると言われている。%K%N
 There are differing opinions as to the cause, but they say that "being exposed to ill treatment during the development of the ego before the age of twelve" is the root cause.
+原因虽众说纷纭，不过可能性最大的理由是“在心智发育未健全的１２岁以前受到过虐待”。
 
 子どもには、自己暗示的に空想の人格を作り上げる性質がある。%K%N
 Children can easily construct imaginary personalities in a way that resembles autosuggestion.%K%P
+孩子会通过自我暗示创造假想人格。
 
 親から虐待を受けると、空想の人格の中に痛み・怒り・恐ろしい記憶を封印し、トラウマを癒そうとする。%K%P
 If abused by their parents, they will seal the memories of their pain, anger, and fear within the imaginary personality, in order to relieve the pain of the trauma they sufferred.%K%N
+被父母虐待之后，他们就会把痛苦·愤怒·恐惧的记忆封印在假想人格中，借以治愈自己的心理创伤。
 
 つまり、虐待を受けているのは自分ではなく、空想の別の人間なんだと思いこむことで、自分を守ろうとするわけだ。%K%N
 In other words, they protect themselves by thinking that the one being abused isn't them, but a different, imaginary self.
+也就是说，通过从心底深信受虐待的不是自己，而是假想的其他人格，从而使自己得到保护。
 
 虐待を受けた人格も、本来は自分自身なのだから、自分の記憶として受け止めなくてはならない。%K%P
 But the abused personality was also originally a part of the self, so it's necessary to accept those memories as their own.
+而受到虐待的人格，因为原本就是自己，所以仍然会有属于自己的记忆。
 
 しかし、その別人格に宿る痛みや苦しみの記憶は、主人格にとって受け入れがたいものだ。%K%N
 However, the pain and suffering inflicted on the other personality is hard for the main personality to accept.
+但是，这份栖息在其他人格中的痛苦记忆，是不会被主人格所接受的。
 
 そのため、主人格と苦しみの記憶を持つ別人格を、ひとつにすることができず……もうひとつの人格として独立させてしまう。%K%N
 Because of that, the main personality chooses to hold the memories of suffering inside the other self... they are not able to become one, and therefore a separate, independent personality is brought into existence.
+因为拥有记忆分离不统一等特点，所以这一症状被称为分离性身份识别障碍。
 
 記憶をひとつにすることができず、別離させてしまうという点を持って、乖離性同一性障害というのである。%K%P
 The inability to combine their memories into one, to the point of forcing them apart into separate identities: that is Dissociative Identity Disorder.
+因为拥有记忆分离不统一等特点，所以这一症状被称为分离性身份识别障碍。
 
 まあ、復習は必要ないだろう。%K%P
 Well, I guess I don't really need to.
+嗯，没有必要复习了吧。
 
 さて……。%K%P
 Now then....
+接下来……
 
 当初、犬伏景子がＤＩＤとなった原因は、幼少期に虐待されたからではないかと考えられた。%K%N
 At first, Inubushi Keiko's DID was thought to have stemmed from early childhood abuse.
+犬伏景子成为ＤＩＤ的原因最初曾被认为可能是在幼年期受到虐待。
 
 そこで、担当精神科医によって徹底的な調査が行われた。%K%N
 With that in mind, a thorough investigation was done by the leading psychologist.
+因此负责治疗的精神医生对此进行了彻底的调查。
 
 だが、犬伏景子の母親が既に死亡していたため、具体的な虐待の事実は判明しなかった。%K%N
 However, because Inubushi Keiko's mother was already deceased, there was no way to confirm the occurrence of childhood abuse as definite.%K%P
+但由于犬伏景子的母亲已经去世，无法确认具体事实。
 
 ただ、犬伏景子がＤＩＤとは別に%TS038境界性人格障害%TEを患っていると判明したことと、彼女の断片的な証言を元に、虐待が行われていただろうと推測がなされた。%K%P
 But in addition to her DID, due to the confirmation that she was suffering from %TS038Borderline Personality Disorder%TE, as well as her fragmented testimony, it was widely assumed that she had been the victim of childhood abuse.
+最后，由于判明犬伏景子患有与ＤＩＤ不同的%TS038边缘性人格障碍%TE，辅以本人只言片语的证词，推测出她大概曾经受到过虐待。
 
 犬伏景子には、全部で１１人の人格が宿っているという。%K%N
 It was said that Inubushi Keiko possessed a total of eleven personalities.
+犬伏景子一共有１１个人格。
 
 それぞれに、Ａ～Ｊのアルファベットが便宜的に割り振られている。%K%N
 For the sake of convenience, her alternate personalities had been alphabetized and assigned letters from A to J.
+我们简单地使用字母Ａ～Ｋ将他们区分开来。
 
 もちろん彼女の各人格には、きちんと名前がついている……らしい。%K%N
 Of course, each of her personalities were given proper names... or so it seems.
+当然，每种人格似乎都有一个实际存在的名字……
 
 らしいというのは、その名前そのものはファイルには記されていないからだ。%K%P
 I say it seems, because those names were not recorded anywhere in the file.
+说“似乎”，是因为这些名字并没有被记载在文件上。
 
 けれど俗称として、医師達はそれら１１個の人格を、『Ａ』～『Ｋ』と呼んでいた。%K%N
 However, the doctors had also given her common names for each of the eleven personalities from "A" to "K."
+不过，作为俗称，医生们把这１１个人格用“Ａ”～“Ｋ”来指代。
 
 なぜならば、医者の方から名前を尋ねたりしてしまうと、人格の乖離が進み、症状が悪化する場合があるからだ。%K%N
 This was because, when the doctors asked for her name, the dissociative disorder would advance, and her condition would deteriorate.
+因为如果医生经常将副人格的姓名挂在嘴边，有可能会导致人格进一步分离，造成病状的恶化。
 
 また便宜的にＡ～Ｋと名付けたが、それで呼びかけるようなこともしなかった――医師達の間で符丁のような形で、あだ名が付けられたらしいけど。%K%N
 In addition to calling them A through K for convenience, the doctors created nicknames, which they used like a code among themselves.
+虽然为了方便表达将其命名为Ａ～Ｋ，却也从未对本人如此称呼——那只不过是在医生之间使用的代号。
 
 %N
 
 
 なので私も、この俗称をもとに思考を進める。%K%P
 Then, I continue to think about these common names.
+我接下来就以这套俗称为基础继续进行思考。
 
 さて、オリジナルの犬伏景子＝『Ｋ』を除いた、この『Ａ』から『Ｊ』の１０人であるが、オリジナルとは大きく異なる性格を持っていた。%K%N
 Let's see, aside from the original Inubushi Keiko, who is "K," the other ten from "A" to "J" are wildly different from the original in terms of personality.
+那么，除去原型犬伏景子＝“Ｋ”，从“Ａ”到“Ｊ”其他１０人的性格与原型均有极大出入。
 
 %N
 
 
 例えば、『Ｃ』は子どもだ。%K%N
 For example, "C" is a child.
+例如，“Ｃ”是孩童。
 
 医師のつけたあだ名は、チャイルドフッド。%K%N
 The nickname given to him by the doctor was Childhood.
+医生为其取的代号是Ｃｈｉｌｄｈｏｏｄ。
 
 無邪気だけれど、とっても泣き虫な６歳の男の子である。%K%P
 This was an innocent, but extremely quick to cry six-year-old boy.
+是一个纯洁天真，又爱哭鼻子的６岁小男孩。
 
 『Ｄ』は、陰鬱な青年。%K%N
 "D" is a melancholy young man.
+“Ｄ”是个阴郁的青年。
 
 あだ名はダクネス。%K%N
 His nickname was Darkness.
+代号是Ｄａｒｋｎｅｓｓ。
 
 塞ぎこみがちで、目を離すとすぐに自傷行為を行った。%K%N
 He tended to shut himself up, and would try to hurt himself if you took your eyes off him.
+有忧郁的倾向，稍有不注意他就会自残。
 
 %N
 
 
 『Ｆ』は、２０代後半の女性。%K%N
 "F" was a woman in her late twenties.
+“Ｆ”是接近３０岁的女性。
 
 あだ名はフラウ。%K%N
 Her nickname was Frau.
+代号是Ｆｒａｕ。
 
 非常に淫乱で、診察に当たった医師を淫らに誘惑したそうだ。%K%P
 Extraordinarily lewd, it seemed she even seduced the doctor who was examining her.
+水性杨花，似乎还曾经诱惑过当值的医生。
 
 そして、『Ｊ』と呼ばれる人格。%K%N
 And then, the personality called "J."
+还有就是被称为“Ｊ”的人格。
 
 これが、殺人鬼の人格であるらしい。%K%N
 It appears that this one is the personality of the murderous monster.
+这或许就是杀人恶魔的人格。
 
 医師達の陰の呼び名は、ジャック。%K%N
 The doctors referred to this shadow side as Jack.
+医生们私底下称其为杰克。
 
 恐らく、ジャック・ザ・リパーからの下らない引用だろう。%K%N
 It was most likely a trivial reference to Jack the Ripper.
+这可能就是从开膛手杰克引申而来。
 
 犬伏景子と同じ、１７歳（事件当時）の女性だが……強い破壊衝動と嗜虐趣味を持っていた。%K%N
 Similar to Inubushi Keiko, a 17-year-old (at the time of the incident) woman... but possessing strong destructive urges and sadistic hobbies.
+她和犬伏景子一样是１７岁（事件发生时）的女性……却有着很强的破坏欲和肆虐成性的兴趣。
 
 つまり、殺人に快楽を覚えていたようなのだ。%K%P
 In other words, she derived pleasure from the act of murder.
+也就是说，她能够通过杀人得到快感。
 
 ファイルには、犬伏から現れた『Ｊ』が、診察室にあったハサミを奪い、医師に斬りつけたと書かれている。%K%N
 According to the file, "J" had appeared while Inubushi was being held in an examination room, where she snatched up a pair of scissors and murdered the doctor.
+根据文件所述，犬伏的“Ｊ”人格，夺走了诊察室里的剪刀，并且用它砍伤了医生。
 
 阿波墨市立病院での連続殺人も、オリジナル人格の犬伏景子ではなく、この『Ｊ』が行ったことであると判断された。%K%N
 It was also judged that the Awazumi serial murders were committed by "J."
- 
+可以断定阿波墨市立医院无差别杀人事件的犯人，并不是犬伏景子的原型人格，而是“Ｊ”。
+
 『Ｊ』の凶行を、オリジナル人格である犬伏景子は止めることができない。%K%P
 The original personality of Inubushi Keiko was unable to stop the violence of "J."
+原型人格犬伏景子无法制止“Ｊ”犯下凶行。
 
 そのため、刑法３９条で言うところの、心神喪失状態と判断され、犬伏景子は免罪されたのである。%K%N
 Because of that, in accordance with article 39 of the criminal code, Inubushi Keiko was judged to be of an unsound mind and was pardoned.
+因此，根据刑法第３９条，犬伏景子被判定为丧失行为能力从而得到免罪。
 
 %N
 
 
 犬伏景子も含めた１１人の中に涼蔭穂鳥と思しき人格があるかと探してみると……%K%P
 But whether a personality known as Suzukage Hotori was included as one of the eleven inside Inubushi Keiko...
+我开始翻找包含犬伏景子在内的１１个人格里可能是凉荫穗鸟的人格……
 
 こころ「……いた」%K%P
 ...It's here.
+心「……有了」
 
 『Ｈ』の人格。%K%N
 The "H" personality.
+“Ｈ”人格。
 
 内向的で物静かな、優しい性格の女の子。歳は１９歳。%K%N
 A girl with a shy and calm character. Age 19.
+内向文静，性格温柔的女孩子。年龄是１９岁。
 
 音楽を聞くのが好きだったことから、付けられたあだ名が――ハミングバード。%K%P
 She had a fondness for listening to music, so her given nickname was――Hummingbird.
+因为她喜欢听音乐，所以她的代号就是——Ｈｕｍｍｉｎｇｂｉｒｄ。
 
 『Ｈ』――『Ｈｏｔｏｒｉ』。%K%N
 "H"――"Hotori."
+“Ｈ”——“ｈｏｔｏｒｉ（穗鸟）”。
 
 %N
 
 
 この人格が、涼蔭穂鳥なのではないだろうか？%K%N
 Is this the personality of Suzukage Hotori?
+难道这个人格就是穗鸟？
 
 もちろん涼蔭穂鳥が、未知の１２番目の人格である可能性もあるが……、%K%N
 Of course, there is the possibility that Suzukage Hotori is an unknown twelfth personality...
+当然凉荫穗鸟也有可能是仍未查明的第十二个人格……
 
 なんにせよ、私は穂鳥が犬伏の別人格であろうと確信していた。%K%N
 In any case, I'm convinced that Hotori is another personality within Inubushi Keiko.
+不管怎么说，我都确信穗鸟是犬伏的副人格。
 
 %N%N
 
 
 その理由は……%K%P
 My reason was...
+原因是……
 
 こころ「穂鳥の言葉」%K%P
 Hotori's words.
+心「穗鸟留下的信息」
 
 こころ「実際にＤＩＤを体験してないと、あのセリフは出てこないよね」%K%P
 If she wasn't really experiencing DID, she wouldn't use those words, right?
+心「如果没有实际体验过ＤＩＤ，是不可能说出那些话的」
 
 穂鳥は私に教えてくれたではないか。%K%N
 Hotori told me herself, didn't she?
+穗鸟不是告诉过我吗？
 
 %N
 
 
 『寒くて』『暗くて』『閉じこめられてて』『ひとりぼっち』%K%N
 "cold" "dark" "locked up" "all alone"
+“寒冷”“黑暗”“关在里面”“孤单一人”
 
 『赤い部屋』『入る』%K%N
 "red room" "enter"
+“红色的房间”“进入”
 
 %N
 
 
 それらは、ＤＩＤの別人格が得る感覚とピタリ一致する。%K%N
 Those were perfectly consistent with the feelings expressed by other people with DID.
+这些都和ＤＩＤ的副人格能够体验到的感觉一致。
 
 私は穂鳥の顔を思い浮かべた。%K%N
 I remembered Hotori's face.
+我脑海中浮现出了穗鸟的脸庞。
 
 １２人もの罪無き人々を殺したとは思えない、困ったような笑みを浮かべる少女……。%K%P
 Unable to even conceive of such a thing as killing twelve innocent people, a girl wearing a worried smile.
+少女露出困惑的笑容，令人无法想象那就是杀害了１２名无辜的凶手……
 
 こころ「やっぱり間違いない。穂鳥は、犬伏景子の別人格なんだわ」%K%P
 There's no mistake. Hotori's another personality of Inubushi Keiko.
+心「一定不会错。穗鸟是犬伏景子的副人格」
 
 私は確信した。%K%N
 I was convinced.
+我有把握了。
 
 と、同時に、気を引き締めなくてはと思う。%K%N
 And, at the same time, I feel that I had to focus more clearly.
+与此同时，我也告诉自己不能掉以轻心。
 
 %N
 
 
 私はまだ穂鳥の状態しか確認していないけど……、%K%N
 I can't confirm anything besides Hotori's condition yet, but...
+我只是确认了穗鸟的情况……
 
 彼女がＤＩＤの別人格であるならば、その背後には確実に犬伏景子が――殺人鬼の人格が潜んでいるのである。%K%P
 If she is another DID personality, then behind her lurks Inubushi Keiko――the personality of a murderous monster.
+她既然是ＤＩＤ的副人格，那么背后一定潜藏有犬伏景子——杀人恶魔的人格。
 
 こころ「……気をつけなくちゃ」%K%P
 ...I have to be careful.
+心「……必须要小心」
 
 自分に言い聞かせるように呟きながら、私はファイルを閉じた。%K%P
 Muttering that as though to convince myself, I closed the file.
+我嘀咕着提醒自己，然后合上了文件夹。

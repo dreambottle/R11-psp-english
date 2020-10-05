@@ -1,6 +1,7 @@
-TIP107
+﻿TIP107
 朱倉岳
 Mount Akakura
+朱仓岳
 paragraph_count:1
 init_addr:7ec4
 pc_index:TIP_012
@@ -19,3 +20,6 @@ Part of Aomori Prefecture's Southern Hakkouda Mountain Range.%N
 Elevation 1298 meters.%N
 It draws a fair number of people during the winter climbing season.
 
+#CN#1
+位于青森县八甲田山脉之中的山岳，海拔1298米。%N
+冬天时会有不少游客前来登山或进行其它活动。%N

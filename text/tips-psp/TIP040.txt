@@ -1,6 +1,7 @@
-TIP040
+﻿TIP040
 国選弁護人
 Court-Appointed Attorney
+指定律师
 paragraph_count:2
 init_addr:78f0
 pc_index:TIP_045
@@ -30,3 +31,18 @@ In accordance with both the Criminal Procedure Code and the Japanese Constitutio
 Therefore, as written in the Constitution, "When a defendant is not able to appoint an attorney, that duty falls upon the state" (article 37, paragraph 3).%N
 Thus, in cases where the defendant's poverty prevents them from being able to seek the services of an attorney, the court will appoint a public defender to assist them, with the cost being borne by the state.
 
+#CN#1
+以宪法的内容为基准，%N
+刑事诉讼法中规定嫌疑犯或是被告人，%N
+无论何时都可以雇用属于自己的辩护人。%N
+然而，虽然有权雇用辩护人，%N
+对于那些没有钱支付辩护费用的贫穷民众来说，%N
+事实上相当于无法雇用律师替自己辩护。%N
+
+#CN#2
+因此，日本宪法规定%N
+“当被告人无法自行雇用辩护人时，%N
+由国家代为雇用”（三十七条三项）%N
+在因为贫困而无法雇用辩护人的情况下，%N
+由法院挑选、由国家经费雇用的辩护人%N
+就称为法院指定的律师。%N

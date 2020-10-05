@@ -1,6 +1,7 @@
-TIP043
+﻿TIP043
 ホワイトアウト
 Whiteout
+白色黑暗
 paragraph_count:1
 init_addr:792c
 pc_index:TIP_048
@@ -35,3 +36,12 @@ In this case, the air becomes saturated with
 white light, rendering movement and
 the gathering of visual information virtually impossible.
 
+#CN#1
+由暴风雪中吹起的雪花所造成的%N
+视野被白色光芒完全封闭的现象。%N
+此时人分不清楚高低上下也不能判断距离，%N
+这就是所谓的“白色黑暗”现象。%N
+也有可能因为雪地表面或是云的散射而产生，%N
+在这种情况下，因为整个空间布满白光，%N
+所以没有办法从视觉取得任何信息，%N
+也无法控制自己的动作。%N

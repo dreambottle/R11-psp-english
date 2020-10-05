@@ -1,6 +1,7 @@
-TIP021
+﻿TIP021
 夫婦別姓
 Dual Surnames
+夫妇分姓
 paragraph_count:1
 init_addr:779c
 pc_index:TIP_026
@@ -16,3 +17,7 @@ pc_index:TIP_026
 #EN#1
 With the approval of the bill in 2008, married couples may decide to use either partner's surname or retain separate family names.
 
+#CN#1
+依照2008年通过的法案，%N
+日本的夫妇在结婚后，%N
+可以自行决定自己要冠上夫妇哪一方的姓氏。%N

@@ -1,821 +1,1094 @@
 
 黄泉木「熱心に読んでるな」%K%P
 You sure are reading that enthusiastically.
+黄泉木「读得真专心啊」
 
 黄泉木が、湯気の立ち上るカップを持って立っていた。%K%P
 Yomogi was standing in front of me, holding a cup with something steaming inside.
+黄泉木端着直冒热气的杯子站在一旁。
 
 黄泉木「熱心ついでに、熱々のコーヒーはどうかな？」%K%P
 So how about lighting your fire with some piping hot coffee?
 //I did the best I could, but other people are welcome to contribute substitutions. The joke is that the kanji for "hot" is used in both of the two words - fortunately, this is another Yomogi oyaji gag, and isn't supposed to be very funny. - the_paper
+黄泉木「读得这么专心，要来杯热咖啡吗？」
 
 少し悪戯げな笑みを浮かべて、私にカップを差し出してくる。%K%P
 A mischievous smile rose to my face as I reached for the cup.
+他露出了一个恶作剧般的笑容，把杯子递了过来。
 
 礼を言って受け取った。%K%P
 I thanked him as I accepted it.
+我道了声谢，接过杯子。
 
 黄泉木「それって、阿波墨病院連続殺人の……」%K%P
 Is that about the Awazumi Hospital serial murders...?
+黄泉木「那是阿波墨市立医院连环杀人的……」
 
 こころ「ええ。犯人の資料です」%K%P
 Yes. It's data on the culprit.
+心「嗯。犯人的资料」
 
 黄泉木「そんなに面白いかい？」%K%P
 Is it really that interesting?
+黄泉木「那个很有意思吗？」
 
 黄泉木は、一転して真面目な顔で聞いてきた。%K%P
 Instantly, Yomogi's expression made a complete change.
+黄泉木表情一变，一脸严肃地问我。
 
 世間話をする風には見えない。%K%P
 It seems like he didn't want to chat about such matters.
+看起来不像是在闲谈。
 
 私は戸惑いながらも答えた。%K%P
 Perplexed, I gave a reply.
+我一脸困惑地回答道。
 
 こころ「面白いっていうのとは……違います」%K%P
 Interesting, you say... no, that's not quite it.
+心「不……不是有意思」
 
 こころ「でも、とっても興味深いです」%K%P
 Rather, it's more like a fascination I have.
+心「只是，我很感兴趣」
 
 こころ「私、元々こういうのを勉強する学生なんで」%K%P
 I was originally a student studying things like this, after all.
+心「因为我原本就是学这个的」
 
 黄泉木「そうなのか……」%K%P
 Is that so...
+黄泉木「是这样吗」
 
 黄泉木「まさかそれ、きみの？」%K%P
 Then that file, could it possibly be yours?
+黄泉木「莫非这个……是你的？」
 
 こころ「ええ」%K%P
 Yes.
+心「嗯」
 
 黄泉木「そうか、だからそんなものが」%K%P
 I see, so that's why something like that was...
+黄泉木「是吗？所以才对那种东西感兴趣啊」
 
 黄泉木は、私の対面に腰掛けた。タバコに火をつける。%K%P
 Yomogi lit up a cigarette as he sat in front of me.
+黄泉木坐到我的对面，点上一支烟。
 
 うまそうに煙を吐き出すと、黄泉木は立ち上る紫煙に目を這わせた。%K%P
 Blowing out smoke with a face that looked like he was enjoying the flavor, Yomogi followed the rising tobacco smoke with his eyes.
+他很舒服地吐出一口烟，视线顺着飘摇的紫烟望了上去。
 
 私もコーヒーをひと口すする。%K%P
 I took a sip of the coffee.
+我喝了一口咖啡。
 
 ファイルに夢中になっていたから、身体が冷えていたみたいだ。%K%P
 Because I had been absorbed in looking at the file, it seemed that my body had gotten colder.
+估计是太专注于文件了，身体都变冷了。
 
 温かいコーヒーは、お腹にぽかぽかと染みた。%K%P
 The hot coffee spread warmth throughout my stomach.
+温热的咖啡让肚子暖和了起来。
 
 不意に、黄泉木が口を開いた。%K%P
 Yomogi started talking again all of a sudden.
+不经意间，黄泉木开口了。
 
 黄泉木「なあ、聞きたいんだが……」%K%P
 Hey, can I ask you something...?
+黄泉木「那个，我想打听一下……」
 
 黄泉木「その犯人ってのは……どんなヤツなんだ？」%K%P
 The culprit... what kind of person were they?
+黄泉木「那个犯人……是个什么样的家伙？」
 
 こころ「黄泉木さんも、興味あるんですか？」%K%P
 Are you interested too, Yomogi-san?
+心「黄泉木先生你也有兴趣？」
 
 黄泉木「なんというか……その……ヤジウマ根性だよ」%K%P
 Well... how do I say this... it's out of curiosity.
+黄泉木「怎么说呢……那个……我也就是跟着看看热闹」
 
 少し歯切れが悪いのは、気のせいだろうか。%K%P
 Was he being a little inarticulate, or was it just my imagination?
+回答得似乎有点含混不清，也许只是我多心吧？
 
 黄泉木「あれだけ世間を騒がせたヤツだからな。山にしか興味のない僕でも、多少は気になる」%K%P
 They really shook up society in a big way, after all. Even someone who's only interested in mountains like me would have a little interest in it.
+黄泉木「那家伙可是引起过那么大的骚动。即便我只对山有兴趣，多少也会有些在意」
 
 黄泉木「途中からパッタリ犯人については報道されなくなっちまったしね」%K%P
 They stopped reporting any information on the culprit halfway through, too.
+黄泉木「关于犯人的报道很快就戛然而止了」
 
 黄泉木「未成年で、おまけに精神病だからってことで、詳しい情報は伏せられた……被害者ですらなにも教えてもらえなかった」%K%P
 It was a minor, and on top of that, one with a mental illness, so the details were all covered up... they didn't even tell us anything about the victims.
- 
+黄泉木「就因为是未成年，而且还是精神病，详细的情报就被隐瞒起来……连被害者都毫不知情」
+
 黄泉木「そう聞いたよ」%K%P
 Or so I heard.
+黄泉木「我听说是这样的」
 
 こころ「…………」%K%P
 ......
+心「…………」
 
 黄泉木「犯人は、どんなヤツなんだ？」%K%P
 What kind of person was the culprit?
+黄泉木「犯人是个什么样的家伙？」
 
 黄泉木はストーブの炎を見つめたまま尋ねてくる。%K%P
 Yomogi inquired, keeping his eyes on the stove.
+黄泉木望着炉火向我问道。
 
 なんと答えるべきだろうか？%K%P
 How should I answer?
+该怎么回答呢？
 
 このファイルは、ゼミの先生に頼んで手に入れたものだ。%K%P
 My seminar teacher had given me this file as a favor.
+这份文件，是我拜托研究组的老师弄到手的。
 
 一般には守秘のかかっている代物である。%K%P
 Normally, the contents of documents like this were confidential.
+一般来说是不能外泄的。
 
 詳しい内容を喋っていいものか迷ったので、差し障りのない部分だけ話すことにした。%K%P
 I was hesitating over whether to reveal the more detailed content or not, so I decided to only talk about the parts that I thought it would be okay to reveal.
+我还在犹豫到底该不该说出详细内容，所以只说了些无碍大局的部分。
 
 こころ「犯人は、多重人格だったそうです。だから、免罪に……」%K%P
 The culprit seemed to have multiple personalities. That's why, the acquittal...
+心「犯人好像是多重人格。所以、被免罪……」
 
 黄泉木「それは知っているよ」%K%P
 I already know that.
+黄泉木「这个我知道」
 
 思いがけないほど強い口調で、黄泉木は言った。%K%P
 Yomogi spoke in an unexpectedly forceful tone.
+出乎预料地，黄泉木用强硬的口吻说道。
 
 黄泉木「僕が聞きたいのは……なんというか……」%K%P
 What I want to know is... how do I say this...
+黄泉木「我想问的是……怎么说呢……」
 
 黄泉木「そいつは悪党なのか、ということだ」%K%P
 Was that person evil, or something like that.
+黄泉木「那家伙是坏人吗？」
 
 黄泉木「１２人もの人間を殺してなお、そいつの命は守られているが……」%K%P
 After killing twelve people, that person's life is now protected...
+黄泉木「即便是杀了１２个人，她的生命还是受到了保护……」
 
 黄泉木「果たして、法律で守らなくてはならないほどの価値がある人間なのか？」%K%P
 Were they really worthy of being protected by the law?
 //Yomogi does know that Inubushi was the murderer, but it seems he's purposely pretending not to know anything about the case here. The gender-neutral pronouns are appropriate IMO.//disagreed, see discussion page. - Raide
+黄泉木「她到底有没有被法律保护的价值呢？」
 
 こころ「それは……」%K%P
 That's...
+心「这个……」
 
 何が言いたいの？%K%P
 What was he trying to say?
+他究竟想说什么……
 
 黄泉木「あ、いや。特に深い意味はないんだ」%K%P
 Ah, wait. My question doesn't have any deep meaning.
+黄泉木「啊，不。我没别的意思」
 
 私が戸惑っているのを感じ取ったのか、黄泉木は慌てて肩をすくめて見せた。%K%P
 Yomogi may have felt that he was confusing me, as he hesitated and then shrugged his shoulders.
+似乎察觉到了我的困惑，黄泉木急忙耸了耸肩。
 
 タバコをストーブに投げ込むと、声を潜めて続ける。%K%P
 Tossing his cigarette into the stove, he lowered his voice and continued.
+他把香烟丢到炉子里后，悄声说道。
 
 黄泉木「さっき、２７人もの遺体を見ただろう？」%K%P
 We just saw the remains of 27 people, right?
+黄泉木「刚才，你也看到那２７个人的遗体了吧？」
 
 黄泉木「ちょっとナーバスになっちゃってさ」%K%P
 I just feel a little nervous.
+黄泉木「所以我就变得有点神经质了」
 
 黄泉木は照れくさそうに頭を掻いた。%K%P
 Yomogi scratched his head embarrassedly.
+黄泉木害羞似的挠了挠脖子。
 
 確かに、あの墜落現場の様子は、命について考えさせられるものだった。%K%P
 Certainly, seeing that crash site would be enough to make you really think deeply about life.
+确实，不管是谁，看到那个坠落现场的情景都会思忖生命的意义。
 
 人によっては死生観が変わるかもしれない。%K%P
 It can change how a person views life and death.
+有些人或许连人生观都会改变。
 
 私も……取り乱しちゃったし。%K%P
 I... became a bit confused as well.
+我的心里也……相当混乱。
 
 黄泉木はあのとき冷静だったけれど、必死で耐えていただけだったのかもしれない。%K%P
 Yomogi may have seemed calm at the time, but he may have only been desperately trying to bear it.
+黄泉木那个时候虽然看起来很冷静，不过他可能只是在拼命忍耐。
 
 私は、ファイルをパラパラめくりながら、黄泉木になんと答えるべきか考えた。%K%p
 While flipping through the file quickly, I had to decide how to reply to Yomogi.
+我一边翻着文件，心里一边思量着该怎么回答黄泉木。
 
 素直に感じたことを話す
 Say what I truly felt
+坦率地说出我的想法
 
 はぐらかして答える
 Give an evasive answer
+含糊其辞蒙混过去
 
 私は自分が感じたままを素直に話すことにした。%K%P
 I told him what I honestly thought.
+我决定坦率地说出我的想法。
 
 こころ「犬伏景子は……悪いことをしたと思います」%K%P
 I think Inubushi Keiko... did a bad thing.
+心「我想……犬伏景子是作了坏事」
 
 こころ「あまりにも酷いことをしたと……私は思います」%K%P
 She did so many bad things...
+心「而且……是非常残酷的行为」
 
 こころ「ただ、彼女の行為は悪ですが、彼女自身の善悪についてはわかりません」%K%P
 But, while her actions were evil, I don't know yet whether she herself is good or evil.
+心「不过，她的行为虽然是恶，但她本人是善是恶我并不清楚」
 
 こころ「わからないから、調べてみたいと思うんです」%K%P
 It's because I don't know that I want to find out.
+心「正因为如此，我才想进行调查」
 
 こころ「どうして、そんな酷いことができたのか、知りたいんです」%K%P
 I want to find out why she did such a horrible thing.
+心「我想知道她为什么要做出那么残酷的事」
 
 私の答えを聞いた黄泉木は、ただ一言、%K%P
 Hearing my answer, Yomogi replied with only one phrase.
+黄泉木听了我的回答，只说了两个字。
 
 黄泉木「そうか」%K%P
 I see.
+黄泉木「是吗？」
 
 と答えた。%K%P
 That was his answer.
+他答道。
 
 そして、私の髪をくしゃくしゃと撫でた。%K%P
 And then, he mussed my hair with his hand.
+然后，他抚摸着我的头发。
 
 黄泉木「なら、生きて帰らないとな」%K%P
 In that case, we have to return alive.
+黄泉木「那就一定要活着回去」
 
 こころ「はい」%K%P
 Yes.
+心「嗯」
 
 黄泉木のただならぬ気配を感じた私は、素直に答えることができなかった。%K%P
 Able to sense the unusual air about Yomogi, I couldn't give my honest opinion.
+我察觉到黄泉木非一般的气魄，无法坦率地说出自己的想法。
 
 こころ「法律は……抑止力だと思います」%K%P
 I think the law... acts as a deterring force.
+心「我觉得……法律是抑制力」
 
 こころ「加害者を守るためのものではないし……」%K%P
 It's not as if it exists to protect the criminal...
+心「它的目的不是庇护加害者」
 
 こころ「被害者に復讐を煽るものであってもならないんです」%K%P
 And it doesn't exist as a way to fuel the victim's need for revenge.
+心「但它也不能煽动被害者复仇」
 
 こころ「憎しみの連鎖を断つために機能しなくちゃいけないんです」%K%P
 It has to function as a way to cut the chain of hatred.
+心「它的功能只是为了斩断憎恨的锁链」
 
 こころ「必要悪……なのかもしれませんね」%K%P
 It may be... a necessary evil.
+心「或许……法律之恶是必需的」
 
 我ながらあからさますぎるはぐらかし方になってしまった。%K%P
 My method of evading the answer was too plain.
+我十分直截了当地避开了尖锐的问题。
 
 私の答えを聞いた黄泉木は、少し首を傾げ、%K%P
 Hearing my answer, Yomogi tilted his head a little,
+黄泉木听了我的回答，微微歪了歪头。
 
 黄泉木「一般論か」%K%P
 A common opinion, huh?
+黄泉木「普通的观点吗」
 
 黄泉木「やっぱり学生だな」%K%P
 You're a student after all.
+黄泉木「果然是学生啊」
 
 と答えた。%K%P
 and answered thus.
+黄泉木说道。
 
 こころ「……すいません」%K%P
 ...I'm sorry.
+心「……对不起」
 
 黄泉木「責めてるわけじゃないよ」%K%P
 I'm not criticizing you or anything.
+黄泉木「我并不是在责备你」
 
 黄泉木「そうだな。きみの言いたいことはわかるよ」%K%P
 Well, I get what you're trying to say.
+黄泉木「说真的，你想说的我也明白」
 
 こころ「…………」%K%P
 ......
+心「…………」
 
 黄泉木「さてと、火が弱まってきたな」%K%P
 Now then, looks like the fire's gotten weaker.
+黄泉木「嗯，火势也变弱了」
 
 彼は立ち上がり、大きく伸びをした。%K%P
 After standing up, he gave a big stretch.
+他站起来，伸了个大大的懒腰。
 
 ストーブの火に、勢いがなくなってきている。%K%P
 The stove's flame had lost its vigor.
+炉子中的火已经不旺了。
 
 地下倉庫から薪を補充しなくてはいけない。%K%P
 It needed to be replenished with firewood from the basement.
+必须去地下仓库拿柴火补充。
 
 黄泉木「あ、そうそう。優希堂くんがボイスレコーダーに何か吹き込んでたらしいよ」%K%P
 Ah, that's right, Yukidoh-kun seemed to have said something into the voice recorder.
+黄泉木「啊，对了对了。优希堂好像在录音机里录了些什么」
 
 黄泉木「君宛のメッセージじゃないのか？」%K%P
 Maybe it was a message for you?
+黄泉木「是留给你的信息吧？」
 
 黄泉木「…………」%K%P
 ......
+黄泉木「…………」
 
 黄泉木「もうひとりの人格がなにをしているのかわからないなんて……ＤＩＤってのはツライな」%K%P
 Not knowing what your other personality is doing... DID is pretty tough, huh.
+黄泉木「连另一个人格干了什么都不知道……ＤＩＤ还真是辛苦」
 
 ため息混じりにそう言い残すと、黄泉木は地下へと降りていった。%K%P
 Leaving his words mixed with a sigh, Yomogi descended into the basement.
+留下这里夹杂着叹息的话语后，黄泉木向地下走去。
 
 こころ「どうしたんだろ、黄泉木さん……」%K%P
 I wonder what's wrong with Yomogi-san...
+心「黄泉木先生究竟怎么了」
 
 ハシゴを下りていく黄泉木の背中は、少し寂しそうだった。%K%P
 Yomogi's back looked a little lonely as he climbed down the ladder.
+黄泉木爬下梯子，背影显得有些寂寞。
 
 ３０代にもなると、いろいろあるんだろうか。%K%P
 Once you're in your thirties, you probably have a lot to think about.
+过了３０岁，人就会背负很多东西吗……
 
 と、こうしちゃいられない。%K%p
 Oh, I can't just sit here.
+现在不是考虑这些的时候。
 
 黄泉木を手伝う
 Lend Yomogi a hand
+去帮黄泉木忙
 
 悟からのメッセージが気になる
 I'm curious about Satoru's message
+更在意悟的信息
 
 こころ「私も手伝います」%K%P
 I'll lend you a hand.
+心「我也来帮忙」
 
 私も立ち上がり、地下倉庫に声をかけた。%K%P
 Standing up, I yelled down to the basement.
+我也站了起来，对着地下仓库喊道。
 
 黄泉木「それじゃ、上で薪を受け取ってくれ」%K%P
 In that case, can you take the firewood from above?
+黄泉木「那你就在上面接着柴火」
 
 ハシゴの上で待ち、黄泉木が持ち上げた薪を受け取る。%K%P
 Waiting at the top of the ladder, I take the firewood Yomogi is lifting up.
+我等在梯子入口处，接住黄泉木搬上来的柴火。
 
 けっこう重い。%K%P
 It's kind of heavy.
+还挺重。
 
 こころ「んしょっ……」%K%P
 Hup...
+心「嘿咻……」
 
 黄泉木「無理するなよ」%K%P
 Don't overdo it.
+黄泉木「不要勉强哦」
 
 こころ「平気です」%K%P
 I'm fine.
+心「没问题」
 
 地下倉庫から上げた薪を、黄泉木と一緒にストーブの横まで持っていった。%K%P
 Bringing the firewood out of the basement, Yomogi and I carried it over beside the stove.
+我和黄泉木一起把从地下仓库搬上来的柴火挪到火炉旁边。
 
 黄泉木「ありがとう。助かったよ」%K%P
 Thanks. You really helped me out.
+黄泉木「谢谢，真是帮大忙了」
 
 黄泉木「黛も、冬川さんを見習ってくれるといいんだけどね」%K%P
 It sure would be nice if Mayuzumi would follow your example, Fuyukawa-san.
+黄泉木「黛如果也能学学冬川小姐就好了」
 
 わざと聞こえるように、黄泉木が大きめの声で言う。%K%P
 As though he wanted her to hear it, Yomogi spoke in a loud voice.
+黄泉木故意用很大的声音说道。
 
 ベッドで丸くなっている黛は無反応。%K%P
 But there was no response from Mayuzumi, who was curled up in bed.
+黛还是在床上蜷成一团，毫无反应。
 
 私達は互いに顔を見合わせ、肩をすくめた。%K%P
 We exchanged glances, then shrugged in unison.
+我们彼此无奈地看着对方，耸了耸肩。
 
 さて、悟からのメッセージを聞かなくちゃ。%K%P
 Now then, I have to listen to the message from Satoru.
+接下来，该听听悟留下的信息了。
 
 悟からのメッセージを聞かなくちゃ。%K%P
 I have to listen to the message from Satoru.
+应该听听悟留下的信息。
 
 彼は、この現象を解決する答えを得られただろうか。%K%P
 Did he find an answer that could help resolve this phenomenon?
+他难道已经找到摆脱这种现象的方法了吗？
 
 ポケットをまさぐり、ボイスレコーダーを探す。%K%P
 Groping in my pocket, I searched for the voice recorder.
+我伸手去掏口袋里的录音机。
 
 黄泉木「お～い、黛！」%K%P
 He～eey, Mayuzumi!
+黄泉木「喂，黛！」
 
 地下倉庫から、黄泉木の大声が響いた。%K%P
 Yomogi's loud voice rang out from the basement.
+从地下仓库中传来了黄泉木洪亮的声音。
 
 黄泉木「ちょっと手伝ってくれ！」%K%P
 Help me out a bit!
+黄泉木「来帮帮我！」
 
 ベッドで丸くなっていた黛は、露骨に嫌そうな顔をした。%K%P
 Mayuzumi, who had curled up on the bed, made an openly reluctant face.
+黛在床上蜷成一团，一副不耐烦的表情。
 
 黛「なんで私なのよ」%K%P
 Why me...?
+黛「为什么是我啊」
 
 黄泉木「いいから頼むよ！」%K%P
 Just come on, I'm begging you!
+黄泉木「好啦，拜托了」
 
 黛「そっちの女に頼めばいいでしょ」%K%P
 You can just ask that woman over there, can't you?
+黛「你去拜托那个女的不就好了」
 
 私の方を睨みつけてくる。%K%P
 She glared in my direction.
+黛瞪着我这边。
 
 私は慌てて立ち上がった。黄泉木を手伝った方がよさそうだ。%K%P
 I panicked and stood up. It seems I should try to help Yomogi-san.
+我慌忙站了起来，看来还是去给黄泉木帮一下忙比较好。
 
 そう思い、地下倉庫へ声をかけようとした。%K%P
 Thinking that, I tried calling down to the basement.
+就在我准备向地下仓库里的黄泉木搭话的时候……
 
 と、地下倉庫へ続くハシゴの下から、黄泉木が顔を出した。薪を持ち上げて、床に置く。%K%P
 And, from the stairs that lead to the basement, Yomogi's head popped up. He lifted the firewood up and laid it on the floor.
+黄泉木从通向地下仓库的梯子上探出了脸，把柴火搬了上来，放在地板上。
 
 黄泉木「ふぅ……」%K%P
 Fuuu...
+黄泉木「呼～」
 
 黄泉木「もういいよ」%K%P
 It's fine now.
+黄泉木「已经不必了」
 
 どうやら自力で済ましてしまったようだ。%K%P
 It looks like he managed to finish by himself.
+看来已经搬完了。
 
 こころ「あの、すいません……気がつかなくて」%K%P
 Um, I'm sorry... I didn't notice.
+心「那个，对不起……我没注意到」
 
 黄泉木「いいって」%K%P
 It's fine.
+黄泉木「没事」
 
 黄泉木は穏やかに笑った。%K%P
-Yomogi laughed gently. 
+Yomogi laughed gently.
+黄泉木爽朗地笑了笑。
 
 気を取り直して、私はＶＲを取り出した。%K%P
 Regaining myself, I took out the ＶＲ.
+我重新振作精神，取出了ＶＲ。
 
 データはふたつ入っていた。%K%P
 There were two new data entries.
+有两份数据。
 
 まず、ＤＡＴＡ１を再生する。%K%P
 First, I played ＤＡＴＡ１.
+我首先播放了ＤＡＴＡ１。
 
 『ああ、えっと……オレだ、悟だ』%K%N
 "Ah, uh... it's me, Satoru."
+“啊，那个……是我，悟”
 
 『ゆにから聞いたよ』%K%N
 "I heard from Yuni."
+“我从悠尼那里听说了”
 
 『墜落現場に、行ったらしいな？』%K%N
 "Seems you went to the crash site, huh?"
+“你去过坠落现场了是吧？”
 
 『オレは不器用だから、こういうとき、何て言えばいいのか、よくわからないんだけど……』%K%N
 "I'm kind of awkward... so I don't know what to say at times like this..."
+“我不大会说话，所以也不知道这种时候该说什么才好……”
 
 『ただ……ひとつだけ……』%K%P
 "Just... one thing..."
+“只有一件事……想要告诉你……”
 
 『オレは、こころが生きててくれて、嬉しいよ』%K%N
 "I'm glad you're alive, Kokoro."
+“心能活下来，我很高兴”
 
 『こんなことを言うのは、亡くなった人に対して不謹慎かも知れないが……』%K%N
 "It might be disrespectful to the dead for me to say this..."
+“说这种话，对死去的人或许有些不敬……”
 
 『でも、これは正直な、オレの気持ちだ』%K%N
 "But this is truly how I feel."
+“不过，这是我最坦率的心情”
 
 『オレはこころに出逢えたことを、感謝してる』%K%N
 "I'm so glad that I met you, Kokoro."
+“我很庆幸自己能和心相遇”
 
 『おまえがパートナーで、良かったと思ってる』%K%N
 "I often think to myself, thank goodness that you're my partner."
+“你能成为我的搭档，实在是太好了”
 
 『もしもおまえが他の誰かだったとしたら、もっととんでもないことになってたかも知れないし……』%K%P
 "If you were anyone else, who knows what might've happened by now..."
+“如果我的搭档是其他人，说不定事情早就已经变得更糟了……”
 
 『オレの身体はちょっと傷ついてしまったけど……』%K%N
 "My body may have this one wound..."
+“我的身体虽然受了点伤……”
 
 『でも、オレ達は一応、こうしてちゃんと生きてるわけだし……』%K%N
 "But that the two of us are still alive right now..."
+“不过，我们还算是好好地活了下来……”
 
 『それはたぶん、おまえのお陰で……』%K%N
 "...is most likely thanks to you..."
+“这大概是托了你的福……”
 
 『おまえが冷静に、行動してくれてるからで……』%K%N
 "It's because you acted with a cool head..."
+“都靠你当时冷静的行动……”
 
 『ああ、えっと、何が言いたいんだろう？』%K%N
 "Ah, umm, what is it I'm trying to say?"
+“啊，那个，该怎么说好呢？”
 
 『とにかく、気を落とさないでくれ』%K%P
 "Anyway, please don't lose heart."
+“总而言之，别气馁”
 
 『こころ……』%K%N
 "Kokoro..."
+“心……”
 
 『今、おまえが生きてる意味を、よく考えて欲しい』%K%N
 "I want you to think about what the meaning is of you being alive right now."
+“我希望你能够好好想想，现在活着的意义”
 
 『亡くなった人の命を取り戻すことはできない』%K%N
 "You can't get back the lives of those who were lost."
+“死者不能复生”
 
 『過ぎてしまったことは、どうすることもできないんだ』%K%N
 "There's nothing you can do about things that have already come to pass."
+“已经过去的事谁也没有办法改变”
 
 『でも、少なくともおまえは生きている』%K%N
 "But at least you're still alive."
+“可是，至少你还活着”
 
 『生き残ったことには、必ず意味があるはずだ』%K%P
 "There must be some meaning in the fact that you survived."
+“你能活下来这件事，一定是有意义的”
 
 『オレはそう思う』%K%N
 "That's what I think."
+“我是这么想的”
 
 『だから、今はただ、おまえにできることは何なのか、それだけを考えて欲しい』%K%N
 "That's why I want you to just think about what you can do now."
+“所以，我希望你现在考虑一下，你能做些什么”
 
 『頭のいいおまえのことだ』%K%N
 "This is you we're talking about, after all; you're a smart person."
+“你很聪明”
 
 『これだけ言えば、わかるよな？』%K%N
 "You understand what I'm saying, right?"
+“我说这些你就该明白了吧？”
 
 『こころ、どうか気を落とさないでくれ』%K%P
 "Kokoro, try not to lose heart."
+“心，希望你不要气馁”
 
 『おまえはひとりぼっちなんかじゃないんだ』%K%N
 "You're not alone."
+“你并不是孤单一人”
 
 『オレはいつでも、おまえのそばにいる』%K%N
 "I'm always right next to you."
+“无论何时，我都在你的身边”
 
 『直接触れあうことはできないけど……』%K%N
 "We may not be able to make direct contact, but..."
+“虽然无法直接接触……”
 
 『オレとおまえは、一心同体みたいなものなんだから……』%K%N
 "It's like you and I share one body and one heart, so..."
+“但我和你就像是一个人一样……”
 
 『だから、オレがついてると思って、安心してくれ』%K%N
 "So think of me as being right next to you, and be at ease."
+“所以，请记住我一直跟随着你，不要紧张”
 
 『それじゃあな』%K%P
 "Bye then."
+“就这样”
 
 ＤＡＴＡ１はそこで終わっていた。%K%P
 ＤＡＴＡ１ ended there.
+ＤＡＴＡ１到这里就结束了。
 
 なんだか、とても気恥ずかしかった。%K%P
 Somehow, I'm kind of embarrassed.
+我总觉得很不好意思。
 
 そして、それ以上に嬉しかった。%K%P
 And, more than that, happy.
+可是，也十分高兴。
 
 悟は私のことを気遣ってくれている。%K%P
 Satoru was worrying about me.
+悟在挂念着我。
 
 事故現場へ向かって気落ちしていたことを知って、私を励まそうとしてくれている。%K%P
 Knowing that I went to the crash site and was feeling down, he tried to cheer me up.
+知道我去过事故现场可能会心情低落，所以才想鼓励我。
 
 『オレは、こころが生きててくれて、嬉しいよ』%K%P
 "I'm glad you're alive, Kokoro."
+“心能活下来，我很高兴”
 
 そう悟は言ってくれた。%K%P
 That's what Satoru said.
+悟是这么说的。
 
 私も悟がパートナーで、良かったと思う。%K%P
 I think it's great that Satoru's my partner as well.
+悟能成为我的搭档，我也觉得实在是太好了。
 
 でなければ、とっくに私は擦り切れちゃっていたと思う。%K%P
 If not, I think I'd already be worn out.
- 
+如果没有悟，我想我可能早就放弃了。
+
 悟が支えてくれてくれたから、今の私はあるんだ。%K%P
 I'm only here now because of Satoru supporting me.
+正因为有悟在，我才能成为现在的我。
 
 『今、おまえが生きてる意味を、よく考えて欲しい』%K%P
 "I want you to think about what the meaning is of you being alive right now."
+“我希望你能够好好想想，现在活着的意义”
 
 そう悟は言ってくれた。%K%P
 That's what Satoru said.
+悟是这么说的。
 
 私は生き残った。%K%P
 I survived.
+我活了下来。
 
 そして、今も生きている。%K%P
 And I'm still alive now.
+而且，我现在还活着。
 
 だから、私は生きている限り、精一杯生きようと思う。%K%P
 That's why, as long as I'm still alive, I'll give my all to live.
+所以，只要我还活着，就要尽全力活下去。
 
 たとえ、意味なんてわからなくても……。%K%P
 Even if I don't understand the reason why....
+即便我还不知道其中的意义……
 
 続けて私はＤＡＴＡ２を呼び出した。%K%P
 Continuing, I played ＤＡＴＡ２.
+接着我又开始播放ＤＡＴＡ２。
 
 それにしても……なんで、わざわざ２回に分けたんだろう？%K%P
 However... why did he purposely divide the message into two parts?
+不过话说回来……为什么要特意分两次录呢？
 
 再び、私の声が流れ出す。%K%P
 Once again, my voice flows out.
+我的声音再一次传出。
 
 『こころ、言い忘れたことがあった、聞いてくれ』%K%N
 "Kokoro, there's something I forgot to mention, so please listen."
+“心，有件事我忘了说，你好好听着”
 
 『たぶん、すぐには信じてもらえないと思うけど……』%K%N
 "You probably won't believe me right away, but..."
+“或许，你难以立刻相信……”
 
 『今、こころはこう思ってるんだよな？』%K%N
 "This is what you think right now, right, Kokoro?"
+“现在，心是这么想的吧？”
 
 『今年は２０１１年だって……』%K%N
 "That this is the year 2011..."
+“今年是２０１１年……”
 
 『だけど、そうじゃないんだ』%K%N
 "But that's not true."
+“但实际上不是这样的”
 
 『こころのいる世界は、１年後の、２０１２年なんだよ』%K%N
 "In the world you're in right now, it's one year later, the year 2012."
+“心所在的世界，是一年后的２０１２年”
 
 『疑うんなら、まわりのヤツに訊いてもらってもかまわない』%K%P
 "If you don't believe me, you can ask the people around you."
+“如果你不信，就尽管问问周围的人”
 
 『でも、これは厳然たる事実なんだ』%K%N
 "But this is an undeniable fact."
+“不过，这是铁一般的事实”
 
 『受け入れて欲しい』%K%N
 "I'd like for you to accept it as is."
+“希望你能接受”
 
 『だから、ゆにのことも……』%K%N
 "That's why, about Yuni..."
+“所以，关于悠尼的事也……”
 
 『えっ？　なになに～？』%K%N
 "Huh? What, what～?"
+“哎？什么什么～”
 
 『ぼくのことが、どうかした？』%K%N
 "What about me?"
+“找我什么事？”
 
 『……ぅ……ぁ……』%K%P
 "...uh... ah..."
+“…呜……啊…”
 
 ＤＡＴＡ２は以上だった。%K%P
 ＤＡＴＡ２ ended.
+ＤＡＴＡ２就到此为止。
 
 え？　これで終わり……？%K%P
 Huh? It ended there...?
+咦？就这么完了？
 
 びっくりしたと同時に呆れてしまった。%K%P
 I was surprised and shocked at the same time.
+我在吃惊的同时呆住了。
 
 私のいる世界が……２０１２年？%K%P
 The world I'm in now... is the year 2012?
+我所在的世界是……２０１２年？
 
 何を言っちゃってるわけ？%K%P
 What is he saying?
+悟究竟在说什么？
 
 今日は２０１１年の１月１３日だ。%K%P
 Today is January 13, 2011.
+今天是２０１１年１月１３日。
 
 今年のお正月には、干支であるウサギのイラストとともに『２０１１　元旦』なんて書かれた年賀状をもらった。%K%P
 On New Year's Day of this year, I received a New Years card that read "Happy 2011" written on it along with an illustration of the rabbit of the Chinese zodiac.
+新年的时候，我还收到了一张写着“２０１１　元旦”的贺年卡，上面还画着今年的生肖——兔子。
 
 どうして彼は、こんな単純な勘違いをしているんだろう？%K%P
 Why had he made such a simple misunderstanding?
+为什么他会把这么简单的事搞错？
 
 『疑うんなら、まわりのヤツに訊いてもらってもかまわない』――そうも言っていた。%K%P
 "If you don't believe me, you can ask the people around you"――That's what he told me.
+还说“如果你不信，就尽管问问周围的人”。
 
 こころ「そこまで言うなら、訊いてやろうじゃないの」%K%P
 If you're going to say something like that, then I will ask!
+心「既然你这么说，那我就问问看」
 
 私は３人を見渡しながら尋ねた。%K%P
 I tried asking while looking over at the three of them.
+我向那三人张望了一下，问道。
 
 こころ「あのぉ、みなさ～ん？」%K%P
 Umm, everyo～ne?
+心「我说，各位」
 
 ３人の視線が私に集中する。%K%P
 All three focused their gazes on me.
+三人的视线都集中在我身上。
 
 こころ「つかぬ事をお訊きしますが……」%K%P
 This is an abrupt question, but...
+心「冒昧地打听一下……」
 
 こころ「今年はぁ、何年でしょ～～か？」%K%P
 What year is it right now～～?
+心「今年，是哪一年呢」
 
 途端に、３人の顔が『はぁ？』といったものになる。%K%P
 At once, three faces shifted to an expression that seemed to say "huh?"
+三人的脸上立刻露出了诧异的表情。
 
 黄泉木「おいおい、どうしたっていうんだ？　いきなり……」%K%P
 Hey hey, what's up? All of a sudden...
+黄泉木「喂喂，究竟是怎么了？突然间……」
 
 黛「ついに脳みそまでイカれちゃったの？」%K%P
 Have you finally lost the last of your marbles?
+黛「终于连脑袋都出问题了吗」
 
 ゆにも目をパチクリとさせている。%K%P
 Yuni blinked in surprise.
+悠尼也惊讶得直眨眼。
 
 こころ「いいから、答えてっ」%K%P
 Don't worry about it, just answer.
+心「怎么都好，快回答我」
 
 黄泉木「２０１１年、だが……」%K%P
 It's 2011...
+黄泉木「不就是……２０１１年么」
 
 毛布にくるまった黛を見る。%K%P
 I look at Mayuzumi, who was wrapped in a blanket.
+我看看裹着毛毯的黛。
 
 黛「２０１１年よ。あったり前でしょ」%K%P
 It's the year 2011. Obviously.
+黛「２０１１年，理所当然的嘛」
 
 ゆにを見る。%K%P
 I looked at Yuni.
+我又看看悠尼。
 
 ゆに「２０１１年……だよ」%K%P
 It's... the year 2011.
+悠尼「是……２０１１年呀」
 
 こころ「ふむ」%K%P
 Hmph.
+心「唔」
 
 満足のいく答だった。%K%P
 I was satisfied with the answer.
+令人满意的答案。
 
 これで今年が２０１１年であることが証明された。%K%P
 This proved that this year was the year 2011.
+这样就证明了今年是２０１１年。
 
 やっぱり、悟の勘違いだったのだ。%K%P
 As I thought, Satoru must've misunderstood something.
+果然，是悟弄错了。
 
 どうしてそんな勘違いをおこしたのかは知らないけれど、間違いは正しておかなければ。%K%P
 I don't know how the misunderstanding occurred, but that should clear it up.
+虽然不知道他为什么会弄错，但是必须要给他纠正过来。
 
 私はＶＲにメッセージを録音するために地下へと降りていった。%K%P
 I went to the basement to record my message.
+我向地下仓库走去，准备用ＶＲ录下留言。
 
 そんな私の姿を３人は、言葉もなく茫然と眺めていた。%K%P
 The three of them wordlessly stared at me in blank amazement.
+三人哑口无言，只是茫然地望着我的身影。
 
 ポケットからＶＲを取り出す。%K%P
 I took the ＶＲ out of my pocket.
+我从口袋中取出ＶＲ。
 
 こころ「えっと……こころです」%K%P
 Um... this is Kokoro.
+心「那个……我是心」
 
 こころ「メッセージ聞きました」%K%P
 I listened to your message.
+心「我听过你留下的信息了」
 
 こころ「どうして、今年が２０１２年だなんて言うの？」%K%P
 Why did you say this was the year 2012?
+心「为什么要说今年是２０１２年？」
 
 こころ「今年は２０１１年だよ」%K%P
 It's the year 2011!
+心「今年是２０１１年哦」
 
 こころ「勘違いなんて、あなたらしくない」%K%P
 It's not like you to be mistaken.
+心「居然把这种事弄错，真不像你的作风」
 
 こころ「ちょっと休んだら？」%K%P
 Maybe you should rest for a bit?
+心「要不要放松一下？」
 
 こころ「みんなにも聞いてみたけど、今年は２０１１年だって言ってた」%K%P
 I asked everyone, and they all said it was the year 2011 too.
+心「我也问过大家了，大家都说今年是２０１１年」
 
 こころ「繰り返すけど、今年はゼッタイ２０１１年だよ。間違いありません」%K%P
 I repeat, this is the year 2011. There's no mistaking it.
+心「我重复一遍，今年绝对是２０１１年，绝不会错」
 
 録音を停止した。%K%P
 I paused the recording.
+我停止了录音。
 
 そして、ちょっと考えた後、私はもう一度録音ボタンを押した。%K%P
 And, after thinking for a while, I pressed the record button once again.
+然后，稍微考虑了一会，我又一次按下了录音键。
 
 こころ「追伸」%K%P
 P.S.
+心「还有」
 
 こころ「腕時計、はずすのやめてよね」%K%P
 Quit taking off my wristwatch, okay?
+心「不要再把手表摘下来了」
 
 こころ「腕時計は、腕にはめるから腕時計って言うんだからっ」%K%P
 A wristwatch is called a wristwatch because you wear it on your wrist!
+心「手表呢，就因为是戴在手腕上的才叫做手表」
 
 ずっとわだかまっていたことを言ってしまったことで、私は少し満足した。%K%P
 Having finally told him about the thing which had been bothering me for a long time, I felt a bit satisfied.
+把一直介怀的事情说了出来，我终于心满意足了。
 
 『んむふふっ』 。%K%P
 "Nmufufu."
+“哼哼”的声音也显得趾高气扬。
 
 自然とニヤついてしまう。%K%P
 A smile naturally followed.
+我不自觉地笑了出来。
 
 上にあがると、３人が遠巻きにして私の方を見ていた。%K%P
 Returning to the first floor, the three upstairs were eying me from a distance.
+我爬回上面，发现三个人正敬而远之地看着我。
 
 寄り添ってヒソヒソ話までしている。%K%P
 They had huddled together, whispering to each other.
+凑在一起说着悄悄话。
 
 ちょっと挙動不審な行動が過ぎたのかも知れない。%K%P
 Perhaps my behavior was too suspicious for them to overlook.
+可能是因为我做了太多可疑的行动吧。
 
 が、今に始まったことではないのだ、と開き直った。%K%P
 But thinking to myself that this wouldn't be the first time, I became defiant.
+不过，反正也不是这一两次了，就将错就错吧。
 
 悟との人格交換のせいで、周囲から見たら私の言動はかなり怪しいものであろう。%K%P
 Because of my personality exchange with Satoru, those watching from around us probably think my speech and conduct quite suspicious.
+因为和悟进行人格交换，在周围的人看来我的言行应该是相当古怪的吧。
 
 今更取り繕ったって、どうなるものでもない。%K%P
 Nothing will come of it even if I try to smooth things over now.
+如今再掩饰也是没有意义的。
 
 私は体力を温存するために、毛布をかぶって横になった。%K%P
 In order to conserve my strength, I lay down, pulling a blanket over my head as I did.
+为了保存体力，我裹上毛毯躺到了床上。
 
 ………………。%K%P
 ..........
+………………
 
 ………………。%K%P
 ..........
+………………
 
 ………………。%K%P
 ..........
+………………
 
 目を覚ますと、いつの間にか外は暗くなっていた。%K%P
 I open my eyes, and all of a sudden it had become dark outside.
+睁开眼，外面不知何时变暗了。
 
 思った以上に長く眠っていたらしい。%K%P
 It seems I slept for longer than I thought.
+看起来我睡了相当长的时间。
 
 みんなも、各々の位置についてじっとしている。%K%P
 Everyone was staying quietly in their own locations as well.
+大家也都呆在自己的位置上。
 
 特に異常は起きていないらしい。%K%P
 Looks like nothing out of the ordinary happened.
+看来没发生什么异常情况。
 
 安心したせいか、再び睡魔がやってきた。%K%P
 It may have been because of my peace of mind, but drowsiness overcame me once again.
+这么一安下心来，睡魔再次袭来。
 
 私はウトウトとし始め――……%K%P
 As I began to doze off――...
+我迷迷糊糊地刚要睡着——

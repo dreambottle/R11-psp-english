@@ -1,6 +1,7 @@
-TIP034
+﻿TIP034
 観相学
 Phrenology
+观相学
 paragraph_count:1
 init_addr:7878
 pc_index:TIP_039
@@ -16,3 +17,6 @@ pc_index:TIP_039
 A divination method, supposed to be able to foretell a person's character and destiny based on examination of their cranial structure and facial features.%N
 Viewed as a serious school of scientific thought during the Victorian era, but has since been disproved and is now viewed as a quack medical practice.
 
+#CN#1
+从头部的骨相、%N
+五官的位置来判断占卜人的个性与命运。%N

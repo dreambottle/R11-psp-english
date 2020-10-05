@@ -1,6 +1,7 @@
-TIP013
+﻿TIP013
 ＬＡＮ
 LAN
+ＬＡＮ
 paragraph_count:1
 init_addr:771c
 pc_index:TIP_017
@@ -20,3 +21,7 @@ Local Area Network%N
 A network of interconnected computers covering a small physical area such as a building.%N
 Allows for processing of large quantities of data which can be sent and received instantaneously.
 
+#CN#1
+Ｌｏｃａｌ　Ａｒｅａ　Ｎｅｔｗｏｒｋ%N
+架设在同一建筑物等环境中的电脑之间的网络。%N
+可以同时发送、接收并且处理多样化的信息。%N

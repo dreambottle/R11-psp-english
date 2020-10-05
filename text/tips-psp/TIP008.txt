@@ -1,6 +1,7 @@
-TIP008
+﻿TIP008
 フリーズドライ
 Freeze Drying
+冷冻干燥
 paragraph_count:1
 init_addr:7694
 pc_index:TIP_011
@@ -17,4 +18,11 @@ pc_index:TIP_011
 #PARAGRAPHS_TRANSLATED:
 #EN#1
 A method of rapidly freezing and dehydrating food, allowing it to retain its flavor and nutritional content even as it loses its shape. Freeze-dried foodstuffs can later be reconstituted with hot or cold water.
+
+#CN#1
+冷冻干燥法。%N
+一种食品加工方法。%N
+藉由急速冷冻并干燥食物的过程%N
+来保持食物的风味以及营养价值，%N
+并且可以利用水或者是热水来把食物恢复原状。%N
 

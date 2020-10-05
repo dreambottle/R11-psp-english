@@ -1,6 +1,7 @@
-TIP086
+﻿TIP086
 サウル
 Saul
+扫罗王
 paragraph_count:2
 init_addr:7c8c
 pc_index:TIP_091
@@ -38,3 +39,20 @@ However, he failed in his God-given mission to become an instrument of the Lord.
 Though anointed by God to become "an instrument of the Lord," as the king of God's people, he did not. The reason is that Saul disobeyed the will of God....%N
 Saul was forsaken by God, and met a tragic end.
 
+#CN#1
+扫罗这个名字在希伯莱文里是代表%N
+“被要求的人”的意思。%N
+人名的由来则是为此名的古以色列第一任国王，%N
+也就是被万民所期待、%N
+并且也回应了人民期待的国王人选。%N
+确实，以他身为一个王，一个武士的身份来说，%N
+他也许是一个无可取代的人物。%N
+
+#CN#2
+然而，以被上帝所选择的使仆这一身份来看，%N
+他是一个失去资格的人。%N
+扫罗王无法完成上帝所要求的“神的使仆”，%N
+也无法称为上帝子民的王。%N
+因为扫罗王背弃了上帝……%N
+于是扫罗王被上帝所摒弃，%N
+走向了一个悲剧结局。%N

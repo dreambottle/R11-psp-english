@@ -1,6 +1,7 @@
-TIP071
+﻿TIP071
 量子ビット
 Quantum Bit
+量子字节
 paragraph_count:2
 init_addr:7b3c
 pc_index:TIP_076
@@ -30,3 +31,15 @@ A physical state in which "0" and "1" overlap (a quantum superposition) is treat
 #EN#2
 Also known as a qubit. Computers that use them are called %TS072quantum computers%TE, and are capable of carrying out very fast calculations (massively parallel computation).
 
+#CN#1
+取代2003年主流的电脑（冯诺依曼型架构）中%N
+所使用的古典字节（使用0与1——Off或On%N
+——的二进制表示的信息），%N
+用来表示信息的一种新单位。%N
+利用“0”与“1”重叠的物理状态%N
+（量子缠结状态）来当作运算单位。%N
+
+#CN#2
+也被称为Q字节。%N
+利用此种方式计算的电脑称为%TS072量子计算器%TE，%N
+可以进行超高速的运算（超平行运算）。%N

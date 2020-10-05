@@ -1,6 +1,7 @@
-TIP066
+﻿TIP066
 不確定性原理
 Uncertainty Principle
+测不准原理
 paragraph_count:1
 init_addr:7ad8
 pc_index:TIP_071
@@ -23,3 +24,12 @@ In quantum mechanics, the uncertainty principle states that, regarding a particl
 The uncertainty relationship, which states that "the product of the uncertainty of the two values cannot be smaller than a fixed proportion of Planck's constant" holds true.%N
 It was derived by Werner Heisenberg in 1927.
 
+#CN#1
+在量子力学的概念中，%N
+类似粒子的位置与动量、能量与时间等的%N
+一组物理量是无法在同一时间被正确无误%N
+地测定，也是无法确认的。%N
+此两种物理量的误差范围相乘后绝对不会%N
+小于某个与普朗克常数成正比的数值，%N
+由此产生了测不准的结果。%N
+这个理论是海森堡在1927年时推导出来的。%N

@@ -1,6 +1,7 @@
-TIP105
+﻿TIP105
 明晰夢
 Lucid Dream
+清醒梦
 paragraph_count:1
 init_addr:7ea4
 pc_index:TIP_013
@@ -23,3 +24,10 @@ When one is dreaming, yet at the same time conscious of the fact that he or she 
 It can also refer to the technique of entering such a dream.%N
 It is said that those who are having lucid dreams realize that they are in a dream and are able to direct the continuation of the dream according to their own will.
 
+#CN#1
+Lucid Dream%N
+就是在梦中也能感觉到“我现在正在作梦”的一种梦。%N
+或指称进入清醒梦境的技巧。%N
+据说因为作了清醒梦的人，%N
+在梦中对于自己在作梦的事实有所自觉，%N
+所以就可以用自己的意识来决定梦境的发展。%N

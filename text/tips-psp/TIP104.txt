@@ -1,6 +1,7 @@
-TIP104
+﻿TIP104
 Ｒ
 R
+Ｒ
 paragraph_count:1
 init_addr:7e94
 pc_index:TIP_004
@@ -22,4 +23,12 @@ pc_index:TIP_004
 3. The symbol for "right."%N
 And also, the R from the title of this game (Remember11).%N
 The letter R is full of significant meanings.
+
+#CN#1
+1:表示半径(radius)、比值(ratio)的符号。%N
+可延伸为弧的意思。%N
+2:第18个英文字母。%N
+3:用来表示右(right)的符号。%N
+另外，也表示本作品Remember11的R。%N
+R这个字母具有许许多多的意义。%N
 

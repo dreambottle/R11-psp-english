@@ -5,7 +5,7 @@ import sys
 import os
 from struct import *
 from collections import namedtuple
-import png
+import lib.png as png
 
 GLYPH_DATA_FILE = 'glyph_data.txt'
 
@@ -73,59 +73,64 @@ def packFont(font, path, pngGlyphPath = None):
   f.write(font.imageRawData)
   f.close()
 
-def writePngs(font, firstHalfHack=False):
-  # out = 'font00.png'
+def loadGlyphs(font, halfOnly=True, firstHalf=True):
   raw = font.imageRawData
 
-  bs = font.header.blockSize
+  blockSize = font.header.blockSize
   h = font.header.height
   w = font.header.width
-  wb = bs // h
-  BPP = 2
+  wBlock = blockSize // h
+  bitsPerPixel = 2
+
+  # R11 PSP font has 2 bits per pixel, 16px glyph width, 2 glyphs per block
+  # Logic dictates that this should result 64 bits or 8 bytes per row,
+  # however, the PSP font weirdly has 16 bytes (128 bits) per row.
+
+  # Not sure what was the intention behind the blank space, but halfOnly=True works around it.
 
   glyphs = []
-  for i in range(len(raw) // bs):
-    pos = i * bs
-    rawBlock = raw[pos:pos+bs]
+  for i in range(len(raw) // blockSize):
+    pos = i * blockSize
+    rawBlock = raw[pos:pos+blockSize]
     # 2 glyphs in every block
     glyph0 = []
     glyph1 = []
     for l in range(h):
-      rawLine = rawBlock[ l*wb : l*wb+wb ]
+      rawCurrentBlockRow = rawBlock[ l*wBlock : l*wBlock+wBlock ]
 
-      line0 = []
-      line1 = []
-      rng = wb
-      if firstHalfHack:
-        rng //= 2
-      for p in range(rng):
-        # byte = rawLine[p]
-        # px = ((byte & 1) << 1) | ((byte >> 1) & 1)
-        # line0.append(px)
-        # byte >>= 2
-        # px = ((byte & 1) << 1) | ((byte >> 1) & 1)
-        # line1.append(px)
-        # byte >>= 2
-        # px = ((byte & 1) << 1) | ((byte >> 1) & 1)
-        # line0.append(px)
-        # byte >>= 2
-        # px = ((byte & 1) << 1) | ((byte >> 1) & 1)
-        # line1.append(px)
-        # Nope, let's try sth different
-
-        loHalf = rawLine[p] & 0xF
-        hiHalf = rawLine[p] >> 4 & 0xF
-        px0 = loHalf & 0x3
-        line0.extend([magicPxConvert(loHalf & 0x3), magicPxConvert(hiHalf & 0x3)])
-        line1.extend([magicPxConvert(loHalf >> 2), magicPxConvert(hiHalf >> 2)])
-      glyph0.append(line0)
-      glyph1.append(line1)
+      row0 = []
+      row1 = []
+      blockStart = 0
+      blockWidthRange = wBlock
+      if halfOnly:
+        blockWidthRange //= 2
+      if not firstHalf:
+        blockStart += wBlock
+        blockWidthRange += wBlock
+      for p in range(blockStart, blockWidthRange):
+        currentByte = rawCurrentBlockRow[p]
+        row0.extend([magicPxConvert(currentByte >> 0), magicPxConvert(currentByte >> 4)])
+        row1.extend([magicPxConvert(currentByte >> 2), magicPxConvert(currentByte >> 6)])
+        # loHalf = rawCurrentBlockRow[p] & 0xF
+        # hiHalf = rawCurrentBlockRow[p] >> 4 & 0xF
+        # px0 = loHalf & 0x3
+        # line0.extend([magicPxConvert(loHalf & 0x3), magicPxConvert(hiHalf & 0x3)])
+        # line1.extend([magicPxConvert(loHalf >> 2), magicPxConvert(hiHalf >> 2)])
+      glyph0.append(row0)
+      glyph1.append(row1)
     # every block
     glyphs.append(glyph0)
     glyphs.append(glyph1)
 
+  return glyphs
+
+def writePngs(font, firstHalfHack=False):
+  glyphs = loadGlyphs(font, firstHalfHack, True)
+
   print("decoded glyphs count:", len(glyphs))
   print("Writing glyphs to files...")
+  h = font.header.height
+  w = font.header.width
   writer = png.Writer(w, h, greyscale=True, bitdepth=2)
   for i in range(0, len(glyphs)):
     file = open('glyphs/{0:d}.png'.format(i), 'wb')
@@ -133,8 +138,56 @@ def writePngs(font, firstHalfHack=False):
     file.close()
 
 
+def writePngsPane(panePngPath: str, font: Font, glyphsCountPerRow: int, withBorders: bool):
+  glyphs = loadGlyphs(font, True, True)
+  rows = (glyphs.__len__() // glyphsCountPerRow) + 1
+
+  border = 1 if withBorders else 0
+  gridH = font.header.height + border
+  gridW = font.header.width + border
+
+  print('border', border, 'gridw', gridW)
+
+  h = gridH * rows
+  w = gridW * glyphsCountPerRow
+
+  #init grid
+  texture = []
+  for i in range(h):
+    texture.append([])
+    for j in range(w):
+      # if not withBorders:
+      #   texture[i].append(0x0)
+      #   continue
+      
+      if (i % gridH == gridH-1):
+        texture[i].append(0x3)
+      elif (j % gridW == gridW-1):
+        texture[i].append(0x3)
+      else:
+        texture[i].append(0x0)
+  
+  for i in range(h):
+    row = i//gridH
+    glyphH = i % gridH
+    for j in range(w):
+      col = j // gridW
+      glyphW = j % gridW
+      isBorder = glyphH >= font.header.height or glyphW >= font.header.width
+      glyphNo = row * glyphsCountPerRow + col
+      if not isBorder and glyphNo < glyphs.__len__():
+        glyph = glyphs[glyphNo]
+        texture[i][j] = glyph[glyphH][glyphW]
+
+
+  pngWriter = png.Writer(w, h, greyscale=True, bitdepth=2)
+  file = open(panePngPath, 'wb')
+  pngWriter.write(file, texture)
+  file.close()
+
 # Works both ways (encode & decode). I still have no idea why they did it though.
 def magicPxConvert(px):
+  px &= 0x3
   if (px & 0x1 == 1):
     px ^= 0x2
   return px
@@ -148,6 +201,16 @@ def writeMetadata(font, path):
   f.write("blockSize: {0:d}\n".format(font.header.blockSize))
   for i, v in enumerate(font.metadata):
     f.write("{0:5d}: {1:d}:{2:d}\n".format(i, v['l'], v['r']))
+  f.close()
+
+def writeMetadata2(font, path):
+  f = open(path, "w")
+  f.write("count: {0:d}\n".format( len(font.metadata) ))
+  f.write("width: {0:d}\n".format(font.header.width))
+  f.write("height: {0:d}\n".format(font.header.height))
+  f.write("blockSize: {0:d}\n".format(font.header.blockSize))
+  for i, v in enumerate(font.metadata):
+    f.write("{4:04d}|{2:02d}{3:02d}|{2:02x}{3:02x}: {0:d}:{1:d}\n".format(v['l'], v['r'], i//94, i%94, i))
   f.close()
 
 def parseMetadata(path):
@@ -243,6 +306,7 @@ def main():
   if len(sys.argv) < 2:
     print('chose one of the args:')
     print('  png|pnghalf [<FONT00.FNT>] - extracts all glyphs from FONT00.FNT file (pnghalf only extracts left half of the image)')
+    print('  pngpane [<FONT00.FNT>] - extracts all glyphs from FONT00.FNT file to a pane')
     print('  autotrim [<FONT00.FNT>] - trims all spaces between letters by 1px on both sides')
     print('  repack <dir> - packs pngs and metadata in <dir> into a "%s" font file'%(REPACKEDPATH))
     exit(1)
@@ -257,6 +321,12 @@ def main():
     font = unpackFont(srcpath);
     writeMetadata(font, 'glyphs/{0}'.format(GLYPH_DATA_FILE))
     writePngs(font, firstHalfHack=(cmd == 'pnghalf'))
+  if (cmd == 'pngpane'):
+    os.makedirs('glyphs-pane/', 0o755, exist_ok=True)
+    print('Extracting', srcpath, 'to PNG pane')
+    font = unpackFont(srcpath);
+    #writeMetadata2(font, 'glyphs-pane/{0}'.format(GLYPH_DATA_FILE))
+    writePngsPane('glyphs-pane/font.png', font, 94, True)
   elif (cmd == 'meta'):
     print('Extracting', srcpath, 'metadata file')
     font = unpackFont(srcpath);

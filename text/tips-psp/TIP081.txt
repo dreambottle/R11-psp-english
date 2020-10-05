@@ -1,6 +1,7 @@
-TIP081
+﻿TIP081
 均衡の保たれたポジション
 Equilibrium Position
+保持均衡的位置
 paragraph_count:3
 init_addr:7bf0
 pc_index:TIP_086
@@ -57,4 +58,34 @@ there should be a total of eight points of intersections between all circles—�
 Since two of them are "point: Aosagi Island" and "point: Mount Akakura" we exclude these.%N
 Which leaves us with six points——%N
 If any of these six represents the actual third area, that would mean that the three transfer points are located in equilibrium positions.
+
+#CN#1
+实际上，在地球上可以保持三点间距离均衡的%N
+地点有六个。%N
+这六个点的位置如下所述：%N
+首先，将“点：青鹭岛”与“点：朱仓岳”%N
+在球面上的距离设为r，%N
+接着分别以“点：青鹭岛”与%N
+“点：朱仓岳”为圆心、r为半径，%N
+在同一个球面上画出两个圆。%N
+将此二圆的两个交点设为p1、p2.%N
+
+#CN#2
+画一条直线通过p1、p2.%N
+接着再画一条直线通过%N
+“点：青鹭岛”与“点：朱仓岳”。%N
+这里说的“直线”是指在曲面上的直线，%N
+正确地说就是环绕地球一周的圆。%N
+此时球面上共有两个大圆与两个小圆。%N
+
+#CN#3
+这个时侯，%N
+球面上所有圆的交点一共有八个——%N
+其中“点：青鹭岛”与%N
+“点：朱仓岳”这两个点不再考虑范围内。%N
+剩下的点一共有六个——%N
+只要把第三领域设定在%N
+这六个地点的其中一个的话，%N
+就可以达成“三个地点处于保持均衡的位置上”%N
+的情况。%N
 

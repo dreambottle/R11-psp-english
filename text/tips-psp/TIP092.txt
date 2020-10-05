@@ -1,6 +1,7 @@
-TIP092
+﻿TIP092
 冬川⑳こころ
 Fuyukawa Kokoro
+冬川心
 paragraph_count:4
 init_addr:7d50
 pc_index:TIP_100
@@ -83,4 +84,40 @@ Together with the other survivors, she had no choice but to find a way to escape
 After the incident, Kokoro's mind and body experienced abnormalities.%N
 Sometimes, her mind and body separate, exchanging places with those of another person (Satoru) in a different location.%N
 Her mind and memory switch back and forth between the snowy mountain and SPHIA.
+
+#CN#1
+姓名：冬川心%N
+性别：女%N
+年龄：20岁%N
+生日：1990年2月22日（双鱼座）%N
+血型：B型%N
+职业：鸠鸣馆女子大学·人文系社会专业（研习人类学）%N
+智力：普通%N
+体力：普通%N
+协调性：较高%N
+
+#CN#2
+性格：相信感情、对自己诚实、外向、好奇心旺盛、%N
+⑳任性、感性。%N
+兴趣：观察野生鸟类、盆栽%N
+喜好：说谎也是权宜之计、和睦的气氛、愉快的事情%N
+厌恶：沉默寡言、相互仇视争吵、麻烦事、黄瓜%N
+设定：左撇子%N
+里设定：象征“anima（男性心中隐藏的女性倾向）”%N
+⑳→原型）%N
+%N
+这是针对2011年的设定。%N
+
+#CN#3
+女性视角的主角。%N
+遭逢飞机失事，幸运生还，是意外事件中的一个生存者，%N
+但是被困在被冰雪包围、远离人际的山中。%N
+她与其他一起生还的数名同伴，%N
+现在连逃离这个隔绝空间的余力都没有。%N
+
+#CN#4
+另外，在意外以后，冬川心的身心都陷入异常。%N
+精神常常会脱离肉体，%N
+进入身处异地的其他人（优希堂悟）的身体里。%N
+她的记忆与意识在雪山与SPHIA之间来回交错。%N
 

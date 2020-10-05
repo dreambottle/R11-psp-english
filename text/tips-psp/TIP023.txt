@@ -1,6 +1,7 @@
-TIP023
+﻿TIP023
 フランス傭兵部隊
 French Mercenary Legion
+法国佣兵部队
 paragraph_count:2
 init_addr:77bc
 pc_index:TIP_028
@@ -39,3 +40,21 @@ The Mercenary Legion has fought in many conflicts such as the French conquest of
 Even now, any French troops dispatched overseas are almost always from the Mercenary Legion.%N
 They were recently deployed in areas such as Afghanistan and Kosovo.
 
+#CN#1
+法国的正规部队，%N
+由法国国王路易·菲利浦在1831年创设。%N
+创建的目的似乎是因为，%N
+他认为战争时利用从其它国家雇来的佣兵，%N
+而不派出属于自己国家的士兵的话，%N
+就能在不伤害自己国民的情况下解决战争问题。%N
+佣兵部队的字典里没有“投降”这两个字，%N
+也没有针对被俘虏后如何行动的教育，%N
+他们被训练成要战斗到最后一刻。%N
+
+#CN#2
+阿尔及利亚征服战、越战、阿尔及利亚内战等%N
+战争中都有佣兵部队被派往战场，%N
+许多外籍佣兵因而丧生。%N
+现在法国仍然会在对海外发兵时，%N
+尽量派出最精良的佣兵部队，%N
+最近似乎曾将部队派往阿富汗及科索沃等地。%N

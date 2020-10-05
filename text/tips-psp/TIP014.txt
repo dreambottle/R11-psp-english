@@ -1,6 +1,7 @@
-TIP014
+﻿TIP014
 ブラウザ
 Browser
+浏览器
 paragraph_count:1
 init_addr:772c
 pc_index:TIP_019
@@ -15,3 +16,6 @@ pc_index:TIP_019
 #EN#1
 A software application that retrieves, traverses and displays the information resources from various sources such as web servers or the Internet on web pages.
 
+#CN#1
+SPHIA浏览器的首页被病毒劫持了，其内容如下：%N
+本汉化移植由 请在此输入汉化组名称 出品%N

@@ -1,6 +1,7 @@
-TIP000
+﻿TIP000
 ソシオロジィ
 Sociology
+社会学
 paragraph_count:1
 init_addr:7610
 pc_index:TIP_001
@@ -18,3 +19,7 @@ pc_index:TIP_001
 #EN#1
 The study of the mechanisms behind social life, social structures, and social issues in relation to human social behaviors.
 
+#CN#1
+探究人类社会行为与社会现象的关系，%N
+藉此分析社会活动、社会组织、%N
+社会问题等议题的学问。%N

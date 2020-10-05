@@ -1,6 +1,7 @@
-TIP078
+﻿TIP078
 時刻
 Time
+时间
 paragraph_count:1
 init_addr:7bc0
 pc_index:TIP_083
@@ -14,3 +15,5 @@ pc_index:TIP_083
 #EN#1
 The date and time were indicated by a timestamp in the corner of the videos.
 
+#CN#1
+日期与时间会显示在影片的角落。%N

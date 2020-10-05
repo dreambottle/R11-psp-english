@@ -1,6 +1,7 @@
-TIP048
+﻿TIP048
 物自体
 Thing-In-Itself
+本体
 paragraph_count:1
 init_addr:7980
 pc_index:TIP_053
@@ -20,14 +21,14 @@ pc_index:TIP_053
 #EN#1
 # The central concept of the philosophy of Immanuel Kant,
 # an eighteenth-century German philosopher.%N
-# It refers not to the object's phenomenon characteristic, 
+# It refers not to the object's phenomenon characteristic,
 # that which concerns empirical recognition,
 # but to the actual object itself, the very substance of
 # the phenomenon's origin, independent of any subjectivity.
 # It means that we can only make sense of the phenomenon, and
 # can never directly "know" the actual object(s) or way(s).%P
-# The thing-in-itself is not something which can be understood, 
-# only contemplated; however, the contemplation itself is 
+# The thing-in-itself is not something which can be understood,
+# only contemplated; however, the contemplation itself is
 # a sort of transcendental freedom.
 The central concept of the philosophy of Immanuel Kant,
 an 18th-century German philosopher.%N
@@ -38,4 +39,13 @@ It means that we can only make sense of the phenomenon,
 and can never directly "know" the actual object or way.%N
 The thing-in-itself can not be understood, only
 contemplated; but even that is a transcendental freedom.
+
+#CN#1
+康德哲学的主要概念。%N
+不是用来指称由现象——%N
+也就是经验所认知的对象——所构成的物体；%N
+而是用来指称产生现象的起源，%N
+独立于主观思考以外的本体。%N
+本体是无法被认知的，只存在于思维里。%N
+但唯心主义所谓的自由只存在于本体之中。%N
 

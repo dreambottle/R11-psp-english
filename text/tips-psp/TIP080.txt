@@ -1,6 +1,7 @@
-TIP080
+﻿TIP080
 午後−−時−−分
 --:-- PM
+晚上——时——分
 paragraph_count:1
 init_addr:7be0
 pc_index:TIP_085
@@ -20,3 +21,8 @@ pc_index:TIP_085
 This was when I saw the shadow holding a knife when the lights went out.%N
 I had no time to look at my watch.
 
+#CN#1
+“晚上——时——分”是表示无法计测的时刻。%N
+这是在停电时的黑暗之中，%N
+我看到手持刀械的人影的时间，%N
+当时我没有多余的时间去查看手表。%N

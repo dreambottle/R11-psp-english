@@ -1,6 +1,7 @@
-TIP004
+﻿TIP004
 青鷺島
 Aosagi Island
+青鹭岛
 paragraph_count:1
 init_addr:7654
 pc_index:TIP_006
@@ -24,3 +25,11 @@ Aosagi Island was uninhabited until the construction of SPHIA.%N
 It possesses no airport, and the only way to get there is by a boat which departs from Wakkanai Harbor on an irregular basis.%N
 Furthermore, entry to the island without a government-issued permit is prohibited.
 
+#CN#1
+青鹭岛是一座位于礼文岛西方约五公里海上的孤岛，%N
+在岛上建立SPHIA前是一座无人岛。%N
+岛上没有机场，不定期从稚内港开出的船只，%N
+是唯一的对外交通途径。%N
+一般来说，%N
+如果没有得到政府发行的许可证，
+是不能登陆这座岛屿的。%N

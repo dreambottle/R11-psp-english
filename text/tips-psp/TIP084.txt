@@ -1,6 +1,7 @@
-TIP084
+﻿TIP084
 ダビデ
 David
+大卫王
 paragraph_count:3
 init_addr:7c60
 pc_index:TIP_089
@@ -48,3 +49,29 @@ In Japan, the Star of David, called the "rokubousei" (六芒星), or hexagram, i
 The symbol that holds the opposite meaning to the Star of David is the "gobousei" (五芒星), or pentagram, also called "the Star of Solomon."%N
 The magical power of the Star of %TS085Solomon%TE seals the inner demons inside the infinity loop.
 
+#CN#1
+大卫这个名字在希伯来文里是%N
+“被爱的人”的意思。%N
+而这个词语变成人名的由来，%N
+则是以此为名的古以色列第二任国王。%N
+他定国都为耶路撒冷，统一以色列，%N
+建立以色列最繁荣的时代。%N
+
+#CN#2
+大卫王擅长战略，%N
+而由于他的势力实在太过于强大，%N
+因此有些法术师认为那是因为他背后有魔法，%N
+并且认为大卫王的军旗肯定是一种%N
+“召唤恶魔的符咒”。%N
+印在大卫王军旗上的符号正是“大卫之星”。%N
+另外，以色列人也把这个符号%N
+当作守护自己安全的符文。%N
+其投影图形也被用在以色列国旗上。%N
+
+#CN#3
+在日本，大卫之星被称为六芒星，%N
+同时也是代表伊势神宫的符文。%N
+与大卫之星具有完全相反的意义的图案就是%N
+五芒星——“所罗门之星”。%N
+%TS085所罗门%TE之星的法力可以将向自己释放出的%N
+恶魔封印到无限轮回之中。%N

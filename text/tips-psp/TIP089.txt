@@ -1,6 +1,7 @@
 TIP089
 邂逅
 Chance Meeting
+邂逅
 paragraph_count:1
 init_addr:7ccc
 pc_index:TIP_094
@@ -27,3 +28,13 @@ After all, it's not a usual sight to see your husband who has been dead for a ye
 Not to mention it happened here in this hellish world of snow....%N
 At least, Utsumi hasn't yet considered the idea that this place is some kind of heaven.
 
+#CN#1
+所谓的“邂逅”就是%N
+在无意间重逢、偶遇的意思。%N
+顺道一提，这个时侯内海心中所想到某些事情%N
+是远远超乎常人想像范围以外的。%N
+毕竟，在一年以前就应该死了的丈夫%N
+突然出现在她的面前。%N
+而且这附近又是环境严苛的冰雪地狱……%N
+在这个时刻，她的心中可能会有着%N
+“也许这里就是天国”的感觉吧。%N

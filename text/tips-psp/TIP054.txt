@@ -1,6 +1,7 @@
-TIP054
+﻿TIP054
 懐疑論
 Skepticism
+怀疑论
 paragraph_count:1
 init_addr:79fc
 pc_index:TIP_059
@@ -18,3 +19,8 @@ A school of thought in classical philosophy. With human cognizance being highly 
 Therefore, all things should be viewed with doubt initially; final judgments on anything, e.g. new information, should be suspended until it has been thoroughly investigated and proven to be veracious.%N
 This is skepticism.
 
+#CN#1
+认为人类的认知是主观的、%N
+相对的以此怀疑人类有可能无法认知%N
+绝对的真理因而停止进行最终判断的一种思想。%N
+也称怀疑主义。%N

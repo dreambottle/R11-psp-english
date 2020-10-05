@@ -1,6 +1,7 @@
-TIP046
+﻿TIP046
 コアセルベート
 Coacervate
+团聚体
 paragraph_count:1
 init_addr:7960
 pc_index:TIP_051
@@ -19,3 +20,9 @@ pc_index:TIP_051
 A small spherical droplet of hydrophilic colloids suspended in a liquid, which forms when solutions of colloids are mixed under suitable conditions to achieve and maintain a stable state.%N
 There is a theory that suggests they were the origin of life on Earth, as they have properties that resemble living matter and may have been the pre-biological systems from which living organisms originated.
 
+#CN#1
+一种亲水性的胶体粒子%N
+在溶液中聚集所形成的物体，%N
+外观为小型的液滴状，%N
+并与溶液间保持着一定的平衡。%N
+有些说法认为这就是地球生命起源的最初阶段。%N

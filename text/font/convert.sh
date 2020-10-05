@@ -7,6 +7,10 @@
 # imagemagick version 7 is recommended
 
 # input files directory
-SRC="misc/glyphs"
+SRC="glyphs"
+TGT="glyphs-new"
+
+mkdir -p $TGT
+
 # outputs to glyphs-new/
-ls $SRC | xargs -I{} convert "$SRC/{}" -colorspace Gray -depth 2 -define png:bit-depth=2 -define png:exclude-chunks=date,time glyphs-new/{}
+ls $SRC | xargs -I{} convert "$SRC/{}" -colorspace Gray -depth 2 -define png:bit-depth=2 -define png:exclude-chunks=date,time $TGT/{}

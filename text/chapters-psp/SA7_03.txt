@@ -1,719 +1,956 @@
 
 次の転移は午前４時４８分……。%K%P
 The next transfer was at 4:48 AM....
+下次转移是凌晨４时４８分……
 
 あと３０分以上もあったが、のんびりしてはいられない。%K%P
 I still had over 30 minutes left, but I couldn't afford to relax.
+虽然还有３０多分钟，但不能慢吞吞的了。
 
 なにが起こるかわからないから、早めに行動を取っておく必要があった。%K%P
 I didn't know what was going to happen, so I snapped into action.
+因为不知道会发生什么，所以需要及早采取行动。
 
 一度自室に戻ったオレ……。%K%P
 Returning to my room at once....
+我又回到自己房间一趟……
 
 クローゼットからコートを引っぱり出し、足早に部屋を出た。%K%P
 I took my coat from the closet and quickly left.
+从衣橱里拉出一件大衣，快步走出房间。
 
 空はまだ暗かった。%K%P
 The sky was still dark.
+天空一片漆黑。
 
 透明度の高い真冬の空には無数の星屑が散らばっていた。%K%P
 The clear midwinter sky had a countless number of stars scattered across it.
+深冬的天空清澈透明，上面散落着无数星屑。
 
 月は南南東の方角に低く浮かんでいて下弦だった。%K%P
 The moon was hanging low in its last phase in the south-southeast direction.
+月亮在东南的方向低低漂浮着，是下弦。
 
 １３日に見たそれよりは３日分欠けていて、今は真っ二つに引き裂かれたような半円を描いている。%K%P
 It was missing more of its light now, drawing a mere semicircle, as if torn in two.
+跟１３日见到的相比，差了三天，现在就像是从正中劈成两半的半圆一样。
 
 半分の月……。ひとつであり、ひとつでないもの……。%K%P
-A half moon....  The one that's there, yet the one that isn't....
+A half moon.... The one that's there, yet the one that isn't....
+半个月亮……一个有差异的统一体……
 //check
 
 オレは月明かりと星々の光だけを頼りに、闇の中を黙々と突き進んでいった。%K%P
 I pushed forward into the darkness, relying only on the light of the moon and the stars.
+我借着月光和星光，在黑暗中默默地奔走。
 
 正面ゲートの前に立つ。%K%P
 I was standing by the front gate.
+来到了正面大门前。
 
 ゲートの左側には、ロックを制御するカードリーダーの端末が設置されていた。%K%P
 On the left was a computer terminal, with a lock controlled by a card reader.
- 
+门左侧设有控制门锁的读卡终端。
+
 ポケットからＩＤカードを取り出し、その溝に滑らせる……。%K%P
 I took my ID card from my pocket and slid it through the slot....
+我从口袋中取出ＩＤ卡，对准沟槽……
 
 滑らせようと思った……。%K%P
 Or at least, I tried to slide it....
+正打算滑过……
 
 しかし……。%K%P
 However....
+但是……
 
 カードが、差さらなかった。%K%P
 The card wouldn't go in.
+卡没有进去。
 
 目を凝らしてよく見ると、カードリーダーの溝に氷が付着しているのがわかった。%K%P
 Looking closely, I saw that the card's slot had frozen over.
+仔细一看，发现读卡器的沟槽里结了冰。
 
 悟「ちっ、なんでこんなときに限って……」%K%P
 Dammit, how could it get stuck at a time like this...?
+悟「嘁，怎么非在这种时候……」
 
 青鷺島には、この数日間、雪は降っていない。%K%P
 There hadn't been any snowfall at Aosagi Island over the past few hours.
+青鹭岛已经几天没下过雪了。
 
 けれど、朱倉岳は……？%K%P
 But what about Mount Akakura...?
+可是，朱仓岳呢……？
 
 雑誌の記事から、１５日の朱倉岳が猛吹雪に見舞われていたことをオレは知っている。%K%P
 From the magazine article, I knew that Mount Akakura was hit by a blizzard on the 15th.
+根据杂志上的报道，我知道，１５日的朱仓岳刮起了猛烈的暴风雪。
 
 そして、このスフィアがずっと青鷺島にとどまっていたわけではないことも……。%K%P
 And, it wasn't as if SPHIA had always been stuck at Aosagi Island....
+然后，这个ＳＰＨＩＡ也不是永远停留在青鹭岛……
 
 スフィアは、時空間転移によって朱倉岳の吹雪にさらされた。%K%P
 SPHIA had been exposed to the snowstorm through the space-time transfer.
+ＳＰＨＩＡ在时空间转移后，也受到了朱仓岳暴风雪的袭击。
 
 恐らく、そのときの雪がリーダーの溝に入り込み、寒さのために凍結してしまったのだろう。%K%P
 It's likely that the snow had gotten into the reader then, and it'd frozen over from the cold afterward.
+恐怕，就是那个时候，雪进入了沟槽，被严寒所冻结成冰了吧。
 
 この青鷺島自体も、晴天とは言え、気温が低いことに変わりはない。%K%P
 Even here at Aosagi Island; the weather was fine, but it didn't change the fact that the temperature was still low.
+青鹭岛这里，虽说是晴天，但气温低的事实是不会改变的。
 
 しかも今は、夜明け前の最も冷え込む時刻である。%K%P
 On top of that, it was right before dawn, the coldest part of the day.
+况且，天亮之前是最寒冷的时候。
 
 オレはかじかんだ指先に息を吹きかけて温めた。%K%P
 I warmed my numb fingers with my breath.
+我向冻僵的手指吹气，希望能暖和一些。
 
 コートの襟を立て、首をすくめ、足踏みを繰り返して寒さをしのぐ。%K%P
 I turned my coat collar up, shrugged in my neck, and shuffled my feet.
+竖起大衣的领子，裹好脖子，不断跺着脚，以驱散寒冷。
 
 もくもくとした煙のような吐息が、凍えた大気の中にいつまでも漂っていた。%K%P
 My smoke-like breath stayed adrift in the cold air.
+呼气带出的滚滚白烟，挥之不散地漂浮在空气中。
 
 ムキになってカードを差し込もうとする。%K%P
 I angrily tried to insert the card again.
+对准方向再次试着把卡插进去。
 
 何度も何度も試行を続けた。%K%P
 I tried it over and over.
+试了一次又一次。
 
 そのうち摩擦熱で氷が溶けるのではないかと期待しながら……。%K%P
 Hoping that the heat from the friction would melt the ice....
+我在期待着产生的摩擦热把冰融化掉……
 
 今ここであきらめるわけにはいかないのだった。%K%P
 I couldn't just give up here.
+现在不能就这样放弃。
 
 オレがスフィア空間を出ないことには何も始まらない。%K%P
 Nothing would begin if I didn't get out of SPHIA's circle.
+如果我不走出ＳＰＨＩＡ转移圈的话，一切都无从谈起。
 
 なにがなんでも、次の転移までにゲートの外に出なければ……。%K%P
 No matter what happened, I had to leave the gate before the next transfer....
+不管怎么样，也要在下次转移前走出大门……
 
 そうしなければ、青鷺島に飛ばされてきた避難小屋から４人のメンバーを救い出すことはできないのだ。%K%P
 If I didn't, I wouldn't be able to save everyone in the shelter cabin.
+否则的话，就没有办法从转移到青鹭岛的避难小屋里救出四人了。
 
 悟「くっそぉ……！」%K%P
 Shit...!
+悟「可恶……！」
 
 悟「頼む、差さってくれ……！」%K%P
 Go in, I'm begging you...!
+悟「拜托了，给我进去……！」
 
 オレは最後の悪あがきとばかりに、渾身の力を込めてカードを溝にねじ込んだ。%K%P
 In one last effort, I shoved the card into the slot with all my might.
+我做出最后的垂死挣扎，用全身的力气把卡塞进了沟槽里。
 
 悟「さ、差さった……？」%K%P
 I, it went in...?!
+悟「进、进去了……？」
 
 頭の部分だけがめり込んでいる。%K%P
 Only the tip managed to slip in.
+只有头的部分插进去了。
 
 もはやためらうこともあるまい。%K%P
 There was no need for hesitation.
+已经不用再犹豫了。
 
 勢いのまま、オレは全体重をかけてカードを強引にスライドさせた。%K%P
 Using all my body weight, I forced the card to slide through.
+我顺势加上了全身体重，强行把卡滑了进去。
 
 悟「ふーっ、冷や冷やさせやがって……」%K%P
 Haaaaah, don't scare me like that....
+悟「呼——真够悬的啊……」
 
 巨大なゲートは轟音を響かせながら左右に開いた。%K%P
 The left and right doors of the gate opened with a thunderous roar.
+伴随着轰鸣声，巨大的门左右分开。
 
 オレはカードを引き抜いて、外に出ようとした。%K%P
 I tried to pull out the card and leave.
+我打算拔出卡，出门。
 
 ところが……。%K%P
 But....
+可是……
 
 悟「……えっ？」%K%P
 ...Huh?
+悟「……哎？」
 
 動かない。%K%P
 It wouldn't move.
+动不了了。
 
 カードが溝に凍りついて抜けなくなってしまった。%K%P
 The card was stuck. It wouldn't come out.
+卡被冻在了沟槽里，拔不出来了。
 
 それを取り除かなければゲートは永遠に閉まらない。%K%P
 If I didn't remove it, the gate would never close.
+如果不取出来的话，门永远也关不上了。
 
 悟「ったく……」%K%P
 Geez...
+悟「真是……」
 
 差し込むときには全体重をかければよかったが、抜き取る方はそうはいかなかった。%K%P
 I could use my entire body weight to force it in, but not for pulling it out.
+插进去的时候只要压上全身体重就行了，但拔就没那么容易了。
 
 かじかんだ指先がつるつると滑るばかりで、カードをうまくつかむことすらできない。%K%P
 My fingertips were slippery from the numbing cold, so I couldn't even grip the card properly.
+冻僵的指尖总是打滑，没法抓紧卡片。
 
 そんなことをしている間にも、時は冷酷に過ぎ去っていった。%K%P
 And time was cruelly passing by.
+就在我做这件事的时候，时间正在残酷地流失。
 
 悟「仕方ない、あきらめるか……」%K%P
 There's no choice. Guess I'll have to leave it...
+悟「没办法了，放弃吧……」
 
 どう頑張っても抜けないものは抜けないのだからしょうがない。%K%P
 No matter how hard I try, what won't come out won't come out, so there was no helping it.
+不管怎么努力，拔不出来就是拔不出来，没办法。
 
 とりあえずゲートが開いただけでも充分だった。%K%P
 Just getting the gate open was good enough.
+总之光是把门打开就已经足够了。
 
 オレはＩＤカードをその場に放棄し、外の世界へと踏み出した。%K%P
 I abandoned the ID card and stepped into the outside world.
+我把ＩＤ卡丢在那里，走进了外面的世界。
 
 海岸に出る。%K%P
 The coastline appeared.
+我来到了海岸。
 
 あたりには細波の音だけがひっそりと漂っていた。%K%P
 Only the sound of the waves silently drifted through the air.
+周围只有轻轻的波浪声。
 
 それ以外にはなにも聞こえない。%K%P
 I couldn't hear anything besides that.
+除此以外什么也听不到。
 
 とても静かな夜だった。%K%P
 It was an extremely quiet night.
+非常宁静的夜晚。
 
 次の転移まで、残り１０分を切っている。%K%P
 There were ten minutes left until the next transfer.
+到下次转移前，还剩１０分钟。
 
 あとはただ、ひたすら待ち続けるしかなかった。%K%P
 I had nothing to do but to focus and keep waiting.
+只能等着了。
 
 その瞬間が訪れるのを……。%K%P
 To eagerly wait for that time to come....
+等待那个瞬间的降临……
 //check, not sure what this is supposed to mean…
 
 ここからスフィアの正面ゲートまでは、さほど遠くはない。%K%P
 The distance from here to SPHIA's front gate wasn't very far.
+这里距ＳＰＨＩＡ的正面大门并不太远。
 
 全速力で走れば１分とかからない距離にそれはあった。%K%P
 Close enough that it'd only take a minute to get there if I ran at full speed.
+全速跑的话连一分钟都用不了。
 
 湾曲した高い障壁も、この砂浜からしっかりと見えた。%K%P
 I could still clearly see the tall circular wall around the building from here.
+从这片沙滩上，也能清楚地看到它弯曲的高墙。
 
 月明かりにぼんやりと浮かび上がった壁面……。%K%P
 The moon's light reflected dimly off the wall's surface....
- 
+在月光下，看起来朦朦胧胧的墙面……
+
 闇の中に重々しい輝きを放っている。%K%P
 It had a dignified shine in the darkness.
- 
+在黑暗中放射着沉重的光辉。
+
 その堅牢なたたずまいからは、転移なんてものはとても想像できなかった。%K%P
 I couldn't imagine something that big being able to transfer.
+看着那坚固稳牢的样子，难以想象它会转移。
 
 動くとか、消えるとか、そんなことはあり得ないように思える。%K%P
 It looked so sturdy... almost impossible to move or vanish.
+感觉它不可能会移动，甚至消失。
 
 頑として動くまいとする信念のようなものさえ感じさせた。%K%P
 I even felt like it would stubbornly refuse to move no matter what.
+我感觉这甚至像是一种顽强不可动摇的信念。
 
 悟「ほんとに、転移なんて起こるのか……？」%K%P
 Is this transfer really going to happen...?
+悟「真的，会发生转移吗……？」
 
 この期に及んで不安がよぎる。%K%P
 After reaching this point, uncertainty began to cross my mind.
+在对那个时刻的盼望中，一股不安油然而生。
 
 それでもオレは待つしかないのだった。%K%P
 Even so, there was nothing I could do but wait.
+即使这样，我也只能等待。
 
 ――７分前。%K%P
 ――Seven minutes to go before the next transfer.
+——还有７分钟。
 
 自分では落ち着いているつもりでいたが、身体は嘘をつけないようだった。%K%P
 I thought I was keeping my cool, but you know what? The body doesn't lie about these things.
+虽然自己是想冷静下来，但身体是不会说谎的。
 
 時が経つにつれて、鼓動の間隔が狭まっていくのがわかる。%K%P
 As time passed, the intervals between my heartbeats became shorter.
+随着时间的经过，心跳的间距越来越短。
 
 すでに寒さも感じなくなっていた。%K%P
 I couldn't feel the cold anymore.
+已经感觉不到寒冷了。
 
 ただ立っているだけなのに、手のひらにはじっとりと汗が浮かんでいる。%K%P
 My palms were sweating, even though I was only standing.
- 
+明明只是原地站着，但手心已经汗淋淋的了。
+
 張り詰めた緊迫感に息がつまる思いだった。%K%P
 I felt like I was choking from the pressure.
+紧张的紧迫感让我呼吸困难。
 
 このときを逃がしたら次はないのだ。%K%P
 If I messed this up, there would be no second chances.
+这时候如果逃跑的话，就没有下次了。
 
 もしも失敗すれば、避難小屋の３人は雪崩に巻き込まれ死んでしまうだろう。%K%P
 Kokoro, Yomogi and Lin would be caught in an avalanche and die.
+假如失败了，避难小屋的三人就会卷入雪崩而死。
 
 無性に心がざわめく。%K%P
 My heart was beating like crazy.
+心中异常纷乱。
 
 はやる気持ちと同時に、凛然と奮い立つような昂揚感も胸の奥底に感じていた。%K%P
 Along with the excitement, I felt a great feeling of exhilaration from the bottom of my chest.
+情绪亢奋的同时，心底也涌出了一种凛然之气和奋发般的昂扬感。
 
 ――５分前。%K%P
 ――Five minutes to go.
+——还有５分钟。
 
 時の経過をやけに遅く感じる。%K%P
 The passage of time felt exceedingly slow.
+感觉时间的流逝很慢。
 
 じらされているようで、居ても立ってもいられなくなった。%K%P
 It was so frustrating I couldn't stand still.
+由于过于焦急，我坐立不安。
 
 オレは波に洗われた砂浜の上を、うろうろと歩きまわった。%K%P
 I walked aimlessly along the sandy beach as the waves lapped at its edge.
+在被波浪冲洗过的沙滩上，来回地踱着圈子。
 
 悟「あっ、そうだ……」%K%P
 Ah, that's right...
+悟「啊，对了……」
 
 ふいに呟いて、立ち止まる。%K%P
 Muttering, I suddenly stopped.
+我突然小声说着，停下来。
 
 こうして何もせずに待っている状態というのは苦痛以外の何ものでもなかった。%K%P
 There was nothing tougher than waiting around and doing nothing.
+在这种什么都不做干等着的状态下，只会觉得痛苦。
 
 だからオレは、そのことを予想して、地下の小部屋から地図を持ち出していたのだった。%K%P
 That's why I took out the map from the basement.
+我已经预想到这点，所以从地下小房间里把地图带了出来。
 
 ポケットからそれを取り出し、砂浜の上に広げる。%K%P
 I spread it on the sand and looked.
+从口袋里取出它，在沙滩上展开。
 
 『第３領域とは果たしてどこに存在するのか……？』%K%P
 "Now, where's the third area...?"
+“第三领域究竟在哪里呢……？”
 
 待ち時間のあいだに、それを調べておこうと思ったのだ。%K%P
 I decided to investigate that while I waited.
+在等待的时间里，可以研究一下。
 
 オレの推理は、自分でも滑稽に思えるほど単純なものだった。%K%P
 My reasoning was so simple, even I found it humorous.
+我的推理是很单纯的，连自己都觉得滑稽。
 
 時空間転移は２つの地点で行なわれていたのではない。%K%P
 The space-time swap wasn't only happening at two points.
+时空间转移并不是在二个地点间进行。
 
 ３点間転移……。%K%P
 A three point space transfer....
+三点间转移……
 
 そのうちの２つの所在はわかっている。%K%P
 I knew where two of their whereabouts were.
+其中两点的位置已经知道了。
 
 ここと……。%K%P
 Here....
+这里……
 
 ここだ……。%K%P
 And here....
+和这里……
 
 上が青鷺島、下が朱倉岳である。%K%P
 Above was Aosagi Island, below was Mount Akakura.
+上面是青鹭岛，下面是朱仓岳。
 
 朱倉岳の名前は地図にしっかりと記載されていた。%K%P
 Mount Akakura's name had been properly marked on the map.
+朱仓岳的名字清晰地标在地图上。
 
 さて、残りのひとつはどこに……？%K%P
 Now then, where was the remaining point...?
+那么，剩下的一个在哪儿……
 
 恐らく、３つの地点は%TS081均衡の保たれたポジション%TEに配置されているはずだとオレは思った。%K%P
 I figured that the three points were arranged in an %TS081equilibrium position%TE.
+我想，恐怕三个地点被部署在能够%TS081保持均衡的位置%TE。
 
 青鷺島と朱倉岳、２点を結ぶラインを指先でたどる。%K%P
 Aosagi Island and Mount Akakura... I drew a line to connect the two points with my fingertip.
+青鹭岛和朱仓岳，用指尖在两点间画出连线。
 
 その線分の真ん中あたりで指を止めた。%K%P
 My finger stopped around the middle of the line.
+手指停在那条线的正中间附近。
 
 そこは北海道の妃羽郡、茂枝木村という場所だった。%K%P
 It was a place called Moegi village in the district of Hiwa, Hokkaido.
-//check, I just used Lors's translation.  Fictional place I assume, I have no idea what it should translate to (higher level translator should take a crack at it).
+那里是北海道的妃羽郡，有个叫做茂枝木村的地方。
+//check, I just used Lors's translation. Fictional place I assume, I have no idea what it should translate to (higher level translator should take a crack at it).
 //original trans: It was a place in Hokkaido named Hiwagun, Moegimura.
- 
+
 ちょうど中点のあたりに、ツルハシをクロスさせたようなマークが記されている。%K%P
 There was a pickax-like cross marked on it, just around the middle.
+就在中点附近，标着一个交叉的鹤嘴镐的标记。
 //American English
 
 マークのすぐ下にはこうあった。%K%P
 It was right under that mark.
+地图下面有图例。
 
 悟「穂樽日……鉱山……」%K%P
 Hotarubi... mine...
+悟「穗樽日……矿山……」
 
 悟「穂樽日……」%K%P
 Hotarubi...
+悟「穗樽日……」
 
 瞬間――オレの頭の中で何かが弾け飛んだ。%K%P
 At that moment――something jumped up inside my head.
+瞬间——我的脑海中有什么突然迸发出来。
 
 細波の音が消える。時が止まる。息をするのも忘れた。%K%P
 The sound of the waves vanished. Time had stopped. I forgot to breathe.
+细波的声音消失了。时间停止了。呼吸也忘记了。
 
 累々たる光の群れが天空を駆けめぐる。%K%P
 Streaks of light ran across the sky in groups.
+无数群光点在天空中盘旋。
 
 凍えた大気に亀裂が走った。%K%P
 A crack ran through the frozen atmosphere.
+冷冻的大气中产生了龟裂。
 
 あたりの景色は一瞬にして砕け散り、月のカケラは彗星のごとく大地を撃った。%K%P
 For a moment, the surrounding scenery shattered, and fragments of the moon became comets and rained down on the earth.
+周围的景色一瞬间碎裂，月亮的碎片犹如彗星一般撞击大地。
 
 もしも第３領域が『穂樽日鉱山』にあるのだとしたら……。%K%P
 If the 3rd area really was "Hotarubi mine"....
+假如第三领域是“穗樽日矿山”的话……
 
 だとしたら……αは……。%K%P
 If it really was... then α was....
+那样的话……α就是……
 
 αの正体は……。%K%P
 α's true identity was....
+α的真正身份是……
 
 悟「そんな……バカな……」%K%P
 That's... impossible...
+悟「怎么……可能……」
 
 指先の震えが止まらない。%K%P
 My fingers wouldn't stop trembling.
+手指不住地颤抖着。
 
 得体の知れぬ恐怖に駆り立てられた。%K%P
 A fear of unknown nature began to rise up inside me.
+被莫名的恐怖逼迫着。
 
 なにか禍々しいものに触れてしまったような気がして、オレはあわてて地図を折り畳んだ。%K%P
 Feeling like I'd been touched by something evil, I panicked and folded up the map.
+觉得好像碰到了什么会带来灾祸的东西一样，我慌忙把地图叠起来。
 
 いま思い浮かんだことを、どうにかして否定しようと試みる。%K%P
 I tried to find a way to deny the thoughts I just had.
+我想方设法去否定刚才想到的事情。
 
 しかし、もがけばもがくほどに、ずぶずぶと深みにはまっていくばかりだった。%K%P
 However, the more I struggled to, the deeper I became fixed on it.
+但是，越想挣扎出来，越是深陷其中。
 
 第３領域が穂樽日に存在するのだとすれば、これまでの疑問がすべて氷解してしまう、解けてしまう。%K%P
 If the 3rd area really was at Hotarubi, then all my doubts until now would crumble and melt away.
+第三领域如果存在于穗樽日的话，此前的疑问就全部像溶冰一样消解了。
 
 けれどそれは決して求めてはならない禁断の解だった。%K%P
 However, that was a solution that I should never pursue.
+然而那却是决不该求得的禁忌的解。
 //check, there are 2 ways I can interpret this(should never pursue, unable to ever pursue)
 //probably 'should', considering how freaked out he is - Sheeta
 
 悟「嘘だろ……」%K%P
 You've got to be kidding...
+悟「不是真的吧……」
 
 激しく首を振り、邪な考えを振り払おうとする。%K%P
 I waved my head furiously to dispel that dark thought.
+我激烈地摇着头，想把这邪恶的想法丢掉。
 
 無論、そんなことをしてもどうにもならない。%K%P
 But, of course, nothing happened even when I did.
+当然，这种事情是不可能做到的。
 
 オレはαの正体に気づいてしまった。%K%P
 I had realized the true identity of α.
+我发现了α的真正身份。
 
 この事実はもう、消せないのだ……。%K%P
 That fact would never disappear....
+这个事实已经无法抹消了……
 
 一陣の風が吹いた。%K%P
 A gust of wind blew past me.
+一阵风吹过。
 
 右手に握りしめた地図がパタパタと揺れる。%K%P
 The map gripped in my right hand began to sway.
+右手握着的地图啪啦啪啦地晃动着。
 
 その風が巻き起こる前に、スフィアは忽然と姿を消していた。%K%P
 Before the wind finished blowing, SPHIA's figure suddenly disappeared.
+在那阵风刮起来之前，ＳＰＨＩＡ突然失踪了。
 
 入れ替わるように現れたのは、雪の降り積もっていない褐色の平原だった。%K%P
 And, as though changing places with it, a brown plain without much snow appeared.
+代替它出现的，是没有积雪的褐色平原。
 
 雷鳴が轟くわけでも、極彩色の輝きがひらめくわけでもなかった。%K%P
 Without a thunderous roar, and without a brilliant flash of light.
+既没有雷鸣轰响，也没有各色光辉闪耀。
 
 それは音もなく、ひっそりと、１枚のページをめくるように、起こった。%K%P
 It happened silently, without a sound, like turning a single page in a book.
+就像是无声地轻轻翻过一页书页一样。
 
 そんな不可思議な光景を目の当たりにしながらも、依然としてオレは放心状態を抜け出せずにいた。%K%P
-Even though such a mysterious spectacle had occurred before my eyes, I was stuck in a trance-like state. 
+Even though such a mysterious spectacle had occurred before my eyes, I was stuck in a trance-like state.
+看着这种不可思议的情景，我仍然没有摆脱茫然若失的状态。
 
 そんな不可思議な光景を目の当たりにして、オレは放心状態に陥った。%K%P
 Because that mysterious spectacle had occurred right before my eyes, I fell into a trance-like state.
+看到了这种不可思议的情景，我茫然若失。
 
 何が起こったのか理解できずに茫然と立ち尽くしている。%K%P
 I stood dumbfounded without understanding what had happened.
+没有理解发生了什么，只是呆站在那里。
 
 時間だけがゆるやかに通り過ぎていった。%K%P
 Only time steadily continued.
+只有时间在缓慢地流逝。
 
 しだいに細波の音が聞こえるようになった。%K%P
 The sound of the waves gradually returned to my ears.
+渐渐可以听到水波的声音。
 //Gradually, I heard the sound of the waves again.
 
 ふと、夜空を見上げると、無数の星々と下弦の月がいつもと変わらず光を投げていた。%K%P
 I glanced up at the night sky, at the eternal light cast by the countless stars and the waning moon.
+突然，抬头看向夜空，无数的星星和下弦月放射着和往常一样的光芒。
 
 なにも変わらない……。%K%P
 Nothing had changed....
+什么也没有变……
 
 いつもと同じように世界はまわり続けていた。%K%P
 The world continued as usual around me.
+与以往相同的世界还在继续转动。
 
 けれど視線を下ろせば、そこには異様な光景が待っている。%K%P
 However, when I lowered my eyes, a strange scene was waiting for me.
+可是降低视线的话，那里是一片异样的景色。
 
 大きな大きな円を描くように、褐色の大地が広がっていた。%K%P
 The brown earth was spread out, as if drawn in a big, big circle.
+褐色的大地铺展开，画出了一个很大很大的圆。
 
 幻ではない。%K%P
 It wasn't an illusion.
+不是幻觉。
 
 まばたきをしても、首を振っても、その光景が消え失せることはなかった。%K%P
 Even when I blinked and swayed my head, the scene wouldn't disappear.
+即使眨眨眼，摇摇头，这个光景也不会消失。
 
 悟「これが……」%K%P
 Was that...
+悟「这就是……」
 
 悟「転移……なのか……？」%K%P
 ...a... transfer...?
+悟「转移……是吗……？」
 
 ようやく事態に気づきつつあったが、それでもなお意識は判然としなかった。%K%P
 The situation finally sunk in, but even then, my senses didn't clear.
+终于明白了事态的发展，但是现在从意识上也不确定。
 
 周期的に繰り返される呼吸の音を、すぐ耳元で感じる。%K%P
 My ears were picking up a sound like light breathing nearby.
+周期性重复的呼吸声，马上传到了耳朵里。
 
 それは波の奏でる音色のはざまに、静寂を埋めるように響いていた。%K%P
 Coming in between the crashing of the waves, they resounded as though burying the silence.
+它穿插在波涛所奏响的音色之中，就像要掩埋寂静一般回响着。
 
 悟「そうだ……」%K%P
 That's right...
+悟「对了……」
 
 悟「なにやってんだよ……」%K%P
 What am I doing...?
+悟「我在干什么……」
 
 悟「早く……行かなくちゃ……」%K%P
 I... I have to hurry...
+悟「必须得……赶快去……」
 
 誘われるようにふらふらと歩き出す。%K%P
 I started to walk unsteadily, as though being pulled.
+像被引诱一样蹒跚地迈开脚步。
 
 頭の中にはαの影がチラついていたが、今はそんなことに惑わされているときではない。%K%P
 Right now, the inside of my head was being misled by the shadow of α, but now wasn't the time to be tricked by things like that.
+虽然脑海中α的影子还不断干扰着我，但现在不能被这种事所迷惑。
 
 とにかく避難小屋のことだけを考えろ。%K%P
 At any rate, I had to think about the shelter cabin.
+总之，要只考虑避难小屋的事。
 
 こころと、黄泉木と、鈴と、ゆに……。%K%P
 Kokoro, Yomogi, Lin, and Yuni....
+心、黄泉木、铃和悠尼……
 
 今はその４人のことだけに集中していればいいんだ。%K%P
 It would be fine if I only concentrated on those four people.
+现在只集中考虑他们四人的事情就好了。
 
 ぎこちない足取りが、徐々に歩調を整え始めた。%K%P
 My awkward steps gradually began to adjust their pace.
+尽管步伐还很生硬，但我已经开始慢慢调整。
 
 やがてそれは早足となり、小走りとなり、最後には闇を切り裂くような疾走へと変わっていた。%K%P
 Eventually, that turned into quick walking, then into a trot, and finally into a sprint that cut through the darkness.
+终于，经过快步走、小跑的过程，最后变成了能撕裂黑暗一般的狂奔。
 
 現在時刻――午前５時２分。%K%P
 Current time――5:02 AM.
+现在时刻——清晨５时０２分。
 
 オレはサークル内へと踏み込んだ。%K%P
 I stepped into the circle.
+我踏入了转移圈。
 
 その一帯は、褐色の岩肌がむき出しになった不毛の荒野だった。%K%P
 That zone was a barren wasteland of brown rock.
+这一片是不毛的荒野，到处都是裸露着的褐色岩石表皮。
 
 荒野とは言え、大地は乾き切っているわけではない。%K%P
 Even though I say wasteland, the ground felt damp.
+虽说是荒野，可大地并不是干枯龟裂的。
 
 立ち止まり、地面に触れてみた。%K%P
 I stopped running and touched the earth's surface.
+我停下来，试着摸一摸地面。
 
 濡れた感触が指先に伝わってくる。%K%P
 A damp sensation was transmitted to my finger.
+指尖传来湿润的触感。
 
 しっとりと潤いをまとった岩肌に、革の靴底がつるつると滑った。%K%P
 The bottom of my leather shoes slid over the bare rock, which was gently coated with moisture.
+被湿气包裹着的岩石表皮，在皮鞋底下滑溜溜的。
 
 足元に気を配りながら、再び走り出す。%K%P
 Paying attention to the surface under my feet, I broke into a run.
+在注意脚下的同时，我再次跑起来。
 
 目指すべき場所はサークルの中心――。%K%P
 The place I was aiming for was the circle's core――
+目的地是转移圈的中心——
 
 だが、そこにあったのは木造の避難小屋ではなく……。%K%P
 However, what was there wasn't a shelter cabin made of wood....
+但是，位于那里的并不是木制的避难小屋……
 
 漆喰で塗り固められた純白の構造物だった。%K%P
 But a structure plastered in pure white.
+而是纯白色的水泥建筑。
 
 悟「ど、どういうことだ……？」%K%P
 W, what does this mean...?
+悟「怎、怎么回事……？」
 
 悟「ここは……どこなんだ……？」%K%P
 Where... is this...?
+悟「这是……什么地方……？」
 
 たどりついたオレは、息つく間もなく構造物の周囲をめぐってみた。%K%P
 After reaching it, I took a breath and immediately began to look around the structure.
+我到达了目的地，没有停下来休息，环绕建筑物的周围观察起来。
 
 一辺が５ｍ程の立方体をしている。大きな６面ダイスのように見えた。%K%P
-It was a cube, its length and height being 5 meters each.  It looked like a large, six-sided die.
+It was a cube, its length and height being 5 meters each. It looked like a large, six-sided die.
+是每边长５米幅度的立方体。看起来就像巨大的六面骰子。
 
 もちろん数字やアルファベットや何かの記号が刻まれていたというわけではない。%K%P
 Of course, there wasn't anything like numbers or the alphabet carved into its sides.
+当然，上面是不可能刻着数字或者字母之类的记号的。
 
 ４つの側面のうちの３つには、窓も突起物も付いてはいなかった。%K%P
 On three of the four sides, there was nothing like a window or anything sticking out.
+四个侧面中的三个面，既没有窗户也没有任何突起物。
 
 残りのひとつにだけ、ハシゴがかけられている。%K%P
 But there was a ladder attached to the last side.
+只有剩下的一面，架着一副梯子。
 
 鉄パイプでできたそのハシゴは屋上へと続いていた。%K%P
 Made out of iron pipes, it continued up to the roof.
+铁管组成的梯子一直延伸到屋顶。
 
 オレはそれをのぼった。%K%P
 I climbed it.
+我爬了上去。
 
 正方形の屋上……。%K%P
 A square rooftop....
+正方形的房顶……
 
 柵のようなものは付いていない。%K%P
 There wasn't anything like a fence set up around it.
+没有栅栏。
 
 あったのは、緑色のペンキに塗られた丸い扉だけだった。%K%P
 The only thing there was a round door painted in green.
+有的只是一个涂了绿漆的圆形门。
 
 その小さな鉄製の扉は、ちょうどマンホールの蓋のように屋上の片隅に埋まっていた。%K%P
 The small iron door was like a manhole cover, hidden in the corner of the roof.
+那个小铁门像下水道井盖一样嵌在房顶一角。
 
 取っ手が付いている。%K%P
 There was a handle on it.
+上面有把手。
 
 持ち上げようとしたが、ビクともしなかった。%K%P
 I tried to lift it, but it wouldn't budge.
+我想把它拉起来，但没有拉动。
 
 よく見ると、取っ手の近くに鍵穴のような溝が刻まれているのがわかった。%K%P
 Looking closely, I saw a keyhole-like groove carved near the handle.
+仔细一看，发现把手附近凹进去一个像钥匙孔的槽。
 
 悟「鍵穴……？」%K%P
 A keyhole...?
+悟「钥匙孔……？」
 
 すぐに思い出した。%K%P
 I remembered right away.
+马上就想起来了。
 
 ポケットの中に、使い道のわからない鍵が入っていることを……。%K%P
 About the key in my pocket, the one I hadn't known the use for....
+口袋里还有一把不知道用在哪儿的钥匙……
 
 １２日にオレの部屋で見つけた鍵……。%K%P
 The key I found in my room on the 12th....
+１２日在我的房间里发现的钥匙……
 
 ＩＤカードのそばに置いてあった極普通のシンプルな鍵だった。%K%P
 It was placed next to the ID card, an extremely ordinary and simple key.
+放在ＩＤ卡旁边的极普通极简单的钥匙。
 
 悟「まさかな……」%K%P
 No way...
+悟「不会吧……」
 
 そうは思いながらも、確かめずにはいられない。%K%P
 Despite my doubts, I had to check it anyway.
+虽然这样想着，但我还是要确认一下。
 
 オレはポケットからそれを取り出して、鍵穴にあてがってみた。%K%P
 I took it out of my pocket and tried to fit it in.
+我从口袋里取出它，插进钥匙孔里。
 
 悟「は、はいった……」%K%P
 It, it went in...!
+我从口袋里取出它，插进钥匙孔里。
 
 鍵はなんの抵抗もなく、吸い込まれるように穴の中へと収まった。%K%P
 As if being inhaled, the key smoothly settled inside the hole.
+钥匙没有做出任何抵抗，像被吸进去一样，被收纳进了孔里。
 
 まわしてみる。%K%P
 I tried turning it.
+转一下看看。
 
 心地良い金属音とともに、ロックはすんなりと解除された。%K%P
 With a pleasant metal sound, the lock released itself with no resistance.
+随着舒适的金属声，锁毫不费力地被解开了。
 
 悟「うっ、マジかよ……」%K%P
 A, are you serious...?!
+悟「哇，真的假的……」
 
 悟「あいちまったぞ……？」%K%P
 It unlocked it...!
+悟「竟然开了……？」
 
 緑色の丸い扉……。%K%P
 The round green door....
+绿色的圆形门……
 
 その傍らに片膝をついて、オレは考えた。%K%P
 I knelt down beside it and began to think.
+我单膝跪在旁边，思考着。
 
 果たして、この扉を開いてよいものかどうか……。%K%P
 Now then, should I open the door...?
+从根本上来说，打开这道门是不是好事呢……
 
 現在時刻――午前５時１７分。%K%P
 Present time――5:17 AM.
+现在时刻——清晨５时１７分。
 
 オレは扉を……。%K%p
 I....
+这门我应该……
 
 開いた
 Open it
+打开
 
 開かなかった
 Don't open it
+不打开
 
 開いた……。%K%P
 I opened it....
+打开……
 
 中から白い光があふれてくる。%K%P
 The inside gleamed with a white light.
+里面溢出了白光。
 
 その内部だけが真昼のように明るかった。%K%P
 The inside was as bright as day.
+只有内部亮如白昼。
 
 あまりのまぶしさに目を細める。%K%P
 I squinted from the overwhelming light.
+过于眩目的光亮让我眯起了眼睛。
 
 手をかざしながら、室内の様子を探った。%K%P
 While shielding my eyes with one hand, I took a look inside the room.
+一边用手挡着眼睛，一边探察室内的情况。
 
 人影はない。誰もいないようだ。%K%P
 There wasn't even a shadow. No one was around.
+没有人影。似乎没人在。
 
 丸い穴から下に向かってハシゴが伸びていた。%K%P
 There was a ladder leading down from the round entrance.
+梯子从圆形的洞口向下延伸。
 
 オレはそれをおりていった。%K%P
 I went down it.
+我爬了下去。
 
 開かなかった。%K%P
 I didn't open it.
+不打开。
 
 嫌な予感がしたのだ。%K%P
 I had a bad feeling.
+有种不好的预感。
 
 緑色の丸い扉……。%K%P
 The round green door....
+绿色的圆形门……
 
 オレはためらうことなく、それを開いた。%K%P
 I opened it without hesitation.
+我毫不犹豫地把它打开。
 
 中から白い光があふれてくる。%K%P
 The inside gleamed with a white light.
+里面溢出了白光。
 
 その内部だけが真昼のように明るかった。%K%P
 The inside was as bright as day.
+只有内部亮如白昼。
 
 あまりのまぶしさに目を細める。%K%P
 I squinted from the overwhelming light.
+过于眩目的光亮让我眯起了眼睛。
 
 手をかざしながら、室内の様子を探った。%K%P
 While shielding my eyes with one hand, I took a look inside the room.
+一边用手挡着眼睛，一边探察室内的情况。
 
 人影はない。誰もいないようだ。%K%P
 There wasn't even a shadow. No one was around.
+没有人影。似乎没人在。
 
 丸い穴から下に向かってハシゴが伸びていた。%K%P
 There was a ladder leading down from the round entrance.
+梯子从圆形的洞口向下延伸。
 
 オレはそれをおりていった。%K%P
 I climbed down it.
+我爬了下去。

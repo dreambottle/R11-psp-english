@@ -1,6 +1,7 @@
-TIP028
+﻿TIP028
 太陽風
 Solar Wind
+太阳风
 paragraph_count:1
 init_addr:7818
 pc_index:TIP_033
@@ -23,7 +24,7 @@ pc_index:TIP_033
 A stream of plasma which emanates from the upper atmosphere
 of the sun. It is composed mainly of electromagnetic waves
 and protons, and moves at speeds of 350-700 kilometers per second.%N
-# Comets which leave trails tracing to the far side of the sun 
+# Comets which leave trails tracing to the far side of the sun
 # are blown there by the solar wind.%N
 Comets always have their tails tracing away from the sun, blown there by the solar wind.%N
 It does not reach as far as the surface of the Earth
@@ -32,3 +33,14 @@ and thus has no effect on terrestrial magnetism;
 # are all caused by this solar wind.
 however, it can cause magnetic storms, the aurora borealis,
 or disruptions in the ionosphere.
+
+#CN#1
+从太阳往太阳系放出的等离子流。%N
+太阳风主要由电子与质子组成，%N
+其速度约为每秒350～700公里。%N
+彗星会具有与太阳反向的彗尾，%N
+是因为从彗星蒸发的物质被太阳风吹离彗核。%N
+由于地球磁场的影响，%N
+太阳风不会到达地球表面，%N
+但是磁暴、极光以及电离层的异常现象，%N
+主要都是由太阳风所引起的。%N

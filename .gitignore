@@ -6,9 +6,12 @@
 /iso_extracted/
 /bin/
 
-/text/mac-en-only/
-/text/mac-ja-psp/
-/text/mac-combined-psp/
+/n7_iso_cn_extracted/
+/n7_etc_cn/
+/e17_iso_cn_extracted/
+/e17_etc_cn/
+
+/text/tmp/
 /text/font/FONT*
 /text/font/glyphs/
 
@@ -24,4 +27,6 @@
 /*.lnk
 
 misc/
+__pycache__/
 *.pyc
+/.vscode

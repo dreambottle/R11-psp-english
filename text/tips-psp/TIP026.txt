@@ -1,6 +1,7 @@
-TIP026
+﻿TIP026
 三葉虫
 Trilobite
+三叶虫
 paragraph_count:1
 init_addr:77f8
 pc_index:TIP_031
@@ -16,3 +17,6 @@ pc_index:TIP_031
 Arthropods that lived in the Cambrian period.%N
 Most had a body length of about 2-4 centimeters.
 
+#CN#1
+生活在寒武纪的节肢动物，%N
+体长多为2～4公分。%N

@@ -1,6 +1,7 @@
-TIP019
+﻿TIP019
 ホストコンピューター
 Host Computer
+主电脑
 paragraph_count:1
 init_addr:777c
 pc_index:TIP_024
@@ -16,3 +17,7 @@ pc_index:TIP_024
 #EN#1
 In a network of two or more interconnected computers, the most powerful computer in the group, which performs most of the computations and network control, is known as the host computer.
 
+#CN#1
+在两台以上互相连接的电脑之中，%N
+拥有较大容量，%N
+且负责主要的演算以及控制的高层电脑。%N

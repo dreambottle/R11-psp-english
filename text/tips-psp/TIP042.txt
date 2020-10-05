@@ -1,6 +1,7 @@
-TIP042
+﻿TIP042
 低体温症
 Hypothermia
+低温症
 paragraph_count:1
 init_addr:791c
 pc_index:TIP_047
@@ -17,4 +18,9 @@ pc_index:TIP_047
 #EN#1
 A physical condition in which the core body temperature is abnormally low, causing it to gradually fall further and further.%N
 May result in death.
+
+#CN#1
+由于身体内部的体温（核心温度）%N
+异常降低所引发的身体不适。%N
+有可能会造成死亡。%N
 

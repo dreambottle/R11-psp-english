@@ -1,6 +1,7 @@
-TIP069
+﻿TIP069
 アリスとボブ
 Alice and Bob
+Alice
 paragraph_count:2
 init_addr:7b18
 pc_index:TIP_074
@@ -30,3 +31,18 @@ This naming convention was first used in a 1978 article presenting the RSA crypt
 #EN#2
 Additionally, a person found to be intercepting communications (i.e. through a bug or wiretap) between Alice and Bob is customarily referred to as Eve.
 
+#CN#1
+依照惯例，%N
+密码学界会把发出通讯的发信端称为Alice，%N
+并把收信端称为Bob。%N
+这种称呼方式%N
+是由于在1993年所发表的%N
+与量子远距传态有关的论文中%N
+曾经使用这样的例子，%N
+从而开始流传的。%N
+
+#CN#2
+顺便一提，%N
+对应于Alice与Bob，%N
+也有把窃听二者之间的讯息的第三者%N
+称为Eve的惯例。%N

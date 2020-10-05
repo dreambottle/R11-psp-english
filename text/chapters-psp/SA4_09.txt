@@ -1,945 +1,1259 @@
 
 悟「信じられない……」%K%P
 I don't believe it...
+悟「难以置信……」
 
 悟「こんなこと……起こりえるはずが――」%K%P
 Something like this... it couldn't possibly――
+悟「这种事情……根本不可能发——」
 
 榎本「だが、実際に起きているだろう？」%K%P
 However, it's actually happening, is it not?
+鼷本「可是，实际上是发生了吧？」
 
 榎本「それが真実かどうか、一番よくわかっているのはきみ自身じゃないのかね？」%K%P
 You should know better than anyone else whether it's real or not.
+鼷本「这到底是真是假，你自己不是比任何人都清楚么？」
 
 悟「…………」%K%P
 ......
+悟「…………」
 
 榎本「真理は頭で考えても見えてこない」%K%P
 No matter how much you think about it, no truth will appear.
+鼷本「真理不是靠脑子想出来的」
 
 榎本「常識という枠に囚われてはいけない」%K%P
 Don't let yourself be trapped by so-called common sense.
+鼷本「不要被禁锢在常识的牢笼里」
 
 榎本「感じたことを、素直に受け入れるんだ」%K%P
 Take in what you feel, no matter how absurd it is.
+鼷本「老实地接受最直接的感觉吧」
 
 サングラス越しにオレを見つめる榎本。%K%P
 Enomoto stared at me over his sunglasses.
+鼷本隔着墨镜盯着我看。
 
 目を逸らすことができない。%K%P
 I couldn't look away.
+无法别开视线。
 
 奴は決して嘘を言っているわけではない。%K%P
 There's no way he was lying.
+这家伙绝对没有说谎。
 
 それは頭では理解できずとも直観的にわかった。%K%P
 That understanding came not from my head, but from a deeper instinct.
+可以说，我并未靠头脑思考而直接领会到了这一点。
 
 悟「しかし……」%K%P
 But...
+悟「可是……」
 
 悟「しかし、なぜそんなバカげた現象が起きるんだ……」%K%P
 But... why is such a ridiculous phenomenon occurring in the first place...?
+悟「可是，为何会发生这种愚蠢的现象……」
 
 榎本「やれやれ」%K%P
 Oh dear...
+鼷本「哎呀哎呀」
 
 榎本「本来、こんなことを私が説明するまでもないはずなのだが……」%K%P
 There should've been no need for me to explain this in the first place, but...
+鼷本「原本应该不用余解释的……」
 
 榎本「仕方がない」%K%P
 There's no helping it.
+鼷本「没办法」
 
 榎本「長くなるので、できるだけ掻い摘んで教えてあげよう」%K%P
 It'll be long, so I'll try to summarize where I can.
+鼷本「说起来很长，尽量概括一下告诉你吧」
 
 榎本はサングラスの端を持ち上げた。%K%P
 Enomoto repositioned his sunglasses.
+鼷本把墨镜的镜架扶正。
 
 榎本「きみは量子テレポーテーションって知っているかい？」%K%p
 Have you ever heard of quantum teleportation?
+鼷本「你知道量子远距传态么？」
 
 知っている
 I have
+知道
 
 知らない
 I haven't
+不知道
 
 榎本「それは好都合だ。ではその解説は省略することにしよう」%K%P
 That's convenient. Then I'll omit that part of the explanation.
+鼷本「那就轻松了。把这段解说省略吧」
 
 榎本「なるほど、まずはそこから説明しなければならないか……」%K%P
 I see, so I'll have to start from there...?
+鼷本「这样么，首先必须从这里说起……」
 
 榎本「%TS061量子%TEテレポーテーションとは、%TS062量子力学%TEの性質を利用した技術のことだ」%K%P
 %TS061Quantum%TE teleportation is a technique based on the properties of %TS062quantum mechanics%TE.
+鼷本「所谓%TS061量子%TE远距传态，是一项应用%TS062量子力学%TE性质的技术」
 
 榎本「テレポーテーション――物体をそっくりそのまま別の場所に転送させる現象」%K%P
 Teleportation――the ability to almost instantaneously transport an object to a different location.
+鼷本「远距传态——是指把物体原原本本地传送到别处的现象」
 
 榎本「いや、物体を転送というのはちょっと語弊があるな」%K%P
 No, "transport an object" isn't quite correct.
+鼷本「不，说是传送物体有点语病」
 
 榎本「正確には物体を転送するのではなく、物体の情報を転送する」%K%P
 To be more accurate, it's not the object that is transferred, but the information which composes it.
+鼷本「准确来说，不是传送物体，而是传送物体的信息」
 
 榎本「物体そのものを転送する必要はない」%K%P
 There is no need to move the object itself.
+鼷本「没有必要对物体本身进行传送」
 
 榎本「送りたいのは状態の情報であって状態自体ではない」%K%P
 What you want to transfer is the sum total of the object's present physical state, but not that state itself.
+鼷本「需要传送的是关于物体状态的情报，而并非它本身」
 
 榎本「物体の量子情報を転送し、別の場所にその物体を再構築するわけだ」%K%P
 Transmitting the quantum information of a system, then reconstructing it at a different location.
+鼷本「就是说，先把物体的量子信息传送过去，在目的地进行再构筑」
 
 悟「…………」%K%P
 ......
+悟「…………」
 
 榎本「信じられないかも知れないが、できるのだよ、現実的に」%K%P
 You may not believe this, but it is a realistic possibility. It can be done.
+鼷本「或许你会觉得难以置信，但实际上是可以实现的」
 
 榎本「実証もされている」%K%P
 I can even prove it to you...
+鼷本「也有了实证」
 
 榎本「量子テレポーテーションの理論的基礎となっているのは『%TS065ＥＰＲ%TEペア』と呼ばれる概念だ」%K%P
 The theoretical basis of quantum teleportation lies in the concept known as an "%TS065EPR%TE pair."
+鼷本「量子远距传态的理论基础，是一个称作“%TS065ＥＰＲ%TE对”的概念」
 
 榎本「ＥＰＲペアとは、一度の操作で%N%TS068同時に発生させたふたつの粒子%TEに生じる特徴のこと」%K%P
 EPR pairs are born from a simultaneous %N%TS068generation of particle pairs%TE.
+鼷本「ＥＰＲ对是指，在一次操作中%TS068孪生粒子%TE所拥有的特征」
 
 榎本「この双子の粒子は不思議な運命を共有することになる」%K%P
 These twin particles share a curious fate.
+鼷本「这对双生的粒子共同拥有不可思议的命运」
 
 榎本「簡単に言ってしまえば……」%K%P
 Put simply...
+鼷本「简单来说……」
 
 榎本「その双子の粒子はどんなに離れていようとも、一方を観測することによって生じた影響がもう一方に瞬時に伝わってしまうのだ」%K%P
 No matter how far apart the twin particles are spatially, any influence on the state of one particle is instantaneously transmitted to the other.
+鼷本「不管距离多远，对其中一个粒子进行观测时产生的影响，都会瞬间传递给另一个」
 
 榎本「たとえ、両者が１万光年もの距離を隔てていてもね」%K%P
 Even if, for example, the distance between the pair is tens of thousands of lightyears.
+鼷本「即使两者相隔一万光年的距离也是如此」
 
 悟「つまり、光速を超えて伝達する、と？」%K%P
 So in other words, a transmission of information which exceeds the speed of light?
+悟「就是说，可以超光速传递？」
 
 榎本「そう」%K%P
 Yes.
+鼷本「没错」
 
 榎本「もっとも実際は、双子の粒子は個別に考えるのではなく、ひとまとめにして捉えなくてはならないから、というわけなのだがね」%K%P
 What it means is that, for all intents and purposes, these two particles cannot be treated as two separate units, but as one.
+鼷本「原本，这对双生粒子就不能单独考虑，必须把它们看作一个整体来把握」
 
 榎本「さて、この概念を踏まえて説明を続けよう」%K%P
 Now, with that general concept in place, I'll continue.
+鼷本「那么，在这个基础上继续解释」
 
 榎本はサングラスのズレを直すと、キーボードに向かった。%K%P
 Enomoto pushed his sunglasses up again and turned back to the keyboard.
+鼷本把墨镜扶正，面向键盘。
 
 榎本「テレポーテーション」%K%P
 Teleportation.
+鼷本「远距传态」
 
 榎本「つまり、ある地点の物を別の地点へと転送するわけだから、送信側と受信側がいることになる」%K%P
 In other words, the transfer of something from one location to another. Thus, both a sender and a receiver are necessary.
+鼷本「也就是把某一地点的东西转移到别的地点，所以有发信端跟收信端之分」
 
 榎本「便宜上、%TS069送信側を『アリス』、受信側を『ボブ』%TEと呼ぶことにしよう」%K%P
 For the sake of convenience, let's call %TS069the sender "Alice" and the receiver "Bob"%TE.
+鼷本「为了方便起见，称呼发信端为“%TS069Ａｌｉｃｅ%TE”，收信端为“Ｂｏｂ”」
 
 榎本「では、アリスからボブに量子テレポーテーションを用いて情報を送信する手順をお見せする」%K%P
 Now, I'll show you the process by which information is transmitted from Alice to Bob via quantum teleportation...
- 
+鼷本「那么，让你看看通过量子远距传态从Ａｌｉｃｅ向Ｂｏｂ发信的步骤」
+
 榎本がキーボードを操作すると、モニターにある映像が映し出された。%K%P
 Operating the keyboard, Enomoto pulled up an image on the monitor.
+鼷本操作了一会儿键盘，于是屏幕上出现了一幅影像。
 
 榎本「まず、ＥＰＲペアの共有――」%K%P
 Firstly, the EPR pair――
+鼷本「首先，ＥＰＲ对的共有——」
 
 榎本「ＥＰＲペアの発生源から絡みあいの状態にある粒子Ｂと粒子Ｃを、アリスとボブが共有できるように送り込む」%K%P
 Let's give a pair of entwined particles, particle B and particle C, to Alice and Bob respectfully.
+鼷本「ＥＰＲ对的发生源放出纠缠态的粒子Ｂ和粒子Ｃ，让Ａｌｉｃｅ和Ｂｏｂ共有」
 
 榎本「次に、粒子Ａの受信――」%K%P
 Now, let's introduce particle A...
+鼷本「接下来，粒子Ａ的接收——」
 
 榎本「ボブに送信したい情報ψを持った粒子Ａをアリスが受信する」%K%P
 Say Alice wants to send this particle A, which is in the state ψ, to Bob.
+鼷本「粒子Ａ持有需要发送给Ｂｏｂ的情报ψ，Ａｌｉｃｅ接收了粒子Ａ」
 
 榎本「一般にアリスにとっては、ψがどんな情報かはわからない」%K%P
 Generally, Alice doesn't know what is the actual state of ψ.
+鼷本「一般来说，对Ａｌｉｃｅ而言，ψ的情报是未知的」
 
 榎本「もしわかってしまうと、%TS064波動関数%TEが壊れてしまうからだ」%K%P
 Because if she did, its %TS064wave function%TE would collapse.
+鼷本「一旦得知，%TS064波函数%TE就会被打破」
 
 榎本「また、アリスが粒子Ａを受信するタイミングは粒子Ｂと合わせる必要がある」%K%P
 Now Alice must collocate particle A with B.
+鼷本「还有，Ａｌｉｃｅ接收粒子Ａ时，在时间上必须与粒子Ｂ一致」
 
 榎本「次は、%TS073ベル測定%TE――」%K%P
 Next, the %TS073Bell measurement%TE――
+鼷本「接下来，%TS073贝尔实验%TE——」
 
 榎本「アリスは粒子Ａと粒子Ｂとの間で、ベル測定と呼ばれる特別な測定を行う」%K%P
 Alice performs a special measurement called a Bell measurement on particles A and B.
+鼷本「Ａｌｉｃｅ在粒子Ａ和粒子Ｂ间进行一次名叫贝尔实验的特殊测定」
 
 榎本「簡単に言ってしまえば、ふたつの状態間のパラメータを計るということだ」%K%P
 To put it simply, the process is about measuring the parameters describing the sum of their respective states.
+鼷本「简单来说，就是测量两种状态间的参变量」
 
 榎本「このとき、アリスの得られる情報はベル状態――」%K%P
 So Alice determines their Bell state――
+鼷本「此时，Ａｌｉｃｅ所能获得的情报只有贝尔态——」
 
 榎本「つまり、ＡとＢとで絡みあった４つのそれぞれ異なった量子論的な状態であって……」%K%P
 That is to say, one of the four different quantum states of the now-entwined particle pair AB...
+鼷本「也就是Ａ和Ｂ互相纠缠的四种各不相同的量子状态……」
 
 榎本「粒子Ａの情報ψを得ることはない」%K%P
 But she still has no idea of the state of ψ particle A...
+鼷本「并没有获得粒子Ａ的情报ψ」
 
 榎本「なお、この状態はそれぞれ理論上すべて同じ確率で、その確率は１／４ずつとなる」%K%P
 Furthermore, these states theoretically share the same probability of being obtained, namely 1/4 for each state.
+鼷本「而且，理论上四种量子状态出现的概率全部相同，每个都是１／４」
 
 榎本「４つのうちのどれか、というわけだ」%K%P
 That is, it could be any of the four.
+鼷本「就是四个里面选一个」
 
 榎本「そして、粒子Ａのテレポーテーションが行われる――」%K%P
 Next, particle A is teleported――
+鼷本「然后，粒子Ａ进行远距传态——」
 
 榎本「アリスがベル測定を行った瞬間に粒子Ａ・Ｂの区別はなくなり、ＥＰＲペアの状態が破壊される」%K%P
 The moment Alice makes her measurement, the distinction between particles A and B is lost. They become one, and the original EPR pair entanglement is broken.
+鼷本「在Ａｌｉｃｅ进行贝尔实验的瞬间，粒子Ａ和Ｂ失去了区别，ＥＰＲ对的状态遭到破坏」
 
 榎本「それと同時にボブ側のＥＰＲ状態は部分的に収縮し、情報ψが粒子Ｃに移動する」%K%P
 At the same time, the half of the EPR pair Bob has partially collapses, and the state ψ migrates to particle C.
+鼷本「与此同时，Ｂｏｂ那边的ＥＰＲ状态发生塌缩，情报ψ移动到粒子Ｃ上」
 
 榎本「ただし、ボブはベル測定の結果をアリスから知らされるまでは、意味のある情報への変換の仕方がわからない」%K%P
 However, until Bob learns of the results of the Bell measurement, he won't be able to recreate the state of the "sent" particle.
+鼷本「不过，在Ｂｏｂ从Ａｌｉｃｅ那边得知贝尔实验的结果之前，都不知道怎么把它变换成有意义的信息」
 
 榎本「その次は、ベル測定の結果の送信だ――」%K%P
 So the next step is to communicate the results of the Bell measurement...
+鼷本「接下来，贝尔实验结果的发送——」
 
 榎本「アリスが得たベル測定の結果をボブに送信する」%K%P
 Alice sends Bob the results of the measurements she obtained.
+鼷本「Ａｌｉｃｅ把所得测定结果发送给Ｂｏｂ」
 
 榎本「このときの通信手段は、一般的には電話などの古典通信――光速以下の通信が使われる」%K%P
 The means of communication this time can be more orthodox, say, a phone call or a letter――a transmission occurring below the speed of light.
+鼷本「此时所用的通信方法，一般是电话一类的古典通信——即光速以下的通信」
 
 榎本「最後に、量子情報の変換――」%K%P
 And then, the final step is the transformation of the quantum state――
+鼷本「最后，量子信息的变换——」
 
 榎本「ボブは知らされたベル測定の結果を利用して、粒子Ｃの量子的な情報に%TS074ユニタリ変換%TE――」%K%P
 Using the results of the Bell measurements Bob was informed of, he applies a %TS074unitary transformation%TE to the particle C in his possession――
+鼷本「Ｂｏｂ利用刚得知的贝尔实验结果，对粒子Ｃ的量子信息进行%TS074幺正变换%TE——」
 
 榎本「すなわち波動関数の情報を損なわない操作を施す」%K%P
 Namely, an operation which does no harm to the information of the wave function.
+鼷本「也就是进行不会破坏波函数信息的操作」
 
 榎本「その結果、ボブ側にアリスが送りたかった情報ψが再現される」%K%P
 The result is that the state ψ Alice wanted to send to Bob was successfully reproduced on Bob's side.
+鼷本「结果是，Ｂｏｂ这边再现了Ａｌｉｃｅ想要传送的情报ψ」
 
 榎本「こうしてようやく意味のある情報がボブに転送された、というわけだ」%K%P
 Thus, the vital information finally reaches its destination.
+鼷本「如此一来，有意义的情报终于传送到Ｂｏｂ这边」
 
 榎本「以上が、量子テレポーテーションの主な流れだ」%K%P
 And this is how the protocol of quantum teleportation works.
+鼷本「以上是量子远距传态的主要流程」
 
 榎本「この中では、ＥＰＲは２段構造となっているが、理論上は何段階でも構わない」%K%P
 Here I showed you an experiment using only a single EPR pair, but of course, multiple pairs are possible as well.
+鼷本「上面的ＥＰＲ是两段结构，但理论上无论分多少段也没问题」
 
 榎本「アリスの隣にアリス２、アリス３……アリスＮ、と任意に設置できる」%K%P
 You can arbitrarily add an Alice 2, Alice 3, and so on and so forth, up to Alice N.
+鼷本「Ａｌｉｃｅ旁边可以任意设置Ａｌｉｃｅ２，Ａｌｉｃｅ３……ＡｌｉｃｅＮ」
 
 榎本「簡単に説明すると、こんなところかな」%K%P
 That's about as simple an explanation as I can give.
+鼷本「简单来解释就是这样」
 
 榎本「量子テレポーテーションは本来、人間などは転送させることはできず……」%K%P
 Originally, quantum teleportation couldn't transfer things like humans...
+鼷本「量子远距传态原本并不能传送人类……」
 
 榎本「光子や原子といった微粒子のみの転送しかできないと言われていた」%K%P
 Many thought it could only be used to transfer photons and atoms, and other atomic particles.
+鼷本「它被认为只能传送光子和原子等微粒子」
 
 榎本「だが、私の属している『%TS075企業%TE』によって開発された技術がそれを可能にした」%K%P
 However, the technology developed by the %N"%TS075business enterprise%TE" I belong to has made it possible.
 //added %N per Raide's request - Sheeta
+鼷本「但是，余所属的“%TS075企业%TE”所开发的技术却使这成为了可能」
 
 榎本「微粒子に分解された原子の状態――人間や物体の量子情報を転送するのだ」%K%P
 What we transfer is the state of the atoms disassembled――the quantum information of human bodies.
+鼷本「先分解为微粒子，再把原子的状态——人类和宏观物体的量子信息传送过去」
 
 榎本「ちなみに、転送後はオリジナルの量子情報は失われるわけだから……」%K%P
 By the way, the original quantum information is lost after the transfer...
+鼷本「顺带一提，传送以后原本的量子信息就不存在了……」
 
 榎本「無生物の場合はコピーを作るだけということになるが、人間を転送した場合……」%K%P
 In the case of inanimate objects, the transfer would only create a copy of the object, but when humans are transferred...
+鼷本「传送非生物时，只能算是进行了拷贝，但如果是人类的话……」
 
 榎本「オリジナルの人間は、送信元のサークル内では消滅――息を引き取り、受信先で再構築――蘇っている、ということになるわけだ」%K%P
 The original human disappears inside the circle of transmission――they die, and then reconstruct themselves at the reception point.
+鼷本「原本那个人在发信端的转移圈内被消灭——也就是死亡，然后在收信端进行再构筑——也就是复活」
 
 榎本「ただしきみ達の場合は例外で、意識が送信元に残留してしまうため……」%K%P
 In other words, they are resurrected. However, you two are an exception. Your consciousnesses remain at the origin of transfer...
+鼷本「然而你们是例外，你们的意识还残留在发信端……」
 
 榎本「その肉体は、一見魂が抜き取られたようにも見えることだろう」%K%P
 At first glance, it may seem as if your soul has left its body.
+鼷本「所以那副肉体看起来就像失去了灵魂一样吧」
 
 榎本「これが先ほど言った『肉体というウツワを失くす』という現象の正体だ」%K%P
 This is the true nature of the phenomenon I mentioned earlier, wherein you "lose the containers you call 'bodies.'"
+鼷本「这就是刚才所说的“失去肉体的容器”这一现象的真面目」
 
 榎本「話は戻るが、この量子テレポーテーションの仕組みを両地点に設定しておけば、相互の転移が可能となる」%K%P
 Getting back to the point, if this quantum teleportation construction is established at two different points, mutual transfer between them becomes possible.
+鼷本「言归正传，如果把量子远距传态的两端设置在不同的地点，那就可以进行相互转移」
 
 榎本「朱倉岳と青鷺島、ふたつの量子情報は転送しあう」%K%P
 Mount Akakura and Aosagi Island both; their quantum information is transferred between them.
+鼷本「朱仓岳与青鹭岛，两地的量子信息相互传送」
 
 榎本「御理解して頂けたかな？」%K%P
 Have you found my explanation understandable?
+鼷本「阁下是否理解？」
 
 そこまで言うと、榎本はふぅと息を吐き出し、コーヒーカップにくちをつけた。%K%P
 Once he finished talking, Enomoto exhaled and brought the coffee cup to his lips.
+说完，鼷本“呼——”地叹了口气，把嘴唇凑近咖啡杯。
 
 榎本「不味いな……」%K%P
 How unpleasant...
+鼷本「没味道……」
 
 榎本「やれやれ、すっかり冷めてしまったか……」%K%P
 It's gone completely cold...
+鼷本「哎呀哎呀，已经完全变冷了吗……」
 
 悟「なるほど……」%K%P
 I see...
+悟「原来如此……」
 
 悟「時空間転移の正体が量子テレポーテーションということはわかった」%K%P
 I understand that the space-time transfer is actually quantum teleportation.
+悟「我明白时空间转移实际上就是量子远距传态了」
 
 悟「けれど、その量子テレポーテーションが、どのようにして時空間転移に結びつくかがわからない」%K%P
 Though, I don't know what quantum teleportation and transferring through space and time have to do with each other.
+悟「但还是不懂，量子远距传态具体是怎么跟时空间转移联系在一起的」
 
 悟「特に、空間はともかくとして、なぜ時間を跳躍して転移するんだ？」%K%P
 Especially time. Traveling through space aside, how is it possible to travel through time?
+悟「尤其是，空间暂且不论，为什么转移会伴随着时间跳跃呢？」
 
 榎本「ふむ」%K%P
 Hmm...
+鼷本「哼」
 
 榎本「当然の疑問だな」%K%P
 I thought you might ask.
+鼷本「会这么问也正常」
 
 榎本「よろしい」%K%P
 Very well.
+鼷本「好」
 
 榎本「では、それを説明しよう」%K%P
 Then I'll continue my explanation.
+鼷本「那么，就解释一下」
 
 榎本はコーヒーカップを置いた。%K%P
 Enomoto lowered his cup.
+鼷本放下了咖啡杯。
 
 榎本「まず、時空間転移を発生させるための『装置』が存在する」%K%P
 First, a "device" for enabling space-time transfer exists.
+鼷本「首先，存在一台让时空间转移发生的“装置”」
 
 榎本「これは先ほども述べたとおりだ」%K%P
 It's the same as what I stated before.
+鼷本「正如刚才所述」
 
 榎本「時空間転移装置――そう私は呼んでいる」%K%P
 The space-time transfer phenomenon device――that's what I call it.
+鼷本「时空间转移装置——余是这么称呼的」
 
 榎本「装置はＥＰＲペアの粒子を生み出す発生源であり、粒子の測定機であり、転送時の変換機でもある」%K%P
 This device acts as the source that brings forth the EPR pair's particles, measures those particles, and then transfers them to the reception point.
+鼷本「装置既是产生ＥＰＲ对的粒子发生源，又是粒子的测定机，同时还是传送时的转换机」
 
 榎本「いわば、時空間転移の心臓部というわけだ」%K%P
 It's the heart of the space-time transfer, so to speak.
+鼷本「一言以蔽之，就是时空间转移的核心部位」
 
 悟「技術的な説明はいい」%K%P
 A technical explanation would be fine!
+悟「技术性的说明就算了」
 
 悟「オレが訊きたいのはそんなことでなく――」%K%P
 What I want to hear isn't some――
+悟「我想问的不是这个——」
 
 榎本「わかっている」%K%P
 I know.
+鼷本「知道」
 
 榎本「まあ、そう焦るな」%K%P
 Don't get so worked up.
+鼷本「行了，别那么心急」
 
 榎本は手でオレを制すると言葉を続けた。%K%P
 Enomoto held up a hand to command silence before continuing.
+鼷本挥挥手，继续往下说道。
 
 榎本「装置には、さらにもうひとつの機能が備わっている」%K%P
 The device possesses one additional ability.
+鼷本「装置还具备另外一项功能」
 
 榎本「それは……」%K%P
 And that is...
+鼷本「那就是……」
 
 榎本「時間を歪める機能だ」%K%P
 ...the ability to bend time.
+鼷本「歪曲时间的机能」
 
 悟「時間を……歪める？」%K%P
 Bend... time?
+悟「歪曲……时间？」
 
 榎本「そうだ」%K%P
 Correct.
+鼷本「没错」
 
 榎本「限られたある一定空間の中だけだがな」%K%P
 It's restricted to a predefined space, however.
+鼷本「虽然只是限定在一定的空间内」
 
 悟「よくわからないな」%K%P
 I don't know what you mean.
+悟「真搞不懂」
 
 悟「時間を歪める行為と、時空間を跳躍することにどんな関係性があるというんだ？」%K%P
 Exactly how are you saying bending time and jumping through time and space are related?
+悟「歪曲时间的行为跟跨越时空之间有什么联系？」
 
 榎本「まあ理論的なところは省略するが、つまりは……」%K%P
 Well, I'll skip the theoretical bits, but...
+鼷本「算了，省去理论性的说明，简单来说……」
 
 榎本「こういうことだ」%K%P
 In short, it's this.
+鼷本「就是这么回事」
 
 榎本はキーボードを打鍵した。%K%P
 Enomoto tapped something into the keyboard.
+鼷本敲起键盘。
 
 榎本「これは時間と空間を２次元的に表わした図だ」%K%P
 This figure represents time and space as a two-dimensional diagram.
+鼷本「这是表示时间和空间的二次元图像」
 
 榎本「Ｙ軸を時間、Ｘ軸を空間――緯度を示している」%K%P
 The Y axis represents time, and the X axis represents space――specifically the latitude of each location.
+鼷本「Ｙ轴表示时间，Ｘ轴表示空间——也就是纬度」
 
 悟「それで？」%K%P
 And then?
+悟「然后呢？」
 
 榎本「この赤い印は２０１１年の朱倉岳、青い印を同じく２０１１年の青鷺島と考えてくれたまえ」%K%P
 Think of this red mark as the Mount Akakura of 2011, and this blue mark as the Aosagi Island of 2011.
+鼷本「先把红色标记看成是２０１１年的朱仓岳，把蓝色标记看成是２０１１年的青鹭岛」
 
 榎本「両者は同じ時間軸上に存在するが、空間については別の位置にある、ということだ」%K%P
 Both exist on the same time axis, but in different locations.
+鼷本「两者虽然在同一时间轴上，但空间上却处于不同位置」
 
 榎本「両者をＹ軸上においてプラス方向に移動し、このような状態とする」%K%P
 If we move both spaces into the plus region of the Y axis, it becomes like this.
+鼷本「两者沿Ｙ轴的正方向移动，就变成了这样的状态」
 
 榎本「２地点の時間は２０１１年から２０１２年へと変化した」%K%P
 The time in which the two points exist changes from 2011 to 2012.
+鼷本「两地的时间由２０１１年变成２０１２年」
 
 榎本「これが我々が体験する『時間の経過』というやつだ」%K%P
 This is the normal "passage of time" we experience.
+鼷本「这就是我们平时体验的“时间的流逝”」
 
 榎本「もちろん、わかるだろう？」%K%P
 You understand this much, correct?
+鼷本「这点你肯定明白吧？」
 
 悟「問題ない」%K%P
 No problems yet.
+悟「没有问题」
 
 榎本「朱倉岳と青鷺島が、このように同じ時間軸上に存在し、異なるのが空間だけであるならば、転移にはなんの支障もない」%K%P
 As you can see, Mount Akakura and Aosagi Island exist on the same time axis, and nothing stands in the way of transfer between them.
+鼷本「如果朱仓岳和青鹭岛在同一时间轴上，只有空间位置不同的话，要进行转移是不会有任何障碍的」
 
 悟「そうだな」%K%P
 That's right.
+悟「是这样」
 
 榎本「だが……」%K%P
 However...
+鼷本「但是……」
 
 榎本「実際のところは、こうだ」%K%P
 At the moment, it's more like this.
+鼷本「实际情况，却是这样」
 
 榎本「冬川こころのいる朱倉岳は２０１１年に存在し、我々のいる青鷺島は２０１２年にある」%K%P
 The Mount Akakura at which Fuyukawa Kokoro exists is in the year 2011, and the Aosagi Island where we currently stand is in the year 2012.
+鼷本「冬川心所在的朱仓岳是２０１１年，而我们所在的青鹭岛是２０１２年」
 
 榎本「空間ばかりか、時間までも座標軸が異なっている」%K%P
 Not only space, but the time axis differs as well.
+鼷本「不只是空间，连时间也在不同的坐标轴上」
 
 榎本「このままでは転移はできない」%K%P
 Like this, transfer isn't possible.
+鼷本「这样一来就没法转移了」
 
 榎本「両地点に双子の粒子を飛ばすこともできないし、送信側から受信側へと測定結果を伝達することもできない」%K%P
 The twin particles are unable to jump between the two points, and the results of the measurements can't be transferred between the sending and receiving ends.
+鼷本「既无法让双生粒子到达两地，也不能把测定结果从发信端传送到收信端」
 
 悟「つまり、量子情報の変換を行うことができない、というわけだな」%K%P
 In other words, the conversion of quantum information can't occur.
+悟「就是说，无法进行量子信息的转换」
 
 榎本「その通り」%K%P
 That's exactly it.
+鼷本「没错」
 
 悟「では、どうするんだ？　いや……」%K%P
 Then, what do you do? No...
+悟「那么，该怎么做？不……」
 
 悟「どうやってるんだ？」%K%P
 How does it happen?
+悟「你们是怎么做到的？」
 
 榎本「ふたつの地点の座標を１本の直線で結ぶのさ」%K%P
 The two coordinate points are connected by a single straight line.
+鼷本「把两地坐标用一条直线连起来」
 
 榎本「リンクを結ぶんだ」%K%P
 A link between them.
+鼷本「建立连接」
 
 榎本「仮に、この直線を『ｔ’』と呼ぼう」%K%P
 For the time being, let's call this line "t'."
+鼷本「暂且把直线称作“ｔ’”」
 
 悟「しかし、これだけではなんの解決にもならないだろう？」%K%P
 But that won't help anything, will it?
+悟「可是，只是这样，什么也解决不了吧？」
 
 榎本「まだわからないかい？」%K%P
 You still don't understand?
+鼷本「还不明白？」
 
 榎本「先程言っただろう？　装置は時間を歪める、と」%K%P
 I told you before, didn't I? This device can bend time.
+鼷本「刚才说过吧？装置能歪曲时间」
 
 悟「まさか……」%K%P
 That's impossible...
+悟「难道……」
 
 榎本はニヤリと笑みを浮かべた。%K%P
 A smile floated to Enomoto's face.
+鼷本脸上浮现出狡黠的笑容。
 
 そうだ、と言わんばかりに榎本はキーボードを操作し、画面を切り替えた。%K%P
 Muttering "that's right," Enomoto began typing on his keyboard, and the image on the screen changed.
+“正是如此”，就像要这么说似的，鼷本操作起键盘，换了另一幅图像。
 
 そこに映ったのは、『Ｙ軸――時間を傾け、直線ｔ'と垂直に交じり合わせた』映像……。%K%P
 Shown there was "the image of the Y-axis (time) slanted, and the line marked t' perpendicular to it"....
+屏幕上映出的是，“使Ｙ轴——时间轴倾斜，与直线ｔ’垂直相交”的画面……
 
 悟「…………」%K%P
 ......
+悟「…………」
 
 榎本「これで理論上は――いや、事実上と言ってもいいかな――ふたつの地点は同じ時間軸上に存在することになった」%K%P
 According to this theory――no, you can see how it's a matter of fact――the two points can exist on the same time axis.
+鼷本「如此一来，在理论上——不，事实上也可以这么说——两个地点就存在于同一时间轴上了」
 
 悟「…………」%K%P
 ......
+悟「…………」
 
 榎本「先ほどの諸問題は一挙解決」%K%P
 That solves all the problems we had before in one fell swoop.
+鼷本「一举解决之前的所有问题」
 
 榎本「量子情報を変換しあうための状態は整った」%K%P
 The conditions for the transfer of quantum information have been met.
+鼷本「这样就变成可以交换量子信息的状态了」
 
 榎本「こうして、２０１１年の朱倉岳サークルと２０１２年の青鷺島サークルは相互に転移を繰り返す」%K%P
 Like this, the Mount Akakura circle in the year 2011 and the Aosagi Island circle in 2012 can transfer back and forth over and over again.
+鼷本「就这样，２０１１年的朱仓岳转移圈与２０１２年的青鹭岛转移圈反复发生相互转移」
 
 榎本「ＯＫ？」%K%P
 Okay?
+鼷本「ＯＫ？」
 
 バカげた話だった。%K%P
 The ramblings of a fool.
+太荒唐了。
 
 本当に、まったく、切実に、狂おしいほどに、呪わしいほどに、非現実的だった。%K%P
 A really, honestly, seriously, maddeningly, accursedly unrealistic bunch of crap.
+这的的确确实实在在完完全全是让人发疯令人诅咒且毫不现实的事。
 
 しかし、それは事実起きてしまっているのだ。%K%P
 However, it was the truth.
+然而，它确实在发生。
 
 この身で何度も何度も体験しているのだ。%K%P
 My own body had experienced it time and time again.
+这副身体已经体验了不知多少次了。
 
 どんなに信じがたい理論であっても、それはオレにとっては間違いなく現実なのだ。%K%P
 No matter how unbelievable it was as mere theory, it is unmistakably the reality.
+无论理论多么难以置信，对我而言这却是千真万确的现实。
 
 だからこそ、本当に、まったく、切実に、狂おしいほどに、呪わしいほどに、理解に苦しめられる。%K%P
 And that's why my comprehension was really, honestly, seriously, maddeningly, accursedly being torn apart.
+所以说，这的的确确实实在在完完全全是让人发疯令人诅咒且难以理解到痛苦的事。
 
 オレの頭は、まだそれを受け入れることに激しい拒絶反応を示していた。%K%P
 My mind still struggled violently against the very notion.
+我的大脑依然对这件事表现出强烈的抗拒。
 
 榎本「まだ納得できないようだな」%K%P
 It seems you still can't accept it.
+鼷本「看来还是无法接受」
 
 榎本「仕方ない」%K%P
 Oh well.
+鼷本「没办法」
 
 榎本「では実証してあげようじゃないか」%K%P
 Shall I show you proof?
+鼷本「那么，实际证明给你看」
 
 悟「なんだって？」%K%P
 Of what?!
+悟「你说什么？」
 
 榎本「時空間転移を、さ」%K%P
 The space-time transfer, of course.
+鼷本「时空间转移么」
 
 榎本「とは言っても、きみ達に起きているような大がかりなものは無理だがね」%K%P
 That said, it's impossible to demonstrate a large-scale transfer like what's happening to you.
+鼷本「只不过，没办法再现像你们那种大规模的现象就是了」
 
 榎本「時空間転移装置のプロトタイプがある」%K%P
 I have a prototype of the space-time transfer device right here.
+鼷本「时空间转移装置有个原型」
 
 榎本「それを使って実践すれば、さすがのきみも納得せざるを得ないだろう」%K%P
 If I show you the device in action, then even you'll be convinced, right?
+鼷本「用它演示一次，头脑敏锐的你就不得不接受了吧」
 
 榎本はそう言うと、大型マシンの隣にある鉄扉の奥へと姿を消した。%K%P
 Saying that, Enomoto disappeared through the iron door beside the supercomputer.
+说完，鼷本走入大型机器旁边的铁门深处。
 
 しばらくすると、彼は複雑な構造をした装置を持って戻ってきた。%K%P
 After a while, he returned holding a complicated-looking piece of equipment.
+过了一会儿，他拿着一个复杂的装置回来了。
 
 榎本「これが時空間転移装置のプロトタイプだ」%K%P
 This is the prototype of the space-time transfer device.
+鼷本「这就是时空间转移装置的原型」
 
 榎本「ざっと説明しておこう」%K%P
 I'll give you a rough explanation.
+鼷本「大略说明一下」
 
 榎本「この中央の箱がＥＰＲペアの発生源……量子的絡みあい状態の粒子を発生させるところだ」%K%P
 Inside the box in the middle is the origin of the EPR pair... where the particles intertwine with each other on a quantum level.
+鼷本「中间的盒子是ＥＰＲ对的发生源……就是产生出纠缠态粒子的地方」
 
 榎本「そして、その両側にある箱がアリスとボブ――送信側と受信側だ」%K%P
 And those two boxes at either side represent Alice and Bob――the sender and the receiver.
+鼷本「然后，这两边的盒子就是Ａｌｉｃｅ和Ｂｏｂ——即发信端和收信端」
 
 悟「能書きはいい。見れば大体わかる。さっさと始めてくれ」%K%P
 Enough showing off. I'll understand once I see it. Get started already.
+悟「说明免了。看样子就能知道个大概。赶紧开始吧」
 
 榎本「それは結構なことだ」%K%P
 That's enough, is it?
+鼷本「很好」
 
 榎本「ではアリスとボブの中に、この淹れたばかりのコーヒーを入れるとしよう」%K%P
 Then let's put some nice hot coffee inside Alice and Bob, shall we?
+鼷本「那么，把这些刚泡好的咖啡放到Ａｌｉｃｅ和Ｂｏｂ那里吧」
 
 榎本の手には、ふた組のコーヒーがあった。%K%P
 Two cups of coffee were in Enomoto's hands.
+鼷本手上端着两份咖啡。
 
 ひとつは白いカップと白いソーサーに入っていた。コーヒーにはミルクが入れられていた。%K%P
 One was a white cup on a white saucer. The coffee inside had milk in it.
+一份是白色杯子和白色咖啡盘的。里面是掺了牛奶的白咖啡。
 
 もうひとつは黒いカップと黒いソーサーに入っていた。コーヒーはブラックだった。%K%P
 The other was a black cup in a black saucer. The coffee inside was black.
+另一份是黑色杯子和黑色咖啡盘的。里面是纯的黑咖啡。
 
 榎本はふた組のコーヒーをアリスとボブ、それぞれの中にセットし、装置のスイッチを入れた。%K%P
 Enomoto placed one cup in each of the Alice and Bob boxes, then switched on the device.
+鼷本把两份咖啡分别放进Ａｌｉｃｅ和Ｂｏｂ中，然后按动装置的开关。
 
 鈍い音をたてて装置は稼働する。%K%P
 With a dull whine, it began to operate.
+装置发出低沉的声音，开始运转。
 
 榎本「ちなみに、アリスは２０１１年の朱倉岳、白いコーヒーソーサーは朱倉岳サークル……」%K%P
 By the way, Alice is the Mount Akakura of 2011, and the white saucer is Mount Akakura's transfer circle...
+鼷本「顺带一提，Ａｌｉｃｅ代表２０１１年的朱仓岳，白色咖啡盘代表朱仓岳转移圈……」
 
 榎本「白いカップは冬川こころ、を示していると思ってくれたまえ」%K%P
 So think of the white cup as Fuyukawa Kokoro.
+鼷本「白色杯子代表冬川心，你先这么记住」
 
 榎本「逆にボブは２０１２年の青鷺島、黒いコーヒーソーサーは青鷺島サークル……」%K%P
 While Bob is the Aosagi Island of 2012, and the black saucer is Aosagi Island's circle...
+鼷本「反之Ｂｏｂ代表２０１２年的青鹭岛，黑色咖啡盘代表青鹭岛转移圈……」
 
 榎本「黒いカップはきみ――優希堂悟、を示している」%K%P
 The black cup will be you――Yukidoh Satoru.
+鼷本「黑色杯子代表你——优希堂悟」
 
 悟「なるほど……で？」%K%P
 I see... and?
+悟「原来如此……然后？」
 
 すると榎本はボブの中に入っていたコーヒーを取り出すと、ひとくちすすった。%K%P
 Enomoto then brought Bob's coffee cup to his lips.
+这时，鼷本拿出Ｂｏｂ那边的咖啡，啜饮了一口。
 
 榎本「う～ん、美味い」%K%P
 Mmm～m, delicious.
+鼷本「嗯～美味」
 
 榎本「やはりコーヒーは濃いめのブラック、それも淹れたてが一番だ」%K%P
 Coffee is most definitely best black, and freshly brewed at that.
+鼷本「果然咖啡就是要香浓的黑咖啡，而且刚泡好的才最棒」
 
 悟「…………」%K%P
 ......
+悟「…………」
 
 榎本「それに引き替え……」%K%P
 And on the other side...
+鼷本「换一杯……」
 
 榎本はコーヒーをボブに元に戻すと、今度はアリスの中に入れたコーヒーを取り出し、すすった。%K%P
 Enomoto then put the cup back in place, and this time took a sip from the Alice coffee.
+鼷本把咖啡放回原位，然后又拿出Ａｌｉｃｅ那边的咖啡啜了一口。
 
 榎本「ミルクの入ったコーヒーは最悪だ。不純物のせいでコーヒーがコーヒーでなくなっている」%K%P
 Coffee with milk in it is the worst. Coffee can't even be called coffee anymore once it's been contaminated like this.
+鼷本「掺了牛奶的咖啡最差。加入了杂质，咖啡也不再是咖啡」
 
 榎本は顔をしかめながら、アリスにコーヒーを戻した。%K%P
 Frowning, Enomoto returned the cup.
+鼷本皱着脸，把咖啡放回原位。
 
 榎本「そうは思わないかね？」%K%P
 Don't you agree?
+鼷本「你不这么认为么？」
 
 悟「話が逸れてるようだが？」%K%P
 This conversation's kind of straying off topic.
+悟「我怎么觉得你像在岔开话题？」
 
 榎本「そんなことはない。これも重要なプロセスの一部なのだよ」%K%P
 That's not true. This is an essential part of the process.
+鼷本「没有这回事。这也是个重要的步骤」
 
 悟「…………」%K%P
 ......
+悟「…………」
 
 榎本「で？　きみはどう思う？　コーヒーはブラックか？　それともミルク入りか？」%K
 So? How about you? Do you enjoy your coffee black? Or with milk?
+鼷本「那么？你怎么看？是黑咖啡好？还是白咖啡好？」
 
 %p
 ブラック
 Black
+黑咖啡
 
 ミルク入り
 With milk
+白咖啡
 
 %P
 悟「ブラックだ。当然だろう」%K%P
 Black. Isn't it obvious?
+悟「黑咖啡。显然吧」
 
 悟「オレは砂糖だって入れない。コーヒーは苦いからコーヒーなんだ」%K%P
 I don't take sugar, either. The bitterness is what makes coffee coffee.
+悟「我连砂糖也不会加。就因为有苦味，咖啡才叫做咖啡」
 
 榎本「なるほど。きみとは本当に意見があいそうだ」%K%P
 I see. Our opinions really do match.
+鼷本「是么。余和你真是意见相投啊」
 
 榎本は嬉しそうに言った。%K%P
 Enomoto said happily.
+鼷本很高兴似的说。
 
 悟「ミルク入りだ。当然だろう」%K%P
 With milk. Isn't it obvious?
+悟「白咖啡。显然吧」
 
 悟「ミルクを入れないコーヒーなんて、ソースのかかってないステーキみたいなものだ」%K%P
 Coffee without milk is like steak with no sauce.
+悟「咖啡不加牛奶，就像牛排没了芡汁一样」
 
 悟「それにブラックは胃にも優しくないんだ。長生きしないぜ、あんた」%K%P
 And besides, isn't black coffee hard on the stomach? You won't have a long life drinking that all the time, you know.
+悟「而且黑咖啡对胃也不好。你这样会短命哦」
 
 榎本「ふっ、大きなお世話だよ」%K%P
 Hmph, mind your own business.
+鼷本「哼，多管闲事」
 
 榎本「まったく、きみとは本当に意見があわないな」%K%P
 Heh, our opinions don't match up at all.
+鼷本「真是，余跟你真不投契」
 
 榎本は苦笑を浮かべながら言った。%K%P
 Enomoto said with a bitter smile.
+鼷本苦笑着说。
 
 榎本「どうだい？　きみもひとくち飲んでみないかい？　実際に舌で確かめてみてくれよ」%K%P
 Well? Won't you have a sip? Confirm it with your own tongue.
+鼷本「如何？你要不要也尝一口？用舌头亲自确认一下吧」
 
 悟「これを、か？」%K%P
 Of this?
+悟「这个吗？」
 
 アリスとボブに収められたコーヒーを指差しながら、オレは尋ねた。%K%P
 I asked while pointing at the Alice and Bob coffees with my finger.
+我指着放在Ａｌｉｃｅ和Ｂｏｂ那里的咖啡问道。
 
 悟「あんたが飲んだ、このコーヒーを？」%K%P
 The coffee that you drank?
+悟「喝你喝过的咖啡？」
 
 榎本「そうだ」%K%P
 That's right.
+鼷本「没错」
 
 榎本「心配するな。毒なんて入っていない。私も飲んだだろう？」%K%P
 Don't worry. There isn't any poison in it. I drank it too, right?
+鼷本「不用担心。没有下什么毒。余也喝过了吧？」
 
 榎本「それに私は変な病気は持っていない。妙な意味も込めていない。安心してくれ」%K%P
 And I don't have any strange illnesses either. My motives are pure. Relax.
+鼷本「而且余没什么奇怪的病。也没什么特别的意思。放心好了」
 
 悟「…………」%K%P
 ......
+悟「…………」
 
 榎本「まあ、無理にとは言わないが」%K%P
 Well, I won't force you.
+鼷本「算了，也不是非要你喝不可」
 
 悟「これを飲むことが重要なのか？　その実証のために」%K%P
 Is it that important that I drink this? Just for the sake of proof?
+悟「喝咖啡有那么重要吗？对这个实验来说」
 
 榎本「もちろんだ」%K%P
 Of course.
+鼷本「当然」
 
 悟「…………」%K%P
 ......
+悟「…………」
 
 オレはふたつのコーヒーを見比べた。%K%p
 I looked back and forth between the two cups of coffee.
+我比较了一下两杯咖啡。
 
 飲む
 Drink
+喝
 
 飲まない
 Don't drink
+不喝
 
 オレは恐る恐るふたつのコーヒーを飲み比べた。%K%P
 I took a timid sip from each coffee in turn.
+我小心翼翼地分别品尝了两杯咖啡。
 
 榎本「どうだい？」%K%P
 How is it?
+鼷本「如何？」
 
 悟「ボブの方――つまりブラックの方が断然美味い」%K%P
 The Bob one――in other words, the one that's black, is distinctively better.
+悟「明显是Ｂｏｂ——黑咖啡那边的好喝」
 
 オレはそれぞれのコーヒーを元に戻しながら答えた。%K%P
 I answered while returning the coffee to its place.
+我一边把杯子分别放回原位，一边回答。
 
 悟「アリスの方――つまりミルク入りの方が断然美味い」%K%P
 The Alice one――in other words, the one with milk, is distinctively better.
+悟「明显是Ａｌｉｃｅ——白咖啡那边的好喝」
 
 オレはそれぞれのコーヒーを元に戻しながら答えた。%K%P
 I answered, returning the coffee to its place.
+我一边把杯子分别放回原位，一边回答。
 
 榎本「なるほど。結構だ」%K%P
 I see. Very well.
+鼷本「是么。很好」
 
 悟「いや。オレは飲まない」%K%P
 No. I won't drink it.
+悟「不。我不喝」
 
 榎本「そうか、まあいいだろう」%K%P
 Is that so? Well, I guess that's fine.
+鼷本「是么，那好吧」
 
 榎本「では、続けようか」%K%P
 Then let's continue.
+鼷本「那么，我们继续」
 
 悟「で？　どうすればいい？」%K%P
 Continue? What am I supposed to do?
+悟「嗯？该怎么做？」
 
 榎本「なにもする必要はない。ただ見ているだけでいい」%K%P
 You don't need to do anything. Just watch.
+鼷本「什么也不用做。睁大眼睛好好看着就行」
 
 悟「…………」%K%P
 ......
+悟「…………」
 
 それからオレと榎本は、しばらくそのまま装置を見守った。%K%P
 Enomoto and I kept a tight watch over the device.
+之后，我和鼷本盯着装置看了一会儿。
 
 悟「なにも起きないようだが……？」%K%P
 It sure doesn't look like anything's happening.
+悟「好像没什么变化……？」
 
 榎本「まあ、見ていたまえ」%K%P
 Now now, just watch.
+鼷本「行了，耐心看下去」
 
 腕時計を確認する榎本。%K%P
 Enomoto checked his wristwatch.
+鼷本确认了手表。
 
 榎本「そろそろだな」%K%P
 Any moment now.
+鼷本「差不多了」
 
 そのとき――アリスに変化が起きた。%K%P
 And at that very moment――Alice transformed.
+这时——Ａｌｉｃｅ发生了变化。
 
 一瞬の内に、カップとソーサーの色が白から黒に変わったのだ。中身もブラックになっている。%K%P
 In an instant, the cup went from white to black. The coffee inside became black as well.
+刹那间，杯子和盘子由白色变成了黑色。杯里的咖啡也成了黑咖啡。
 
 悟「これは……」%K%P
 It...
+悟「这是……」
 
 榎本「転移したのだよ」%K%P
 It transferred.
+鼷本「转移发生了」
 
 悟「では、今アリスに入っているコーヒーは……」%K%P
 Then the coffee inside that cup is...
+悟「那么，现在Ａｌｉｃｅ那里的咖啡……」
 
 榎本「そう。未来――今から１分後のボブのコーヒーの情報が、アリス――過去へと転移したのだ」%K%P
 Exactly. The future――the information inside Bob's cup from one minute in the future――has transferred alongside Alice's.
+鼷本「没错。未来——也就是一分钟后Ｂｏｂ中咖啡的情报，转移到了Ａｌｉｃｅ这里——也就是过去」
 
 悟「…………」%K%P
 ......
+悟「…………」
 
 榎本「そして、さらに１分が経過すると……」%K%P
 And, in just one more minute...
+鼷本「然后，再过一分钟后……」
 
 ――１分経過。%K%P
 ――Another minute passed.
+——过了一分钟
 
 悟「……！」%K%P
 ......!
+悟「……！」
 
 ボブにも変化が起きた。%K%P
 Bob's cup transformed as well.
+Ｂｏｂ也发生了变化。
 
 カップとソーサーの色が黒から白に変わっている。中身はミルク入りだ。%K%P
 The cup and saucer went from black to white. Now there was milk in the coffee.
+杯子和盘子的颜色由黑变白。里面也变成了白咖啡。
 
 悟「過去――今から１分前のアリスのコーヒーの情報が、ボブ――未来へと転移してきた……」%K%P
 Past――the information of Alice's cup from one minute in the past has transferred to Bob's――the future...
+悟「过去——也就是一分钟前Ａｌｉｃｅ中咖啡的情报，转移到了Ｂｏｂ——也就是未来……」
 
 榎本「その通り。さすが物わかりがいい」%K%P
 That's precisely it. You understand quite well.
+鼷本「正是如此。理解力真强」
 
 悟「これが……」%K%P
 This is...
+悟「这就是……」
 
 榎本「転移――量子テレポーテーションだ」%K%P
 A transfer――quantum teleportation.
+鼷本「转移——量子远距传态」
 
 榎本「では、もう一度ふたつのコーヒーを飲み比べてみたまえ」%K%P
 Now then, try taking a sip from each of them and comparing them again.
+鼷本「那么，再尝一下两杯咖啡吧」
 
 悟「は？」%K%P
 Hah?
+悟「啊？」
 
 榎本「いいから。飲めばわかる」%K%P
 Just do it. You'll understand once you drink.
+鼷本「行了。喝了自然明白」
 
 オレは訝しげに思いながらも、再びそれぞれのコーヒーをすすった。%K%P
 Trying to set aside my doubts, I took another sip from each coffee.
+尽管很诧异，但我还是分别啜饮了一口。
 
 悟「えっ！？」%K%P
 Eh?!
+悟「哎！？」
 
 榎本「今度はどうかな？」%K%P
 How is it now?
+鼷本「这次又怎样？」
 
 ボブの方――つまりミルク入りの方が……美味かった。%K%P
 Bob's――in other words, the coffee with milk in it... was really good.
+Ｂｏｂ——就是白咖啡那边……比较好喝。
 
 アリスの方――つまりブラックの方が……美味かった。%K%P
 Alice's――in other words, the black coffee... was really good.
+Ａｌｉｃｅ——就是黑咖啡那边……比较好喝。
 
 榎本「ふふっ」%K%P
 Fufu.
+鼷本「哼哼」
 
 榎本は満足そうに微笑んだ。%K%P
 Enomoto smiled in satisfaction.
+鼷本很满意似地微微笑了笑。
 
 榎本「では、もう一度ふたつのコーヒーを飲み比べてみよう」%K%P
 Then I'll try to compare the two coffees again.
+鼷本「那么，再尝一下两杯咖啡吧」
 
 悟「は？　なぜ？」%K%P
 Hah? Why?
+悟「啊？为何？」
 
 榎本はそれには答えず、再びそれぞれのコーヒーをすすった。%K%P
 Not answering, Enomoto took another sip from each coffee.
+鼷本没有搭腔，再次啜饮了两杯咖啡。
 
 榎本「う～ん♪」%K%P
 Mmm～♪
+鼷本「嗯～?」
 
 榎本「ミルク入りも悪くない」%K%P
 It's not bad with milk, either.
+鼷本「白咖啡也不赖」
 
 榎本「逆にブラックはなにか物足りない」%K%P
 Now it's the black that feels like it's missing something.
+鼷本「相反黑咖啡的味道却不尽人意」
 
 悟「おい、さっきと言ってることが逆じゃないか」%K%P
 Hey, isn't that the opposite of what you said a few minutes ago?
+悟「喂，这跟刚才说的不是完全相反吗」
 
 榎本「だが、事実そう感じるのだから仕方がない」%K%P
 But that's what we've experienced in reality, so there's no helping it.
+鼷本「可实际上就是这么觉得，没办法」
 
 悟「どういうことだ……？」%K%P
 What does that even mean...?
+悟「怎么回事……？」
 
 榎本「わからないかね？　コーヒーとカップという『物質』は入れ替わったのに、美味さという『概念』はその場に残留している」%K%P
 You don't understand, do you? Even though the "material" of the cup has changed, the "concept" of its deliciousness remains.
+鼷本「不明白吗？明明咖啡和杯子这些“物质”全都替换了，好喝这个“概念”却残留在原处」
 
 榎本「まるでなにかを暗示しているように感じられないか？」%K%P
 Doesn't this remind you of something?
+鼷本「不明白吗？明明咖啡和杯子这些“物质”全都替换了，好喝这个“概念”却残留在原处」
 
 悟「…………」%K%P
 ......
+悟「…………」
 
 悟「意識……」%K%P
 Consciousness...
+悟「意识……」
 
 榎本「そう、意識の残留現象。それを意味している」%K%P
 Yes, the residual consciousness phenomenon.
+鼷本「没错，意识的残留现象。就是暗示了这一点」
 
 榎本「きみ達ふたりのまわりの物質と肉体は入れ替わっていても、意識はその場に残り続けている」%K%P
 Even if your bodies and surroundings changed places, your consciousness would remain where it was.
+鼷本「虽然你们周围的物质以及肉体都发生了交换，但你们的意识却仍然留在原地」
 
 榎本「――以上、実証終了」%K%P
 ――Here ends the demonstration.
+鼷本「——以上，实证完毕」
 
 榎本「残念なことに、きみには飲んでもらえなかったのでイマイチ説得力に欠けているが……」%K%P
 It's a shame you didn't sample the coffee. My demonstration isn't as effective without audience participation...
+鼷本「虽然你没喝咖啡，缺了点说服力，这实在很遗憾……」
 
 榎本「とりあえず、実証は終了だ」%K%P
 At any rate, here ends the demonstration.
+鼷本「总之，实证完毕」
 
 悟「待てよ！　味なんて、そんな曖昧なもので説明されたって……」%K%P
 Wait! Trying to explain with something as vague as taste...
+悟「等等！居然用味觉这种无形的东西来解释……」
 
 榎本「味覚があてにならないと？」%K%P
 Are you saying that taste is unreliable?
+鼷本「靠味觉不能说明事实么？」
 
 悟「そうだ。そのときの気分でコロコロ変わったってオカシクない」%K%P
 That's right. Taste is subjective, and can change completely depending on how you feel at the time.
+悟「没错。说不定是感觉突然改变了」
 
 榎本「まあ、その考え方も否定できなくはないが……」%K%P
 Well, I can't deny that...
+鼷本「算了，你这么想余也不能否定……」
 
 榎本「先程も言っただろう？　真理は頭で考えても見えてこない。常識という枠に囚われてはいけない」%K%P
 I told you before, didn't I? Even if you think about it, the truth won't appear. Don't let yourself be trapped by so-called common sense.
+鼷本「但刚才也说过吧？真理不是靠脑子就能想出来的，不要被禁锢在常识的牢笼里」
 
 榎本「感じたことを、素直に受け入れたまえ」%K%P
 Take in what you feel.
+鼷本「老实地接受最直接的感觉吧」
 
 榎本「素直に受け入れたまえ」%K%P
 Just obediently take it in.
+鼷本「老实地接受它」
 
 悟「だが、しかし……！」%K%P
 But, that's...!
+悟「不过，但是……！」
 
 榎本「では、あえて補足しよう」%K%P
 Then let me ask a supplementary question.
+鼷本「那么，再补充一点」
 
 榎本「きみがこれまで幾度となくその身で体験してきた現象はなにを意味する？　どう説明する？」%K%P
 What is the meaning behind the repetitions of this transfer? How can you explain it?
+鼷本「迄今为止，你多次亲身体验的现象到底意味着什么？你可以怎么解释？」
 
 悟「…………」%K%P
 ......
+悟「…………」
 
 まさにグゥの音も出なかった。%K%P
 I was truly at a loss for words.
+我连声音都发不出来了。

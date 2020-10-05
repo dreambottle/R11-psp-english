@@ -1,6 +1,7 @@
-TIP093
+﻿TIP093
 優希堂⑳悟
 Yukidoh Satoru
+优希堂悟
 paragraph_count:7
 init_addr:7d6c
 pc_index:TIP_101
@@ -110,4 +111,48 @@ When he awoke... for some reason, he found himself on a snowy mountain. On top o
 After the incident, Satoru's mind and body experienced abnormalities.%N
 Sometimes, his mind and body separate, exchanging places with those of another person (Kokoro) in a different location.%N
 His mind and memory switch back and forth between the snowy mountain and SPHIA.
+
+#CN#1
+姓名：优希堂悟%N
+性别：男%N
+年龄：21岁%N
+生日：1990年2月22日（双鱼座）%N
+血型：A型%N
+职业：鸠鸣馆大学研究生院·工学系物理工学专业硕士二年级。%N
+⑳（量子物理学研究室成员）曾经跳级两年。%N
+⑳在Leiplich（拉比利）制药工学研究部门第三科工作。%N
+
+#CN#2
+智力：很高%N
+体力：普通%N
+协调性：略差%N
+性格：有行动能力却很稳重、可以维持合理的思考、%N
+不轻易相信他人、理性%N
+兴趣：读书（不论种类，就连电话簿也能读得很开心）%N
+
+#CN#3
+喜好：说到做到、寻找“答案”%N
+厌恶：说谎（不能说出实情的时候会一言不发）、%N
+半途而废、失约、南瓜%N
+设定：右撇子%N
+⑳本来是大学四年级学生，跳级两年变成研究生。%N
+⑳里设定：象征“animus（女性心中隐藏的男性倾向）”%N
+⑳（→原型）%N
+⑳悟跟黛铃曾经交往过。%N
+%N
+这是针对2012年的设定。%N
+
+#CN#4
+男性视角的主角。%N
+某一天，因为从SPHIA的屋顶摔下来而失去意识。%N
+记忆因此错乱，%N
+发生意外的原因跟发生意外之前的情况等记忆目前并不明朗。%N
+醒来时……不知道为什么身处于冰雪封闭的山中。%N
+而且身体还变成了一个未曾谋面的女性。%N
+
+#CN#5
+由于坠楼事件的影响，优希堂悟的身心都陷入异常。%N
+精神常常会脱离肉体，%N
+进入身处异地的其他人（冬川心）的身体里。%N
+他的记忆与意识在雪山与SPHIA之间来回交错。%N
 

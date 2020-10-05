@@ -1,139 +1,184 @@
 
 『……７月２０日、天気、晴れ』%K%P
 July 20th, Weather: Sunny.
+“７月２０日　天气　晴”
 
-『眩しい陽光が、風鈴の音が、子ども達のはしゃぎ声が、夏を彩っている』%K%P 
+『眩しい陽光が、風鈴の音が、子ども達のはしゃぎ声が、夏を彩っている』%K%P
 The dazzling sunlight, the sound of the wind chimes, the noises of children playing: they all helped to brighten up the summer.
+“炫目的阳光，风铃的清音，孩子们的嬉戏声，点缀着夏日。”
 
-『こうしていると、雪山にいたことが悪い夢だったように思える』%K%P 
+『こうしていると、雪山にいたことが悪い夢だったように思える』%K%P
 With all this around me, it feels like being trapped in the snow-covered mountains was just a nightmare.
+“现在回想起来，雪山上的遭遇就好像恶梦一般”
 
-『あまりにも苛酷な、真冬の夜の夢……』%K%P 
+『あまりにも苛酷な、真冬の夜の夢……』%K%P
 A painfully cruel nightmare that one has on a night in the dead of winter...
+“极度严酷的，深冬夜晚的梦”
 
-『しかし、確かに私は飛行機の墜落事故に巻き込まれ……』%K%P 
+『しかし、確かに私は飛行機の墜落事故に巻き込まれ……』%K%P
 But I really was involved in a plane crash...
+“但是，我的确被卷入了飞机的坠落事故”
 
-『遭難して、１週間を避難小屋で過ごした』%K%P 
+『遭難して、１週間を避難小屋で過ごした』%K%P
 And stranded for a week inside the shelter cabin.
+“遇难，并在避难小屋度过了一星期”
 
-『そのことを、いまも私の足に小さく残る、凍傷の痕が物語っている』%K%P 
+『そのことを、いまも私の足に小さく残る、凍傷の痕が物語っている』%K%P
 The small wound from the frostbite which still remained told the truth loud and clear.
+“我脚上所残留着的细小冻伤，到现在仍然向我述说着这个事实”
 
-『そして、私は人格交換も体験した』%K%P 
+『そして、私は人格交換も体験した』%K%P
 And then, I had also experienced personality exchanges.
+“而且，我还体验了人格交换”
 
-『私は、スフィアにも同時に存在したのだ』%K%P 
+『私は、スフィアにも同時に存在したのだ』%K%P
 As a result, I was also in SPHIA at the same time.
+“我同时也存在于ＳＰＨＩＡ”
 
-『白昼夢でも妄想でもないと、今ならばはっきりと言える』%K%P 
+『白昼夢でも妄想でもないと、今ならばはっきりと言える』%K%P
 I can clearly say now those weren't just my delusions, nor was I daydreaming.
+“现在我可以明确地说，那既不是白日梦也不是妄想”
 
-『あの悪夢のような１週間――』%K%P 
+『あの悪夢のような１週間――』%K%P
 A nightmarish week――
+“那个恶梦一般的一星期——”
 
-『私はあの小屋にいて、そして、スフィアにもいた』%K%P 
+『私はあの小屋にいて、そして、スフィアにもいた』%K%P
 I was in that cabin, and I was also in SPHIA.
+“我既在避难小屋，而且，也在ＳＰＨＩＡ”
 
-『ゆにも、黄泉木さんも、黛さんも』%K%P 
+『ゆにも、黄泉木さんも、黛さんも』%K%P
 Just like Yuni, Yomogi-san, and Mayuzumi-san.
+“悠尼　黄泉木先生　黛小姐”
 
-『内海さんも、穂鳥ちゃんも』%K%P 
+『内海さんも、穂鳥ちゃんも』%K%P
 Just like Utsumi-san and Hotori-chan, too.
+“内海小姐　穗鸟”
 
-『悟も――』%K%P 
+『悟も――』%K%P
 Just like Satoru――
+“还有悟——”
 
-『確かに、そこにいた』%K%P 
+『確かに、そこにいた』%K%P
 We were all really there.
+“确实就在那里”
 
-『ここに新聞記事がある』%K%P 
+『ここに新聞記事がある』%K%P
 I have a newspaper article with me here.
+“这里有份报道”
 
-『あの避難小屋にあった記事と同じものだ』%K%P 
+『あの避難小屋にあった記事と同じものだ』%K%P
 It's the same as the one in the cabin.
+“和在避难小屋的发现报道一样”
 
 『もう一度、読んでみよう』%K%P
 I'll read it one more time.
+“再读一次”
 
-『今年１月、青森県朱倉岳にＨＡＬ１８便が墜落し２７人が死亡した事故に関連して、』%K%P 
+『今年１月、青森県朱倉岳にＨＡＬ１８便が墜落し２７人が死亡した事故に関連して、』%K%P
 The Aomori prefectural police announced the recent discovery of the remains of three men and women on Aomori's Mount Akakura,
+“今年１月，关于ＨＡＬ１８次航班于青森县朱仓岳坠落导致２７人死亡的事故，青森县警方”
 
-『青森県警は新たに男女３人の遺体を収容したことを発表した。』%K%P 
+『青森県警は新たに男女３人の遺体を収容したことを発表した。』%K%P
 believed to be victims of the crash of Flight HAL18, which claimed 27 lives this January.
+“对外发表声明，又有三名男女的遗体被收容。”
 
-『収容された遺体は、すでに死後６ヶ月が経過しているために腐乱が激しく、まだ身元をはっきりと断定できていない、としながらも、』%K%P 
+『収容された遺体は、すでに死後６ヶ月が経過しているために腐乱が激しく、まだ身元をはっきりと断定できていない、としながらも、』%K%P
 As they had undergone extensive decomposition over a period of six months, the identities of the bodies are unclear,
+“被收容的遗体离死亡已有六个月，高度腐烂，虽然仍未判明身份，但已基本上认定”
 
-『ＨＡＬ１８便に乗っていた乗員・乗客のうち、いまだ発見されていなかった残る３人にほぼ間違いないとしている。』%K%P 
+『ＨＡＬ１８便に乗っていた乗員・乗客のうち、いまだ発見されていなかった残る３人にほぼ間違いないとしている。』%K%P
 but they are assumed to be the last three undiscovered among the missing passengers and crew members on HAL18.
+“其为ＨＡＬ１８次航班乘客、乘务员中失踪的三人。”
 
-『遺体はいずれも、朱倉岳避難小屋から東へ１ｋｍ離れた場所で見つかっており、』%K%P 
+『遺体はいずれも、朱倉岳避難小屋から東へ１ｋｍ離れた場所で見つかっており、』%K%P
 The bodies were discovered 1km east of the Mount Akakura shelter cabin.
+“遗体均在距离朱仓岳避难小屋东方１公里处被发现。”
 
 『遺体には雪崩に巻き込まれた際に受ける裂傷も多数確認されていることから、３人は墜落直後は生存していたものと考えられる。』%K%P
 It has been confirmed that the three bodies, which sustained a large number of lacerations in an avalanche days after the crash, are those of the survivors.
+“遗体上发现多处雪崩造成的裂伤，可以推断三人在坠机之后仍然生存。”
 
-『しかし、発見場所は下山ルートからは離れているため、遭難者の死亡当日の足取りについて、青森県警では調査を進めている。』%K%P 
+『しかし、発見場所は下山ルートからは離れているため、遭難者の死亡当日の足取りについて、青森県警では調査を進めている。』%K%P
 However, due to the bodies of the victims being discovered far down the mountain, the Aomori prefectural police investigation into the day of their death will continue.
+“但是，遗体被发现的地点却偏离了下山路线，青森县警方正对遇难者死亡当天的行动路线展开调查。”
 
-『青森気象観測所によると、』%K%P 
+『青森気象観測所によると、』%K%P
 According to the Aomori meteorological station,
+“据青森气象站报告”
 
-『この時期に朱倉岳の該当箇所周辺で発生した雪崩は、２０１１年１月１７日午前６時５３分であることがわかっている。』%K%P 
+『この時期に朱倉岳の該当箇所周辺で発生した雪崩は、２０１１年１月１７日午前６時５３分であることがわかっている。』%K%P
 an avalanche affecting Mount Akakura and its surrounding area occurred on January 17, 2011, at around 6:53.
+“当时该地点周边的雪崩，发生在２０１１年１月１７日清晨６时５３分。”
 
-『朱倉岳避難小屋に残されていた痕跡とも照らし合わせると、３人はおよそ７日間を生き延びたことになる。』%K%P 
+『朱倉岳避難小屋に残されていた痕跡とも照らし合わせると、３人はおよそ７日間を生き延びたことになる。』%K%P
 After analyzing the traces left at the Mount Akakura shelter cabin, it was concluded that the people survived for seven days after the crash.
+“参照朱仓岳避难小屋里留下的痕迹，可以得到三人在坠机后大约生存了七天的结论。”
 
-『なお、唯一の生存者として楠田ゆにくん（１１）が奇蹟的に救助されている。』%K%P 
+『なお、唯一の生存者として楠田ゆにくん（１１）が奇蹟的に救助されている。』%K%P
 The only survivor, Kusuda Yuni-kun (11), was miraculously rescued.
+“另外，作为唯一的幸存者，楠田悠尼（１１岁）奇迹般的得救了。”
 
-『ゆにくんの精神状態は、半年を過ぎたいまも安定せず、かたくなに口を閉ざしている。』%K%P 
+『ゆにくんの精神状態は、半年を過ぎたいまも安定せず、かたくなに口を閉ざしている。』%K%P
 Yuni-kun's mental state has not yet stabilized, even after half a year. He has yet to speak a single word since.
+“即使是事故已经过去了半年的现在，悠尼的精神状态仍然不安定，一语不发。”
 
-『青森県警は、ゆにくんの回復を待って詳しい状況を聞くことにしている。』%K%P 
+『青森県警は、ゆにくんの回復を待って詳しい状況を聞くことにしている。』%K%P
 The Aomori prefectural police are still waiting for Yuni-kun's recovery to inquire about the details surrounding the incident.
+“青森县警方在等待悠尼恢复以便询问详细的状况。”
 
-『１８便の墜落事故では、今回の３人の遺体の発見により、乗員・乗客３１人中、３０人が亡くなるという大惨事となった。』%K%P 
+『１８便の墜落事故では、今回の３人の遺体の発見により、乗員・乗客３１人中、３０人が亡くなるという大惨事となった。』%K%P
 The horrific crash of Flight 18, with the discovery of the three bodies, claimed 30 lives out of the 31 crew members and passengers aboard.
+“经过这次三人的遗体发现，ＨＡＬ１８次航班坠机事故成为了乘客、乘务员共计３１人中３０人死亡的重大事故。”
 
-『新たに発見された遺体の身元は、以下の通り。』%K%P 
+『新たに発見された遺体の身元は、以下の通り。』%K%P
 The identities of the newly discovered bodies are listed below.
+“新发现的遗体的身份如下”
 
-『黄泉木聖司さん（３５）』%K%P 
+『黄泉木聖司さん（３５）』%K%P
 Yomogi Seiji-san (35)
+“黄泉木圣司先生（３５岁）”
 
-『黛鈴さん（２３）』%K%P 
+『黛鈴さん（２３）』%K%P
 Mayuzumi Lin-san (23)
+“黛铃小姐（２３岁）”
 
-『冬川こころさん（２０）』%K%P 
+『冬川こころさん（２０）』%K%P
 Fuyukawa Kokoro-san (20)
+“冬川心小姐（２０岁）”
 
-『皮肉にも、救助隊の到着は、雪崩の発生から約７時間後だったことを、付け加えておく』%K%P 
+『皮肉にも、救助隊の到着は、雪崩の発生から約７時間後だったことを、付け加えておく』%K%P
 It should be mentioned that, ironically, the rescue team arrived just seven hours after the avalanche.
+“另外，讽刺的是，救援队到达现场的时间是在雪崩发生后大约七个小时。”
 
-『Я　чайка』%K%P 
+『Я　чайка』%K%P
 Я　чайка
+“Я　чайка”
 
-『『私はカモメ』』%K%P 
+『『私はカモメ』』%K%P
 "I'm a seagull."
+“我是海鸥”
 
-『テレシコワの言葉になぞらえて、私は自分自身をこう評した』%K%P 
+『テレシコワの言葉になぞらえて、私は自分自身をこう評した』%K%P
 Using Tereshkova's words, that was how I had described myself.
+“借着捷列什科娃的名言，我这么评价自己”
 
-『『私は籠女』と』%K%P 
+『『私は籠女』と』%K%P
 And... "I'm a girl trapped in a cage."
+“我是笼中鸟”
 
-『そう……』%K%P 
+『そう……』%K%P
 That's right...
+“是的……”
 
 『私は、確かに『籠女』だったのだ……』%K%P
 I was, indeed, a girl trapped in a cage...
+“那时的我，确实是个“笼中鸟”……”
 
 %N%N%N%N%N
 %FS%LC『うしろのしょーめん、だぁーれ？』%FE
 Who's that behi――ind you?
+“背后的人，是谁？”
 
 %O
 %N%N%N%N
@@ -147,9 +192,11 @@ Who's that behi――ind you?
 
 ロック解除――第２章：サトル編、始動．．．
 Unlocked――Chapter 2 - Satoru Chapter, Now Starting....
+解除锁定——第二章：悟篇——开启
 
 ロック解除――アルバム（販促チラシ・雑誌扉絵）
 Unlocked――Album (Promotional Fliers, Magazine Front Covers)
+解除锁定——相册：促销宣传、杂志封面
 
 //ロック解除――アルバム（全キャラクター表情集）
 //Unlocked――Album (All Characters' Facial Expressions)

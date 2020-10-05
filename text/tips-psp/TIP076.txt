@@ -1,6 +1,7 @@
-TIP076
+﻿TIP076
 飛び出し式のナイフ
 Switchblade
+弹簧刀
 paragraph_count:1
 init_addr:7ba0
 pc_index:TIP_081
@@ -20,3 +21,7 @@ A switch-deployed knife.%N
 Their use is highly restricted by law in Japan; none are produced or sold within the country.%N
 Also called a switch knife or jacknife.
 
+#CN#1
+又称自动刀。%N
+在日本因为法律禁止而不能生产，也没有贩卖。%N
+似乎也有人把弹簧刀称作摺刀。%N

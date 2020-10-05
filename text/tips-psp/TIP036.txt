@@ -1,6 +1,7 @@
-TIP036
+﻿TIP036
 ＤＳＭ
 DSM
+ＤＳＭ
 paragraph_count:2
 init_addr:7898
 pc_index:TIP_041
@@ -47,3 +48,27 @@ By asking the patient certain questions, such as about said patient's condition,
 
 #Note: Since the time the story of Remember11 takes place, there have been a few further editions of the DSM: the DSM-IV-TR (2000), an expansion of the DSM-IV with updated diagnostic codes and extra information on each diagnosis, and the upcoming DSM-V (planned for 2012).
 
+
+#CN#1
+Diagnostic and Statistical Manual%N
+美国精神医学学会所发行的%N
+“精神障碍诊断与统计手册”。%N
+其后方所接的数字表示其版数。%N
+一共发行了以下这些版本：%N
+DSMI 1952、DSMII 1968、%N
+DSMIII 1980、III-R 1987、DSMIV 1994。%N
+这本手册也可以说就是%N
+“诊断精神疾病的指导手册”。%N
+
+#CN#2
+精神病这种疾病依靠个人情况%N
+会显示各种不同的型态，%N
+要诊断出病症种类是相当困难的。%N
+也有诊断结果根据诊疗医师不同而不同的现象。%N
+为了减少这种不良现象，%N
+在仅以外观症状判断病症种类的情况下，%N
+DSM被用来当作诊断的标准。%N
+只要听取患者描述的症状，%N
+依照DSM做判断，%N
+就算是经验不足的医师也可以做出诊断，%N
+给予适当的治疗。%N

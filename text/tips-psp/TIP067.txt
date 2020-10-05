@@ -1,6 +1,7 @@
-TIP067
+﻿TIP067
 ＥＰＲ論文
 EPR Paper
+EPR悖论
 paragraph_count:4
 init_addr:7ae8
 pc_index:TIP_072
@@ -64,3 +65,39 @@ So even if one of them flies a long distance away, if you observe some informati
 The EPR paper argues that this is a violation of causality.%N
 However, modern quantum mechanics has successfully come up with a proper explanation, and experimental results that support it have been published one after another.
 
+#CN#1
+爱因斯坦、波多斯基以及罗森%N
+所发表的论文。%N
+别名：EPR佯谬。%N
+在批判量子力学的众多思考实验之中，%N
+这可以说是最为精妙的一个。%N
+虽然爱因斯坦等三人原先是要攻击量子力学%N
+，但是EPR悖论却很讽刺地反而变成了用来%N
+理解量子力学的最佳教材。%N
+
+#CN#2
+其要点如下：%N
+依照量子论的说法，%N
+如果在某一个位置因为一个反应而产生了%N
+两个基本粒子的话，%N
+这两个基本粒子将会共享某一种物理状态。%N
+例如，静止的π介子分裂成两个向相反方向%N
+飞离的光子，我们可以用薛定谔方程来表示%N
+这一对光子其中之一的能量状态。%N
+
+#CN#3
+依照量子论的说法，只要不加以观测，永远可以%N
+用同一个方程表示相同的基本粒子的状态。%N
+又因为只要观测了飞往另一方向的基本粒子的%N
+信息，就可以得知这一边的基本粒子的信息%N
+——例如自旋方向或是偏振性等。%N
+但是，只要观测了某一边的基本粒子的瞬间，%N
+表示另一个基本粒子状态的波函数也会因而产生%N
+坍缩，简直就像是这个粒子被观测的事件在一瞬%N
+间被传达到另外一个地方的感觉，这三位学者怀%N
+怀疑这种现象是否已经破坏了因果关系。%N
+
+#CN#4
+但是，现在的量子力学已经对这个问题有了%N
+正确的解释，可以用来证实的实验结果%N
+也已经开始发表。%N

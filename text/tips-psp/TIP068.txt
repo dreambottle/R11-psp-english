@@ -1,6 +1,7 @@
-TIP068
+﻿TIP068
 同時に発生させたふたつの粒子
 Particle Pair Generation
+孪生粒子
 paragraph_count:2
 init_addr:7b04
 pc_index:TIP_073
@@ -38,3 +39,17 @@ When the UV laser beam interacts with a crystal of non-linear optical material s
 The points where the contours of the two cones intersect have photons in the state of %TS070entanglement%TE, i.e. there is no distinction as to their origins there. What is known about these entangled photons is that their polarization is mutually orthogonal, however it is impossible to definitely know their respective deflection angles.%N
 This method of creating entangled photons is called parametric down-conversion.
 
+#CN#1
+下列步骤为其具体操作方式之一。%N
+把紫外线打进硼酸钡一类的在光学上%N
+具有非线性特质的晶体时，%N
+一个光子可能会分裂成波长较长的两个光子。%N
+
+#CN#2
+在这两个光子的圆锥轨迹相交的位置，%N
+会发生无法却别这两个光子的“%TS070量子缠结%TE”状态。%N
+虽然可以肯定这一对缠结在一起的光子%N
+会有互相正交的偏振性，%N
+但是却无法具体地确认其中的%N
+任何一个光子的偏振角。%N
+此方法称为参量下转换。%N

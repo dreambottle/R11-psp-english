@@ -1,521 +1,690 @@
-
+﻿
 外は吹雪だった。%K%P
 There was a snowstorm outside.
+外面是暴风雪。
 
 壁に手を添えていなければ立っていることさえままならぬほどの猛吹雪だ。%K%P
 The snowstorm was so strong, ''I'' had to lean with my hand against the wall to keep standing upright.
+若不扶住墙，自己连站都站不稳。
 
 俺は片方の手のひらを目の前にかざして吹きつける雪を防いだ。%K%P
 ''I'' used my other hand to shield my eyes from the wind and the snow.
+自己单手横在眼前，挡住迎面吹来的雪。
 
 目を凝らして視界の彼方を探る。%K%P
 It was freezing. ''I'' almost strained my eyes trying to stare across the distance.
+目不转睛地探索着视野的尽头。
 
 何も見えない。%K%P
 ''I'' couldn't see anything.
+什么也看不见。
 
 そこには白く塗り潰された景色があるだけだった。%K%P
 The entire landscape before me had been whited out.
+只有被白色涂满的景象。
 
 奥行きを失った純白の世界――。%K%P
 A pure white world where all depth was lost――
+没有深度的纯白色的世界——
 
 ふと、遠近感を奪われフラリとよろめいた。%K%P
 It snatched away my sense of perspective, and ''I'' suddenly lost my footing and slipped...
+突然，距离感被剥夺，踉跄了一下。
 //the "perspective" line (proper translation) - just describes the WHITE around him for the 4th time - which gets kind of dull by this point, while this freehand version ties in to the next line - making the flow more logical.
 //added in the literal meaning for the line above. - the_paper
 
 壁にしがみつくようにして体勢を立て直す。%K%P
 ''I'' clung to the wall with both hands to regain my balance.
+自己紧贴墙壁，调整好站姿。
 
 この時計台の高さは１５ｍほどあった。%K%P
 This clock tower was over 15 meters tall.
+这个钟楼的高度大约有１５米。
 
 ここから地面にたたきつけられれば骨の１本や２本では済まないだろう。%K%P
-If ''I'' were to fall from that height, ''I'''d be very lucky if ''I'' were to get away with just a few broken bones. 
+If ''I'' were to fall from that height, ''I'''d be very lucky if ''I'' were to get away with just a few broken bones.
+从这里摔下去的话就不是断一两根骨头能解决的问题了。
 
 俺は眼下をのぞき込んだ。%K%P
 ''I'' glanced downward.
+自己朝眼底望去。
 
 視界にはやはり、茫々と舞い上がる雪煙と針のように流れる雪の軌跡だけしか映らなかった。%K%P
 My field of vision was filled with whirling plumes of snow and the needle-like tracks it left as it blew across the roof.
+视野中还是只能映出茫茫飞舞的雪雾和如针一般流动的雪的轨迹。
 //changed "whirling smoke-like snow" to "whirling plumes of snow," in keeping with day 4 translation. - the_paper
 
 悟「悪くない、悪くない天気だ」%K%P
 Lovely weather we're having...
+悟「不错，不错的天气」
 
 皮肉まじりに吐いた言葉が風に巻かれて消えていく。%K%P
 The words of cynicism ''I'' spouted out were quickly carried away with the wind.
+夹杂着讽刺的话语也被卷走，消失在风中。
 
 凍えるような寒さの中、俺は時刻を確かめた。%K%P
 There in the freezing cold, ''I'' checked the time.
+在几乎要将人冻僵的严寒中，自己确认了一下时间。
 
 俺は腕には何もはめない主義だ。%K%P
 ''I'''ve never liked having anything attached to my arm.
+自己从不在手腕上戴任何东西。
 
 従って腕時計は常にポケットの中に忍ばせていた。%K%P
 So my wristwatch was hidden away in my pocket.
+所以手表也总是藏在口袋中。
 
 それを抜き取り、デジタルの表示板に視線を落とした。%K%P
 My eyes turned toward the panel of the digital watch.
+自己取出它，将视线扫向电子表盘。
 
 時刻は午後４時をまわろうとしていた。%K%P
 It's almost 4 PM.
+马上就到下午４时了。
 
 悟「そろそろだな……」%K%P
 It's almost time...
+悟「差不多了吧……」
 
 見上げれば呪われたように暗い空。%K%P
 ''I'' raised my eyes to the dark, restless sky.
+抬头望去，是如同被诅咒了一般黑暗的天空。
 
 一瞬、蒼白い光が天を切り裂く。%K%P
 For an instant, a pale light cuts through the heavens.
+天空在一瞬间被苍白的闪光撕裂。
 
 ほどなくして訪れた寒雷の響きに、身体の芯は重々しく揺れた。%K%P
 The sound of the winter thunder shook my body to its core.
+不久后传来的寒雷巨响，沉重地打击着自己的身体。
 
 天候は悪化の一途をたどっている。%K%P
 The weather continued to worsen.
+天气越来越糟糕。
 
 風雪のおさまる気配はなかった。%K%P
 There were no signs of the snowstorm easing up any time soon.
+风雪丝毫没有停止的征兆。
 
 機長「機長より乗客の皆様にお知らせいたします」%K%P
 Ladies and gentlemen, this is your captain speaking.
+机长「机长敬请诸位旅客注意」
 
 機長「当機はこれより乱気流の中を通過いたしますので、乗客の皆様は座席にお戻りになりシートベルトをご着用ください」%K%P
 We are currently experiencing some turbulence, and kindly request that all passengers return to their seats and fasten their seatbelts.
+机长「本机即将通过乱气流，乘客们请回到座位，系好安全带」
 
-機長「なお、このさき多少機体の揺れることが予想されますが、飛行には影響ございませんのでどうかご安心ください」%K%P 
+機長「なお、このさき多少機体の揺れることが予想されますが、飛行には影響ございませんのでどうかご安心ください」%K%P
 We'll be feeling the tremors from the turbulence in just a little while, but please rest assured this will not affect the safety of the flight.
+机长「另外，机体预计会有些震荡，但对飞行不会造成影响，请大家放心」
 
 ゆにはベルトサインにもアナウンスにも気づいていないようだった。%K%P
 Yuni neither noticed the seatbelt sign nor paid any attention to the captain's announcement.
+悠尼看来并未注意到安全带指示灯和广播。
 
 私の隣で夢中になって『白熊のぬいぐるみ』と格闘している。%K%P
 He was next to me, completely immersed in play fighting with a plush polar bear.
+他在我身边忘我地和白熊玩偶格斗着。
 
 ゆに「とぉー！　あちょー！　うりゃー！」%K%P
 Taa! Achaa! Uryaa!
+悠尼「唾！啊敲！呜咧！」
 
 ゆに「ブラジリアン・ハイキック！　ブラジリアン・ハイキック！」%K%P
 Brazilian High Kick! Brazilian High Kick!
+悠尼「巴西流侧高踢！巴西流侧高踢！」
 
 ゆに「ブラジリアン・ハイキックからアルマーダ・コン・マルテーロー！」%K%P
 A Brazilian High Kick? It can only be Armada com Martelo!
+悠尼「巴西流侧高踢接空中舰锤踢！」
 
 私はゆにのベルトを締めてやった。%K%P
 I fastened his seatbelt for him.
+我帮悠尼系上了安全带。
 
 それでもゆには、私のことなどおかまいなしで、ひとり遊びを続けていた。%K%P
 Even then, Yuni continued to play without paying any attention to me.
+即便如此，悠尼仍然对我毫不在意，继续独自玩耍。
 
 こころ「まっ、いっか……」%K%P
 Well, I guess he's fine...
+心「算了……」
 
 ゆにのことはこのまま放っておこうと思った。%K%P
 I thought it'd be all right to leave him as he was.
+就这样任他玩吧。
 
 私には、着陸するまでにしておかなければならないことがあったのだ。%K%P
 There was something I wanted to do before we landed.
+我在着陆前还有必须要做的事情。
 
 私はバッグの中から分厚いファイルを取り出した。%K%P
 I took out a thick file from my bag.
+我从包中取出一本厚厚的文件夹。
 
 シートベルトを締め、閉じたヒザの上にファイルを乗せる。%K%P
 I fastened my own seatbelt and laid the file in my lap.
+系上安全带，将文件夹放在并拢的双腿上。
 
 表紙にはこうあった。%K%P
 The cover read:
+封面这样写着。
 
 %N
 %LC%FS『阿波墨市立病院無差別殺傷事件の報告』%FE%K%P
 Awazumi Municipal Hospital Indiscriminate Murder: Case File
+《阿波墨市立医院无差别杀伤事件的报告》
 
 私は最初のページをめくった。%K%P
 I opened it to the first page.
+翻开第一页。
 
 ――２００９年１月１４日水曜日。%K%N
 ――Wednesday, January 14th, 2009.
+——２００９年１月１４日星期三。
 
 その凄惨な事件は今から２年前の冬に起こった。%K%N
 This gruesome incident had taken place in the winter of 2009, two years ago.
+那个凄惨的案件发生在两年前的冬天。
 
 惨劇の舞台となったのは北海道の阿波墨（あわずみ）市にある市立病院。%K%N
 The scene of this tragedy was Awazumi Municipal Hospital in Hokkaido.
+惨剧的舞台是北海道阿波墨市的市立医院。
 
 病床数は３００。地元では最も信頼のおける総合病院として有名だった。%K%P
 It was a 300-bed facility, well known as the most reliable general hospital in that area.
+病床数３００。作为当地最值得信赖的综合医院而十分有名。
 
 時刻は午前４時。%K%N
 The time was 4 AM.
+时间是凌晨４时。
 
 黒く艶めいた空からチラチラと粉雪が舞い降りていた。%K%N
 Powdery snow fluttered down from the pitch-black night sky.
+黑色的天空飘舞着细细的白雪。
 
 夜明けはまだ遠く、あたりはひっそりと静まり返り、降り積もる雪のささやき声だけが小さく小さく響いていた。%K%P
 Dawn was still a long way off, and the neighborhood was deserted and silent as death; only the whispering of the falling snow, reverberating from somewhere far away, broke the perfect silence.
+黎明尚远，万籁俱寂，只有积雪摩擦发出沙沙的声响。
 
 市立病院の正門付近にひとりの少女の姿があった。%K%N
 The figure of a lone girl had appeared at the front gate of the city hospital.
+市立医院的正门附近出现了一位少女的身影。
 
 『彼女』は傘をさしていなかった。%K%N
 "She" was not holding an umbrella.
+“她”没有打伞。
 
 肩や髪に純白の粉雪をまとい、路傍の石のように沈黙していた。%K%N
 The powdery snow fell softly onto her shoulders and hair; she was as silent as the world around her.
+肩膀和头发披着细雪，如同路旁的石子一般沉默着。
 
 このときの様子を、当直の看護師が３階の窓から目撃している。%K%N
 An on-duty nurse noticed this strange figure from the window of the third floor.
+这一情景，被值班的护士从三楼的窗户目击到了。
 
 看護師は急患ではないかと思い慌てて正門へと向かったが、そのときにはすでに『彼女』の姿はなかったと言う。%K%P
 The nurse thought that there might have been an emergency and quickly rushed down toward the main gate, but once she got there, "her" figure was nowhere to be seen.
+护士以为是急诊的患者，慌忙赶到正门，但据说那时“她”已经不在了。
 
 病院は眠りの中にあった。%K%N
 The hospital was sound asleep.
+医院正在沉睡。
 
 苦痛にうめく者もいなければ、絶望感にさいなまれ嗚咽をもらす者もいなかった。%K%N
 There was no one groaning in agony, no one weeping in despair.
+没有人因苦痛而呻吟，也没有人因绝望而呜咽。
 
 ただ安らかな寝息だけが冷たい廊下に満ちていた。%K%N
 Only the faint sounds of calm and tranquil sleep filled the cool hallways.
+在冰冷的走廊中只能听到安详的呼吸声。
 
 鋭い悲鳴が静寂を破ったのは、それから間もなくのことだった。%K%N
 A sharp shriek had violated the silence. That's when it all began.
+很快，尖锐的悲鸣便打破了这一片静寂。
 
 続けて聞こえてきたのは断末魔の叫び声……。%K%N
 The only voices that could be heard thereafter were agonized dying screams....
+紧接着传来的就是临死前的惨叫……
 
 そして再び静寂が蘇る。%K%P
 And then everything lapsed again into silence.
+之后，静寂再度来临。
 
 医師や看護師が異変に気づくまでには数分の間を要した。%K%N
 It took the doctors and nurses several minutes to notice that something was wrong.
+医生和护士直到数分钟后才察觉到异状。
 
 ナースコールのサインがひとつ、またひとつと増えていくたびに、無機質な電子音が輪唱を奏でるかのごとく鳴り渡った。%K%N
 The nurse call signs lit up one by one, and then the alarms sounded, echoing throughout the hospital.
+呼叫护士的信号一个接一个，无机的电子音如同合奏一般在医院中回响。
 
 当直の医師らは手分けをして病室へと向かった。%K%N
 The on-duty doctors split up and rushed to the sickrooms.
+值班的医生分头去往病房。
 
 そうしている間にも悲鳴や叫喚はあちこちから響き渡り、それは病室から病室、病棟から病棟へと次々に伝播していった。%K%P
 Screams and cries echoed here and there, from room to room, from ward to ward, one after another.
+就在这期间，悲鸣和喊叫也不断从四处响起，在病房与病房，大楼与大楼之间传播着。
 
 患者達が素足のまま病室を飛び出してきた。%K%N
 The patients rushed out of their rooms barefoot.
+患者们赤着脚逃出病房。
 
 わけのわからぬ奇声を発しながら入り乱れるように逃げ惑う。%K%N
 They ran, jumbled together, trying to escape, making incomprehensible sounds.
+发出不知所云的怪声，毫无秩序地逃窜。
 
 泣きじゃくる少女……怒鳴り散らす青年……血まみれのまま立ち尽くす老女……。%K%N
 A sobbing girl... a ranting and raving young man... an old woman who stood stock still, covered in blood....
+抽泣的少女……怒骂的青年……浑身鲜血呆然伫立的老妇……
 
 院内はまたたく間に煉獄さながらの恐慌状態へと陥った。%K%P
 In the twinkling of an eye, the hospital fell into a state of panic resembling Purgatory.
+医院转眼就陷入了宛如炼狱一般的恐慌状态。
 
 ひとりの医師が病室の扉を開いた。%K%N
 A lone doctor opened up the door to one of the hospital rooms.
+一位医生推开病房的门。
 
 壁にはおびただしい量の鮮血が付着しリノリウムの床も黒々と濡れていた。%K%N
 An incredible amount of fresh blood stained the walls and the linoleum floor crimson.
+墙壁上附着着大量的鲜血，油毡制的病床上也完全被染黑。
 
 飛び散った血液が飛沫となって宙を漂っている。%K%N
 A thin mist of spattered blood hung in the air.
+飞散的血液成为雾沫漂浮在空中。
 
 粘ついた臭気が鼻腔や肺の奥をじくじくと侵蝕していった。%K%N
 The sickening, persistent odor made its way to the doctor's nose and settled itself deep in his lungs.
+潮湿的腥臭侵蚀着鼻腔和肺的深处。
 
 医師は思わず口元を押さえた。%K%P
 The doctor instinctively covered his mouth.
+医生不禁捂住了嘴。
 
 動かなくなった肉の塊が２体、床の上に転がっていた。%K%N
 Two motionless lumps of flesh lay there, sprawled over the beds.
+床上躺着已经不再动弹的两具肉块。
 
 一方の胸部は無惨にも斬り裂かれ、右の肋骨が外側へと露出していた。%K%N
 One had had its chest brutally torn open. The right half of the ribcage was sticking out from the body cavity.
+其中一方胸部被残忍地割裂，右侧的肋骨露在外面。
 
 心臓がなかった。%K%N
 The heart was gone.
+心脏不见了。
 
 部屋の隅、轢き殺されたカエルのように平たくなったそれを見つけた。%K%N
 He found it in the corner of the room, squished flat like a frog that had been run over by a truck.
+找到它时，它在房间的一角，如同被压死的青蛙一样变得扁平。
 
 恐らく何者かが壁に向かって投げつけたのだろう。%K%N
 As if someone had hurled it at the wall in a fit of rage.
+大概是有人将它对着墙扔过去了吧。
 
 乳白色に塗られた壁の表面には、心臓のずり落ちた跡が鮮やかに残っていた。%K%N
 The heart had left a vivid streak of bright red on the milky white wall as it slid its way down to the floor.
+被粉刷成乳白色的墙壁上，鲜明地残留着心脏滑落的痕迹。
 
 と、そのとき――。%K%P
 Suddenly――
+就在那时——
 
 誰かが医師の足をつかんだ。%K%N
 Someone grabbed the doctor's leg.
+有人抓住了医生的脚。
 
 もう一方の男性患者だった。%K%N
 It was another male patient.
+是房中的另外一位男性患者。
 
 患者は喉をかき斬られており、そこからカフカフと気の抜けたような音をもらしていた。%K%N
 The patient's throat had been slashed open. The weak, rasping sound of air escaping from the wound could be heard.
+患者的喉咙被切断，那里发着呼呼地漏气声。
 
 医師はその場に屈み込むと、彼の喉元に手のひらを添えた。%K%P
 Shocked, the doctor knelt down and firmly covered the patient's neck with his hands.
+医生当即弯下腰去，用手捂住他的咽喉。
 
 %N%N%N%N
 
 
 %X010男性患者%N
 Male patient
+男性患者
 
 %X050「影だ……」%K%P
 The shadow...
+「是影子……」
 
 %N%N%N%N
 
 
 %X010男性患者%N
 Male patient
+男性患者
 
 %X050「影が……来たんだ……」%K%N
 The shadow... has come...
+「影子……来了……」
 
 %N%N
 
 
 それが彼にとっての最期の言葉となった。%K%N
 Those would be the last words he'd ever say.
+这便是他最后的话。
 
 この言葉の真意はいまだ判明していない。%K%P
 To this day, no one has yet been able to determine what those words really meant.
+这句话的真正含义至今未明。
 
 報告書によると、最初の殺人が行なわれたのは緊急外来用の通用口付近だったようだ。%K%N
 According to the report, the first murder occurred near the entrance to the emergency wards.
+根据报告书记载，最初的杀人发生在紧急外来用出入口附近。
 
 被害者は警備員の男性。%K%N
 The victim was a male security guard.
+被害人是男性警卫。
 
 恐らく、院内へ侵入しようとした犯人を引き止めようとして殺されたのだろう。%K%N
 He was most likely killed trying to detain the perpetrator who had invaded the hospital.
+恐怕是打算阻止犯人入侵医院时被杀的吧。
 //old: He was most likely killed trying to detain the perpetrator who made his way into the hospital. - changed to be both slightly more literal and gender-neutral. - the_paper
 
 その後、犯人は次から次へと病室をめぐり、無差別に殺戮を繰り広げていった。%K%P
 Thereafter, the perpetrator went from one hospital room to the other, indiscriminately slaughtering patients along the way.
+之后，犯人闯入一个又一个病房，展开了无差别的杀戮。
 
 亡くなった患者の中には小学生の児童も含まれていたという。%K%N
 The patients listed as "murdered" even included an elementary student.
+遇难的患者中甚至包含小学生和幼童。
 
 他にも患者だけではなく、犯人を取り押さえようとした医師や看護師も刺されている。%K%N
 The patients, however, were not the perpetrator's only victims. The doctors and nurses who attempted capture were also stabbed.
+不只是患者，其他打算制服犯人的医生和护士也遭到了袭击。
 
 最終的な犠牲者の数は、死者１２名、重軽傷者１９名にのぼった。%K%P
 The final casualty count was 12 dead, 19 wounded.
+最终的受害者总计死者１２名，重轻伤１９名。
 
 最初の犯行からおよそ３０分後……。%K%N
 The final criminal act was committed 30 minutes after the first victim was murdered....
+在第一次作案约３０分钟后……
 
 屋上へと追い詰められた犯人は、駆けつけた警察官によって現行犯逮捕された。%K%N
 The perpetrator was cornered by the police on the rooftop and arrested.%K%P
+赶到的警察将被逼上屋顶的犯人当场逮捕了。
 
 凶器は大型の『業務用裁ちバサミ』だった。%K%N
 The murder weapon was described as a large pair of "industrial scissors."
+凶器是大型的“业务用裁缝剪刀”。
 
 正確に言うと、裁ちバサミを分解したもの、ということになるだろうか。%K%N
 To be precise, it was only half of a pair of pinking shears.
+准确地说，应该是裁缝剪刀分解后的一部分。
 
 犯人は、クロスした刃のうちの一方だけを用いて凶行に及んだのだ。%K%N
 The perpetrator used only one of the blades to commit the murders.
+犯人使用交叉双刃中的一片犯下了罪行。
 
 警察は犯人の自宅から病院までくまなく捜索を続けたが、もう片方の刃はどこにも見当たらなかった。%K%P
 The other blade was never found, even after a thorough search carried out by the police at the hospital and the perpetrator's home.
-// CRASH - fixed
+警察彻底搜查了从犯人住所到医院的所有地方，但没能找到剪刀的另外半边。
 
 犯行の動機は不明。%K%N
 The motive for the crime remains unknown.
+犯罪动机不明。
 
 拘留中の犯人は、警察官や検察官の取り調べに対してかたくなに黙秘を続けた。%K%N
 While in custody, the perpetrator remained silent throughout the whole of the investigation, never responding to the questions of the police or public prosecutors.
+拘留中的犯人面对警察和检察官的调查取证始终保持沉默。
 
 しかし、その手がかりとなる言葉がひとつだけ……。%K%N
 However, a single phrase alone was spoken, one which could be considered something of a clue....
+而成为线索的就只有一句话……
 
 『彼女』は逮捕される直前、握りしめていた刃物をポトリと落とし、こう呟いたという。%K%P
 Right before her arrest, "she" had muttered something as she dropped her blood-stained blade.
+“她”被逮捕之前，放开手中紧握的刀刃，这样低声说道。
 
 %N%N%N%N%N
 
 %FS%LC%C777A「セルフはどこ？」%FE%K%O
 Where is "Self"?
+「Self在哪里？」
 
 これが、阿波墨市立病院無差別殺傷事件の経緯だ。%K%P
 Those were the details of the Awazumi Municipal Hospital Indiscriminate Murder Case.
+这便是阿波墨市立医院无差别杀人事件的来龙去脉。
 
 『彼女』の名前は犬伏景子。%K%P
 "Her" name was Inubushi Keiko.
+“她”的名字叫做犬伏景子。
 
 犯行当時の年齢――１７歳。%K%P
 Her age at the time of the incident――17.
+犯罪当时——１７岁。
 
 現在は１９歳になっている。%K%P
 She was 19 now.
+现在是１９岁。
 
 いくら未成年とは言え、これだけの残虐行為を犯したのだから、通常であれば極刑に匹敵するほどの刑事罰はまず免れない。%K%P
 Even though she was a minor, a crime so brutal would normally result in a severe penalty, which she would have no way of avoiding.
+即使是未成年，犯下这样惨无人道的罪行，通常也免不了要接受类似于死刑的刑事责任。
 
 ところが、彼女の場合は大きく事情が異なっていた。%K%P
 However, her circumstances differed from the norm.
+但是，她的情况却完全不同。
 
 結論から言うと、彼女に下された判決は無罪だったのだ。%K%P
 In the end, she was found innocent.
+从结论上来说，她的判决是无罪。
 
 司法鑑定の結果、犬伏景子はＤＩＤ（乖離性同一性障害）であると診断された。%K%P
 The final verdict of the Administration of Justice stated that Inubushi Keiko was suffering from DID (Dissociative Identity Disorder).
+司法鉴定的结果，犬伏景子被诊断为ＤＩＤ（分离性身份识别障碍）。
 
 いわゆる多重人格である。%K%P
 That is to say, multiple personalities.
+就是所谓的多重人格。
 
 『刑法第３９条』%K%N
 "Penal Code Article 39"
+“刑法第３９条”
 
 １．心神喪失者の行為は、罰しない。%K%N
 1. Those suffering from insanity will not be prosecuted.%K%P
+１．心智丧失者的行为，不予处罚。
 
 ２．心神耗弱者の行為は、その刑を減軽する。%K%P
 2. Those who are mentally handicapped will receive a lighter sentence.
+２．心智衰弱者的行为，给与减刑。
 
 彼女は今、とある医療施設に軟禁されている。%K%P
 She is currently being held for observation at a certain medical facility.
+她现在被软禁在某个医疗设施里。
 
 『隔離と保護のための特定精神医療施設』%K%N
 "Specified Psychiatric Hospital for Isolation and Aegis"
+“以隔离和保护为目的的特别精神医疗设施”
 
 通称――『%TS003ＳＰＨＩＡ／スフィア%TE』――。%K%P
 Alias――"%TS003SPHIA%TE"――.
+——通称“%TS003ＳＰＨＩＡ%TE”——
 
 この旅の目的地はそこだった。%K%P
 That is my journey's destination.
+这趟旅程的目的地便在那里。
 
 私は彼女に逢うためにこの飛行機に乗ったのだ。%K%P
 I got on this plane for the purpose of meeting her.
+我是为了与她见上一面才坐上这次航班的。
 
 こころ「犬伏景子……」%K%P
 Inubushi Keiko...
+心「犬伏景子……」
 
 そのファイルは、何度読み返してみても気分のいいものではなかった。%K%P
 No matter how many times I read that file, it always makes me shiver inside.
+那本文件，读多少次都让人心里不好受。
 
 犯罪心理学を専攻している以上、事実を客観的に、冷静に受け止めなければならないのだが……%K%P
 I guess if you chose to major in criminal psychology, it'd be necessary to accept the reality of what happened objectively and calmly...
+既然选择专攻犯罪心理学，就该客观而冷静地接受事实……
 
 胸に込み上げてくる想いはどうしても抑えることができないのだった。%K%P
 But the emotions that were burning within my chest weren't something I could easily suppress.
+但是我却怎么也无法抑制胸中涌上的感情。
 
 彼女は何のためらいもなく、最も残忍な手口で罪のない人々を殺したのだ。%K%P
 Without any hesitation, that girl had killed many innocent people in the cruelest, most perverse ways imaginable.
+她毫不犹豫地用最残忍的手段杀害了无辜的人们。
 
 無垢な子どもの命さえも奪ったのだ。%K%P
 She had even taken the lives of innocent children who had never harmed a single soul.
+甚至夺取了纯洁的孩子的生命。
 
 いくら心神喪失状態にあったとは言え、私にはその行為を許すことなど決してできない。%K%P
 No matter how crazy she was, I just couldn't bring myself to forgive her for what she had done.
+就算当时处于丧失心智的状态，我也绝对无法原谅那种罪行。
 
 正直に言えば、私は犬伏景子に対して激しい憎悪の感情を抱いていた。%K%P
 To be honest, I was filled with an intense hatred for Inubushi Keiko.
+老实说，我对犬伏景子抱有强烈的憎恶感。
 
 ゆに「どどーん、ぼかーん、ずばばばばばひゅーん！」%K%P
 Dodoon, bakaaaan, zubababababahyuun!
+悠尼「唾！啊敲！呜咧！」
 
 殺された小学生は当時９つ……。%K%P
 The elementary school student murdered back then was just nine years old....
+被杀的小学生当时九岁……
 
 生きていれば、ゆにと同じ年齢ということになるだろうか。%K%P
 If he were still alive, he'd be right around Yuni's age now.
+如果活着的话，应该与悠尼一个年纪吧。
 
 無邪気に戯れるゆにの姿に胸が絞めつけられる想いだった。%K%P
 That thought made my chest tighten as I watched Yuni play on innocently.
+望着悠尼天真烂漫地玩耍的样子，胸中充满了憋闷。
 
 闇に閉ざされた部屋の隅……。%K%P
 In the corner of the room engulfed in darkness....
+一片漆黑的房间一角……
 
 少女は膝を抱えてうずくまっていた。%K%P
  a young girl sat on the floor, hugging her knees.
+少女抱着双膝蹲在那里。
 
 小さな背中が小刻みに震えているのがわかる。%K%P
 Her tiny back trembled ever so slightly.
+弱小的背脊在颤抖。
 
 しくしくと……しくしくと……。%K%P
 *sniff*... *sniff*....
+呜呜……呜呜地……
 
 彼女は声を殺してむせび泣いていた。%K%P
 She was sobbing quietly.
+她强忍着声音抽泣着。
 
 ひとりの少年が彼女の肩に触れた。%K%P
 A young boy put his hand on her shoulder.
+一位少年碰了碰她的肩膀。
 
 彼女は濡れた瞳で少年を見上げると、すがりつくように彼の胸へと飛び込んでいった。%K%P
 She glanced up at the boy with her tear-filled eyes and flung herself into his arms, embracing him tightly as if afraid he'd disappear the moment she let go.
+她用湿润的双眼仰望着少年，猛地扑向他的怀中。
 
 少女「怖い……」%K%P
 I'm scared...
+女孩「好怕……」
 
 少女「怖いよぉ……」%K%P
 I'm so scared...
+女孩「好怕啊……」
 
 ぎゅっと力一杯しがみつきながら、彼女は泣き続けた。%K%P
 She kept crying as she held onto him with all her strength.
+一边用力抱紧，一边继续哭泣。
 
 少年が彼女の幼い髪を優しく撫でる。%K%P
 The boy gently ran his fingers through her hair.
+少年温柔地轻抚她的头发。
 
 『大丈夫だ』%K%P
 It's okay.
+“没事的”
 
 そっと耳元でささやいた。%K%P
 He whispered softly into her ear.
+轻轻地在耳边细语。
 
 『何も怖くなんてない』%K%P
 There's nothing to be afraid of.
+“没有什么好怕的”
 
 『必ず守ってやるから』%K%P
 Because no matter what happens... I'll be here to protect you.
+“我一定会保护你”
 
 少女「違うの……」%K%P
 No...
+女孩「不是的……」
 
 少女「違うんだよ」%K%P
 That's not it...
+女孩「不是的啊」
 
 少女は大きく首を振って言った。%K%P
 The words left her trembling lips as she nervously shook her head.
+少女拼命地摇头说道。
 
 少女「わたしが怖いのは……」%K%P
 What I'm afraid of is...
+女孩「我害怕的……」
 
 少女「わたし」%K%P
 ...myself.
+女孩「是我」
 
 少女「わたしは、わたしが怖いんだもん」%K%P
 The person I'm afraid of... is myself.
+女孩「我害怕自己啊」
 
 『それでもだよ』%K%P
 Still...
+“即使如此”
 
 『たとえそれでも守り抜いてみせる』%K%P
 I will protect you. Forever. You'll see!
+“我也会保护你到底”
 
 少女「無理だよ……」%K%P
 That's impossible...
+女孩「不可能的……」
 
 少女「絶対に、無理」%K%P
 There's no way you could...
+女孩「绝对不可能」
 
 少女「だって……」%K%P
 Because...
+女孩「因为……」
 
 少女「だってわたしは　…　…　ちゃんも――」%K%P
 Because I... ――-chan, I'll――
+女孩「因为我连哥哥…　…　」
 
 彼女の細い指先が、少年の背中にギリリと食い込む。%K%P
 Her slender fingers dug deep into the boy's back.
+她纤细的手指，深深陷入少年的背后。
 
 少女「殺しちゃうから」%K%P
 I'll kill you too...
+女孩「也会杀掉的」
+//[CHN]Everything's beeginning.
+//[CHN]Sorry, I killed you just now....

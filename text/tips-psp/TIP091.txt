@@ -1,6 +1,7 @@
-TIP091
+﻿TIP091
 疳の虫
 Baby Colic
+婴夜啼
 paragraph_count:7
 init_addr:7d28
 pc_index:TIP_096
@@ -103,4 +104,64 @@ It is not impossible to imagine that it is through realizing the need to protect
 Additionally, it makes sense to think that the fact that as-of-yet mentally undeveloped newborns are deprived of physical strength lies in accordance with the principle of natural selection.%N
 "Baby colic," being a representation of the instinctive desires, makes known the true nature of man.%N
 It is the scream of madness, and at the same time, the pathetic lamentation of having been given life in this world.
+
+#CN#1
+这里有一段相关的论述。%N
+“婴夜啼”的现象究竟为什么会发生呢？%N
+所谓的“婴夜啼”就是在毫无理由的情况下，%N
+婴儿的情绪突然间变得很差，%N
+因而吵闹或是在夜晚啼哭的一种症状，%N
+目前的解释认为，%N
+这是一种因为婴儿自律神经失调，%N
+而引起的神经异常兴奋现象，%N
+但详细的原因仍然不确定。%N
+
+#CN#2
+有一种说法是，%N
+说不定是因为婴儿有非常鲜明的自我意识，%N
+但是却没有办法很好地操控身体，%N
+因此才会积累非常大的压力、感到烦躁甚至哭叫。%N
+因此，对于大人来说，看起来就像是无缘无故哭闹一样。%N
+
+#CN#3
+也有一些医生的看法是，%N
+假设给了婴儿可以自由控制的身体，%N
+他们就有可能会变成冷酷的杀人恶魔。%N
+这是因为他（她）们并没有学习过人类社会的道德伦理，%N
+所以可能会依照本能而不断杀戮。%N
+而且幼儿也是相当残酷的，%N
+往往可以毫不犹豫地杀死生物，%N
+并且还把这当作是游戏的一部分。%N
+
+#CN#4
+随着年龄增长，大概到三岁左右时，%N
+人就会开始可以从别人的立场思考，%N
+建立对别人的同情心。%N
+也是在这个时侯开始学习，%N
+到绝对不可以对别人做出不愿意别人对自己做的事情。%N
+也许人类的婴儿比其它哺乳类动物的体力要弱，%N
+就是因为这个原因吧。%N
+
+#CN#5
+虽然这对婴儿的生存有着不利的影响，%N
+但事实上，如果不是这样的话，%N
+反而会让成人的生命受到威胁吧。%N
+
+#CN#6
+与其它所有的生物相比，%N
+人类的本性是最为残暴的，%N
+也许人类是为了保护自己在进化的路途上，%N
+不受这种内在的残暴本性伤害，%N
+所以才会去建立文化，%N
+利用教育来提升精神修养，%N
+我们也不能排除这样的可能性。%N
+
+#CN#7
+同时，%N
+精神尚未发达的婴儿之所以会缺乏体力，%N
+也可以想作是在自然淘汰的情况下造成的结果。%N
+“婴儿夜啼”是一种本能欲望的展现，%N
+所以可以让我们了解人类的本性。%N
+那是一种疯狂的呼喊，%N
+同时也是对于降生在世间的一种哀切的叹息。%N
 

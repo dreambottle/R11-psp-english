@@ -1,6 +1,7 @@
-TIP035
+﻿TIP035
 占星術
 Astrology
+占星术
 paragraph_count:1
 init_addr:7888
 pc_index:TIP_040
@@ -22,3 +23,11 @@ pc_index:TIP_040
 Astrology here refers to Western astrology.%N
 A study, or skill, based on the belief that through the movement of heavenly bodies and their positions at certain times and places, an individual person's horoscope (drawn from the positions of the planets, the twelve signs of the zodiac, and the twelve astrological houses) can be interpreted and used to foretell their future.
 
+#CN#1
+这里指称西洋占星术。%N
+解读相对于特定地点、%N
+特定时间的天体配置图；%N
+天宫图（包含黄道十二宫、十二室等要素），%N
+并在解读过程中将天宫图%N
+与地面上的事件结合在一起，%N
+尝试解读出个人或社会命运的一种学问或技术。%N

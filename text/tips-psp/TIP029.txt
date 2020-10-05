@@ -1,6 +1,7 @@
-TIP029
+﻿TIP029
 衛星電話
 Satellite Phone
+卫星电话
 paragraph_count:1
 init_addr:7828
 pc_index:TIP_034
@@ -20,3 +21,10 @@ A cellular telephone which works by way of communication satellites.%N
 "Connecting you from anywhere in the world" was the catchphrase.%N
 However, in practice, due to different company systems, types of available satellites and so on, there are cases in which signal availability is limited to certain areas.
 
+#CN#1
+经由通讯卫星进行通讯的行动电话。%N
+“无论在世界的哪个角落也可以接通”%N
+是这种商品的标语。%N
+实际上，%N
+随着各个公司系统所使用的卫星种类不同，%N
+可以使用的区域还是会受到限制。%N

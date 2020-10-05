@@ -1,6 +1,7 @@
-TIP010
+﻿TIP010
 アンドロギュノス
 Androgynous
+雌雄同体
 paragraph_count:1
 init_addr:76b8
 pc_index:TIP_015
@@ -16,4 +17,8 @@ pc_index:TIP_015
 #EN#1
 From the Greek, meaning one (a person) who possesses both sexes.%N
 An existence that is a combination of both the male and female sex.
+
+#CN#1
+希腊文，表示雌雄同体（者）的意思。%N
+也就是兼具男女两性。%N
 

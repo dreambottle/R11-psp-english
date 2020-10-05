@@ -1,250 +1,332 @@
 
 あたりの景色は一瞬にしてすり換わった。%K%P
 My surroundings changed in an instant.
+周围的景色一瞬间发生了变化
 
 暗闇……。なにも見えない。%K%P
 Darkness.... I couldn't see a thing.
+黑暗……伸手不见五指。
 
 ただ全身に、布のようなものが覆い被さっているのがわかった。%K%P
 But I could feel something like a piece of cloth covering me.
+只感觉到自己身上盖着一层像布一样的东西。
 
 オレはあわててそれを払いのけた。%K%P
 Startled, I swept it away.
+我慌忙把它拨开。
 
 悟「オレの部屋だ……」%K%P
 This is my room...
+悟「是我的房间……」
 
 そんなことは確かめるまでもなくわかった。%K%P
 I could tell instantly.
+这种事不用特意确认我也能知道。
 
 転移が発生したのはこれで何度目になるだろう……？%K%P
 How many transfers does this make...?
+这是第几次发生转移了……？
 
 いつもタイミングを見計らうかのように、それは大事な場面で起こった。%K%P
 They always seemed to occur whenever something important was going on, as if their timing had been chosen deliberately.
 //TELL US ABOUT IT! Remember 11 would be, like several hours shorter otherwise - Sheeta
+简直像看准了时间一样，每次都挑关键的时候来转移。
 
 腕時計を取り出し、時刻を調べる。%K%P
 I took the wristwatch from my pocket and checked the time.
+我掏出手表，确认时间。
 
 悟「１０時４８分か……」%K%P
 10:48, huh...?
+悟「１０时４８分吗……」
 
 呟きながら、時計をポケットに戻した。%K%P
 Muttering that, I returned the watch.
+我一边自言自语，一边把表塞回口袋。
 
 直前まで、こころはなにをしていたのだろう……？%K%P
 What was Kokoro doing until just now...?
+刚刚心是在做什么呢……？
 
 毛布をかぶってベッドに……。%K%P
 In bed, with the blanket over her head....
+裹着毛毯躺在床上……
 
 悟「ってことは、眠ってたのか……？」%K%P
 Does that mean she was sleeping...?
+悟「这么说来，她是在睡觉……？」
 
 机の前に向かい、メモ用紙をつかみ取る。%K%P
 I turned to the desk and grabbed the notepad lying there.
+走到书桌前，拿起便条纸。
 
 新しいメッセージは記されていなかった。%K%P
 There weren't any new messages.
+没有新的留言。
 
 オレは思うところあって、外に出た。%K%P
 I thought of something, and went outside.
+我想起一件事，于是走出了屋子。
 
 正面ゲートに向かってまっすぐ伸びた通路……。%K%P
 The pathway stretching all the way to the front gate....
+一直延伸向正面大门的通道……
 
 そこを歩きながら、まずは月を確認する。%K%P
 As I walked, I looked up at the moon for confirmation.
+我一边走在通道上，一边确认月亮的样子。
 
 臥し待ち月……。%K%P
 Waning gibbous....
+十九的月亮……
 
 その口のような形とあいまって、なんだか笑われているような気がした。%K%P
 Its shape resembled an open mouth, making it almost seem like it was laughing hysterically.
 //rewriting because waning gibbous =/= crescent - Sheeta
 
+再看看它那像嘴一般的形状，感觉它好像在嘲笑我。
 ゲートの前に立つ。%K%P
 I stood before the gate.
+站在大门前。
 
 どのようにして開けるのだろうかとしばらくあたりを探っていると、左側に小さな操作パネルのようなものが見つかった。%K%P
 Trying to figure out how to open it, I noticed a small control panel to the left.
+为了寻找开门的方法，我在附近探寻了一会儿，结果在左侧发现了一块小小的操作嵌板。
 
 どうやらロックを制御するカードリーダーの端末らしい……。%K%P
 It appeared to be a computerized card reader that controlled the lock....
+看来是用来控制门锁的读卡终端……
 
 深く彫り込まれた溝の形状から、そうであることはすぐにわかった。%K%P
 The deep slot in the side made me realize immediately what it was.
+一看那道划卡槽，我立刻明白了
 
 悟「カードリーダー？」%K%P
 A card reader?
+悟「读卡机？」
 
 今日のオレは頭の回転が早い。%K%P
 The wheels in my head were turning a little more quickly today.
+今天我的脑筋转得特别快。
 
 この冷ややかな月光のせいだろうか？　月は人間の精神に大きな作用を及ぼすと言うし……。%K%P
 Is it because of the chilly moonlight? They say that the moon has a great effect on the workings of the human mind, after all....
 //check for wording
+是因为月光的缘故吗？据说月亮对人类的精神有很大的影响……
 
 ともかく、オレは『カードリーダー』という響きから、即座にある解答を導き出した。%K%P
 At any rate, as soon as the image of the "card reader" appeared in my mind, a solution immediately followed.
+总之，一说到“读卡机”，我马上推导出某个答案。
 
 ポケットに手を突っ込み、答えを抜き出す。%K%P
 I plunged my hand into my pocket and pulled it out.
+我把手伸进口袋，掏出了“那个答案”。
 
 昨日部屋で見つけたＩＤカードだった。%K%P
 It was the ID card I'd found in my room yesterday.
+是我昨天在房里找到的ＩＤ卡。
 
 もしかしたら、これを使えば開くのではないだろうか？%K%P
 Maybe it'll open if I use this?
+说不定可以用它来开门？
 
 期待しつつ、カードをリーダーの溝に滑らせた。%K%P
-With great anticipation, I slid the card through the reader. 
+With great anticipation, I slid the card through the reader.
+抱着一丝期待，我把卡片在卡槽上划过。
 
 いとも簡単に開いたものだから、いささか拍子抜けしてしまう。%K%P
 It was a little anticlimactic how easily it had opened.
+开得实在太轻松了，心里反而感到有一点失望。
 
 オレは端末からカードを抜き取り、ゲートをくぐった。%K%P
 I removed my card from the terminal and left through the gate.
+我拿回卡片，穿过了大门。
 
 ほのかな解放感……。%K%P
 A faint sense of liberation....
+有股淡淡的解放感……
 
 けれど、それだけだった。%K%P
 However, that was all.
+不过，也仅仅是如此。
 
 『やっと出られたぜ！』と叫びたくなるほどの感動など、わいてはこなかった。%K%P
 "I'm finally free!"... I didn't feel the impulse to yell anything like that.
+心里并没有涌起想放声狂喊“终于出来了！”的感动。
 
 よくよく想い起こしてみれば、オレはこれまで『どうにかしてスフィアを脱出しよう』というような企みは少しも抱いたことがなかった。%K%P
 Come to think of it, the idea of developing a plan to "free myself from SPHIA somehow" never occurred to me.
+仔细想想，迄今为止，我根本没想过要“设法逃离ＳＰＨＩＡ”。
 
 『転移現象から脱け出したい』と思ったことなら何度もあるけれど……。%K%P
 Even though I've thought "I want to free myself from this transference phenomenon" on many occasions....
+“想从转移现象中逃出”的想法倒是有过好几次……
 
 そのことと、避難小屋のことと、オレを狙ってる犯人のこと……この３つを考えるだけで精一杯だったのだ。%K%P
 Between that, the shelter cabin, and the killer chasing me... I've had my hands more than full with those three things alone.
+转移、避难小屋、要杀我的犯人……光是考虑这三点已经让我精疲力尽了。
 
 正面ゲートもあっけなく開いてしまったし……。%K%P
 I hadn't been able to open the main gate before, anyway....
+而现在，ＳＰＨＩＡ的大门也是轻而易举就打开了……
 
 『スフィアを出ることに成功した』という現実は、さほどオレに喜びをもたらしてはくれなかった。%K%P
 The reality of "actually being able to leave SPHIA" didn't bring me any great joy.
+“成功离开了ＳＰＨＩＡ”这一事实，没能给我带来太多的欣喜。
 
 さて、ところでここは、言うまでもなく海岸である。%K%P
 Now then, it went without saying that this was the coast.
+好了，言归正传，显然这里是海岸。
 
 正面ゲートから歩いて１分も経たない距離にそれはあった。%K%P
 There it was, just a minute's walk from the main gate.
+从正面大门走到这里连一分钟都用不上。
 
 美しい白砂の渚が、東西に長く伸びている。%K%P
 The beautiful white sand of the shoreline stretched out from east to west.
+美丽的白色沙滩，沿着东西方向不断延伸。
 
 スフィアは青鷺島という孤島にあるのだから、ここに海があることは別に不思議なことでもなんでもなかった。%K%P
 SPHIA was on Aosagi Island, so there was nothing strange about the ocean being here.
+因为ＳＰＨＩＡ就是建在这座名叫青鹭岛的孤岛上，就算能看到大海也没什么好奇怪的。
 
 しかし、だ……。%K%P
 But....
+然而……
 
 オレの眼前には幾重にも折り重なるようなうねり……。茫々たる海原の色は漆黒……。%K%P
 Before my eyes were gently rolling waves.... The jet-black depths of the ocean....
+展现在我眼前的是层层的波浪……茫茫大海显得一片漆黑……
 
 月明かりに舐められたうねりはぬらぬらとあでやかな光沢を放ち、見上げれば、こぼれ落ちそうな星空が広がっている。%K%P
 The soft moonlight kissing the waves with its glossy brilliance, and the starry sky that felt as though it would fall at any moment.
+在月光照耀下，波浪散发出艳丽的光辉，抬头仰望，眼前是一片看似要消融的星空。
 
 遥か彼方には空と海を分かつ１本のライン……。%K%P
 Far off in the distance, the point where the horizon divided sea and sky....
+在遥远的彼方，一道细线把天空与海洋分割开来……
 
 弓なりの海岸線……。寄せては返す白波……。%K%P
 The bow of the coastline.... Whitecaps that broke against the shore....
+弯曲的海岸线……翻涌的白浪……
 
 そして、子守歌のような細波の旋律……。%K%P
 And the faint ripple of the waves, like a lullaby....
+还有那宛如摇篮曲一般的细波旋律……
 
 何もかもがそっくりそのままだった。%K%P
 It was a perfect copy.
+所有的东西都一模一样。
 
 朱倉岳で見た海の景色と寸分違わず同じだった。%K%P
 This was the same landscape I'd seen at Mount Akakura.
+跟刚刚在朱仓岳看到的景色分毫不差。
 
 悟「…………………………」%K%P
 ...............
+悟「…………………………」
 
 もはや声も出ない。%K%P
 I found myself unable to speak.
+我哑口无言。
 
 なにか禍々しい事態が着々と進行している……。%K%P
 Some frightening reality was steadily approaching....
+有什么麻烦的事态正在一步步逼近……
 
 そんな不吉な予感だけが胸の中で渦を巻いていた。%K%P
 Only that ominous premonition remained, coiling in my chest like a whirlpool.
 //more literally "swirling in my chest"
+心里涌出这样一股不祥的预感。
 
 部屋に戻ったオレは、ベッドに仰向けになって思索を続けていた。%K%P
 I returned to my room and lay face-up on my bed, speculating.
+回到房里，我仰面躺在床上继续思索着。
 
 月のこと……。海のこと……。%K%P
 The moon.... The ocean....
+月……海……
 
 なにが起きているのだかさっぱりわからない。%K%P
 I had no idea what was happening.
+完全搞不懂到底发生了什么事。
 
 まるでたちの悪い暗黒魔法にでもかけられているような気分だった。%K%P
 It was like some black magic had been cast upon me.
+感觉就像被施了邪恶的黑暗魔法一样。
 
 理不尽だという意味に於いてもそうだし、呪わしいという意味に於いてもそうだ。%K%P
 Everything about this was so totally irrational, I couldn't help feeling like I'd been cursed.
+如此不讲道理，如此令人憎恨。
 
 この呪いを解くためには、思い切ってスフィアを脱出してしまえばいい。%K%P
 If I wanted to escape from this curse, I should just gather my resolve, forget about everything and make my escape from SPHIA.
+要解除这诅咒，只要下定决心离开ＳＰＨＩＡ就行了。
 
 ＩＤカードはポケットの中にあるし……。%K%P
 The ID card was still in my pocket, after all....
+开门的ＩＤ卡还躺在我的口袋里……
 
 やろうと思えばいつでもそれを実行に移すことはできる。%K%P
 If I wanted to, I could go forth with this plan at any time.
+只要有这个意思，随时都能付诸行动。
 
 けれど、いつでも実行できるからこそ、オレはこうしてスフィアに舞い戻ってきたのだった。%K%P
 However, it's because I could go forth with it at any time that I returned to SPHIA.
+可是，正因为随时都可以离开，我才会像这样重返ＳＰＨＩＡ。
 
 腹立たしい事態だけれど、今ここで逃げるわけにはいかないのだ。%K%P
 It's irritating, but I can't run away from here yet.
+虽然事态很让人恼火，但现在我还不能逃。
 
 逃げたら、こころのことはどうなる……？%K%P
 If I did, what would happen to Kokoro...?
+要是我逃跑了，心会变成怎样……？
 
 鈴のことは……？　黄泉木のことは……？%K%P
 To Lin...? To Yomogi...?
+还有铃呢……？黄泉木呢……？
 
 このまま行けば、３人は１月１７日に雪崩に巻き込まれて死んでしまうことに……。%K%P
 If I left them now, they'd be caught up in an avalanche and die on January 17th....
+这样发展下去，他们三人又会在１月１７日的雪崩中丧生……
 
 彼らを見捨てるわけにはいかなかった。%K%P
 I couldn't abandon them.
+不可以放着他们不管。
 
 そんなこと、オレには絶対にできない。%K%P
 There's no way I would do something like that.
+这种事，我绝对做不出来。
 
 それに、スフィアでオレを狙っている犯人のこともある。%K%P
 And then there was the matter of the murderer pursuing me.
+而且，在ＳＰＨＩＡ也有袭击我的犯人。
 
 転移現象の謎も依然として残されたままだ。%K%P
 And I still had plenty of questions about the transference phenomenon.
+转移现象之谜也依然残留待解。
 
 これらのモヤモヤとした謎を、すべて忘れ去ることなんて、オレにはやはりできなかった。%K%P
 It was impossible for me to just forget all about these mysteries, after all.
+要丢下这一连串的谜团离开，我果然办不到。
 
 これはオレの性分だ。%K%P
 It's just the way I am.
+这是我的性格。
 
 すべてが解明されるまで、なにがなんでも居座ってやる。%K%P
 Until everything's been resolved, I'll stay here, come what may.
+在所有真相被解明之前，我无论如何也要留下来。
 
 そうでなければ納得いかない。%K%P
 I'd never be satisfied if I didn't.
+否则，我是无法接受的。
 
 脱出は、そのあとでも遅くはあるまい。%K%P
 It'd be fine for me to make my escape after that.
+要逃的话，那之后再逃也不迟。
 
 ＩＤカードさえ持っていれば、いつでもそれは可能なのだから……。%K%P
 Because the possibility remained open to me as long as I had my ID card....
+只要ＩＤ卡还在手上，随时都可以离开这个地方……

@@ -16,7 +16,7 @@ fi
 # Repack mac.afs (texts)
 repack_mac_afs () {
 	repack_scene () {
-		$REPACK_SCENE text/mac-combined-psp/$1.txt mac/$1.SCN mac-en/$1.SCN
+		$REPACK_SCENE text/tmp/mac-combined-psp/$1.txt mac/$1.SCN mac-en/$1.SCN
 		$COMPRESS ./mac-en/$1.{SCN,BIP}
 	}
 
@@ -25,7 +25,7 @@ repack_mac_afs () {
 	./text/apply-shortcuts-translation.py text/other-psp/SHORTCUT.SCN.psp.txt mac/SHORTCUT.SCN mac-en/SHORTCUT.SCN || exit 1;
 	$COMPRESS ./mac-en/SHORTCUT.{SCN,BIP}
 	
-	for i in text/mac-combined-psp/*.txt ; do
+	for i in text/tmp/mac-combined-psp/*.txt ; do
 		echo Repacking $i
 		repack_scene `basename $i .txt` #& WAITPIDS="$! "$WAITPIDS
 	done
@@ -42,7 +42,7 @@ compose_font () {
 	mkdir -p etc-en
 	cd text/font
 	cp -f glyphs-new/* glyphs/
-	python3 extract-font.py repack glyphs/ || exit 1;
+	python3 ../../py-src/extract-font.py repack glyphs/ || exit 1;
 	cp FONT00.NEW ../../etc-en/FONT00.NEW
 	cd ../..
 }

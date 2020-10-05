@@ -1,6 +1,7 @@
 TIP088
 ｉｎｆｉｎｉｔｙ
 Infinity
+无限/infinity
 paragraph_count:3
 init_addr:7cb4
 pc_index:TIP_097
@@ -44,4 +45,21 @@ And so on.%N
 ... and%N
 %N
 the "infinity" series will go on forever.%N
+
+#CN#1
+1：无限、无限大。%N
+没有限制。可以永远持续。%N
+形容无限的样子。%N
+
+#CN#2
+2：infinity系列%N
+2000.3.23 infinity%N
+2000.11.23 infinity Cure%N
+2000.12.21 Never7%N
+2002.8.29 Ever17%N
+2004.3.18 Remember11%N
+……%N
+
+#CN#3
+“infinity”系列将会永远持续下去。%N
 

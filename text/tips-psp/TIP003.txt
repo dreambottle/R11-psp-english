@@ -1,6 +1,7 @@
-TIP003
+﻿TIP003
 ＳＰＨＩＡ
 SPHIA
+ＳＰＨＩＡ
 paragraph_count:2
 init_addr:7640
 pc_index:TIP_005
@@ -36,3 +37,18 @@ The purpose of these facilities was to administer proper treatments to those who
 The layout of these facilities and the course of treatments there are undisclosed to respect the privacy of the patients.%N
 All that's known about these facilities are their locations. SPHIA, the facility in which Inubushi Keiko is institutionalized, is located on Hokkaido's %TS004Aosagi Island%TE.
 
+#CN#1
+由于2007年的刑法修正案，%N
+而在全国各地新设的特殊精神病院。%N
+其设立目的为，%N
+对犯下重大罪案的精神障碍者施以适当的治疗，%N
+令其得以顺利回归社会生活。%N
+
+#CN#2
+基于隐私的立场，%N
+其设施构造与治疗内容完全不予公开。%N
+对外公开的仅有该设施存在的事实。
+收容犬伏景子的SPHIA，%N
+位于北海道的%TS004青鹭岛%TE。%N
+正式名称：%N
+以隔离和保护为目的的特殊精神医疗设施。%N

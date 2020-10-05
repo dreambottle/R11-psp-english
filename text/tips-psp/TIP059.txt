@@ -1,6 +1,7 @@
-TIP059
+﻿TIP059
 スパコン
 Supercomputer
+超级电脑
 paragraph_count:1
 init_addr:7a5c
 pc_index:TIP_064
@@ -23,3 +24,14 @@ A computer capable of processing very large amounts of data at ultra high speeds
 The processing speed can be as high as 10^12 operations/second (as of 2003).%N
 In recent years, supercomputers have come to be used for weather forecasting across Japan, calculating things like temperature, pressure, and the movement of clouds.
 
+#CN#1
+即英文的%N
+Super Computer。%N
+采用平行运算的方式，%N
+可以用非常快的速度处理大量信息的%N
+一种电脑。%N
+一秒钟约可以计算10的20次方次。%N
+（2003年时）%N
+超级电脑与生活密切相关的应用就是%N
+可以用来计算各地气温、气压、云层动向等%N
+信息，预测天气的变化。%N

@@ -1,6 +1,7 @@
-TIP094
+﻿TIP094
 黛⑳鈴
 Mayuzumi Lin
+黛铃
 paragraph_count:4
 init_addr:7d94
 pc_index:TIP_102
@@ -79,4 +80,42 @@ Uncooperative, she makes a point of standing in the way of the refugees, disturb
 She is antagonistic toward men, and hates yielding to them more than anything else.%N
 Thus, she doesn't get along with Yomogi.%N
 A burden to the group, and a troublemaker.
+
+#CN#1
+姓名：黛铃%N
+性别：女%N
+年龄：23岁%N
+生日：1987年4月30日（金牛座）%N
+血型：A型%N
+职业：OL%N
+智力：略高%N
+体力：稍低%N
+协调性：较低%N
+
+#CN#2
+性格：坚强、高傲、非常注重外表、轻度洁癖、%N
+⑳极度偏食（对食物的喜好表现得非常激烈）、
+⑳缺乏同情心%N
+兴趣：衣服鞋帽的收集%N
+喜好：工作、动物、高处、自己%N
+厌恶：自大的男人、输给男人、低级话题%N
+
+#CN#3
+里设定：象征“persona（人格面貌）”（→原型）%N
+⑳已经订婚。%N
+⑳悟跟黛铃曾经交往过。%N
+⑳虽然现在彼此间的关系很疏远，%N
+⑳但是在她内心还是有一份隐藏的思念。%N
+%N
+这是针对2011年的设定。%N
+
+#CN#4
+主要在雪山登场。%N
+在出差的途中遭遇飞机失事，%N
+与冬川心一样是意外事件的生存者之一。%N
+表现出不合作的态度。%N
+扰乱团体活动，做出一些车大家后腿的事情。%N
+对男性处处挑衅，对男人低头是她最讨厌的事情，%N
+因此与黄泉木圣司相处得很差。%N
+是团体的负担，麻烦制造者。%N
 

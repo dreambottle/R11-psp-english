@@ -1,6 +1,7 @@
-TIP027
+﻿TIP027
 フライトレコーダー
 Flight Recorder
+飞行记录装置
 paragraph_count:1
 init_addr:7808
 pc_index:TIP_032
@@ -18,3 +19,6 @@ pc_index:TIP_032
 An aviation device that automatically records speed, altitude, and other information about the flight in real time.%N
 Housed in a very sturdy casing which makes it highly resistant to damage by fire or force trauma.
 
+#CN#1
+自动依时间记录飞行高度等航行资料的装置。%N
+收藏在耐热、耐震的坚固盒子里。%N

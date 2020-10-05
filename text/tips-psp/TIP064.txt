@@ -1,6 +1,7 @@
-TIP064
+﻿TIP064
 波動関数
 Wave Function
+波函数
 paragraph_count:1
 init_addr:7ab4
 pc_index:TIP_069
@@ -22,3 +23,10 @@ It satisfies the Schrödinger equation and possibly the Dirac equation, and prov
 From the square of its absolute value, it can give the existing probability of a particle.%N
 In this sense, the wave function is referred to as the probability amplitude.
 
+#CN#1
+代表粒子状态的空间坐标%N
+对应于时间的函数。%N
+满足薛定谔方程或狄拉克方程，%N
+保障量子力学中波动与粒子的二象性。%N
+波函数绝对值的平方与粒子的%N
+存在几率成正比，因此又被称为几率振幅。%N

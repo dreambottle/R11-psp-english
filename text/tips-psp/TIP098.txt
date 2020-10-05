@@ -1,6 +1,7 @@
-TIP098
+﻿TIP098
 楠田⑳ゆに
 Kusuda Yuni
+楠田悠尼
 paragraph_count:3
 init_addr:7e04
 pc_index:TIP_106
@@ -70,4 +71,32 @@ Has abundant knowledge related to the occult, especially theology.%N
 He sometimes surprises those around him with his predictions of the future (since they often come true!).%N
 An enigmatic boy who appears in both places.%N
 What are his true intentions...?%N
+
+#CN#1
+姓名：楠田悠尼%N
+性别：男%N
+年龄：11岁（在优希堂悟的视角下是12岁）%N
+生日：1999年10月19日（天枰座）%N
+血型：AB型%N
+职业：小学5年级（在优希堂悟的视角下是6年级）%N
+智力：极高%N
+体力：普通（同年龄中）%N
+协调性：有时高得无法想像、有时低得无法想像%N
+
+#CN#2
+性格：天真烂漫、胆小而温和、机智敏锐%N
+兴趣：超自然的仪式（塔罗占卜、狐狗狸等）%N
+喜好：热闹、开心、朋友%N
+厌恶：唯物论、孤独、Leiplich制药%N
+里设定：象征“Trickster（作乱精灵）”（→原型）%N
+⑳在雪山的他对于时空转移现象的真相很熟悉。%N
+
+#CN#3
+不知道为什么在雪山/SPHIA两地都有出现。%N
+一方面是飞机意外的生还者，另一方面又居住在SPHIA中。%N
+在超自然领域中，对于通神学的知识特别丰富。%N
+常常会说出一些像是预言的话而使周围的人感到吃惊。%N
+（事实上是会说中！）%N
+在两个舞台里都登场的少年。%N
+他的真正目的是……？%N
 

@@ -1,1407 +1,1873 @@
 
 ずらりと並んだディスプレイが青白い光を放っている。%K%P
 The row of monitors radiated a pale light.
+一排排的显示器散发着蓝白色的光亮。
 
 オレはキャスターの付いた肘掛け椅子に深く身を沈め、コンソールの上に両足を投げ出していた。%K%P
 I sank into the armchair before the panel and crossed my legs atop the console.
+椅子有滚轮有扶手，我深深地坐进去，把双脚搁在控制台上。
 
 正面のディスプレイには静止画像が表示されている。%K%P
 There was an image paused on the computer's display.
+正面的显示器上显示的是静止画面。
 
 １５日の夜、オレの肉体がリビングで暴れていた最後の場面だった。%K%P
 The final shot of my body's rampage through the living area on the night of the 15th.
+１５日夜里，我的肉体把客厅折腾得一塌糊涂的最后场面。
 
 それ以外のモニターには、現在の各部屋の様子が映し出されていた。%K%P
 The other monitors displayed the current goings-on in each of the other rooms.
+其它的显示器映出的是现在各个房间的样子。
 
 ３人は今、それぞれの自室にいる。%K%P
 The other three were all in their bedrooms.
+三人现在都在自己的屋里。
 
 内海は椅子に腰を下ろして、赤ん坊の写真を眺めていた。%K%P
 Utsumi was sitting on a chair, gazing at the photos of her babies.
+内海坐在椅子上，看着婴儿的照片。
 
 ゆにはベッドで眠っている。%K%P
 Yuni was asleep in his bed.
+悠尼在床上睡着了。
 
 穂鳥は部屋の隅にうずくまって、静かにうなだれていた。%K%P
 Hotori was crouching in a corner of her room, silently gazing at the floor.
+穗鸟蹲在房间的一角，低着头。
 
 ３人に異常はないようだ。%K%P
 All three of them seemed perfectly fine.
+三人都无异常。
 
 オレは再び正面のディスプレイへと視線を戻した。%K%P
 I returned my gaze to the display before me.
+我把视线拉回到正面的显示器上。
 
 動画データを一時停止した画像……。%K%P
 Back to the paused footage....
+是暂停了的录像画面……
 
 いったん再生を終了させ、プルダウンメニューを開く。%K%P
 I closed the playback screen and opened the pulldown menu.
- 
+把它播放完以后，打开一个下拉菜单。
+
 データベースに保存されたファイルが一覧表示された。%K%P
 A list of the files stored in the database appeared.
+里面显示了数据库里保存的文件。
 
 ２０１２年１月１１日から１６日にかけて、その期間にスフィアで起きたありとあらゆる出来事が、そこに映像として記録されていた。%K%P
 Among them were the records of every single event that had occurred in SPHIA from January 11th to January 16th, 2012.
+从２０１２年１月１１日到１６日，这期间ＳＰＨＩＡ里发生的全部事情，都用影像记录在此。
 
 そう、オレがここに来たのは他でもない、それらの動画データを確認するためだった。%K%P
 That's right, I was here for one reason and one reason only: to check the video data.
+是的，我到这里来不是为了别的，而是确认这里的录像资料。
 //check動画データ= moving data?
 //guys, it just means video - y'know, like Nico Nico Douga? --the_paper
 
 オレの意識が自分の肉体を離れているあいだ、このスフィアでいったい何が起きていたのか……？%K%P
 Just what had happened at SPHIA while my consciousness was away from my body...?
+我的意识离开肉体的期间，ＳＰＨＩＡ里到底发生了什么……？
 
 カメラの捉えた映像を見れば、それはたちどころにして判明する。……そう思ったのだ。%K%P
 If I looked through all the footage, then I'd discover the answer right away... that's what I thought.
+看看由摄像头捕捉的影像，马上就能知道了……我是这样想的。
 
 オレは膨大な量の動画データを片っ端から調べていった。%K%P
 I began to pour over the vast amount of data.
+我从头开始调查这些数量庞大的录像资料。
 
 とは言え、通常の再生速度ではとても追いつかない。%K%P
 Although, with that said, I'd never catch up if I played it back in real time.
+虽说如此，用普通的播放速度是来不及了。
 
 目を通さなければならない映像の長さは、%N%TS077およそ１００時間分%TEもあった。%K%P
 The total length of the footage I had to watch was %N%TS077approximately 100 hours%TE.
+必须要看的影像长度也有，%N%TS077大约１００小时%TE。
 
 気になるところ以外は、早送りせざるを得なかった。%K%P
 I couldn't help but fast forward through everything that didn't interest me.
+所以不需注意的部分，就只能快进了。
 
 そうして解析が終了したのは、ついさっきのことだ。%K%P
 And eventually, my analysis caught up to where I was right now.
+就在刚才，我已经把它们解决了。
 
 この椅子に腰を落ち着けてから、かれこれ１０時間が経つ。%K%P
 Ten hours had passed since I'd settled into this chair.
+坐到椅子上已经将近１０小时了。
 
 映りの悪い映像を長時間に渡って眺めていたせいで、眼球の裏側がずきずきと痛んだ。%K%P
 I had a throbbing ache just behind my eyes from staring at low-resolution footage for such a long time.
+由于长时间盯着那些难受的影像看，眼球内侧像针扎一样疼。
 
 悟「ふぅ……」%K%P
 Haahh...
+悟「呼……」
 
 大きく息を吐き、目頭を指で押さえる。%K%P
 I let out a big sigh and rubbed the inner corners of my eyes with my fingers.
+长长出了一口气，用手指按着眼角。
 
 現在時刻――午前２時３７分。%K%P
 Present time――2:37 AM.
+现在时刻——凌晨２时３７分。
 
 日付は１月１７日に変わっていた。%K%P
 The date had changed to January 17th.
+日期已经变成了１月１７日。
 
 冬川こころの意識は、オレの肉体を借りて何をしていたのか……？%K%P
 What was Fuyukawa Kokoro's consciousness doing while in my body...?
+冬川心的意识，借用我的肉体到底干了什么……？
 
 オレの知らぬ間に、他の３人はどんな行動を取っていたのか……？%K%P
 How did the other three act while I wasn't there...?
+我不知道的时候，其他三人采取了什么行动……？
 
 これらの謎に関しては、ある程度解明されたといってもいい。%K%P
 It'd be fine if I clarified these mysteries to some extent.
+与这些内容有关的谜，可以说在某种程度上解开了。
 
 だが、わからないことはまだいくつも残っていた。%K%P
 But there were still many things I didn't know.
+只是，不能理解的事情还有不少。
 
 次の転移まで、あと２時間以上ある。%K%P
 Over two hours remained until the next transfer.
+距离下次转移，还有两个多小时。
 
 オレは重要な場面だけを抽出し、改めて動画データを再確認することにした。%K%P
 I extracted the most important scenes and replayed the footage once again.
+我只抽出重要的场面，再次用录像资料来确认。
 
 『１月１１日水曜日』%K%N
 "Wednesday, January 11th."
+“１月１１日星期三”
 
 %TS078時刻%TE：午後４時１５分。%K%N
 %TS078Time%TE： 4:15 AM.
+%TS078时间%TE：下午４时１５分。
 
 %TS079場所%TE：オレの部屋。%K%N
 %TS079Location%TE： My room.
+%TS079地点%TE：我的房间。
 
 内海が雪まみれになった『オレの身体』をずりずりと引きずりながら入って来た。%K%N
 Utsumi entered, pulling "my (snow covered) body" inside.
+内海把满身是雪的“我的身体”连拖带拉地搬进房里。
 
 雪の付着したコートを脱がせる。%K%N
 She removed my coat, which was soaked through and clinging to me.
+帮我脱掉了沾满雪的外套。
 
 どこからかバスタオルを持って来て、オレの髪や顔のあたりを丁寧に拭った。%K%P
 With a bath towel she'd brought from somewhere, she kindly wiped down my hair and face.
+从别处拿来了浴巾，仔细地擦了我的头发和脸。
 
 意識を失った『オレの身体』を、引きずるようにベッドの上へと乗せる。%K%N
 She then dragged "my body," still unconscious, to the bed and laid it down.
+然后把失去意识的“我的身体”拽上了床。
 
 脈を取り、瞳孔を調べ、額に手のひらを添えて熱を測った。%K%N
 She took my pulse, checked my pupils, and placed her palm against my brow to check for fever.
+把了把脉，查了查瞳孔，把手掌贴在额头上试了试温度。
 
 布団をかける。内海が部屋を出て行く。%K%N
 She covered me with a blanket. Then Utsumi left the room.
+盖上被子。内海走出了房间。
 
 『オレの身体』は、その後しばらくのあいだ、微動だにせず眠り続けていた。%K%P
 For a while after that, "my body" continued sleeping without the slightest tremor.
+“我的身体”在其后很长时间里，一动不动地睡着。
 
 時刻：午後８時２分。%K%N
 Time: 8:02 PM.
+时刻：晚上８时０２分。
 
 場所：オレの部屋。%K%N
 Location: My room.
+地点：我的房间。
 
 部屋の窓が、突風にでも煽られたかのように激しく震え始めた。%K%N
 The room's window began to shake violently, as though hit by a sudden squall.
+房间的窗户，像被突然刮来的暴风摇动着一样，震动起来。
 
 その震動が収まると同時に、ベッドに横たわっていた肉体が身を起こした。%K%N
 The tremors began to settle, and at the same time, the body lying on the bed got up.
- 
+震动结束的同时，躺在床上的肉体爬了起来。
+
 苦しそうに顔を歪めている。%K%P
 Its face was warped in agony.
+脸上露出痛苦的表情。
 
 再び内海が部屋に現われ、その身体を優しくベッドに寝かしつけた。%K%N
 Utsumi appeared in the room again, and gently coaxed the body back into bed.
+内海再次来到屋里，温柔地扶那个身体躺下。
 
 ふたりは何やら会話を交わしている。%K%N
 The two of them were having a conversation about something.
+两个人说了些什么话。
 
 映像には音声は記録されていない。%K%N
 The recording had no sound.
+影像里面没有记录声音。
 
 従って、ふたりが何を話しているのかは、まったくわからなかった。%K%N
 Thus, I didn't know what they were talking about.
+因此，两个人到底说了什么，完全不知道。
 
 言うまでもなく、内海でない方の人物は、オレだった。%K%P
 It went without saying that the only other person there besides Utsumi was me.
+不用说，除了内海以外，那个人就是我了。
 
 オレの姿形をした肉体……。%K%N
 A body that looked like me....
+我的外貌的肉体……
 
 しかしオレには、このような状況で内海と会話をした覚えはない。%K%N
 But I don't remember talking to Utsumi like this.
+但是我不记得曾经在这种状况下跟内海谈话。
 
 つまり、このときの『オレの身体』には、こころの意識が入り込んでいたということだ。%K%P
 Which meant that Kokoro's consciousness had entered "my body."
+也就是说，这时候进入“我的身体”里的，是心的意识。
 
 最初の転移はこうして起こった。%K%P
 This was how the first transfer occurred.
+最初的转移就这样发生了。
 
 時刻は午後８時２分――。%K%P
 The time was 8:02 PM――
+时刻是晚上８时０２分——
 
 スフィアは２０１１年１月１１日の朱倉岳へと飛ばされ、%K%P
 SPHIA had jumped to the Mount Akakura of January 11th, 2011.
+ＳＰＨＩＡ转移到了２０１１年１月１１日的朱仓岳
 
 代わりに２０１２年の青鷺島には、１年前の避難小屋を中心とした半径１１０ｍの空間がやって来た。%K%P
 In exchange, a circle with a radius of 110 meters, with the shelter cabin at its core, arrived at the Aosagi Island of 2012.
+取而代之，２０１２年的青鹭岛迎来了一年前以避难小屋为中心半径１１０米的空间。
 
 このとき、青鷺島に残留していたオレの意識は、こころの肉体に憑依していたものと思われる。%K%P
 At that moment, my consciousness (which remained at Aosagi Island) had entered Kokoro's body.
+我想，在这时候，残留在青鹭岛的我的意识，应该正依附在心的肉体里。
 
 ゆえにこの映像は、正確に言えば『２０１１年の朱倉岳に飛ばされてきたスフィアの様子を映したもの』ということになる。%K%P
 Therefore, this footage showed "SPHIA after it jumped to the Mount Akakura of 2011."
+因此正确地说，这段影像“放映的是在２０１１年朱仓岳的ＳＰＨＩＡ的样子”。
 
 転移直後に窓が揺れていたのは、恐らくこのためだろう。%K%P
 That was probably why the window shook just before the transfer.
+转移之后立刻出现的窗户摇动，大概就是因为这个吧。
 
 スフィアの内部は高気圧、朱倉岳周辺は低気圧だから、窓には内側から外側に向かって空気の圧力がかかっていたのだ。%K%P
 The atmospheric pressure inside SPHIA was high, while Mount Akakura's was much lower, so the window was hit by air pressure on both sides.
+ＳＰＨＩＡ的内部是高气压，朱仓岳周围是低气压，所以窗户受到从内向外的空气压力。
 
 やがてそれは施設内のどこかの隙間から外へと逃げ出し、内部圧と外部圧は等しくなった。%K%P
 Eventually, the air managed to escape from the institution through a crack somewhere, and the interior equalized with the exterior pressure.
- 
+最后，空气从设施内的缝隙流出，内部和外部的压力变得相等。
+
 ところで、ひとつ気になったことがある。%K%P
 By the way, there was one other thing that bothered me.
+说起来，我察觉到一件事。
 
 今の気圧に関する推論が正しいとして、だ……。%K%P
 If my current reasoning regarding the atmospheric pressure was correct....
+如果刚才关于气压的推论是正确的话……
 
 さて、どうしてオレはそのことを見逃してしまっていたのだろうか？%K%P
 Then, how could I've overlooked something that big before?
+那么，为什么我没有发现这件事呢？
 
 意識は常に青鷺島にあったとしても、%K%P
 Even if my consciousness was always at Aosagi Island....
+尽管意识一直在青鹭岛
 
 こころの肉体に乗り移ったとき、あるいは自分の肉体へと帰ったとき、耳の痛みや隙間風の音などに気づいてもよさそうなものだ。%K%P
 When I transferred into Kokoro's body or returned to my own, I should have noticed pain in my ears, or heard the sound of the draft caused by the escaping air.
+转移到心的肉体上的时候，或者回到自己肉体的时候，应该能注意到耳痛和风压之类的。
 
 しかし、オレは一切そういった違和感を覚えなかった。%K%P
 But I don't remember feeling something that out of place even once.
+但是，我完全没有体会到这种感觉。
 
 なぜだ……？%K%P
 Why was that...?
+为什么……？
 
 転移直後の混乱の中では、そんな些細な変化にまで気をまわすことはできなかったのだろうか？%K%P
 Was it because I'd never paid any attention to such a trivial change in the chaos that followed a transfer?
+是不是因为刚发生转移，还处在混乱中，没有能够注意到这些细微的变化？
 
 なにかおかしい……。釈然としないものを感じた……。%K%P
 Something was strange.... I suddenly felt a sense of discontent....
+有什么不对劲……感到无法释怀……
 
 あれやこれやと考えをめぐらせるオレ……。%K%P
 All kinds of thoughts whirled through my head....
+我翻来覆去地思考着……
 
 そうしているあいだにも、映像は淡々と進んでいった。%K%P
 Like that, I disinterestedly kept viewing the footage.
+思考的同时，影像也在慢慢地播放着。
 
 『オレの身体（こころ）』が部屋を出ていく。%K%N
 "My body" (Kokoro) left the room.
+“我的身体（心）”走出房间。
 
 ダイニングで穂鳥に遭遇し、誰もいなかったはずの部屋でゆにに出逢った。%K%N
 It met Hotori in the dining area, and then discovered Yuni in a supposedly empty room.
+在餐厅遭遇了穗鸟，在本来没人住的房间遇到了悠尼。
 
 ゆにから鏡を受け取る『オレの身体』……。%K%N
 "My body" received a mirror from Yuni....
+“我的身体”从悠尼那里接过镜子……
 
 鏡の中をのぞき込み、なにやらボソボソと呟いている。%K%N
 It looked into the mirror, and then began muttering something.
+盯着镜子里面，不知道自言自语地在说什么。
 
 大きくくちを開いて頭を振る。叫び声をあげているらしい。%K%P
 It opened its mouth wide while tossing its head wildly, as if screaming.
+大张着嘴，摇着头。似乎是叫了出来。
 
 『オレの身体』がバタバタと暴れ始めた。%K%N
 "My body" began to get angry, building into a rage.
+“我的身体”开始狂暴起来。
 
 内海が部屋に姿を現わす。鎮静剤らしきものを注射した。%K%N
 Utsumi appeared in the room with the sedative, which she injected into "me."
+内海出现在屋里。注射了大概是镇定剂的东西。
 
 『オレの身体』がその場に崩れ落ちる。%K%N
 "My body" crumpled on the spot.
+“我的身体”当时就瘫倒下去。
 
 力を失った肉体……。%K%N
 An immobile container made out of flesh....
+失去力气的肉体……
 
 ゆにと内海はそれをオレの部屋まで運んだ。%K%P
 Yuni and Utsumi carried it to my room.
+被悠尼和内海搬回了我的房间。
 
 時刻：午後９時８分。%K%N
 Time: 9:08 PM.
+时刻：晚上９时０８分。
 
 場所：オレの部屋。%K%N
 Location: My room.
+地点：我的房间。
 
 ベッドの上、横たわっていた身体がもぞもぞと動き出す。%K%N
 My body began to stir as it lay on the bed.
+床上躺着的身体开始蠕动起来。
 
 部屋の中央に立って、あたりを見まわした。%K%N
 It got to its feet and stood in the middle of the room, looking around.
+站在房间中央，环顾四周。
 
 身体をまさぐる。安堵の表情を浮かべた。%K%N
 It began to grope at its body. An expression of relief crossed its face.
+活动了几下身体。露出安心的表情。
 
 オレだ。%K%P
 That's me.
+是我。
 
 そこに映っていたのは、オレの意識の伴なったオレ自身の姿だった。%K%N
 The image shown there was of me, in both body and consciousness.
+现在放映出的，是伴随我的意识存在的我自身的样子。
 
 ２回目の転移……。時刻は午後９時８分。%K%N
 The second transfer.... The time was 9:08 PM.
+第二次转移……时刻是晚上９时０８分。
 
 このあと起こったことは、オレの記憶にしっかりと刻まれている。%K%N
 What was about to happen after this had already been carved into my memory.
- 
+之后发生的事情，我记忆犹新。
+
 ゆにとの会話、地下倉庫に逃げる穂鳥、取り押さえるオレ……。%K%P
 The conversation with Yuni, Hotori running down to the basement storeroom, me running after her....
+跟悠尼的对话、逃往地下仓库的穗鸟、去抓她的我……
 
 すべてはオレの覚えている通りに記録されていた。%K%N
 Everything was recorded there just as I remembered it.
+记录的内容完全跟我记忆中的一样。
 
 知っていることを、あえて確認する必要はない。%K%N
 There was no need to confirm what I already knew.
+已经知道的事情，就不必要确认了。
 
 オレは動画データを早送りし、次の場面へと進めた。%K%P
 I fast-forwarded through the footage and went on to the next scene.
+我快进录像资料，进入下一场景。
 
 時刻：午後１０時２４分。%K%N
 Time: 10:24 PM.
+时刻：晚上１０时２４分。
 
 場所：ダイニング%K%N
 Location: Dining area.
+地点：餐厅。
 
 オレの指から３つのカップが滑り落ちた。%K%N
 The three cups slipped out of my fingers.
-//check, 3 cups slipped out of my fingers?  When did that happen?
+三个杯子从我手指中滑落。
+//check, 3 cups slipped out of my fingers? When did that happen?
 //found it! In SA1_06, he's cleaning up the table and carrying them really unsteadily (one finger through each handle), so he drops and breaks them all right before the jump.
 
 砕け散るカップ……。%K%N
 They shattered....
+摔碎了……
 
 その音に驚いたのだろうか、『オレの身体』はビクンと震えた。%K%N
 The sound must have surprised it, as "my body" twitched.
+大概是被这声音吓到了吧，“我的身体”颤抖了一下。
 
 床の上に散乱した破片を茫然と見つめている。%K%P
 It gazed obliviously at the fragments strewn across the floor.
+茫然地盯着地上散乱的碎片。
 
 後ろから、内海がやって来た。%K%N
 Utsumi came up behind me.
+内海从后赶来。
 
 振り返るオレ……。%K%N
 I turned around....
+我回过头……
 
 いや、それはオレではなかった。%K%N
 No, that wasn't me.
+不，那不是我。
 
 オレの姿形をした冬川こころだ。%K%N
 It was Fuyukawa Kokoro in my form.
+是以我的姿态出现的冬川心。
 
 オレにはこのような場面に遭遇した覚えがないのだから。%K%N
 I have no memory of this encounter, so it had to be her.
+因为我不记得遇到过这样的场面。
 
 午後１０時２４分――３度目の転移が起こった。%K%P
 10:24 PM――The third transfer occurred.
+晚上１０时２４分——第三次转移发生了。
 
 その後、『オレの身体（こころ）』は内海やゆにとのやり取りを経て、自室のバスルームへと駆け込んだ。%K%P
 Afterward, "my body" (Kokoro) exchanged a few words with Utsumi and Yuni before heading to its own bathroom.
+之后，“我的身体（心）”在跟内海和悠尼交谈一番之后，进入了自己房间的浴室。
 
 さすがにカメラはバスルームにまでは設置されていない。%K%P
 There weren't any cameras in there. It was a bathroom, after all.
+毕竟浴室里是不可能安装摄像头的。
 
 中で何が行なわれているのかは、わからなかった。%K%P
 I don't know what happened inside.
+里面发生了什么，就不知道了。
 
 このあたりは、たいして重要な場面ではないので飛ばす。%K%P
 There weren't any especially important scenes around here, so I jumped ahead.
+这一段没有什么重要场面，所以跳过。
 
 すべてを閲覧している時間はないのだ。%K%P
 I didn't have the time to inspect everything.
+没有时间全部阅览了。
 
 しかし、次に現われたシーンは見逃すわけにはいかなかった。%K%P
 However, I couldn't overlook the scene that happened next.
+但是，以下出现的场景不能漏过。
 
 時刻：午後１０時４５分。%K%N
 Time: 10:45 PM.
+时刻：晚上１０时４５分。
 
 場所：穂鳥の部屋%K%N
 Location: Hotori's room.
+地点：穗鸟的房间。
 
 『オレの身体』が内海から錠剤を受け取る。%K%N
 "My body" received the pills from Utsumi.
+“我的身体”从内海那里接受了药片。
 
 ベッドの上には、ぐったりとした穂鳥の姿があった。%K%N
 Hotori was on the bed, looking tired.
+在床上躺着的，是精疲力竭的穗鸟。
 
 室内に設置されたカメラはゆにの姿も捉えていた。%K%N
 Yuni suddenly appeared before the camera.
+室内安装的摄像头拍到了悠尼的身影。
 
 二言三言会話を交わしたのち、『オレの身体』とゆには寄り添うように部屋を出ていった。%K%P
 After exchanging a few words, "my body" held Yuni close, then left the room with him.
+三言两语地交谈过后，“我的身体”和悠尼紧贴着走出了房间。
 
 時刻：午後１０時４８分。%K%N
 Time: 10:48 PM.
+时刻：晚上１０时４８分。
 
 場所：オレの部屋%K%N
 Location: My room.
+地点：我的房间。
 
 『オレの身体』が錠剤を飲む。バスルームへと入っていく。%K%N
 "My body" took the pills, then went into the bathroom.
+“我的身体”吃下了药片。进了浴室。
 
 いよいよだ……。%K%N
 Finally....
+快到了……
 
 食い入るようにディスプレイを見つめる今のオレ……。%K%N
 I was entranced by the display, completely absorbed....
+我现在目不转睛地凝视着显示器……
 
 映像の中のオレの姿はもう見えない。%K%N
 Within the footage onscreen, I disappeared from view.
+影像中已经看不见我的身影了。
 
 無人の室内が映し出されているだけだった。%K%P
 Afterward, there was just the empty room.
+放映出的只是空无一人的房间。
 
 時刻：午後１１時１９分。%K%N
 Time: 11:19 PM.
+时刻：夜里１１时１９分。
 
 場所：オレの部屋%K%N
 Location: My room.
+地点：我的房间。
 
 何者かの背中が、画面の隅からフレームインする。%K%N
 Someone's back appeared at the edge of the frame.
+什么人的背影，在画面的一角被拍摄到。
 
 穂鳥だった。%K%N
 It was Hotori.
+是穗鸟。
 
 彼女は部屋に入ってくるなり、挙動不審な振る舞いを見せた。%K%N
 She came into the room and suddenly began to act very odd.
+她进了房间，看起来举动可疑。
 
 ２、３歩駆け足をしたかと思うとバッタリと倒れ、再び何歩か踏み出しては後ろ向きに転倒し……。%K%P
 She ran, but fell down after only two or three steps, and once she'd righted herself, she took only a few more before falling over backward....
+快跑了两、三步然后扑通一下摔倒了，再迈出几步又向后跌倒……
 
 そんなことを何度か繰り返したのち、彼女はペタリと床に座り込んでしまった。%K%N
 After repeating this several times, she planted herself on the floor.
+这种事情重复了好几次，然后她一屁股坐在地板上。
 
 冷蔵庫をじっと眺めている。手をたたいて笑った。%K%N
 Her eyes were trained on the refrigerator. She suddenly clapped her hands together and laughed.
+目不转睛地望着冰箱。拍手笑起来。
 
 立ち上がり、ベッドの布団を剥ぎ取り、それをめちゃくちゃに振りまわす。%K%N
 Then she stood up, peeled the blanket off the bed, and started swinging it around wildly.
+站起来，扒下床上的被子，杂乱无章地抖着。
 
 布団が足に絡みついて、またしても転倒……。%K%P
 But her foot got caught, and she fell down again....
+被被子绊到了脚，又一次摔倒……
 
 その拍子に、布団が彼女の顔面に覆いかぶさった。%K%N
 The momentum caused the blanket to carry her to the floor with it, where it fell and covered her face.
+一个趔趄，被子覆盖到她的脸上。
 
 バタバタともがいて、布団を取り払おうとする彼女……。%K%N
 After struggling underneath it for a bit, she threw it off to the side....
+她吧嗒吧嗒地扑腾着，然后才把被子掀开……
 
 やっとのことで顔を出し、きょとんとした表情を見せる。%K%N
 When she finally turned toward the camera, she was wearing a vacant expression.
+终于露出脸来，一副呆然若失的表情。
 
 きょろきょろとあたりを見まわした。%K%N
 Her eyes darted around the room.
+慌慌张张地四下张望。
 
 くちをあーんと大きく開き、丸めた拳をねじ込む。%K%N
 Then she opened her mouth as wide as it would go while curling her hands into fists.
+嘴巴“啊——”地大张着，把攥起来的拳头往里面塞。
 
 そのままの状態で、彼女はぐしゃぐしゃになった布団の上を転がり始めた。%K%P
 Just like that, she went limp and fell onto the bed.
+维持着那个状态，她又开始在变得不成样子的被子上打滚。
 
 「……………………」%K%N
 ............
+“……………………”
 
 この映像を見たのはこれで２度目になるが、やはり言葉を失わずにはいられない。%K%N
 This was the second time I'd seen this footage, and it still left me speechless.
+虽然已经是第二次看这段影像了，但还是无言以对。
 
 なにがやりたいんだ、こいつは……？%K%N
 What exactly was she trying to do...?
+这家伙到底要干什么……？
 
 奇怪な動きは１１分間も続いた。%K%P
 Her strange movements continued for another 11 minutes.
+奇怪的举动持续了１１分钟。
 
 時刻：午後１１時３０分。%K%N
 Time: 11:30 PM.
+时刻：夜里１１时３０分。
 
 場所：オレの部屋%K%N
 Location: My room.
+地点：我的房间。
 
 突然、穂鳥の背筋が弓なりにしなった。%K%N
 Suddenly, Hotori's back arched.
+突然，穗鸟的背弓了起来。
 
 パタンと床の上に倒れ、全身を硬直させる。%K%N
 She collapsed to the floor, and her whole body went rigid.
+啪嗒一下倒在地板上，全身僵直。
 
 数秒間、彼女は背中を反らしたまま動かなかった。%K%N
 For several seconds, she laid there completely still, her back still curved.
+数秒之内，她就那样子弓着背没有动。
 
 かと思うと、いきなり弾け飛ぶように身を起こした。%K%P
 And just as quickly, she suddenly sat bolt upright.
+刚想这怎么回事，她突然像被弹飞一样，猛然起身。
 
 バタバタと床を這って部屋の隅に向かう。%K%N
 Clambering across the room, she began crawling, heading for a corner.
+在地板上吧嗒吧嗒地爬向房间的角落。
 
 背中と両腕を壁につけ、足を縮め、怯え切った表情であたりを探っている。%K%N
 She pressed her back flat against the wall, arms outstretched, then crouched and wrapped them around her knees. She looked around the room with a frightened expression on her face.
+后背和双臂紧贴墙壁，缩起脚，露出怯懦的表情打探四周。
 
 指先が震えているのがわかった。%K%N
 I could see her fingers trembling.
+能看到她的指尖在颤抖。
 
 眉間には深々と縦じわが刻まれており、瞳はぎょろぎょろと忙しなく動き続けていた。%K%P
 Deep wrinkles etched themselves into her brow, and her eyes restlessly scanned the room.
+眉间紧锁成深深的竖皱纹，目光不停地四下搜寻。
 
 ３分後……。%K%N
 Three minutes later....
+三分钟后……
 
 穂鳥は恐る恐る立ち上がり、ドアに向かって駆け寄った。%K%N
 Hotori timidly stood up and rushed for the door.
+穗鸟战战兢兢地站起来，跑向门口。
 
 逃げるように部屋を飛び出していく彼女……。%K%N
 She fled the room....
+像逃跑一般冲出了房间……
 
 それからしばらくのあいだ、誰もいない映像が続いた。%K%P
 And for a while after that, all the camera recorded was an empty room.
+之后很久，影像里都没有人。
 
 時刻：午後１１時３７分。%K%N
 Time: 11:37 PM.
+时刻：夜里１１时３７分。
 
 場所：オレの部屋%K%N
 Location: My room.
+地点：我的房间。
 
 やがてバスルームのドアが開き、中からよろよろと『オレの身体』が姿を現わした。%K%N
 Eventually, "my body" came out through the bathroom door, walking unsteadily.
+浴室的门终于开了，“我的身体”摇摇晃晃地走了出来。
 
 全身ずぶ濡れのオレ……。%K%P
 My entire body was dripping wet....
+全身湿透的我……
 
 足元に点々と水たまりを残しながら、壁伝いにふらふらと歩いた。%K%N
 Feeling along the wall to support itself, it shambled forward, leaving puddles of water behind with every footstep.
+扶着墙壁蹒跚行走，脚下留下了点点水迹。
 
 その心もとない足取りには覚えがあった。%K%N
 I remembered taking those unsteady steps.
+我还记得那种力不从心的步伐。
 
 ゼグタミンのせいで、肉体の制御が利かなくなっているのだ。%K%N
 After taking the Zegtamin, my control over my own body weakened.
+由于Ｚｅｇｔａｍｉｎ的缘故，肉体已经很难控制了。
 
 ということは、今ディスプレイに映っているのは、オレの意識が入り込んだオレ自身の姿ということになる。%K%N
 This meant that, at this moment, the display was showing the real me.
+说起来，现在显示器上放映的，已经是我的意识进入了我自身的样子。
 
 転移のタイミングは恐らく穂鳥と同じだから、午後１１時３０分か……。%K%P
 The timing of the transfer was most likely the same as Hotori's, so 11:30 PM....
+转移的时间恐怕和穗鸟一样，是夜里１１时３０分……
 
 これで４度目の転移――２往復して元に戻って来たというわけだ。%K%N
 This was the fourth transfer――two round trips had occurred.
+这是第四次转移——经过两次往返又回来了。
 
 映像の中のオレは、ベッドを目前にして力尽きた。%K%N
 The me in the recording was exhausted, and with the last of my strength, I somehow made it to the bed.
+影像里的我，在床前用尽了力气。
 
 昏倒する。まぶたを閉じる。%K%N
 I passed out. My eyes snapped shut.
+昏倒了。闭上了眼。
 
 このあと、オレは翌朝６時半まで眠り続けた。%K%N
 After that, I slept until 6:30 the next morning.
+之后，我一直睡到翌日清晨６时３０分。
 
 １１日の動画データは以上で終了となる。%K%P
 That ended the video data for the 11th.
+１１日的录像资料就到此为止了。
 
 気になることがいくつかあったが、それらはひとまず置いておくことにしよう。%K%P
 There were a number of things there that had interested me, but for now I let them be.
+虽然有不少值得注意的事，但暂且放在一边。
 
 あとでまとめて考えればよい。%K%P
 I could organize my thoughts on that later.
+之后作总结思考就行了。
 
 引き続き、１２日のファイルに移る。%K%P
 I continued with the files from the 12th.
+继续，转到１２日的文件。
 
 『１月１２日木曜日』%K%N
 "January 12th, Thursday."
+“１月１２日星期四”
 
 この日に起こった出来事の中で最も重要なのは、もちろん、左腕を斬りつけられたときのことだ。%K%N
 The most important event occurring on this day was, of course, my arm being stabbed.
+这天发生的事情中最重要的，自然是左臂被砍的时候。
 
 よって、その範囲だけに焦点を絞って再生を進めることにする。%K%P
 I concentrated, narrowing my focus, and pressed fast forward.
+因此，只把这个事情作为焦点，进行重放。
 
 時刻：午後５時３０分。%K%N
 Time: 5:30 PM.
+时刻：下午５时３０分。
 
 場所：オレの部屋。%K%N
 Location: My room.
+地点：我的房间。
 
 室内に設置されたカメラが内海の姿を捉えた。%K%N
 The camera had captured Utsumi's image.
+室内安装的摄像头捕捉到了内海的身影。
 
 窓が強風に煽られ小刻みに震えている。%K%N
 The window trembled in the strong wind.
+窗户被强风吹动，稍微震动了一下。
 
 内海がオレの腕をつかんだ。%K%N
 Utsumi was holding onto my arm.
+内海抓住了我的手腕。
 
 『オレの身体』と何やら会話を始める。%K%P
 She began conversing with "my body."
+开始和“我的身体”说起什么。
 
 内海の表情には不安の色が浮かんでいた。%K%N
 Unease stole over Utsumi's face.
+内海的表情露出不安的神色。
 
 すると、そのときだった――。%K%N
 And then, at that moment――
+然后，在这时——
 
 画面にザラザラとしたノイズが走り、室内の映像が大きく揺らいだ。%K%N
 White noise and static began to fill the screen, and the footage of the room began to waver.
+画面上传出沙啦沙啦的噪音，室内的影像大幅度晃动。
 
 その振幅はみるみるうちに増大し、なにが映っているのかさえ判別できなくなってしまった。%K%P
 That wavering increased further, until I could no longer make out anything on the screen.
+震动幅度眼看着逐渐增大，然后就不能判断在放映着什么内容了。
 
 歪む映像……。かすれた画面……。%K%N
 The image warped.... The picture blurred....
+歪曲的影像……暗哑的画面……
 
 巻き戻して低速再生すると、互いに抱きあってうずくまる『オレの身体』と内海の姿がかろうじて見て取れた。%K%N
 I rewound and played the scene back in slow motion, and saw "my body" and Utsumi holding each other, crouched on the floor.
+倒回去慢速重放，认出了“我的身体”和内海互相抱着蹲下的身影。
 
 地震だ……。%K%N
 An earthquake....
+是地震……
 
 そう言えば、こころからのメッセージにもそのようなことが書いてあった。%K%P
 Now that I thought about it, Kokoro had written a message like that to me.
+说起来，心给我的留言里也写过这件事。
 
 『スフィアで地震が起きました』%K%N
 "An earthquake occurred at SPHIA."
+“ＳＰＨＩＡ里发生地震了。”
 
 『そのせいでブレーカーが落ちて、停電になっちゃって……』%K%N
 "Because of that, the breaker was tripped, and a blackout occurred..."
+“因此电闸掉了下来，停电了……”
 
 『今はもう直ったけどね』%K%N
 "It's fixed now though."
+“不过现在已经修好了。”
 
 その言葉通り、画面から突然、光が消え失せた。%K%N
 Just like in her message, the screen suddenly went pitch black.
+如她所说，光突然从画面上消失了。
 
 照明だけが落ちたのではない。%K%N
 It wasn't just the lights, either.
+不只是照明停止了。
 
 完全なブラックアウト……。%K%P
 A complete blackout....
+完全断电了……
 
 ファイルには、画像データそのものが記録されていなかったのだ。%K%N
 The file itself was empty, with nothing recorded in it.
+文件里没有记录这一段的画面数据。
 
 恐らく、電源が落ちてしまったために、カメラや録画システムが機能しなくなってしまったのだろう。%K%N
 The cameras had probably stopped working because of the power failure.
+恐怕是由于电源中断，摄像头和录像系统的机能都停止了吧。
 
 真っ黒な、映像とは呼べない映像が、数秒間続いた。%K%N
 A sequence of utter darkness that could hardly be called footage continued on for several minutes.
+全黑的、不能称之为影像的影像持续了几秒钟。
 
 やがて、ジャキジャキとささくれ立った粒子を幾度か放ったのち、画面は洗われたようにクリアになった。%K%N
 Eventually, the grainy particles onscreen began to fire across the display and, as if washed down, the image on the screen became completely clear.
+终于，嚓嚓地出现了几次粗糙的粒子后，画面清晰如洗。
 
 そこに映し出されていたのは、電源を回復した後のスフィアの光景だった。%K%P
 The post-blackout SPHIA appeared onscreen.
+上面放映出的，是电源恢复以后ＳＰＨＩＡ的光景。
 
 時刻：午後７時１０分。%K%N
 Time: 7:10 PM.
+时刻：晚上７时１０分。
 
 場所：オレの部屋。%K%N
 Location: My room.
+地点：我的房间。
 
 照明が灯り、『オレの身体』がまぶしさに目を細める。%K%N
 The lights returned, and "my body" squinted.
+照明重新点亮，“我的身体”被灯晃得眯起了眼睛。
 
 その左腕からは大量の血液が流れ出していた。%K%N
 Blood was gushing from its left arm.
+左臂流出了大量鲜血。
 
 傍らには内海の姿もあった。%K%N
 Utsumi was there as well.
+旁边站着内海。
 
 内海は出血したオレの左腕を見て、激しく取り乱していた。%K%P
 She took one look at my bleeding arm and fell into obvious dismay.
+内海看到我出血的左臂，惊慌失措。
 
 もはや言うまでもないかも知れないが、このときのオレはオレではない。%K%P
 This might go without saying, but the me there at that moment wasn't me.
+大概不必说也知道，这时的我还不是我。
 
 地震のときも含めて、『オレの身体』を操っていたのは、こころの意識だ。%K%P
 The one moving "my body" was Fuyukawa Kokoro's consciousness, even during the earthquake.
+包括地震的时候，操纵“我的身体”的，是心的意识。
 //We know already. Geez. - Sheeta
 
 とは言え、直前の映像と、いま見ている映像は、連続しているわけではなかった。%K%P
 Although, with that said, it wasn't as if the images from before and those appearing right now were continuous.
+话虽如此，之前的影像和现在看到的影像，并不是连续的。
 
 オレは停電による闇の中で、人影と、その右手に握りしめられた刃物を見た。%K%P
 I'd seen a shadowy figure in the darkness of the blackout, a knife grasped in its right hand.
+我在停电造成的黑暗中，看到了人影，及其持刀的右手。
 
 このことは、５時半から７時１０分までの間に、オレとこころが２度（１往復分）入れ替わったことを示している。%K%P
 Going by this, between 5:30 and 7:10, Kokoro and I had switched places with each other twice (one round trip).
+这就表明，从５时３０分到７时１０分之间，我和心进行了两次交换（一次往返）。
 
 ところで、オレが左腕を負傷したのは、いつのことだろうか？%K%P
 That reminds me, at what time was my left arm injured anyway?
+但是，我的左臂受伤是什么时候的事呢？
 
 オレの意識がスフィアに戻ってきたときにはすでに、左腕には深々とした傷が刻まれていた。%K%P
 By the time my consciousness returned to SPHIA, my arm already bore a deep wound.
+我的意识回到ＳＰＨＩＡ的时候，左臂已经被刻上了深深的伤口。
 
 つまり、斬られたときに『オレの肉体』に憑依していたのは、オレではなく、こころだったということだ。%K%P
 In other words, the one in control of "my body" when I was stabbed wasn't me, but Kokoro.
+也就是说，被砍的时候，依附在“我的身体”里的不是我，而应该是心。
 
 これらを考えあわせると、何者かが襲ってきたのは『停電後から次の転移が発生するまで』ということになる。%K%P
 Keeping this in mind, it would mean that the attack took place "after the power failure but before the next transfer occurred."
+联系这些来考虑的话，被人袭击就发生在“停电之后到下次转移发生之前”。
 
 ところが、肝心のその場面は電源が落ちていたために記録されていなかった。%K%P
 However, the blackout had prevented that crucial scene from being recorded.
+然而，最关键的场面就因为电源中断而没有记录下来。
 
 何度再生しても同じ……。%K%P
 It was the same no matter how many times I tried playing it back....
+无论重放多少次都一样……
 
 データが新たに生み出されるようなことはない。%K%P
 Nothing new jumped out at me from the recording.
+数据不会自己产生。
 
 オレはあきらめて、１２日のファイルを閉じた。%K%P
 I gave up and closed the files for the 12th.
+我放弃了，关掉了１２日的文件。
 
 １月１３日金曜日、この日は比較的穏やかに時が過ぎていったのを覚えている。%K%P
 Friday, January 13th. I recall that things were relatively calm on that day.
+１月１３日星期五，我记得这一天度过得比较平稳。
 
 『比較的』というのは、他の日に比べれば、という意味だ。%K%P
 And by "relatively," I meant compared to the other days.
+所谓“比较”，是跟其它几天相比的意思。
 
 『オレの身体』が生命の危機に瀕するようなこともなかったし、誰かが誰かに襲いかかるというような出来事も起こらなかった。%K%P
 "My body" didn't experience any threats to its life, nor did anyone attack anyone else.
+“我的身体”既没有濒临生命危机，也没有发生谁被谁袭击之类的事件。
 
 従って、１３日のファイルを再確認する必要はない。%K%P
 Therefore, there wasn't any need to double-check the files for the 13th.
+因此，１３日的文件就没有必要再去确认了。
 
 １日分飛ばして、１４日の解析に移った。%K%P
 I skipped over that day and moved on to the 14th.
+跳过一天的内容，转而剖析１４日。
 
 『１月１４日土曜日』%K%N
 "January 14th, Saturday."
+“１月１４日星期六”
 
 榎本尚哉に逢ったのが、この日だった。%K%N
 That was the day I met Enomoto Naoya.
+与鼷本尚哉相遇就是在这一天。
 
 オレは彼から時空間転移の話を聞き、命を奪われそうになったのだ。%K%N
 I listened to him talk about the space-time transfer, and then he nearly killed me.
+我从他那里听说了时空间转移的事，还差点被他杀了。
 
 しかし一往復分の転移を経て、元に戻って来たとき……。%K%P
 However, I transferred again the moment before it happened, and once I returned....
+不过经过了一次往返的转移，回来的时候……
 
 殺されていたのは榎本の方だった。%K%N
 It was Enomoto who lay dead, not me.
+被杀的竟然是鼷本。
 
 この前後のことは、たいして重要ではない。%K%N
 Nothing that occurred prior to that moment was very important.
+这之前之后的事情，都不怎么重要。
 
 あのとき、地下倉庫で何が起こったのか……？%K%N
 Just what had happened down in the basement storeroom...?
+那时候，在地下仓库里发生了什么……？
 
 気になるのは、そのことだけだ。%K%N
 That was the only thing that bothered me.
+我在意的，只有这个。
 
 オレは榎本との格闘シーンだけを抽出し、再生を始めた。%K%P
 I extracted the scene of my struggle with Enomoto and played it back.
+只抽出我和鼷本格斗的场面，开始播放。
 
 時刻：午後６時１１分。%K%N
 Time: 6:11 PM.
+时刻：晚上６时１１分。
 
 場所：地下倉庫。%K%N
 Location: Basement storeroom.
+地点：地下仓库。
 
 暗闇……。黒い画面……。%K%N
 Darkness.... A black screen....
+黑暗……黑色的画面……
 
 しかし先程の地震のときとは違い、データ自体はきちんと保存されていた。%K%N
 But, unlike the earthquake several days ago, this time the data itself had been properly recorded.
+但是与之前地震的时候不同，数据本身都完整地保存下来了。
 
 非常灯の明かりがほのかにあたりを照らしている。%K%N
 The emergency lights illuminated the area.
+紧急灯的光亮略微照亮了周围。
 
 薄暗い映像の中には、蠢く人影も見えた。%K%N
 Within the dimness onscreen, I saw human shadows writhe.
+在昏暗的影像中，看到了蠢动的人影。
 
 だが、これでは何がなんだかさっぱりわからない。%K%P
 But because of that, I couldn't tell what was happening.
+但是，这样完全不知道有什么状况。
 
 オレは動画データの明度を上げ、彩度と色調を補整し、同時にコントラストが際立つように画像を加工した。%K%N
 I raised the brightness of the footage and increased the color saturation and tone at the same time, which raised the contrast considerably.
+我对图像进行加工，提高录像资料的亮度，修正彩度和色调，同时加强对比度。
 
 一発だった。ものの見事に輪郭が浮かび上がった。%K%N
 That did it. The contours of the objects on the screen became fantastically clear.
+一气呵成。轮廓确实已经相当显眼。
 
 光の当たっている側面だけが強調される形となったが、それでも人物を特定するぶんには何ら支障はない。%K%N
 Only the surfaces that the light managed to hit stood out, but I had no trouble distinguishing the human figures in the image.
+虽然仅仅强调了受光一侧，但判断是谁已经没有问题了。
 
 ディスプレイには、榎本と格闘するオレの姿が映し出されていた。%K%P
 The display showed Enomoto and me grappling with each other hand-to-hand.
+显示器上，放映出了我和鼷本格斗的身影。
 
 榎本は『オレの身体』に馬乗りになって、くちと喉を押さえつけている。%K%N
 Enomoto was straddling "my body," pressing hard on my nose and mouth with both hands.
+鼷本骑在“我的身体”上，按住我的嘴和咽喉。
 
 オレはこのときのことを知らない。%K%N
 I had no memory of this.
+我不知道这时的事情。
 
 つまり、このときにはすでに転移が発生していたということだ。%K%N
 In other words, the transfer had already occurred by this time.
+也就是说，这时候转移已经发生了。
 
 手足をバタつかせて暴れる『オレの身体』……。%K%N
 "My body" struggled violently, thrashing its arms and legs....
+“我的身体”手脚乱动地挣扎着……
 
 強烈な右フックが榎本の顎をとらえた。%K%N
 And caught Enomoto in the chin with a strong right hook.
+强力的右钩拳击中了鼷本的下巴。
 
 榎本がよろめく。%K%P
 Enomoto staggered.
+鼷本松了手。
 
 その隙に『オレの身体』は榎本の拘束を逃れた。%K%N
 "My body" seized that chance to escape Enomoto's hold.
+“我的身体”趁机逃离了鼷本的束缚。
 
 それから先は、長い逃走劇だった。%K%N
 After that, a long flight ensued.
+之后很长时间，都是追逃的内容。
 
 こころの意識に操られるがまま、『オレの身体』は一度建物を出て、窓から自室へと戻った。%K%N
 With Kokoro's consciousness controlling it, "my body" left the building once and reentered through the window of my room.
+在心的意识操纵之下，“我的身体”曾经跑出了建筑物，然后从窗户回到了自己的房间。
 
 部屋のドアに駆け寄り、なにか驚いたようにパッと顔をあげる。%K%N
 It rushed over to the door, then suddenly looked up, as though surprised.
+跑到房间门前的时候，好像有什么惊讶的，突然抬起头。
 
 恐る恐る部屋を離れ、ダイニングを通り過ぎ、再び地下倉庫へと降りていった。%K%N
 Timidly, it left the room, passed through the dining area, and then once again descended the stairs to the basement storeroom.%K%P
+战战兢兢地离开了房间，穿过餐厅，再次下到地下仓库。
 
 待ちかまえていたかのように、榎本がオレの肩を突き飛ばした。%K%P
 As though he'd been waiting for me, Enomoto's hand shot out and made contact with my shoulder.%K%N
+就像埋伏好了一样，鼷本突然撞向我的肩膀。
 
 倒れる『オレの身体』……。%K%N
 "My body" fell....
+“我的身体”倒了下去……
 
 その上に飛びかかる榎本……。%K%N
 Enomoto sprang after it....
+鼷本跳上来……
 
 彼の手には白々と輝くナイフが握られていた。%K%N
 His hand still grasped the palely glinting knife.
+他手里握着闪亮的小刀。
 
 榎本がナイフを逆手に持ちかえる。%K%N
 Enomoto inverted the knife...
+鼷本反手持刀。
 
 オレの喉元めがけて振り下ろした。%K%P
 ...and swung it down right at my throat.
+瞄准我的喉咙挥下来。
 
 その瞬間――。%K%N
 At that moment――
+这一瞬间——
 
 榎本の姿が画面から消えた。%K%N
 Enomoto disappeared from the screen.
+鼷本的身影从画面上消失了。
 
 一瞬のことで、なにが起こったのかよくわからない。%K%N
 For a moment, I didn't know what was happening.
+因为时间太短，我不太清楚发生了什么。
 
 巻き戻し、低速再生する。%K%N
 I rewound, then played the video back in slow motion.
+倒回去，低速重放。
 
 するとそこには、はやてのような素早さで、榎本に豪快な体当たりを食らわす穂鳥の姿が映っていた。%K%P
 When I did, I saw Hotori tear across the screen with the speed of a gale, taking down Enomoto with a perfectly aimed body blow.
+然后看到，穗鸟如疾风一般，让鼷本吃了一记豪迈地撞击。
 
 悟「どうして……穂鳥が……？」%K%P
 Why... did Hotori do that...?
+悟「为什么……穗鸟会……？」
 
 この映像を見たのは初めてではないが、声を洩らさずにはいられなかった。%K%P
 This wasn't the first time I'd seen this image, but I still couldn't help but stare at it in shock.
+虽然不是第一次看这个影像了，但还是不自觉地念叨出来。
 
 どうやらオレとこころは、穂鳥に命を救われたらしい。%K%P
 Kokoro and I had been saved by Hotori.
+看起来，我和心似乎是被穗鸟所救。
 
 そんなこと、こころからも、穂鳥からも、一度も聞いたことはないが……？%K%P
 I hadn't heard a peep out of either Kokoro or Hotori to that effect...
+这件事，心和穗鸟都没有跟我说过啊……？
 
 考えているあいだにも、映像は進んでいった。%K%P
 As I thought that, the events onscreen were still rushing by.
+思考的同时，影像也继续播放着。
 
 オレは再生速度を標準に戻し、ディスプレイをじっと見つめた。%K%P
 I returned the playback setting to normal speed and fixed my eyes on the screen.
+我把播放速度恢复成常速，目不转睛地盯着显示器。
 
 榎本が立ち上がり、闇の中に目を凝らしている。%K%N
 Enomoto got to his feet and stared into the darkness.
+鼷本站起来，凝视着黑暗中。
 
 なにかを必死に探しているようだ。%K%N
 He appeared to be frantically searching for something.
+似乎在拼命的找着什么。
 
 よく見ると、彼の手元からナイフが消え失せているのがわかった。%K%N
 Looking closely, I could tell that the knife had disappeared from his hand.
+细看之下，发现他手里的刀消失了。
 
 突き飛ばされた拍子に、落としてしまったのだろう。%K%N
 He must have dropped it the moment he fell.
+是在被撞飞的时候掉了吧。
 
 そのナイフは今、オレの手中にあった。%K%P
 That knife was now in my hand.
+那把刀现在，在我的手中。
 
 左手……。%K%N
 My left hand....
+左手……
 
 ナイフをつかんでいたのは、左の方の手のひらだった。%K%N
 It was my left hand that gripped the knife.
+持刀的是，左边的手掌。
 
 榎本がうろたえた様子で首を振りながら、闇に覆い隠された足元を探っている。%K%N
 Enomoto shook his head in disbelief as he continued to survey the occluding darkness.
+鼷本一边惊慌失措地摇头，一边在被黑暗掩盖的脚下摸索着。
 
 その背後に向かって、『オレの身体』がたどたどしい足取りで駆け寄っていく。%K%N
 On faltering steps, "my body" rushed toward him from behind.
- 
+在他背对的一面，“我的身体”迈着蹒跚地脚步靠近他。
+
 気配を殺そうとする素振りもなければ、逆に雄叫びをあげて威嚇するような仕草も見せなかった。%K%N
 It didn't make any attempt to conceal itself, but neither did it scream out or make any other threatening movements.
+既不像是屏息潜行的样子，也没见有大吼威吓的迹象。
 
 まるで仔猫みたいだった。%K%P
 It was almost like a kitten.
+简直像小猫一样。
 
 動くものには何にでも反応して、無邪気に跳びかかろうとする仔猫……。%K%N
 A kitten that reacted to anything that moved, jumping around innocently, and finally pouncing....
+对什么活动的东西都有反应，天真地跳来跳去的小猫……
 
 その足音に気づいたのか、榎本が振り返った。%K%N
 The sound of footsteps seemed to have finally reached Enomoto's ears, as he suddenly turned around.
+注意到脚步声，鼷本转过身。
 
 『オレの身体』が、彼の胸元めがけて抱きつく。%K%N
 "My body" aimed for his chest, and rushed forward to cling to it.
+“我的身体”冲着他的胸口抱了过去。
 
 仔猫がじゃれつくように……。戯れるように……。%K%N
 Just like a kitten frolicking.... Playfully....
+就像小猫玩耍一般……嬉戏一般……
 
 ふたりの身体は重なりあったまま宙に浮き、ゆるやかな放物線を描いて床の上へと落ちていった。%K%P
 Their two bodies overlapped as they flew through the air, drawing a slow parabola in their fall.
+两个人的身体一起飞了出去，慢慢划出一道抛物线落在地上。
 
 直後――。%K%N
 Right after that――
+之后——
 
 ディスプレイが白一色に染まった。%K%N
 The display went white.
+显示器变成了全白。
 
 明度が高すぎて画像が飛んでしまったのだ。%K%N
 The picture had jumped because the brightness was too high.
+亮度太高，图像都看不清楚了。
 
 オレは映像に加えられていたすべての効果を取り払った。%K%N
 I cleared all of the adjustments I'd made to the footage.
+我取消了对画面做出的所有调整效果。
 
 少しだけ巻き戻し、再生する。%K%P
 Then I rewound it a bit and played it back again.
+稍微倒回一点，重放。
 
 薄暗い倉庫の天井……。%K%N
 From the ceiling of the dim storeroom....
+昏暗的仓库天花板……
 
 幾度か明滅を繰り返し、照明がいっせいに灯った。%K%N
 After flickering several times, the lights came back on and flooded the room.
+几次闪烁之后，照明终于点亮。
 
 明かりを点けたのはゆにだった。%K%N
 Yuni was the one responsible for that.
+开灯的是悠尼。
 
 ゆにがスイッチから指先を離し、振り返る。%K%P
 Lowering his finger from the switch, he turned around.
+悠尼把手指从开关上拿开，转过身。
 
 息を呑んだ。%K%N
 And gulped.
+吞了一口唾沫。
 
 くちもとを手のひらで押さえ、大きく目を見開いている。%K%N
 He pressed a hand over his mouth, his eyes as round as saucers.
+用手捂住了嘴，睁大了眼睛。
 
 愕然としたその表情……。%K%N
 An expression of terror....
+愕然的表情……
 
 ゆにの視線をたどると、そこには――。%K%P
 Following the direction of Yuni's stare, I saw――
+沿着悠尼的视线看去，那里是——
 
 %N%N%N%N%N
 
 
 血まみれになった榎本の死体が転がっていた。%K%P
 Enomoto's bloody corpse, crumpled on the floor.
+弄得浑身是血的鼷本尸体倒在地上。
 
 昨日、ゆにはオレに向かってこんなことを言った。%K%N
 Yesterday, Yuni had said to me.
+昨天，悠尼对我说过这些话。
 
 「思ってるも何もないよ」%K%N
 This goes way beyond just thinking.
+“并不是以为。”
 
 「この目で、確かに見たんだから」%K%N
 I saw you with my own eyes.
+“是我亲眼见到的。”
 
 「楽しそうに笑いながら、あの男の人を何度も何度も突き刺してるところ……」%K%N
 You were laughing as you stabbed that man... over and over and over...
+“一边很高兴地笑着，一边刺了那个男人好多好多次……”
 
 「もう死んでるってわかってたはずなのに！」%K%N
 Even you must've known he was already dead!
+“明明应该知道他已经死了的！”
 
 「なのにしつこく何度も何度も……！」%K%N
 But you just kept on stabbing him...!
+“然而还不断地一次又一次……！”
 
 「死体をいたぶって遊ぶみたいにさぁ！　してただろ！？」%K%P
 You butchered his corpse, acting like it was all a game to you! Didn't you?!
+“好像在玩弄那个尸体一样！你是这么做的吧！？”
 
 ゆにの言葉を裏付けるかのように、画面には死体と戯れるオレの姿が鮮明に映し出されていた。%K%N
 As if to verify Yuni's words, the screen all too clearly showed an image of me toying with the corpse.
+就像是在印证悠尼的话一样，画面里清晰地放映出我与尸体玩耍的样子。
 
 笑っている……。確かにオレは笑っていた……。%K%N
 I'm laughing.... It's true....
+在笑……我确实在笑……
 
 榎本の上にまたがり、両手に握りしめたナイフで肉体を切り刻んでいた。%K%N
 Straddling Enomoto, I slashed him over and over again with the knife I gripped in both hands.
+骑在鼷本身上，双手紧握着小刀，切砍着肉体。
 
 胸をえぐる。腹を突き破る。%K%N
 Digging chunks of flesh from his chest. Piercing right through his belly.
+剜割胸口。刺破肚子。
 
 デタラメな落書きでもするかのように、縦横無尽に刃物を滑らせた。%K%N
 As if scribbling randomly on a piece of paper, I ran the knife all over the body.
+像在乱写乱画一样，用刀横竖划出了无数道伤痕。
 
 音もなく、ナイフが肉の塊に吸い込まれていく。%K%P
 Soundlessly, the knife was drawn into the lifeless slab of meat.
+小刀无声地插进了肉块里。
 
 痴態の笑みを浮かべ、狂喜するオレ……。%K%N
 With a foolish smile of utter ecstasy on my face....
+我露出带有痴态的笑容，陷于狂喜中……
 
 肉に埋ずもれていくナイフの感触を、心から楽しんでいるようだ。%K%N
 I was wholeheartedly enjoying the sensation of the knife sinking into the meat.
+似乎刀刃没进肉里的感触，能带来由衷的快感。
 
 一方榎本は、濁った瞳を虚空に向けたまま、動かなかった。%K%N
 Enomoto was still, his clouded eyes fixed on the empty air above him.
+另一方面，鼷本用浑浊的眼睛望向空中，一动不动。
 
 オレが刃物を突き刺すたびに、彼の口や鼻の孔から泡状の血液が噴きあがり、流れ落ちていった。%K%P
 With every thrust of my knife, more blood foamed out of his mouth and nostrils, and ran off onto the floor.
+在我用刀刺他的时候，泡状的血液从他的嘴里鼻子里喷出，流淌下来。
 
 その遊戯はいつ果てるともなく延々と、執拗に繰り返された。%K%N
 I endlessly persisted in this terrible game, doing it over and over and over again.
+这一过程执拗地重复着，如同要把这个游戏无尽地持续下去。
 
 オレは冷たくなった肉塊の上で、休むことなく両手を動かし続けたのだった。%K%P
 I continued moving my hands across that cold slab of meat, never resting for a moment.
+我在冰冷的肉块上，不停歇地挥动着双手。
 
 悟「いや、そうじゃない……」%K%P
 No, that's not it...
+悟「不，不是那样……」
 
 ふと、我に返って首を振る。%K%P
 I suddenly shook my own head as I came to my senses.
+突然，我回过神来，摇摇头。
 
 ここに映っているのは『オレ』ではない。%K%P
 The person being projected here wasn't "me."
+这里放映出的不是“我”。
 
 オレの身に乗り移った『冬川こころ』だ。%K%P
 It was "Fuyukawa Kokoro."
+是转移到我身体里的“冬川心”。
 
 けれど、こうも露骨に見せつけられると、錯覚を抱かずにはいられなかった。%K%P
 However, after having seen it so plainly, I could no longer think of it as just an illusion.
+可是，眼前这露骨的一幕，一定会让人产生这种错觉。
 
 もしかしたら、榎本を殺したのはこころではなく、オレ自身だったのではないか……？%K%P
 What if the one who killed Enomoto wasn't Kokoro, but actually me....?
+难道说，杀死鼷本的不是心，而是我自己……？
 
 オレは気づかぬうちに正気を失い、このような蛮行へと及んだのではないか……？%K%P
 Had I completely lost myself without even realizing it, and fallen to such a level of barbarism...?
+会不会是我在自己无意识的情况下失去了理智，作出了这样的野蛮行径呢……？
 
 実際、画面に描き出されたその姿は、オレ以外の何者でもなかった。%K%P
 In reality, the person there onscreen couldn't be anyone but me.
+实际上，画面上描绘的那个身影，除了我以外没有别人。
 
 常識的に考えれば、虐殺犯はオレだと解釈するのが最も理にかなっているようにも思えた。%K%P
 Using common sense, the most obvious explanation for this gruesome murder was that I was the culprit.
+从常识上考虑的话，我是虐杀犯，这样的解释是最为合理的。
 
 悟「でも、違うんだ……」%K%P
 But that's wrong...
+悟「不过，有问题……」
 
 オレは思わず目をそらした。%K%P
 I unconsciously looked away.
+我不禁移开了目光。
 
 悟「これは、オレじゃない……」%K%P
 This isn't me...
+悟「这个，不是我……」
 
 悟「オレじゃないんだ……オレじゃないんだ……」%K%P
 It isn't me... it isn't me...
+悟「不是我……不是我……」
 
 言い聞かせるように何度も呟く。%K%P
 I muttered those words again and again, trying to convince myself.
+好像在说给自己听一样，念叨了好几次。
 
 再び顔をあげたとき、場面は次の展開へと進んでいた。%K%P
 By the time I lifted my head back up, the next scene had begun to unfold.
+再抬头的时候，场面又有进展。
 
 『オレの身体』が榎本から離れる。%K%N
 "My body" got up from Enomoto.
+“我的身体”离开了鼷本。
 
 血まみれになった手のひらと刃物を不思議そうに眺めていた。%K%N
 It stared at the blood-drenched knife as though it were something mysterious.
+不可思议地看着自己沾满血的手掌和凶器。
 
 そのすぐそばには穂鳥の姿もあった。%K%N
 Right there next to it was Hotori.
+穗鸟就在旁边。
 
 彼女は血だまりの中にしゃがみ込み、その液体をぴちゃぴちゃと弾いて遊んでいた。%K%P
 She was crouching in the puddle of blood, splashing around playfully in it.
+她蹲进血泊之中，咻咻地弹着那液体玩。
 
 舞い上がる血しぶき……。したたり落ちていく赤いしずく……。%K%N
 The blood flew up as splashes.... and fell back down as a red rain....
+飞舞的血沫……滴落的红色液滴……
 
 しずくは血だまりの中に呑み込まれ、波紋を描いて消え去った。%K%N
 The falling raindrops disappeared back into the puddle, creating ripples before they vanished.
+液滴融进了血海中，激起一圈波纹，然后消失了。
 
 その様子を見ながら、穂鳥は頬をほころばせてはしゃいでいた。%K%N
 As she watched them, Hotori's face broke into a huge, gleeful smile.
+穗鸟一边看着那个样子，一边欢快地绽放着笑容。
 
 彼女もまた、笑っていたのだ。%K%P
 She was laughing again.
+她也在笑。
 
 もはやそれらの光景は、オレの理解を超えていた。%K%P
 This had already exceeded the limits of my understanding.
+这个光景，已经超出了我的理解范围。
 
 冷ややかな気味の悪さに戦慄を覚える。%K%P
 I shuddered violently, as though suddenly cold.
- 
+感觉到冰冷地令人毛骨悚然的战栗。
+
 狂っている……。%K%P
 It was madness....
+疯了……
 
 これが狂気の沙汰でなくて何だと言うのだ……。%K%P
 If this wasn't an act committed by a madman, then what was it...?
+如果这不是疯狂行为的话，那还有什么敢说是……
 
 とても人間の仕業とは思えない。%K%P
 I couldn't believe that a human was capable of this.
+真不是人干的事情。
 
 人間になり損ねた２頭の魔物が、束の間の児戯に興じているだけだ。%K%P
 The beings onscreen were just a pair of demons who'd assumed human form, and were amusing themselves for a little while with this.
+不能称为人的两头怪物，转眼间就兴高采烈地玩起了小孩子的游戏。
 
 オレにはそんなふうにしか見えなかった。%K%P
 I couldn't see it any other way.
+我只能木然地看着。
 
 時刻：午後７時１７分。%K%N
 Time: 7:17 PM.
+时刻：晚上７时１７分。
 
 場所：地下倉庫。%K%N
 Location: Basement storeroom.
+地点：地下仓库。
 
 画面の中、オレはパッと顔をあげてあたりを見まわした。%K%N
 Onscreen, I suddenly raised my head and looked around the room.
+画面中，我突然抬起头环顾周围。
 
 左手のナイフに気づく。%K%N
 I noticed the knife in my left hand.
+注意到了左手的小刀。
 
 表情には驚愕と動揺の色がありありと浮かんでいた。%K%N
 An expression of shock and deep disturbance came to my face.
+清清楚楚地露出了惊愕和动摇的表情。
 
 さらに目の前には変わり果てた榎本の姿が……。%K%P
 On top of that, the body of Enomoto lying in front of me had undergone a drastic change....
+并且眼前是惨不忍睹的鼷本……
 
 それを見たオレの頬はさらに硬くこわばり、ひくひくと不気味な痙攣を見せ始めた。%K%N
 As I saw it, every muscle in my jaw stiffened, then began twitching convulsively.
+一看到这个，我的脸颊更加僵硬，开始了令人害怕的痉挛。
 
 オレは胸に手のひらをあて、呼吸を整えようとしている。%K%N
 I placed my hand against my chest in an attempt to return my breathing to normal.
+我把手掌置于胸口，打算调整呼吸。
 
 ついさっきまでの様子とは明らかに異なっていた。%K%P
 Yes, a clear and obvious chance.
+跟刚才的样子明显有异。
 
 転移……。時空間転移が起こったのだ……。%K%P
 A transfer.... A space-time transfer had occurred....
+转移……发生了时空间转移……
 
 オレはこのときのことを克明に記憶していた。%K%P
 I could clearly remember these events.
+我明确地记着当时的状况。
 
 しばらくのあいだ、映像の中のオレは死体を見下ろしたまま、抜け殻のように立ち尽くしていた。%K%N
 For a while, the me onscreen stood staring at the corpse, immobile as a cast-off shell of my actual self.
+很长时间，影像里的我都是呆呆地俯看着尸体，像空壳一样站在那里。
 
 画面の隅には時刻表示のカウンターがある。%K%N
 The corner of the screen contained a digital timestamp.
+画面的一角有计时器。
 
 １秒ごとに数字は移ろっていったが、それ以外に動くものはなかった。%K%N
 The indicator for seconds was still moving, but besides that, everything was still.
+只有数字在一秒一秒地变动，其它什么动作都没有。
 
 そして――午後７時３１分。%K%N
 And then――7:31 PM.
+然后——晚上７时３１分。
 
 黒い影が映像の中をよぎった。%K%P
 A black shadow crossed the screen.
+黑影穿过影像中。
 
 影の正体を追い、別のアングルから捉えた画像を確かめてみる。%K%N
 Determined to catch it and reveal its true identity this time, I tried viewing the footage from another angle.
+为了追踪黑影的真实身份，我试着确认从其它摄影角度捕捉的图像。
 
 そこには真っ赤な鮮血に染まった穂鳥の姿が映し出されていた。%K%N
 What I saw projected there was Hotori, now dyed the vivid red of fresh blood.
+放映出的是浑身染满了赤红鲜血的穗鸟。
 
 両手でナイフを弄ぶ穂鳥……。オレの手から奪い取ったのだ。%K%N
 She toyed with the knife she held in both hands.... She'd stolen it from me.
+穗鸟两手舞弄着刀子……是从我手里夺过去的。
 
 穂鳥がオレに向かって話しかける。%K%N
 Hotori was facing me, and we were having a conversation.
+穗鸟对我说话。
 
 静寂の中、唇だけが動いた。%K%P
 Only her lips moved in the silence of the frame.
+在寂静中，嘴唇翕动。
 
 『悟は、どっちが好き？』%K%N
 "Hey, Satoru, which do you prefer?"
+“悟，喜欢哪种？”
 
 『ねえ、どっちが好き？』%K%N
 "Hey, which one?"
+“喂，喜欢哪种？”
 
 『これで……』%K%N
 "I mean..."
+“就是说……”
 
 『刺すのと、刺されるの』%K%N
 "To stab, or to be stabbed?"
+“刺，与被刺。”
 
 『どっち？』%K%P
 "Which do you prefer?"
+“喜欢哪种？”
 
 声は聞こえなかったが、オレはその言葉をしっかりと覚えていた。%K%P
 I couldn't hear her voice, but I remembered those words all too well.
+虽然听不见声音，但我牢牢地记得她的话。
 
 オレの記憶が正しければ、この直後、オレの意識は避難小屋へと飛ばされたはずだ。%K%P
 If I remembered correctly, my consciousness should jump to the shelter cabin right after this.
+如果我的记忆没错的话，这之后，我的意识应该是马上就飞到避难小屋去了。
 
 そしてその通り、映像には変化が現れた。%K%P
 And, just as expected, there was a change in the footage.
+影像中体现的变化正是如此。
 
 時刻：午後７時３４分。%K%N
 Time: 7:34 PM.
+时刻：晚上７时３４分。
 
 場所：地下倉庫。%K%N
 Location: Basement storeroom.
+地点：地下仓库。
 
 『オレの身体』がビクンと跳ねるような反応を見せた。%K%N
 I saw "my body" react, giving a quick shiver.
+看到了“我的身体”做出了吓一跳似的反应。
 
 １７分前と同じく、表情には驚愕と動揺の色が浮かんでいる。%K%N
 Just like it had 17 minutes before, shock and disturbance registered on its face.
+与１７分钟前一样，露出了惊愕和动摇的表情。
 
 榎本の死体に気づき、吐き気をこらえるように口元を手のひらで覆った。%K%N
 When it noticed Enomoto's dead body, it covered its mouth with its hand as though fighting back nausea.
+注意到鼷本的尸体，像要抑制住呕吐般，用手掌捂住嘴边。
 
 なにかに驚いて顔をあげる。%K%N
 Something startled it, and it raised its head.
+对什么东西露出了惊讶的表情。
 
 その視線の先には穂鳥が立っていた。%K%P
 Hotori was standing right before its eyes.
+视线的前面站着穗鸟。
 
 穂鳥の瞳は虚ろだった。%K%N
 Hotori's eyes were blank.
+穗鸟的眼神空洞。
 
 とぼけたようにまばたきを繰り返す。%K%N
 She blinked several times, as though playing dumb.
+像发呆一样，不断眨眼。
 
 やがて、彼女は『異変に気づいたかのように』自らの姿と手の中のナイフに目を落とした。%K%P
 Eventually, she "noticed the abnormality" and looked down at her own body, and at the knife in her hands.
+终于，她“似乎察觉到异变”，目光落在了自己身上和手里的刀上。
 
 慌ててナイフを放り捨てる穂鳥……。%K%N
 Confused, Hotori let go of the knife....
+穗鸟慌忙丢掉了刀……
 
 我が身に起こった出来事が理解できず、怯えているようだ。%K%N
 She was frightened, as if she couldn't understand what she'd just done.
+不清楚自己身上发生了什么，诚惶诚恐。
 
 青ざめていく顔色が、そのことを物語っていた。%K%N
 The pallor that came over her face spelled it out clearly.
+铁青的脸色，说明了这些。
 
 激しく何度も首を振り、否定の意思を示す。%K%N
 She shook her head a number of times, as though to deny it.
+激烈地摇了许多次头，表示否定。
 
 救いを乞うように手を伸ばし、『オレの身体』に向かって近づいていった。%K%P
 As though begging for help, she reached her hand out to "my body" and began to draw nearer to it.
+像是求助般地伸出手，靠近“我的身体”。
 
 そこに映っていたのは、オレの知っている穂鳥ではなかった。%K%P
 The one there on the screen right now wasn't the Hotori I knew.
+这里放映出的，不是我所认识的穗鸟。
 
 ナイフを弄んで妖しい言葉を吐いた穂鳥と、恐怖に顔を歪めて助けを求めている今の穂鳥……。%K%P
 The Hotori who spoke those suspicious words while idly toying with the knife, and the Hotori desperately seeking help with her face warped in fear....
+玩弄小刀说出妖异话语的穗鸟，和现在面露惧色向人求助的穗鸟……
 
 両者は明らかに別人だった。%K%P
 The two of them were clearly different people.
+两者明显是不同的人。
 
 すぐに脳裏をよぎったのは、犬伏景子の影……。%K%P
 The shadow of Inubushi Keiko immediately rose in my mind....
+脑海里马上穿过的是，犬伏景子的身影……
 
 どちらかが犬伏で、どちらかが穂鳥……。%K%P
 One is Inubushi, and the other is Hotori....
+一边是犬伏，一边是穗鸟……
 
 そういうことなのか……？%K%P
 Is that how it was...?
+是这样吧……？
 
 しかも、人格が入れ替わったタイミングは時空間転移のそれと同時だった。%K%P
 On top of that, the timing of her personality change lined up with that of the space-time transfers.
+而且，人格交换的时机和时空间转移的是同时的。
 
 悟「まさか……」%K%P
 It can't be...
+悟「不会吧……」
 
 ざわめく胸騒ぎに息苦しさを覚える。%K%P
 A suffocating uneasiness overcame me.
- 
+觉得心里乱糟糟的，呼吸也困难起来。
+
 オレはひとつの結論へと達しようとしていた。%K%P
 I'd reached one conclusion.
+我就要得出一个结论了。
 
 しかし、まだ早い。%K%P
 But it was still too soon.
+但是，还有点早。
 
 これだけではまだ充分な証拠とはなり得ない。%K%P
 There still wasn't enough evidence yet.
+只有这些，证据还不够充分。
 
 今、画面の中には内海も加わって、さながら修羅場の様相を呈していた。%K%P
 Just now, Utsumi was joining them onscreen, and the scene soon turned into a brawl.
+现在，画面中又加入了内海，呈现出一派地狱般的景象。
 
 猛然と暴れ狂う穂鳥……。%K%N
 Hotori began running amok....
+猛然变得狂暴起来的穗鸟……
 
 その穂鳥を羽交い絞めにしながら、泣き叫ぶ『オレの身体』……。%K%N
 "My body" cried out while it did its best to hold her back....
+倒剪双臂制住穗鸟，同时大声哭喊的“我的身体”……
 
 ナイフを振りかざし、鬼神の形相で襲いかかる内海……。%K%N
 Utsumi brandished the knife, and with the face of a demon, she attacked....
+挥舞着刀子，凶神恶煞地袭击过去的内海……
 
 ３人の傍らには、額からドクドクと血を流したゆにがうずくまっていて……。%K%P
 Yuni was crouched nearby, with blood flowing from a wound to his forehead....
+三人旁边，额头咕嘟咕嘟地流着血的悠尼蹲在地上……
 
 もう限界だった。%K%P
 I'd reached my limit.
+受不了了。
 
 正視に耐えかねたオレは、掻き消すようにファイルを閉じた。%K%P
 Forcing myself to look straight ahead, I firmly closed the file, as if to erase it.
+我已经无法继续正视这一场景，关掉了文件，消除了这场骚动。
 
 心の荒み切った狂人達の振る舞いは、オレの精神を否応なく蝕んだ。%K%P
 The behavior of lunatics who'd cut out their own human hearts had shaken me to my very core.
+狂乱的疯子们的行为，无所顾及地侵蚀着我的精神。
 
 暗澹たる気分にさいなまれる。%K%P
 A somber air seemed to surround me.
+受到了阴暗气氛的折磨。
 
 居ても立ってもいられなくなったオレは、コンソールを離れて、薄暗い室内を歩き始めた。%K%P
 Unable to stand it, I stood up from the console and began walking around the dimly lit room.
+我坐立不安，离开了控制台前，在昏暗的室内踱起步子来。
 
 部屋の隅にはコーヒーメイカーが置かれている。%K%P
 There was a coffee maker in the corner.
+房间角落里放着一台咖啡机。
 
 気持ちを切り替えようと思い、手早くコーヒーを作った。%K%P
 Hoping for a change of pace, I swiftly made some coffee.
+为了转换心情，我赶快去冲杯咖啡。
 
 カップに注ぎ、ゴクリと飲み込む。%K%P
 I poured it into a cup and gulped it down.
+倒进杯里，一饮而尽。
 
 風味も何もあったものではなかった。%K%P
 It was completely tasteless to me.
+没有什么味道。
 
 美味いと思えなかったのは、そのカップが榎本の使っていたものだったからかも知れない。%K%P
 But it might have felt that way just because the cup was the same one Enomoto had used.
+也许不觉得好喝，是因为知道鼷本曾经用过这个杯子。
 
 それでもどうにか気分を落ち着けることだけはできた。%K%P
 Even so, I was somehow able to calm myself down.
+即是如此，至少能让心情平静下来了。
 
 オレは空になったカップをコンソールの上に置き、最後の動画データを展開した。%K%P
 I placed the empty cup on top of the console and pulled up the last of the recordings.
+我把空杯子放在控制台上，打开了最后的录像资料。
 
 １月１５日のファイル――。%K%P
 The files from January 15th――
+１月１５日的文件——
 
 すでに一度確かめた映像ではあったが、もしかしたら見落としてしまったところがあるかも知れない。%K%P
 I'd already seen everything in here once, but it was certainly possible that I'd overlooked something.
+虽然已经看过一遍，但也许还有什么漏掉的东西。
 
 再確認せずにはいられなかった。%K%P
 I couldn't leave without making sure.
+必须要再确认一次。
 
 なにしろそこには、ＤＭＴとＭＡＯ阻害剤を飲んだオレの姿が映っていたのだから……。%K%P
 After all, this was the day I drank the DMT and the MAO inhibitor....
+因为，里面放映了我喝下ＤＭＴ和ＭＡＯ阻断剂的样子……
 
 『１月１５日日曜日』%K%N
 "Sunday, January 15th."
+“１月１５日星期天”
 
 時刻：午前７時４３分。%K%N
 Time: 7:43 AM.
+时刻：清晨７时４３分。
 
 場所：ダイニング。%K%N
 Location: Dining area.
+地点：餐厅。
 
 穂鳥はＤＭＴとＭＡＯ阻害剤の件に関して『オレ自身が飲んだのだ』というようなことを言ったが、%K%N
 When I asked her about the DMT and the MAO inhibitor, Hotori said that "maybe I'd drunk it myself."
+关于ＤＭＴ和ＭＡＯ阻断剂的事情，穗鸟说过“是你自己喝的”。
 
 確かにその通りのことが映像として記録されていた。%K%N
 And just as she'd said, the recording showed that as well.
+影像所记录的确实跟她说的一样。
 
 『オレの身体』が寝惚けまなこをこすりながら、ダイニングスペースに姿を見せた。%K%N
 When "my body" began to doze off, it wandered into the dining area, rubbing its eyes.
+“我的身体”出现在餐厅，眼神像没睡醒一样。
 
 夢遊病患者のように覚束ない足取り……。%K%P
 Its steps were shaky, like a sleepwalker's....
+如梦游症患者一样不稳的脚步……
 
 ふらふらと前後左右に身体を揺らして、テーブルのそばにたどりつく。%K%N
 Its body wavering to the left and to the right, just barely managing to reach the table.
+身体摇摇晃晃地前后左右摇摆着，终于来到了桌子旁。
 
 テーブルの下には２本のビンが転がっていた。%K%N
 There were two bottles under the table.
+桌子下倒着两个瓶子。
 
 ＤＭＴとＭＡＯ阻害剤の入ったビンだ。%K%N
 The bottles containing the DMT and the MAO inhibitor.
+装着ＤＭＴ和ＭＡＯ阻断剂的瓶子。
 
 『オレの身体』はそれらのビンを手に取り、興味深そうに眺め……。%K%N
 "My body" picked up the bottles, staring at them with great interest....
+“我的身体”拿起瓶子，很感兴趣地看着……
 
 そしていきなり、何を思ったのか、ゴクゴクとふたつの液体を飲み干してしまった。%K%P
 And then, I have no idea what it was thinking, but it suddenly drained the contents of both bottles in a few great gulps.
+然后突然，不知想到了什么，咕嘟咕嘟地把两瓶液体都喝干了。
 
 誰に強制されたわけでもなく、誘導されたわけでもなかった。%K%N
 Without anyone forcing it or leading it on.
+既没被谁强迫，也没被谁诱导。
 
 『オレの身体』は勝手に、なんのためらいも見せずに、ふたつの薬品をくちにしてしまったのだ。%K%N
 "My body" drank both bottles of medicine on its own, without the slightest apparent hesitation.
+“我的身体”自己，没有任何来由地，把两瓶药倒进了嘴里。
 
 それは衝動的な誤飲としか言いようのない行動に見えた。%K%N
 I couldn't think of its actions as anything but a gravely foolish snap decision.
+这种行动看起来只能是冲动之下的误饮。
 
 薬の効果はすぐにあらわれた。%K%P
 The effects of the drugs immediately began to show.
+药效立刻显现。
 
 わずか１分後……。%K%N
 And just one minute after that....
+仅仅一分钟以后……
 
 『オレの身体』は膝から崩れ落ち、稲穂のように頭を垂れ下げてうずくまった。%K%N
 "My body" fell to its knees, then dropped heavily to the floor, its head slowly bowing like an ear of rice.
+“我的身体”由膝盖开始塌下去，头像稻穗一样垂下。
 //or "the stalk of a rice plant" if you prefer
 
 額が床の上にへばりついている。両腕はだらしなく投げ出されていた。%K%N
 My forehead went to the floor. My arms were thrown out haphazardly to either side.
+额头无力地顶在地板上。两只手散漫地甩在身旁。
 
 次の転移はこの直後に起こったのだろう。%K%N
 The next transfer probably occurred right after this.
+下一次转移就在这之后吧。
 
 間違いない。%K%N
 There was no mistake.
+没错。
 
 １５日のオレの記憶は、この体勢から始まっていたからだ。%K%P
 My memory from the fifteenth began with me lying like this, after all.
+因为１５日我的记忆，就是从这种姿势开始的。
 
 その後……。%K%P
 Afterward....
+后来……
 
 転移によって覚醒を促されたオレは、ぐにゃりと仰向けに倒れ、動かなくなった。%K%P
 Trying to get up after the transfer, still helpless to move, I fell face-up and lay there immobile.
+我被转移所催醒，绵软无力地仰面倒下，动弹不得。
 
 そんなオレを介抱してくれたのは内海だった。%K%P
 The one who nursed me back to health was Utsumi.
+是内海照顾了那种状态的我。
 
 内海はオレを部屋まで運び、中和剤を投与してくれた。%K%P
 Utsumi carried me to my room and administered an antidote to counteract the drug.
+内海把我搬到了我的房间，给了我中和剂。
 
 それから午後になるまで、オレは自室のベッドに横たわり、昏々と眠り続けたのだった。%K%P
 From then until the afternoon, I lay on my own bed, sound asleep.
+然后直到下午，我都在自己屋里的床上躺着，睡得昏昏沉沉。

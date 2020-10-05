@@ -1,6 +1,7 @@
-TIP056
+﻿TIP056
 箱の中に閉じこめられた猫
 The Cat Locked in the Box
+薛定谔的猫
 paragraph_count:2
 init_addr:7a24
 pc_index:TIP_061
@@ -38,3 +39,23 @@ This means the cat is both dead and alive at the same time.%N
 No certain conclusion to its state can be made until the box is open.%N
 The paradox embodied by that cute cat became one of the prime buzzwords of the era that marked the birth of quantum mechanics.
 
+#CN#1
+以玻尔以及海森堡等人为首的%N
+哥本哈根学派%N
+用来评论几率论的世界观的小故事。%N
+假设箱子里的放射性物质衰变后%N
+就会放出剧毒气体，%N
+并将一只猫放进箱中。%N
+依照哥本哈根学派的解释，%N
+放射线的产生等微观世界现象，%N
+是随机决定的。%N
+
+#CN#2
+所以说，%N
+由放射线产生与否决定的猫的生死%N
+也是随机的。%N
+就算猫本来其实是活蹦乱跳的，%N
+也会变成一只也许有30%已经死亡的猫。%N
+这个利用惹人怜爱的猫%N
+拿来当主题的矛盾论证%N
+已经变成量子力学入门的关键词了。%N

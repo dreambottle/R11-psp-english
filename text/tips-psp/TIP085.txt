@@ -1,6 +1,7 @@
 TIP085
 ソロモン
 Solomon
+所罗门王
 paragraph_count:2
 init_addr:7c78
 pc_index:TIP_090
@@ -32,3 +33,18 @@ Solomon excelled because of his faith and obedience to God, and possessed great 
 However, in King Solomon's later years, he placed heavy taxation upon his people in order to construct a golden temple for the Lord, a task that his father David was unable to accomplish.%N
 As a result, soon after his death, Israel split into two northern and southern kingdoms.
 
+#CN#1
+所罗门这个名字%N
+在希伯莱文里是“平和、平安”的意思。%N
+而这个词语变成人名的由来则是%N
+以此为名的古以色列第三任国王。%N
+所罗门王原本曾藉由他对上帝的信仰与顺从%N
+发挥了卓越的洞察力与智慧，%N
+带领以色列走向黄金时代。%N
+
+#CN#2
+虽然他为上帝建造了%N
+大卫王无法完成的黄金神殿，%N
+但是他晚年时却大兴土木、对人民课以重税。%N
+因此，在他去世以后，%N
+以色列很快就分成南北两个国家了。%N

@@ -1,6 +1,7 @@
-TIP044
+﻿TIP044
 雪庇／せっぴ
 Snow Cornice
+雪檐
 paragraph_count:1
 init_addr:793c
 pc_index:TIP_049
@@ -21,3 +22,9 @@ Larger ones can be in excess of ten meters.%N
 Since the inside of a cornice is composed entirely of snow, it will collapse if trodden on by a human.%N
 The presence of snow cornices make it very difficult to tell where the actual ridge ends.
 
+#CN#1
+在山棱的背风侧形成的积雪板块，%N
+比较大的甚至可以达到十米以上。%N
+因为雪檐完全由雪所构成，所以非常脆弱，%N
+一旦有人踏上去就会崩落，%N
+令人没办法分辨原本的山棱究竟在哪。%N

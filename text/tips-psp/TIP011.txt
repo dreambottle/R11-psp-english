@@ -1,6 +1,7 @@
-TIP011
+﻿TIP011
 性同一性障害
 Gender Identity Disorder
+性别识别障碍
 paragraph_count:1
 init_addr:76c8
 pc_index:TIP_016
@@ -18,4 +19,11 @@ pc_index:TIP_016
 #PARAGRAPHS_TRANSLATED:
 #EN#1
 A state in which a person's body is morphologically normal, but they feel that their physical sex is at odds with their gender, and consider themselves to be in actuality a member of the opposite sex.
+
+#CN#1
+Ｇｅｎｄｅｒ　Ｉｄｅｎｔｉｔｙ　Ｄｉｓｏｒｄｅｒ%N
+生理结构完全正常，%N
+但是无法明确地分辨自己所属的性别，%N
+同时在心理上，
+认定自己属于与肉体相异的性别的症状。%N
 

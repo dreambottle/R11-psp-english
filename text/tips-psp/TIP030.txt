@@ -1,6 +1,7 @@
-TIP030
+﻿TIP030
 ブロッケンの妖怪
 Brocken Specter
+布罗肯幽魂
 paragraph_count:1
 init_addr:7838
 pc_index:TIP_035
@@ -25,3 +26,12 @@ This is called a Brocken specter.%N
 The resulting gigantic shadows, like those of a monster, have been called the phantoms of the Brocken.%N
 The name of the phenomenon comes from the Brocken, a mountain in Bavaria, Germany, where it has often been observed.
 
+#CN#1
+高山上，日出或日落时，%N
+如果在有云雾围绕的情况下背对阳光站立，%N
+自己的影子就会被日光投射到前方的雾气上，%N
+浮现轮状的虹光，这就被称为布罗肯现象，
+也有人把这种如同怪物般巨大的影像%N
+称为布罗肯幽魂，%N
+因为在德国巴伐利亚地区的布罗肯山%N
+常常会有这种情景，因此得名。%N

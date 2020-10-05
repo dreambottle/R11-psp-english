@@ -1,6 +1,7 @@
-TIP057
+﻿TIP057
 レキセニン
 Rexenin
+滇西泮
 paragraph_count:2
 init_addr:7a38
 pc_index:TIP_062
@@ -38,3 +39,20 @@ Its half life within the bloodstream is 6〜20 hours.%N
 The drug is classified as having short to medium-term effects.%N
 It is a very useful drug, because its drowsiness side effect for a minor tranquilizer is relatively weak.
 
+#CN#1
+苯重氮基盐镇静剂。%N
+会与BZD受体，%N
+即GABA-A受体结合，%N
+刺激抑制神经，让人进入放松的状态。%N
+其药效主要为抗焦虑、镇静、催眠、缓%N
+和肌肉紧张、抗痉挛等作用。%N
+镇静作用相当强，%N
+据说药效约为普通镇静剂的五倍。%N
+
+#CN#2
+服用后在一小时内血液浓度达到最大值，%N
+血液中的半衰期为6~20小时。%N
+作用时间被归类为短效～中效之间。%N
+由于服用此药造成的嗜睡作用%N
+在镇静剂中是比较弱的，%N
+所以被当作是优良的药品。%N

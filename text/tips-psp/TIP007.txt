@@ -1,6 +1,7 @@
-TIP007
+﻿TIP007
 ＧＰＳ
 GPS
+ＧＰＳ
 paragraph_count:1
 init_addr:7684
 pc_index:TIP_010
@@ -17,4 +18,9 @@ pc_index:TIP_010
 #EN#1
 Global Positioning System%N
 A system which uses man-made satellites to calculate the position of a receiver (a person, boat, plane, car, etc.) on a 3D grid system which spans the entire Earth.
+
+#CN#1
+Global Position System%N
+使用人工卫星在三维空间中确认收信者%N
+（人、船只、飞机或是汽车等）位置的一种系统。%N
 

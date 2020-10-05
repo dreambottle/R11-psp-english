@@ -1,6 +1,7 @@
-TIP087
+﻿TIP087
 最終レベル
 The Final Level
+最后阶段
 paragraph_count:2
 init_addr:7ca0
 pc_index:TIP_092
@@ -41,3 +42,19 @@ The bridge of the world—— "Symbolic" is crossed...%N
 The true world—— "Real" will reveal its shape.%N
 Together with the awakening of the "Third Eye"————
 
+#CN#1
+那是为了要将“他们”所谋划的计划，%N
+导向最终目标的行为。%N
+那是通往“他们”所追求的真实的%N
+最后一个步骤。%N
+那是他们为了与“那家伙”相见，%N
+所必须执行的最后手段。%N
+一旦那个行动被付诸执行——%N
+世界将有极大的改变。%N
+
+#CN#2
+一旦那个行动被付诸执行，%N
+过渡的世界——“Imaginary”将会遗失……%N
+藉由世界的架桥——“Symbolic”……%N
+真理的世界——“Real”将会现形。%N
+伴随着“第三只眼”的开启——%N
