@@ -271,7 +271,7 @@ I――
 
 黛に状況を説明する
 Explain the situation to Mayuzumi
- 向黛说明状况
+向黛说明状况
 
 黛を無視する
 Ignore Mayuzumi

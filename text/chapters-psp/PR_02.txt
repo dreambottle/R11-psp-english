@@ -171,9 +171,10 @@ The cover read:
 封面这样写着。
 
 %N
+
 %LC%FS『阿波墨市立病院無差別殺傷事件の報告』%FE%K%P
-Awazumi Municipal Hospital Indiscriminate Murder: Case File
-《阿波墨市立医院无差别杀伤事件的报告》
+%LC%FS"Awazumi Municipal Hospital Indiscriminate Murder: Case File"%FE
+%LC%FS《阿波墨市立医院无差别杀伤事件的报告》%FE
 
 私は最初のページをめくった。%K%P
 I opened it to the first page.
@@ -351,23 +352,23 @@ Shocked, the doctor knelt down and firmly covered the patient's neck with his ha
 
 
 %X010男性患者%N
-Male patient
-男性患者
+%X010Male patient
+%X010男性患者
 
 %X050「影だ……」%K%P
-The shadow...
-「是影子……」
+%X050「The shadow...」
+%X050「是影子……」
 
 %N%N%N%N
 
 
 %X010男性患者%N
-Male patient
-男性患者
+%X010Male patient
+%X010男性患者
 
 %X050「影が……来たんだ……」%K%N
-The shadow... has come...
-「影子……来了……」
+%X050「The shadow... has come...」
+%X050「影子……来了……」
 
 %N%N
 
@@ -452,8 +453,8 @@ Right before her arrest, "she" had muttered something as she dropped her blood-s
 %N%N%N%N%N
 
 %FS%LC%C777A「セルフはどこ？」%FE%K%O
-Where is "Self"?
-「Self在哪里？」
+%FS%LC%C777A「Where is "Self"?」
+%FS%LC%C777A「Self在哪里？」
 
 これが、阿波墨市立病院無差別殺傷事件の経緯だ。%K%P
 Those were the details of the Awazumi Municipal Hospital Indiscriminate Murder Case.

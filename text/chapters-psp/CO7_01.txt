@@ -330,22 +330,22 @@ I could use it as a lamp.
 
 
 %LC２０１１年（平成２３年）７月４日（月曜日）%T060%N
-July 4th (Monday) 2011 (Heisei 23)
-２０１１年（平成２３年）７月４日（星期一）
+%LCJuly 4th (Monday) 2011 (Heisei 23)%T060
+%LC２０１１年（平成２３年）７月４日（星期一）%T060
 
 %N
 
 
 %LC朱倉岳に男女３人の腐乱死体%T060%N
-Three Decomposed Male and Female Corpses Found on Mount Akakura
-朱仓岳发现男女三人的腐烂尸体
+%LCThree Decomposed Male and Female Corpses Found on Mount Akakura%T060
+%LC朱仓岳发现男女三人的腐烂尸体%T060
 
 %N
 
 
 %LCＨＡＬ墜落事故の不明者か？%T060%N
-Missing passengers from the HAL crash?
-是ＨＡＬ坠机事故的下落不明乘客吗？
+%LCMissing passengers from the HAL crash?%T060
+%LC是ＨＡＬ坠机事故的下落不明乘客吗？%T060
 
 %FS--------------------------------------------%FE%K%P
 

@@ -461,7 +461,7 @@ I....
 
 振り返る
 Turn around
- 回头
+回头
 
 振り返らない
 Don't turn around

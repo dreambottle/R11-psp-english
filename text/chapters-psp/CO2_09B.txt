@@ -484,8 +484,8 @@ Panicking, I pick up the note.
 
 
 %LCおい、頼むよ、こころ！%K%P
-Hey, come on, Kokoro!
-喂，拜托，心！
+%LCHey, come on, Kokoro!
+%LC喂，拜托，心！
 
 いきなり怒られた。%K%P
 He was mad all of a sudden.
@@ -740,8 +740,8 @@ For the opening sentence, I decided to go with something simple and straightforw
 
 
 %LCハヅメマツテユーキドサソ%K%P
-NICE TO MEET YOU YUKIDOH-SAN
-初次见面，优希堂悟
+%LCNICE TO MEET YOU YUKIDOH-SAN
+%LC初次见面，优希堂悟
 
 ミミズののたくったような字になってしまった。%K%P
 The characters looked like wiggling earthworms.
@@ -771,8 +771,8 @@ I took another stab at it.
 
 
 %LC初＆＃して※♪＃うさ♀%K%P
-Ni＆＃me※♪＃ou♀
-初＆＃见※＃优^_^
+%LCNi＆＃me※♪＃ou♀
+%LC初＆＃见※＃优^_^
 //???
 //I think it's trying to show how bad the writing is
 

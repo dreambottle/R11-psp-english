@@ -252,9 +252,10 @@ The three of us were speechless.
 我们三人无言以对。
 
 %N
+
 %LC『%TS058スコア：０－０%TE』%K%P
-%TS058Score: 0－0%TE
-%TS058 比分:0-0 %TE
+%LC%TS058Score: 0－0%TE
+%LC“%TS058 比分:0-0 ”%TE
 
 我がチームの１番手は、ゆにに任せることにした。%K%P
 I entrusted our team's first shot to Yuni.
@@ -325,9 +326,10 @@ The ball struck the backboard, then rebounded into the snow....
 球撞到篮板，弹到了雪地上……
 
 %N
+
 %LC『スコア：０－０』%K%P
-Score: 0－0
-“比分：０－０”
+%LCScore: 0－0
+%LC“比分：０－０”
 
 ゆに「あれ～？　おっかしいなぁ……」%K%P
 Hu～h? That's strange...
@@ -616,7 +618,7 @@ It danced in the air, drawing a beautiful arch.
 
 青空の頂きまで昇りつめ、ゆるやかに下降を始めた。%K%P
 And once it ascended to the summit of the blue sky overhead, it began its downward slope.
- 它升到高空，然后开始缓缓下降。
+它升到高空，然后开始缓缓下降。
 
 ゆに「あ～あ、はいっちゃった……」%K%P
 Awwww, it went in...
@@ -632,8 +634,8 @@ And as he did, the ball was swallowed into the hoop.
 
 %N
 %LC『スコア：３－０』%K%P
-Score: 3－0
-“比分：３－０”
+%LCScore: 3－0
+%LC“比分：３－０”
 
 次はオレの番だ。%K%P
 I was up next.
@@ -786,8 +788,8 @@ While chewing regretfully on her thumbnail....
 
 %N
 %LC『スコア：３－３』%K%P
-Score: 3－3
-“比分：３－３”
+%LCScore: 3－3
+%LC“比分：３－３”
 
 その後……。%K%P
 After that....
@@ -798,106 +800,108 @@ The game went on like that, and we alternated between offense and defense, now g
 随着一攻一守的攻防战展开，比赛一点一点地进展着。
 
 %LL２セット目――。%K%N
-The second round――
-第二回合——
+%LLThe second round――
+%LL第二回合——
 
 %LC『内海：０点／ゆに：０点』%K%N
-Utsumi: 0 points/Yuni: 0 points
-“内海：０分／悠尼：０分”
+%LCUtsumi: 0 points/Yuni: 0 points
+%LC“内海：０分／悠尼：０分”
 
 %LC『穂鳥：２点／オレ：０点』%K%P
-Hotori: 2 points/Me: 0 points
-“穗鸟：２分／我：０分”
+%LCHotori: 2 points/Me: 0 points
+%LC“穗鸟：２分／我：０分”
 
 %N
+
 %LC『スコア：５－３』%K%P
-Score: 5－3
-“比分：５－３”
+%LCScore: 5－3
+%LC“比分：５－３”
 
 %LL３セット目――。%K%N
-The third round――
-第三回合——
+%LLThe third round――
+%LL第三回合——
 
 %LC『内海：０点／ゆに：２点』%K%N
-Utsumi: 0 points/Yuni: 2 points
-“内海：０分／悠尼：２分”
+%LCUtsumi: 0 points/Yuni: 2 points
+%LC“内海：０分／悠尼：２分”
 
 %LC『穂鳥：２点／オレ：３点』%K%P
-Hotori: 2 points/Me: 3 points
-“穗鸟：２分／我：３分”
+%LCHotori: 2 points/Me: 3 points
+%LC“穗鸟：２分／我：３分”
 
 %N
+
 %LC『スコア：７－８』%K%P
-Score: 7－8
-“比分：７－８”
+%LCScore: 7－8
+%LC“比分：７－８”
 
 %LL４セット目――。%K%N
-The fourth round――
-第四回合——
+%LLThe fourth round――
+%LL第四回合——
 
 %LC『内海：０点／ゆに：０点』%K%N
-Utsumi: 0 points/Yuni: 0 points
-“内海：０分／悠尼：０分”
+%LCUtsumi: 0 points/Yuni: 0 points
+%LC“内海：０分／悠尼：０分”
 
 %LC『穂鳥：３点／オレ：０点』%K%P
-Hotori: 3 points/Me: 0 points
-“穗鸟：３分／我：０分”
+%LCHotori: 3 points/Me: 0 points
+%LC“穗鸟：３分／我：０分”
 
 %N
 %LC『スコア：１０－８』%K%P
-Score: 10－8
-“比分：１０－８”
+%LCScore: 10－8
+%LC“比分：１０－８”
 
 %LL５セット目――。%K%N
-The fifth round――
-第五回合——
+%LLThe fifth round――
+%LL第五回合——
 
 %LC『内海：０点／ゆに：２点』%K%N
-Utsumi: 0 points/Yuni: 2 points
-“内海：０分／悠尼：２分”
+%LCUtsumi: 0 points/Yuni: 2 points
+%LC“内海：０分／悠尼：２分”
 
 %LC『穂鳥：０点／オレ：２点』%K%P
-Hotori: 0 points/Me: 2 points
-“穗鸟：０分／我：２分”
+%LCHotori: 0 points/Me: 2 points
+%LC“穗鸟：０分／我：２分”
 
 %N
 %LC『スコア：１０－１２』%K%P
-Score: 10－12
-“比分：１０－１２”
+%LCScore: 10－12
+%LC“比分：１０－１２”
 
 %LL６セット目――。%K%N
-The sixth round――
-第六回合——
+%LLThe sixth round――
+%LL第六回合——
 
 %LC『内海：０点／ゆに：０点』%K%N
-Utsumi: 0 points/Yuni: 0 points
-“内海：０分／悠尼：０分”
+%LCUtsumi: 0 points/Yuni: 0 points
+%LC“内海：０分／悠尼：０分”
 
 %LC『穂鳥：３点／オレ：２点』%K%P
-Hotori: 3 points/Me: 2 points
-“穗鸟：３分／我：２分”
+%LCHotori: 3 points/Me: 2 points
+%LC“穗鸟：３分／我：２分”
 
 %N
 %LC『スコア：１３－１４』%K%P
-Score: 13－14
-“比分：１３－１４”
+%LCScore: 13－14
+%LC“比分：１３－１４”
 
 %LL７セット目――。%K%N
-The seventh round――
-第七回合——
+%LLThe seventh round――
+%LL第七回合——
 
 %LC『内海：０点／ゆに：２点』%K%N
-Utsumi: 0 points/Yuni: 2 points
-“内海：０分／悠尼：２分”
+%LCUtsumi: 0 points/Yuni: 2 points
+%LC“内海：０分／悠尼：２分”
 
 %LC『穂鳥：３点／オレ：２点』%K%P
-Hotori: 3 points/Me: 2 points
-“穗鸟：３分／我：２分”
+%LCHotori: 3 points/Me: 2 points
+%LC“穗鸟：３分／我：２分”
 
 %N
 %LC『スコア：１６－１８』%K%P
-Score: 16－18
-“比分：１６－１８”
+%LCScore: 16－18
+%LC“比分：１６－１８”
 
 といったわけで、２点のリードで迎えた８セット目……。%K%P
 Just like that, we entered the eighth round with a two-point lead....
@@ -977,8 +981,8 @@ Hotori snorted and looked away.
 
 %N
 %LC『スコア：１９－２０』%K%P
-Score: 19－20
-“比分：１９－２０”
+%LCScore: 19－20
+%LC“比分：１９－２０”
 
 ネットが揺れた。%K%P
 The net shook.
@@ -1010,8 +1014,8 @@ She had a triumphant grin on her face.
 
 %N
 %LC『スコア：１９－１８』%K%P
-Score: 19－18
-“比分：１９－１８”
+%LCScore: 19－18
+%LC“比分：１９－１８”
 
 形勢を逆転すべく３ＰＬの方を選んだ。%K%P
 In order to reverse the situation, I chose the 3PL.
@@ -1047,8 +1051,8 @@ Hotori snorted and looked away.
 
 %N
 %LC『スコア：１９－２１』%K%P
-Score: 19－21
-“比分：１９－２１”
+%LCScore: 19－21
+%LC“比分：１９－２１”
 
 ネットが揺れた。%K%P
 The net shook.
@@ -1080,8 +1084,8 @@ She had a triumphant grin on her face.
 
 %N
 %LC『スコア：１９－１８』%K%P
-Score: 19－18
-“比分：１９－１８”
+%LCScore: 19－18
+%LC“比分：１９－１８”
 
 そして迎えた最終セット――。%K%P
 That brought us to the final round――
@@ -1177,18 +1181,18 @@ Watching her jump and cheer, I couldn't help but think...
 
 %N
 %LC『スコア：２１－１８』%K%P
-Score: 21－18
-“比分：２１－１８”
+%LCScore: 21－18
+%LC“比分：２１－１８”
 
 %N
 %LC『スコア：２１－２０』%K%P
-Score: 21－20
-“比分：２１－２０”
+%LCScore: 21－20
+%LC“比分：２１－２０”
 
 %N
 %LC『スコア：２１－２１』%K%P
-Score: 21－21
-“比分：２１－２１”
+%LCScore: 21－21
+%LC“比分：２１－２１”
 
 ゆに「ねえ、どうしよう……！　どうしよう、悟ぅ……！」%K%P
 Hey, what do we do?! What do we do, Satoru?!
@@ -1729,7 +1733,7 @@ You're in my way.
 
 穂鳥はオレ達のあいだを引き裂いて、３ＰＬに向かった。%K%P
 Hotori pushed between us and walked to the 3PL.
- 穗鸟把我们两个分开，向３ＰＬ的地点走去。
+穗鸟把我们两个分开，向３ＰＬ的地点走去。
 
 高く積もった雪の上へと落ちていった。%K%P
 ...and promptly fell onto a pile of snow.
@@ -2149,8 +2153,8 @@ Yuni sprang energetically to his feet, almost hopping.
 
 %N
 %LC『試合結果：２３－１８ｘ』%K%P
-"Match result: 23－18ｘ"
-“比赛结果：２３－１８”
+%LC"Match result: 23－18ｘ"
+%LC“比赛结果：２３－１８”
 
 ５点もの大差をつけられて、オレとゆには惨敗したのだった。%K%P
 With a huge five-point difference between our scores, Yuni and I suffered a crushing defeat.
@@ -2245,9 +2249,10 @@ Yeah, leave it to me!
 悟「哦，放心交给我吧！」
 
 %N
+
 %LC『スコア：２１－２０』%K%P
-Score: 21－20
-比分：２１－２０”
+%LCScore: 21－20
+%LC比分：２１－２０”
 
 点差はわずか１点……。%K%P
 A difference of only a single point....
@@ -2255,8 +2260,8 @@ A difference of only a single point....
 
 %N
 %LC『スコア：２１－２１』%K%P
-Score: 21－21
-“比分：２１－２１”
+%LCScore: 21－21
+%LC“比分：２１－２１”
 
 同点……。%K%P
 A tie....
@@ -2324,8 +2329,8 @@ Alright, leave it to me!
 
 %N
 %LC『スコア：２４－２２』%K%P
-Score: 24－22
-“比分：２４－２２”
+%LCScore: 24－22
+%LC“比分：２４－２２”
 
 点差は２点……。%K%P
 A two-point difference....
@@ -2345,8 +2350,8 @@ I headed to the 3PL with ball in hand.
 
 %N
 %LC『スコア：２４－２３』%K%P
-Score: 24－23
-“比分：２４－２３”
+%LCScore: 24－23
+%LC“比分：２４－２３”
 
 点差はわずか１点……。%K%P
 A difference of only a single point....
@@ -2551,8 +2556,8 @@ Like dancing a waltz, I spun Yuni around and around in the center of the court.
 
 %N
 %LC『試合結果：２１－２２』%K%P
-"Match Result: 21－22"
-“比赛结果：２１－２２”
+%LC"Match Result: 21－22"
+%LC“比赛结果：２１－２２”
 
 大接戦の末、オレとゆには僅差で辛勝したのだった。%K%P
 At the end of a very close game, Yuni and I narrowly came out on top.
@@ -2560,8 +2565,8 @@ At the end of a very close game, Yuni and I narrowly came out on top.
 
 %N
 %LC『試合結果：２１－２３』%K%P
-"Match Result: 21－23"
-“比赛结果：２１－２３”
+%LC"Match Result: 21－23"
+%LC“比赛结果：２１－２３”
 
 大接戦の末、オレとゆには２点の差をつけて勝利をものにしたのだった。%K%P
 At the end of a very close game, Yuni and I seized our victory by two points.
@@ -2569,8 +2574,8 @@ At the end of a very close game, Yuni and I seized our victory by two points.
 
 %N
 %LC『試合結果：２４－２５』%K%P
-"Match Result: 24－25"
-“比赛结果：２４－２５”
+%LC"Match Result: 24－25"
+%LC“比赛结果：２４－２５”
 
 大接戦の末、オレとゆには僅差で辛勝したのだった。%K%P
 At the end of a very close game, Yuni and I narrowly came out on top.
@@ -2713,24 +2718,27 @@ Yuni sprang energetically to his feet, almost hopping.
 悠尼双脚一蹦，精神奕奕地站了起来。
 
 %N
+
 %LC『試合結果：２１－２０』%K%P
-"Match Result: 21－20"
-“比赛结果：２１－２０”
+%LC"Match Result: 21－20"
+%LC“比赛结果：２１－２０”
 
 わずか１点の差で、オレとゆには惜敗したのだった。%K%P
 With only a one-point difference, Yuni and I suffered an extremely close defeat.
 仅因１分差距，我们与胜利失之交臂。
 
 %N
+
 %LC『試合結果：２４－２２』%K%P
-"Match Result: 24－22"
-“比赛结果：２４－２２”
+%LC"Match Result: 24－22"
+%LC“比赛结果：２４－２２”
 
 ２点の差をつけられて、オレとゆには敗北を喫したのだった。%K%P
 With a two-point difference, Yuni and I suffered defeat.
 我们因２分差距而落败了。
 
 %N
+
 %LC『試合結果：２４－２３』%K%P
 "Match Result: 24－23"
 “比赛结果：２４－２３”

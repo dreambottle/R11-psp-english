@@ -486,8 +486,8 @@ I saw something with my freezing eyes...
 %N
 
 %LC『朱倉岳緊急避難小屋』%K%P
-"Mount Akakura Emergency Shelter Cabin."
-“朱仓岳紧急避难小屋”
+%LC"Mount Akakura Emergency Shelter Cabin."
+%LC“朱仓岳紧急避难小屋”
 
 黄泉木「は……はは……はははは」%K%P
 Ha... haha... hahahaha!
@@ -850,22 +850,22 @@ And then, one of the articles inside caught my eye.
 然后，其中的一篇报道牢牢地吸引住了我的视线。
 
 %X070２０１１年（平成２３年）７月４日（月曜日）%K%P
-July 4th (Monday) 2011 (Heisei 23)
-２０１１年（平成２３年）７月４日（星期一）
+%X070July 4th (Monday) 2011 (Heisei 23)
+%X070２０１１年（平成２３年）７月４日（星期一）
 
 %N%N%N%N%N
 
 
 %LC朱倉岳に男女３人の腐乱死体%K%P
-Three Decomposed Male and Female Corpses Found on Mount Akakura
-朱仓岳惊现男女三人的腐尸
+%LCThree Decomposed Male and Female Corpses Found on Mount Akakura
+%LC朱仓岳惊现男女三人的腐尸
 
 %N%N%N%N%N
 
 
 %LCＨＡＬ墜落事故の不明者か？%K%P
-Missing passengers from the HAL crash?
-疑为ＨＡＬ坠机事故的失踪者
+%LCMissing passengers from the HAL crash?
+%LC疑为ＨＡＬ坠机事故的失踪者
 
 喉がカラカラになっていた。%K%P
 My throat went dry.
@@ -979,8 +979,8 @@ Saved was the sole survivor of the crash――
 
 
 %LC『楠田ゆにくん（１１）』%K%P
-Kusuda Yuni-kun (11)
-“楠田　悠尼（１１岁）”
+%LC"Kusuda Yuni-kun (11)"
+%LC“楠田　悠尼（１１岁）”
 
 となっていた。%K%P
 What's happening?

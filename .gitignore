@@ -1,10 +1,11 @@
 /workdir/
-/mac/
-/mac-en/
-/etc/
-/etc-en/
-/iso_extracted/
 /bin/
+
+/r11_mac/
+/r11_mac_en/
+/r11_etc/
+/r11_etc_en/
+/r11_iso_extracted/
 
 /n7_iso_cn_extracted/
 /n7_etc_cn/

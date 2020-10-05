@@ -216,7 +216,7 @@ I wonder how thick it is.
 
 一見すると、戦車の砲弾さえ無力化してしまいそうなほど頑丈そうに見えた。%K%P
 It seems to be so sturdy that a shell shot from a tank would have little chance of taking it down.
- 乍一看，似乎结实到连坦克的炮弹都无可奈何。
+乍一看，似乎结实到连坦克的炮弹都无可奈何。
 
 私はドアの前に立った。%K%P
 I stood in front of the door.

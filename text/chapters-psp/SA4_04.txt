@@ -830,7 +830,7 @@ Utsumi wanted to comfort him, so she spoke to him gently.
 
 慰めれば慰めるほど、彼の涙はとめどなくあふれ、流れ落ちていった。%K%N
 But the more she tried to comfort him, the harder he cried.
- 越是安慰，他的眼泪越是止不住地流。
+越是安慰，他的眼泪越是止不住地流。
 
 泣き虫な男の子だった。%K%P
 He was a crybaby.
@@ -1005,9 +1005,10 @@ Time passed in an instant.
 时光如梭飞驰而过。
 
 %N%N%N%N%N
+
 %FS%LCそして――２００９年１月１４日――。%FE%K%O
-And then――on January 1st, 2009――
-时间到了——２００９年１月１４日——
+%FS%LCAnd then――on January 1st, 2009――%FE
+%FS%LC时间到了——２００９年１月１４日——%FE
 
 内海「この子がどんな殺され方をしたのか、あなた知ってる……？」%K%P
 Do you know how he died...?

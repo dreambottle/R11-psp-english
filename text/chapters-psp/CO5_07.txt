@@ -769,7 +769,7 @@ Would it be okay for me to be the only one to eat?
 
 食事をする
 Eat the food
- 吃东西
+吃东西
 
 食べるのをやめる
 Don't eat the food

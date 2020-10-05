@@ -1143,8 +1143,8 @@
 1142: 0x874E ⑮
 1143: 0x874F ⑯
 1144: 0x8750 ⑰
-1145: 0x8751 ™
-1146: 0x8752 …
+1145: 0x8751 ™ # Rendered as ™. In the original SJIS this is ⑱ (Circled Number Eighteen)
+1146: 0x8752 ⑲ # Rendered as "…"
 1147: 0x8753 ⑳ # Rendered as a blank space "　" (half width?)
 1148: 0x8754 Ⅰ
 1149: 0x8755 Ⅱ

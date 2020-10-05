@@ -373,7 +373,7 @@ I see... so this was all a trick, wasn't it?
 
 女「さっきから妙な言葉づかいをすると思って気になってたんだけど、要するにそれも演技のうちだったんだ？」%K%P
 All those odd things you had said a while ago made me curious at first, but that was just a part of your act, wasn't it?
- 女「难怪从刚才开始语气措辞就很奇怪，原来那也是装出来的啊」
+女「难怪从刚才开始语气措辞就很奇怪，原来那也是装出来的啊」
 
 女「笑わせないでよ」%K%P
 Don't make me laugh!

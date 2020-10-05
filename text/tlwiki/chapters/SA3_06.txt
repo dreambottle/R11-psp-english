@@ -326,5 +326,5 @@ Fortune telling is a kind of precognition!
 ゆに「もう、いいから見せてよぉ」%K%P
 Come on already and show meeee!
 
-ゆにはオレの手のひらをつかみ取ると――。%K%
+ゆにはオレの手のひらをつかみ取ると――。%K%P
 Yuni grabbed the palm of my hand and――

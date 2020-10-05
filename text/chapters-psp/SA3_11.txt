@@ -77,7 +77,7 @@ You're Yukidoh-kun, aren't you?
 
 黄泉木「さすがに話し方で区別がつくようになったよ」%K%P
 It's easy to tell the two of you apart from the way you speak.
- 黄泉木「我已经可以从说话语气分辨出你们俩了」
+黄泉木「我已经可以从说话语气分辨出你们俩了」
 
 それはまあ、ありがたいことではある。%K%P
 Well, this certainly is a welcome development.
@@ -337,7 +337,7 @@ I left so that, for now, Yomogi wouldn't ask too many questions.
 
 別に聞かれても構わないと言えば構わないのだが、いちいち説明するのが面倒くさい。%K%P
 Not that it would really matter if he did, but having to explain everything would be a pain.
- 真要说的话，让他听到了也没什么大问题，可是一一解释实在太麻烦了。
+真要说的话，让他听到了也没什么大问题，可是一一解释实在太麻烦了。
 
 オレは玄関前の階段に座り込んで、再びＶＲの録音ボタンを押した。%K%P
 I sat down just outside the cabin door and resumed recording.

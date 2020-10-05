@@ -644,16 +644,16 @@ My eyes were fixed on the headline.
 --------------------------------------------%N
 
 %LR平成２３（２０１１）年７月４日月曜日%N
-July 4th (Monday) 2011 (Heisei 23)
-平成２３（２０１１）年７月４日星期一
+%LRJuly 4th (Monday) 2011 (Heisei 23)
+%LR平成２３（２０１１）年７月４日星期一
 
 %LL朱倉岳に男女３人の腐乱死体%N
-Three Decomposed Male and Female Corpses Found on Mount Akakura
-朱仓岳惊现男女三人的死尸
+%LLThree Decomposed Male and Female Corpses Found on Mount Akakura
+%LL朱仓岳惊现男女三人的死尸
 
 %LLＨＡＬ墜落事故の不明者か？%N
-Missing passengers from the HAL crash?
-疑似ＨＡＬ坠落事故的失踪者？
+%LLMissing passengers from the HAL crash?
+%LL疑似ＨＡＬ坠落事故的失踪者？
 
 --------------------------------------------%K%P
 

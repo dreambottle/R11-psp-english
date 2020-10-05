@@ -5,7 +5,7 @@ GIMCONV="./tools/GimConv/GimConv.exe"
 DECOMPRESS="./bin/decompressbip"
 REPACK_AFS="./bin/repack_afs"
 
-RES_DIR="iso_extracted/PSP_GAME/USRDIR"
+RES_DIR="r11_iso_extracted/PSP_GAME/USRDIR"
 WORK_DIR="./workdir"
 
 
@@ -15,8 +15,8 @@ unpack_afs () {
 }
 
 mkdir -p $WORK_DIR
-mv iso_extracted/PSP_GAME/SYSDIR/BOOT.BIN $WORK_DIR/BOOT.BIN
-#mv iso_extracted/PSP_GAME/SYSDIR/EBOOT.BIN $WORK_DIR/EBOOT.BIN
+mv r11_iso_extracted/PSP_GAME/SYSDIR/BOOT.BIN $WORK_DIR/BOOT.BIN
+#mv r11_iso_extracted/PSP_GAME/SYSDIR/EBOOT.BIN $WORK_DIR/EBOOT.BIN
 
 cp $RES_DIR/mac.afs $WORK_DIR/mac.afs
 cp $RES_DIR/etc.afs $WORK_DIR/etc.afs

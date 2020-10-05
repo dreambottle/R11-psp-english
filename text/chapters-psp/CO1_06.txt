@@ -1,4 +1,4 @@
-﻿
+
 張り裂けた空間のはざまから、強引にひきずり出された。%K%P
 I was forcibly dragged back into reality, bursting out of the empty space.
 从破裂的空间里，我被强行牵扯出来。
@@ -273,7 +273,7 @@ That being said, by no means was he thin.
 
 肩や胸に程よくついた筋肉の隆起は、服の上からでも見て取れた。%K%P
 The muscles on his shoulders and chest were toned to the degree that their contours were visible through his clothes.
- 肩膀和胸口肌肉的隆起恰到好处，隔着衣服也能够看得出来。
+肩膀和胸口肌肉的隆起恰到好处，隔着衣服也能够看得出来。
 
 ひとことで言えば、極めて男性的な、たくましい体つきをしていた。%K%P
 If anyone asked me, I'd have to say that he had an extremely manly, strong body.

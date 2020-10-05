@@ -79,12 +79,12 @@ But...
 
 
 %FS%LC２０１１年１月１１日午後４時８分。%FE%T060%N
-January 11, 2011, 4:08 PM
-２０１１年１月１１日下午４时０８分。
+%FS%LCJanuary 11, 2011, 4:08 PM%FE%T060
+%FS%LC２０１１年１月１１日下午４时０８分。%FE%T060
 
 %FS%LCＨＡＬ１８便は雪深い山中に墜落した。%FE%K%P
-Flight HAL18 crashed, deep in the snowy mountains.
-ＨＡＬ１８次航班坠落在积雪深厚的山中。
+%FS%LCFlight HAL18 crashed, deep in the snowy mountains.%FE
+%FS%LCＨＡＬ１８次航班坠落在积雪深厚的山中。%FE
 
 引き裂かれた機内で意識を取り戻した僕は、生存者の捜索と救出を開始した。%K%N
 I, who had regained consciousness after being thrown out of the plane, began my search and rescue efforts for survivors.
@@ -607,8 +607,8 @@ Now... I can finally join you...
 
 
 %LC「（お父さん……お父さん……）」%K%P
-(Dad... Dad...)
-「（爸爸……爸爸……）」
+%LC「(Dad... Dad...)」
+%LC「（爸爸……爸爸……）」
 
 そのときふと、声を聞いたような気がした。%K%N
 Right then, I thought I heard a voice.
@@ -622,8 +622,8 @@ A voice I'd heard so often, but now thought I'd never hear again.
 
 
 %LC「（お父さん……お父さん……）」%K%P
-(Dad... Dad...)
-「（爸爸……爸爸……）」
+%LC「(Dad... Dad...)」
+%LC「（爸爸……爸爸……）」
 
 幻だということはわかっていた。%K%N
 I knew it had to be an illusion.
@@ -649,15 +649,15 @@ Junichi! Junichi, is that you...?
 
 
 %LC「（お父さん！　こっち！　こっちだよ！）」%K%P
-(Dad! Here! Here!)
-「（爸爸！这里！来这里！）」
+%LC「(Dad! Here! Here!)」
+%LC「（爸爸！这里！来这里！）」
 
 %N%N%N%N
 
 
 %LC「（こっちに山小屋があるんだ！　見つけたんだよ！）」%K%P
-(There's a mountain cabin here! I found it!)
-「（这里有个山中小屋！我找到了！）」
+%LC「(There's a mountain cabin here! I found it!)」
+%LC「（这里有个山中小屋！我找到了！）」
 
 気がつくと、僕の前にはひとりの少年が立っていた。%K%P
 When I snapped out of it, I saw a boy standing in front of me.

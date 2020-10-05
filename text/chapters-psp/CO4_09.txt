@@ -87,8 +87,8 @@ Just a single line:
 
 
 %LC%FS%C954A『セルフはどこ？』%FE%K%P
-"Where is Self?"
-“ＳＥＬＦ在哪里？”
+%LC%FS%C954A"Where is Self?"%FE
+%LC%FS%C954A“ＳＥＬＦ在哪里？”%FE
 
 ゆには血の海に座り込んで、ぶつぶつと狂人のようなひとり言をもらしていた。%K%P
 Yuni sat in that sea of blood, muttering to himself like a madman.

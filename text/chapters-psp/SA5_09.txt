@@ -457,8 +457,8 @@ Location: Living Area
 
 %N
 %LL画面の中のオレは、なにやらゆにと話し込んでいる。%K%N
-I saw myself onscreen, engrossed in conversation with Yuni.
-画面中的我，在和悠尼说着什么。
+%LLI saw myself onscreen, engrossed in conversation with Yuni.
+%LL画面中的我，在和悠尼说着什么。
 
 カメラにマイクは付いていないのだろう、音声は聞こえなかった。%K%N
 The camera probably didn't have a microphone, because I couldn't hear any voices.

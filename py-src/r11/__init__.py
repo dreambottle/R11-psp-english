@@ -1,5 +1,6 @@
 import re
 import sys
+import os
 
 # The original game font supports "JIS X 0208-1990" with some symbols from 2000.
 # It is now best to use the charset conversion table that I generated for the game instead of standard python encodings
@@ -10,13 +11,22 @@ sjis_enc = "shift_jis_2004"
 # "GB2312"
 
 
-r11_original_charset_table_path: str = "text/charset-tables"
+r11_original_charset_table_path: str = os.path.dirname(__file__) + "/../../text/charset-tables" + "/r11-glyph-sjis-utf8-index.txt"
 r11_charset_as_list: [int, bytes, str] = None
 r11_utf8_to_codes: dict = dict()
 r11_bytes_to_codes: dict = dict()
 
-def rm_trailing_escape_codes(line: str) -> str:
-  line = re.sub(r"\s*((?:%[KNOP])+)$", "", line) # override the original escape codes if the translation specifies some
+# Detects trailing %K %P %p %N and %O (any combination)
+trailing_meta_re_str = r"\s*((?:%[VKNOPp]|%T\d{3})+)$"
+trailing_meta_re: re.Pattern = re.compile(trailing_meta_re_str)
+
+def findTrailingControlSequence(text: str) -> str:
+  trailing_meta = trailing_meta_re.search(text)
+  return trailing_meta.group(0) if trailing_meta else ""
+
+# only removes %K %P %p %N and %O
+def rmTrailingControlSequence(line: str) -> str:
+  line = trailing_meta_re.sub("", line)
   return line
 
 def clean_translation_enc_issues(line: str) -> str:
@@ -69,7 +79,13 @@ def str_to_r11_bytes(text: str) -> bytes:
     if ch == ' ':
       r11_bytearray.extend(b'\x20')
     else:
-      r11_bytearray.extend(r11_utf8_to_codes[ch][1])
+      r11_utf8_to_codes.__contains__(ch)
+      try:
+        r11_char_code = r11_utf8_to_codes[ch][1]
+      except KeyError:
+        # print("r11 couldn't convert char:", ch, file=sys.stderr)
+        r11_char_code = b'\x87\x40' #①
+      r11_bytearray.extend(r11_char_code)
   return r11_bytearray
 
 def r11_bytes_ro_str(r11bytes: bytes) -> str:
@@ -87,12 +103,17 @@ def init_r11_charset():
   if r11_charset_as_list != None:
     return
   
-  with open(r11_original_charset_table_path, "r", charset="utf8") as r11_charset_file:
+  with open(r11_original_charset_table_path, "r", encoding="utf-8-sig") as r11_charset_file:
     r11_charset_lines = r11_charset_file.readlines()
 
-  split = [x.split(maxsplit=2) for x in r11_charset_lines]
+  split = [x.split(" ", maxsplit=2) for x in r11_charset_lines]
   ## [<font code point>:int, <sjis sequence>:bytes, <utf8 char>:str]
-  parsed = [[int(x[0][:-1]), bytes.fromhex(x[1][2:]), x[3][:1]] for x in split]
+  # for i, x in enumerate(split):
+  #   print("split[",i,"]=", split[i], file=sys.stderr)
+  #   print("parsed 0 [",i,"]=", int(split[i][0][:-1]), file=sys.stderr)
+  #   print("parsed 1 [",i,"]=", bytes.fromhex(split[i][1][2:]), file=sys.stderr)
+  #   print("parsed 2 [",i,"]=", split[i][2][:1], file=sys.stderr)
+  parsed = [[int(x[0][:-1]), bytes.fromhex(x[1][2:]), x[2][:1]] for x in split]
   r11_charset_as_list = list(parsed)
 
   #validate and build dict

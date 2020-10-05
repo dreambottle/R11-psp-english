@@ -609,7 +609,7 @@ Let Mayuzumi out of the basement
 
 黄泉木の判断に任せる
 Let Yomogi handle it
- 听任黄泉木的判断
+听任黄泉木的判断
 
 こころ「黄泉木さん……」%K%P
 Yomogi-san...

@@ -433,7 +433,7 @@ However, it's a different story when it's used together with harmine and harmali
 
 内海「ＭＡＯ阻害剤がモノアミン酸化酸素の働きを抑制することによって、ＤＭＴの代謝は阻止され……」%K%P
 The MAO inhibitor suppresses that oxygenating ability, hindering the metabolism of the DMT...
- 内海「因为ＭＡＯ阻断剂会抑制血小板单胺氧化酶的活动，从而使ＤＭＴ的代谢被阻止……」
+内海「因为ＭＡＯ阻断剂会抑制血小板单胺氧化酶的活动，从而使ＤＭＴ的代谢被阻止……」
 
 悟「その結果、幻覚誘発物質は血中に残留することになる」%K%P
 As a result, the hallucinogenic chemical remains in the blood.

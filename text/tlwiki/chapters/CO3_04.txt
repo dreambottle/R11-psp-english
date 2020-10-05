@@ -600,7 +600,7 @@ What should I do...?
 穂鳥が、私の手をクイクイと引っ張った。%K%P
 Hotori pulled at my hand.
 
-メモ帳に、またなにか書き付けている。見てみると、%K%
+メモ帳に、またなにか書き付けている。見てみると、%K%P
 She's writing something down on the notepad again. Looking down at it, the words
 
 『赤い部屋』%K%P

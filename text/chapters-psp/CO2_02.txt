@@ -1183,7 +1183,7 @@ Draw a snowman
 
 ウサギの絵を描く
 Draw a bunny
- 画兔子
+画兔子
 
 チューリップの絵を描く
 Draw a tulip

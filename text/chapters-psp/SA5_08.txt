@@ -200,9 +200,10 @@ I drew it out and looked down at it.
 我把它取出，视线落在上面。
 
 %N
+
 %LC%FS『涼蔭穂鳥』――。%FE%K%O
-"Suzukage Hotori"――
-“凉荫穗鸟”——
+%LC%FS"Suzukage Hotori"――%FE
+%LC%FS“凉荫穗鸟”——%FE
 
 氏名の欄にはそう書かれていた。%K%P
 That's what was written there.

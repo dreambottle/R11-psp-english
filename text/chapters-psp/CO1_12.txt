@@ -499,7 +499,7 @@ She saw me being nursed by Hotori and laughed gently.
 
 女「さっきは急に悲鳴をあげて気を失うんですもの。びっくりしたわ」%K%P
 Earlier, you suddenly let out a scream and fainted. I was surprised.
- 女「刚才你突然发出惨叫晕倒了。真是吓死人了」
+女「刚才你突然发出惨叫晕倒了。真是吓死人了」
 
 女「しかも……ズボンをずりさげた格好で……」%K%P
 And... with your trousers undone...
@@ -775,7 +775,7 @@ Was this pain a dream too?
 
 こんなにはっきりとした感覚なのに。%K%P
 Even though the feeling was so clear.
- 明明感觉如此清晰而真实。
+明明感觉如此清晰而真实。
 
 そこまで考えて、ギクリとする。%K%P
 Thinking that way, I got a little scared.
@@ -2074,7 +2074,7 @@ When thinking of the phrase "sleeping pills," I can't help the negative mental i
 
 量を間違えれば、眠ったが最後、二度と目覚めることはなくなる。%K%P
 If I take the wrong amount, it'd be the last time I ever go to sleep, never to awake again.
- 要是用错了剂量，睡到最后，就再也睁不开眼睛了。
+要是用错了剂量，睡到最后，就再也睁不开眼睛了。
 
 う～～～～～ん。%K%P
 Hwa～～～～～h.

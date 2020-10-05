@@ -263,9 +263,10 @@ Letters I don't remember writing had been scribbled there....
 上面密密麻麻地写着以前没见过的文字……
 
 %N%N%N%N%N
+
 %LCはじめましてユーキドーさん。%K%P
-Nice to meet you, Yukidoh-san.
-初次见面，优希堂先生。
+%LCNice to meet you, Yukidoh-san.
+%LC初次见面，优希堂先生。
 
 １行目を読んだだけで目眩がした。%K%P
 I felt dizzy just reading the first line.

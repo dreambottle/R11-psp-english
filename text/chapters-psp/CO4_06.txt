@@ -741,7 +741,7 @@ It didn't seem like I could simply put up with this cold.
 
 一旦建物から離れる
 For now, walk away from the building
- 暂时先离开建筑物
+暂时先离开建筑物
 
 壁に沿って歩く
 Walk along the wall
@@ -977,7 +977,7 @@ Stop
 
 進む
 Go forward
- 前进
+前进
 
 闇雲に進んでは、位置を見失うだけだ。%K%P
 If I advance blindly, I'll just end up getting more lost.

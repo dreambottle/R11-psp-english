@@ -72,9 +72,10 @@ Uttering that new piece of information to myself, I shifted my gaze back to the 
 我像确认信息一样说给自己听，接着将目光落在便条纸上。
 
 %N%N%N%N%N
+
 %LC『午後１時７分転移』%K%P
-The transfer happened at 1:07 PM.
-“下午１时０７分转移”
+%LC"The transfer happened at 1:07 PM."
+%LC“下午１时０７分转移”
 
 その下に、なにやら正体不明の紋様らしきものが描き添えてある。%K%P
 Below it was some kind of unidentifiable scrawl.
