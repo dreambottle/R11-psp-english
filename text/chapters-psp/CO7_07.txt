@@ -182,7 +182,6 @@ And then, the nothingness swallowed me.
 %N%N%N%N
 %CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N
 %C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N
-This story has not finished yet.
 %FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N
 %FS%LCTruth⑳is⑳not⑳revealed.%FE%N
 %FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N

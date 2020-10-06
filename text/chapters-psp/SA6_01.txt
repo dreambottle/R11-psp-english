@@ -144,11 +144,11 @@ Yesterday, "the Yuni of the shelter cabin" told me this.
 昨天，“避难小屋的悠尼”说过。
 
 「次の転移が発生するのは１７日の午前４時４８分なんだ！」%K%N
-The next transfer will happen on the 17th, at 4:48 AM!
+「The next transfer will happen on the 17th, at 4:48 AM!」
 “下次转移发生在１７日的凌晨４时４８分！”
 
 「だから、そのときまでに……！」%K%N
-That's why, until then――
+「That's why, until then――」
 “所以，在那之前……！”
 
 そのときまでに、なんだと言うのだ？%K%P
@@ -387,7 +387,7 @@ Hey, Satoru...?
 I want to meet you. Even a single glance is fine, but I want to meet you.
 我很想见到你。一眼也好，好想见你。
 
-鏡に写っているのは、あなたじゃなくて、私だから。%K%N
+鏡に映っているのは、あなたじゃなくて、私だから。%K%N
 Because the one reflected in the mirror isn't you, it's me.
 镜中照出的并非你本人，而是我自己。
 

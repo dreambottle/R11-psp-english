@@ -103,8 +103,8 @@ However, there's no guarantee I'd make it back again if I headed for Location X,
 
 %N%N%N%N%N
 
-%FS『遺体には雪崩に巻き込まれた際に受ける%N%X245裂傷も多数確認されている』%FE%K%P
-%FS"...it has been confirmed that the three bodies had sustained a large number of lacerations,%N believed to have been caused by an avalanche they were caught up in soon after surviving the crash."%FE
+%FS『遺体には雪崩に巻き込まれた際に受ける%N%X200裂傷も多数確認されている』%FE%K%P
+%FS"...it has been confirmed that the three bodies had sustained a large number of lacerations,%N%X200 believed to have been caused by an avalanche they were caught up in soon after surviving the crash."%FE
 %FS“遗体卷入雪崩时留下的多处裂痕也得到确认”%FE
 
 新聞に書かれた一文が、脳裏をよぎる。%K%P
@@ -993,11 +993,10 @@ That isn't Yomogi——
 那不是黄泉木——
 
 %P
-彼は――%T060%T060%P
+彼は――
 That's——
 他是——
 
-%P
 こころ「――――！？」%V
 ————?!
 心「————！？」

@@ -391,7 +391,7 @@ I'm getting fed up with the slow speed of my thoughts.
 DID――Dissociative Identity Disorder.
 悠尼「ＤＩＤ——分离性身份识别障碍」
 
-ゆに`がおもむろにくちを開いた。%K%P
+ゆにがおもむろにくちを開いた。%K%P
 Yuni slowly opened his mouth.
 悠尼慢慢开口说道。
 
@@ -456,15 +456,15 @@ Yuni spoke.
 悠尼说。
 
 「きっと、墜落のショックで、突発的にＤＩＤになっちゃったんだと思うよ？」%K%N
-Maybe, from the shock of the crash, she suddenly developed DID?
+「Maybe, from the shock of the crash, she suddenly developed DID?」
 “我想一定是因为坠落的冲击，而突发性的成为了ＤＩＤ吧？”
 
 「精神的にすごいダメージを受けて……」%K%N
-After being dealt a painful emotional blow...
+「After being dealt a painful emotional blow...」
 “精神上受到了相当大的伤害……”
 
 「その耐えがたい苦痛から逃れるために、こころんはもうひとりの人格を自分の中に生み出してしまったんだ」%K%P
-Kokoron gave birth to another personality within herself, to escape from the pain.
+「Kokoron gave birth to another personality within herself, to escape from the pain.」
 “为了逃避这种无法忍受的苦痛，心在自己的心里生出另外一个人格。”
 
 鈴は言う。%K%N
@@ -472,15 +472,15 @@ Lin answered him.
 铃却说。
 
 「あり得ないわ！　急性の多重人格障害なんて聞いたことないもの！」%K%N
-Impossible! I've never heard of a split personality occurring so suddenly!
+「Impossible! I've never heard of a split personality occurring so suddenly!」
 “不可理喻！从来没听说过急性的多重人格障碍什么的！”
 
 「この女は嘘をついてるだけなのよ！」%K%N
-That woman is just lying!
+「That woman is just lying!」
 “这个女人只是在骗人！”
 
 「だいいち、この女は私しか知らないはずの優希堂悟という名前を……」%K%P
-First of all, she spoke... Yukidoh Satoru's name. A name that only I should know...
+「First of all, she spoke... Yukidoh Satoru's name. A name that only I should know...」
 “首先，这个女人用了应该只有我才知道的优希堂悟的名字……”
 
 オレは反論したい気持ちをぐっとこらえた。%K%N
@@ -504,7 +504,7 @@ Yuni reasons that the Yukidoh Satoru personality is a fictitious existence produ
 悠尼说，优希堂悟的人格，是冬川心的意识做出来的架空存在。
 
 「にわかには信じがたいね……」%K%N
-It's hard to take it all in so suddenly...
+「It's hard to take it all in so suddenly...」
 “确实难以相信……”
 
 黄泉木は首を振るばかりだった。%K%N
@@ -588,7 +588,7 @@ The discussion over, Yuni put his lips near my ear and whispered to me.
 谈话的最后，悠尼靠在我的耳边低语。
 
 「大丈夫、悟はきっと元に戻れるよ」%K%N
-It's all right. Satoru will go back to normal for sure.
+「It's all right. Satoru will go back to normal for sure.」
 “没关系，悟一定能回到原来的地方。”
 
 ひっそりと告げられたその言葉……。%K%N
@@ -641,7 +641,7 @@ My eyes were fixed on the headline.
 
 %N%N%N
 
---------------------------------------------%N
+-------------------------------------------%N
 
 %LR平成２３（２０１１）年７月４日月曜日%N
 %LRJuly 4th (Monday) 2011 (Heisei 23)
@@ -655,7 +655,7 @@ My eyes were fixed on the headline.
 %LLMissing passengers from the HAL crash?
 %LL疑似ＨＡＬ坠落事故的失踪者？
 
---------------------------------------------%K%P
+-------------------------------------------%K%P
 
 今年１月、青森県朱倉岳にＨＡＬ１８便が墜落し２７人が死亡した事故に関連して、%K%N
 The Aomori prefectural police announced the recent discovery of the remains of three men and women on Aomori's Mount Akakura,
@@ -701,7 +701,8 @@ After analyzing the traces left at the Mount Akakura shelter cabin, it was concl
 The horrific crash of Flight 18, with the discovery of the three bodies, claimed 30 lives out of the 31 crew members and passengers aboard.
 在发现这些遗体之后，ＨＡＬ１８号航班坠机事故成为了乘员３１人中死亡３０人的重大事故
 
---------------------------------------------%N
+-------------------------------------------%N
+
 助かったという生存者の氏名は――%N『楠田ゆにくん（１１）』%K%N
 The name of the survivor――"Kusuda Yuni-kun (11)"
 唯一获救的生还者姓名是——楠田悠尼（１１）

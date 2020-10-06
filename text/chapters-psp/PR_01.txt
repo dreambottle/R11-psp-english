@@ -1,4 +1,4 @@
-﻿Я　чайка%K%P
+Я　чайка%K%P
 Я　чайка.
 Я　чайка
 
@@ -1366,7 +1366,7 @@ In other words, I wore a shawl over my kimono when I was attending my coming of 
 And it was then that the feather came off the shawl and got attached to my hair?
 心「那时披肩上的羽毛脱落，粘在了我的头发上？」
 
-ゆに「成人式と言えば、小学校や中学校で机を並べた旧友達が一同に会すビッグイベントでしょ？」%K%P
+ゆに「成人式と言えば、小学校や中学校で机を並べた旧友達が一堂に会すビッグイベントでしょ？」%K%P
 The Coming of Age Ceremony is like a big event where you invite all your friends from elementary school and middle school to meet up, right?
 悠尼「说起成人仪式，算是能够与小学、中学的同窗旧友们重逢的大事件吧？」
 

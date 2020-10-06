@@ -392,7 +392,7 @@ The sole survivor of the plane crash, Kusuda Yuni... I don't know why he came to
 Where did he go and what did he do during that year?
 在这一年间，他在那里做了什么呢？
 
-それから、もし仮にそうだとしても、このスフィアにどうやって浸入したのかも不明だった。%K%P
+それから、もし仮にそうだとしても、このスフィアにどうやって侵入したのかも不明だった。%K%P
 And even then, it's uncertain how he managed to get into SPHIA.
 还有，即使他来到了这里，也不明白他是怎么进入这个ＳＰＨＩＡ的。
 
@@ -437,7 +437,7 @@ Include the matter of the terabyte disk and it really makes me think that it's n
 ３：关于我的记忆障碍——
 
 「今のあなたは９０分前に初めてこの世界に産声をあげた、特殊な存在なのかも知れないわ」%K%N
-The current you, the one I'm talking to, is a special existence, one that gave its first birth cry a mere 90 minutes ago.
+「The current you, the one I'm talking to, is a special existence, one that gave its first birth cry a mere 90 minutes ago.」
 “现在的你或许是９０分钟前刚刚诞生到这个世界上的特别人格。”
 
 ゆうべ内海はそう言った。%K%N
@@ -585,7 +585,7 @@ After pondering for a while....
 我短暂沉思之后……
 
 「まさかな……」%K%N
-There's no way...
+「There's no way...」
 “怎么可能……”
 
 良からぬ考えを振り払うことにした。%K%N
@@ -597,11 +597,11 @@ Well then, if it wasn't a suicide attempt....
 那么，不是自杀是什么……
 
 「他殺……？」%K%N
-Murder...?
+「Murder...?」
 “他杀……？”
 
 「殺人未遂、か……？」%K%P
-Attempted murder...?
+「Attempted murder...?」
 “杀人未遂……？”
 
 そう言えば、あのとき聞こえたドアの音……。%K%N

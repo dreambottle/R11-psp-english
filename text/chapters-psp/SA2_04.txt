@@ -264,11 +264,11 @@ So, without the need for any fuss....
 所以，应该还是什么也没做地进了浴池里……
 
 「いや、待てよ……」%K%N
-No, wait...
+「No, wait...」
 “不，等等……”
 
 「それじゃあどうして服を脱がせなかったんだ？」%K%N
-Why not take my clothes off, then?
+「Why not take my clothes off, then?」
 “那么为什么没有脱衣服？”
 
 事故に見せかけるためなら、全裸の状態にしておいた方が自然だ。%K%N
@@ -284,7 +284,7 @@ Just for the sake of seeing me drown....
 看着我溺水的样子觉得享受什么的……
 
 「まさかな……」%K%N
-Couldn't be...
+「Couldn't be...」
 “怎么会呢……”
 
 考えたくないことだった。%K%N
@@ -300,7 +300,7 @@ I have no real grounds to suspect anyone anyway, so I'm just being paranoid now.
 也没有看到犯人的身影，被害妄想症貌似严重了些。
 
 「恐らく、単なる事故だったのだろう」%K%N
-It was probably just an accident.
+「It was probably just an accident.」
 “恐怕，只是单纯的事故吧。”
 
 こころはそのとき、睡眠薬を飲んでふらふらの状態だったにもかかわらず、バスタブに湯を張って入ろうとしていた。%K%N
@@ -316,7 +316,7 @@ With her clothes on, right into the bathtub, headfirst....
 结果就穿着衣服，头朝下扎进了浴缸中……
 
 「う～む……」%K%N
-Hm～mm....
+「Hm～mm....」
 “呜……”
 
 なんだか、こちらの解釈の方も合理的とは思えなかった。%K%N

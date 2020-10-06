@@ -539,7 +539,7 @@ When you're trapped on a mountain, the selfishness of a single person can lead t
 It's not just your behavior!
 黄泉木「不只是行动！」
 
-黄泉木「おまえみたいにバカなことを言うやつがひとりでもいると、チーム全体の連帯感に亀裂が生じるんだ！」%K%P
+黄泉木「おまえみたいなバカなことを言うやつがひとりでもいると、チーム全体の連帯感に亀裂が生じるんだ！」%K%P
 If there's a single person who goes on idiotically like you, it will form cracks in the unity of the team!
 黄泉木「只要有一个像你这样说胡话的家伙，就会让大家的团结产生裂痕！」
 
@@ -667,7 +667,7 @@ Hey, Fuyukawa-san? Why did I ever save a woman like that?
 Maybe you fooled around too much in your past life?
 是前世搞了什么恶作剧吧？
 
-助けなかったら、黄泉木さんらしくないですよ
+助けなかったら、黄泉木さんらしくない
 It wouldn't have been like you to not save her, Yomogi-san
 要是不救她的话，就不是黄泉木先生了。
 

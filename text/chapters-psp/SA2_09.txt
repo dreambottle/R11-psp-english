@@ -481,7 +481,7 @@ Why're you asking me all these things?
 I told you, I'm just killing time
 说了是闲聊吧？
 
-１年前におまえに似たやつを見かけたから
+１年前におまえに似たやつを見たから
 Because I saw someone that looked just like you a year ago
 一年前我见到很像你的家伙
 
@@ -593,12 +593,16 @@ I resolved myself, and then fired off my next question.
 Yuni, will you answer one last question?
 悟「悠尼，最后再问一个」
 
-黄泉木と鈴の名前に聞き覚えがないか尋ねる
-Ask him whether he remembers the names Yomogi and Lin
+黄泉木と鈴の名前に聞き覚えはないか？
+Do you remember the names Yomogi and Lin?
+//[dreambottle] Japanese phrase is slightly different on psp and looks more like direct speech.
+//[dreambottle] Also, original EN TL is very long, probably overflows the frame, so I made it shorter.
+//[dreambottle] old: Ask him whether he remembers the names Yomogi and Lin
 询问对黄泉木和铃的名字有没有印象
 
-どうしてスフィアにいるのか尋ねる
-Ask him why he's at SPHIA
+どうしてスフィアにいるのか？
+Why are you at SPHIA?
+//[dreambottle] old: Ask him why he's at SPHIA
 询问为什么会在ＳＰＨＩＡ内
 
 悟「黄泉木聖司……黛鈴……」%K%P
@@ -1855,7 +1859,7 @@ Of course, I couldn't take everything Hotori said to be the absolute truth.
 当然，她说的未必全是真的。
 
 「とにかく、繰り返すけど、ここでは誰の言うことも信じてはいけないの」%K%N
-Anyway, let me repeat myself. Don't trust anything anyone says here.
+「Anyway, let me repeat myself. Don't trust anything anyone says here.」
 “总而言之，我重复一遍，在这里谁的话都不能相信”
 
 オレは昨日聞いた内海の言葉を思い出した。%K%P

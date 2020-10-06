@@ -1500,7 +1500,7 @@ In front of the main entrance, Hotori was waiting.
 For some reason, she was following me around with small, rapid steps. I wonder what's up?
 她为什么紧跟着我呢。到底怎么回事？
 
-内海とゆにが、雑談をしながらテーブルについてお茶を飲んでいる。%K%P
+内海とゆにが、雑談をしながらテーブルについてお茶を飲んでいた。%K%P
 Utsumi and Yuni were drinking tea while making idle chatter.
 内海和悠尼坐在桌旁，边聊天边喝茶。
 
@@ -1880,7 +1880,7 @@ No... it was nothing.
 I was tired, and didn't have the energy to explain.
 因为我也很累了，所以没什么心情跟他解释。
 
-それに、ゆにに余計な心配を与えたくもなかったのもある。%K%P
+それに、ゆにに余計な心配を与えたくなかったのもある。%K%P
 Besides, I didn't want to give Yuni anything to worry about unnecessarily.
 而且，我也不想让悠尼过于担心。
 
@@ -2024,7 +2024,7 @@ A small 500ml PET bottle.
 There were three bottles, all unopened.
 一共三瓶，都没有开封。
 
-その内のを１本を取り出す。%K%P
+その内の１本を取り出す。%K%P
 I took out one of them.
 我取出其中一瓶
 

@@ -147,8 +147,8 @@ The time of my transfers on January 12th――
 1:07 PM: transferred to shelter cabin, 1:40 PM: returned to SPHIA.
 “下午１时０７分：转移到避难小屋，下午１时４０分：返回ＳＰＨＩＡ”
 
-『午後０６時０３分：避難小屋に転移、%N午後－－時－－分：スフィアに戻る』%K%N
-6:03 PM: transferred to shelter cabin, －:－－PM: returned to SPHIA.
+『午後０６時０３分：避難小屋に転移、%N午後−−時−−分：スフィアに戻る』%K%N
+6:03 PM: transferred to shelter cabin, --:--PM: returned to SPHIA.
 “晚上６时０３分：转移到避难小屋，晚上——时——分：返回ＳＰＨＩＡ”
 
 『午後０７時３３分：避難小屋に転移、%N午後０８時０６分：スフィアに戻る』%K%P
@@ -780,7 +780,7 @@ Could Utsumi have come to SPHIA for that purpose?
 She came here for revenge.
 为了复仇，她来到了这里。
 
-どのようにスフィアに浸入したのかはわからないが、%K%N
+どのようにスフィアに侵入したのかはわからないが、%K%N
 I don't know how she managed to get into SPHIA,
 虽然不清楚她是用什么方法进来的……
 

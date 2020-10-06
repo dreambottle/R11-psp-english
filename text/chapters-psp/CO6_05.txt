@@ -396,11 +396,11 @@ And he has the angel's feather.
 %N
 
 「そう、記念だよ」%K%N
-Yes, a memento.
+「Yes, a memento.」
 「作为纪念」
 
 「こころんと出逢ったことを、忘れないようにするための……」%K%P
-So that I don't ever forget that I met Kokoron...
+「So that I don't ever forget that I met Kokoron...」
 「纪念和心的相遇，永远不会忘记……」
 
 ゆにの目を見る。%K%P

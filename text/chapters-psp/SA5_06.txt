@@ -206,12 +206,12 @@ You want to kill me too, don't you?
 That "too" worried me, but for the time being, I answered.
 虽然我有点在意“也”这个说法，不过我还是这么回答了。
 
-『なんで穂鳥を殺さなくちゃいけないんだ』
-Why would I want to kill you?
+『なぜ穂鳥を殺さなくちゃいけないんだ』
+『Why would I want to kill you?』
 “为什么我要杀了穗鸟”
 
 『ああ、殺したいね』
-Yeah, I sure do
+『Yeah, I sure do』
 “啊，我是想杀了你”
 
 悟「なんで穂鳥を殺さなくちゃいけないんだ」%K%P
@@ -888,7 +888,7 @@ She left the small room carrying the two bottles close to her chest.
 She climbed the stairs back up to the dining area....
 走上楼梯，进了餐厅……
 
-こからの説明が少しあやふやなのだが……。%K%P
+ここからの説明が少しあやふやなのだが……。%K%P
 Here her explanation grew a little vague....
 这里开始的说明就显得有点含糊……
 

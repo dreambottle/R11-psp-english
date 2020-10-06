@@ -889,31 +889,31 @@ Because you suddenly disappeared... I...
 悟「我……是因为铃突然消失了……」
 
 「ねえ？　もしも私が、突然この世界から消えてしまったらどうする？」%K%N
-"Hey... What would you do if I suddenly disappeared from this world?"
+「Hey... What would you do if I suddenly disappeared from this world?"」
 “喂？如果我突然从这个世界上消失的话，你会怎么做？”
 
 %N
 
 「鈴のいる世界を見つけるよ」%K%N
-I would search for the world where you were.
+「I would search for the world where you were.」
 “去找铃所在的世界”
 
 %N
 
 「じゃあ、その世界が見つからなかったとしたら？」%K%N
-Then, what if you couldn't find that world?
+「Then, what if you couldn't find that world?」
 “那么，如果找不到那个世界呢？”
 
 %N
 
 「そうだな……」%K%N
-Well...
+「Well...
 “这个……”
 
 %N
 
 「たぶん、見つかるまで探し続けると思う」%K%O
-I'd probably keep on searching until I found it.
+「I'd probably keep on searching until I found it.」
 “我想，大概会一直找下去，直到找到为止。”
 
 悟「だから、鈴のいる世界を、見つけに来たんだ」%K%P

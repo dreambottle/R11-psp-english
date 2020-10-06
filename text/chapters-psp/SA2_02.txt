@@ -3,7 +3,7 @@
 I took my wristwatch out of my pocket.
 我从口袋中拿出手表。
 
-１１時０３分。昼まだ前だった。%K%P
+１１時０３分。まだ昼前だった。%K%P
 11:03. It's still before noon.
 上午１１时０３分。还是上午。
 
@@ -60,7 +60,7 @@ That's right...
 I can use this to reach Kokoro...
 悟「为了和心取得联系，使用这个就行了…………」
 
-この用紙メモにメッセージを残しておけば、転移が起きたときに、彼女はそれを読んでくれるはずだ。%K%P
+このメモ用紙にメッセージを残しておけば、転移が起きたときに、彼女はそれを読んでくれるはずだ。%K%P
 If I left a message on this notepad, she could read it when the transfer occurred.
 在便条纸上留下信息，转移发生后，她应该会读到的。
 

@@ -70,17 +70,18 @@ That's why, even if brought into consideration during sentencing, it was never u
 The past precedent was rewritten, and because of Inubushi Keiko, for the first time DID became a valid reason for application of article 39 of the penal code.
 犬伏景子因ＤＩＤ而利用刑法第３９条得以免罪，书写了审判史上新的篇章。
 
-彼女がＤＩＤであると認定された理由は諸説あるが、中でも%TS036ＤＳＭ%TE－Ⅵの存在が最も大きな理由と言われている。%K%N
+彼女がＤＩＤであると認定された理由は諸説あるが、中でも%TS036ＤＳＭ%TE−Ⅵの存在が最も大きな理由と言われている。%K%N
 There are various reasons that she was acknowledged as suffering from DID, but the biggest one is said to have been the %TS036DSM%TE-VI.
-她被认定为ＤＩＤ的理由众说纷纭，不过其中最重要的就是%TS036ＤＳＭ%TE－Ⅵ。
+她被认定为ＤＩＤ的理由众说纷纭，不过其中最重要的就是%TS036ＤＳＭ%TE−Ⅵ。
 
-ＤＳＭ－Ⅵは、ほんの数年前――２００８年に発行された最新版のことである。%K%P
+ＤＳＭ−Ⅵは、ほんの数年前――２００８年に発行された最新版のことである。%K%P
 The DSM-VI had been published just a few years earlier――the latest revision had been issued in 2008.
-ＤＳＭ－Ⅵ是在几年前——２００８年发行的最新版诊断与统计手册。
+ＤＳＭ−Ⅵ是在几年前——２００８年发行的最新版诊断与统计手册。
+//[dreambottle] This is not a true fact, DSM-5 is the latest one as of 2020, but I guess game authors couldn't know the future back in 2004
 
-１９９４年発行の%TS037ＤＳＭ－Ⅳ%TEにおいて、ＤＩＤだと診断すべき症状は、次の四点を満たすものと規定されていた。%K%N
+１９９４年発行の%TS037ＤＳＭ−Ⅳ%TEにおいて、ＤＩＤだと診断すべき症状は、次の四点を満たすものと規定されていた。%K%N
 In the 1994 edition of the %TS037DSM-IV%TE, the criteria for a DID diagnosis comprised the following four points.
-在１９９４年发行的%TS037ＤＳＭ－Ⅳ%TE中规定，被确诊为ＤＩＤ的症状，必须满足以下四点：
+在１９９４年发行的%TS037ＤＳＭ−Ⅳ%TE中规定，被确诊为ＤＩＤ的症状，必须满足以下四点：
 
 %N
 
@@ -89,7 +90,7 @@ In the 1994 edition of the %TS037DSM-IV%TE, the criteria for a DID diagnosis com
 1――Two or more distinct identities and personalities exist.
 １——要拥有两个以上明确的身份·人格状态
 
-（環境や自己を認識し・関係づけ・考えることにおいて、それぞれが独自の、比較的持続するパタ－ンをもつ）%K%P
+（環境や自己を認識し・関係づけ・考えることにおいて、それぞれが独自の、比較的持続するパタ−ンをもつ）%K%P
  (Possess awareness, recognition and cognition of self and surrounding environment, as well as individual personality characteristics.)
 （它们必须要能够对环境和自我产生认识·建立联系·在思考方式上要有独自的、相对持久的模式）
 
@@ -106,8 +107,7 @@ In the 1994 edition of the %TS037DSM-IV%TE, the criteria for a DID diagnosis com
 
 %N
 
-
-４――このような障害は、薬物による直接の生理的影響（例えば、アルコ－ル中毒で生じる記憶喪失・混乱行動）や一般的な病的状態によるものではない%K%P
+４――このような障害は、薬物による直接の生理的影響（例えば、アルコ−ル中毒で生じる記憶喪失・混乱行動）や一般的な病的状態によるものではない%K%P
 4――These symptoms are not directly due to the influence of the physiological effects of drugs (for example, memory loss or violent behavior due to disorientation from alcohol poisoning) or a result of other general abnormal conditions.
 ４——该障碍并非因药物而产生的直接生理影响（例如因酒精中毒而产生的记忆丧失·行动混乱）或一般的病态所造成
 
@@ -127,9 +127,9 @@ If two or more personalities could be perfectly acted out, it would be acknowled
 There have also been those who have tried to exploit this through the misuse of psychotropic drugs.
 而且已经出现了利用此种方法，获取精神性药物的人。
 
-そこで、２００８年発行のＤＳＭ－Ⅵにおいて、次の項目が追加された。%K%N
+そこで、２００８年発行のＤＳＭ−Ⅵにおいて、次の項目が追加された。%K%N
 As a result, the 2008 edition of DSM-VI included the following appended criterion.
-因此，在２００８年发行的ＤＳＭ－Ⅵ中追加了以下条目：
+因此，在２００８年发行的ＤＳＭ−Ⅵ中追加了以下条目：
 
 %N
 
@@ -153,9 +153,9 @@ The addition of this guideline had an influence on the skeptical field of Japane
 In Japan, it became accepted that a person was suffering from DID if the above five items were fulfilled.
 即便是在日本，只要满足以上５项也就可以被认定为ＤＩＤ。
 
-犬伏景子はＤＳＭ－Ⅵの基準に従って催眠検査が行われ、ＤＩＤであることが認定された。%K%N
+犬伏景子はＤＳＭ−Ⅵの基準に従って催眠検査が行われ、ＤＩＤであることが認定された。%K%N
 Inubushi Keiko had undergone an examination under hypnosis in accordance with the DSM-VI's standard, and was confirmed to have DID.
-犬伏景子按照ＤＳＭ－Ⅵ的基准进行了催眠检查，并被认定为ＤＩＤ。
+犬伏景子按照ＤＳＭ−Ⅵ的基准进行了催眠检查，并被认定为ＤＩＤ。
 
 それが裁判でも証拠として認められ、犬伏景子は心神喪失者として免罪されたのだ。%K%P
 That was acknowledged as evidence in court, and Inubushi Keiko was acquitted as a person suffering from an unsound mind.
@@ -301,7 +301,7 @@ Of course, each of her personalities were given proper names... or so it seems.
 I say it seems, because those names were not recorded anywhere in the file.
 说“似乎”，是因为这些名字并没有被记载在文件上。
 
-けれど俗称として、医師達はそれら１１個の人格を、『Ａ』～『Ｋ』と呼んでいた。%K%N
+けれど俗称として、医師達はそれら１１個の人格を、%N『Ａ』〜『Ｋ』と呼んでいた。%K%N
 However, the doctors had also given her common names for each of the eleven personalities from "A" to "K."
 不过，作为俗称，医生们把这１１个人格用“Ａ”～“Ｋ”来指代。
 

@@ -623,7 +623,7 @@ If you keep on acting like such an idiot, to protect the team, I'll...
 throw you away without a second thought.
 黄泉木「我只有舍弃个人」
 
-黛「それ、脅し...？」%K%P
+黛「それ、脅し……？」%K%P
 Is that... a threat...?
 黛「这算是，威胁……？」
 
@@ -1040,7 +1040,7 @@ Useless.
 Forgetting herself in her anger, Mayuzumi was beginning to see suspicious goings-on everywhere.
 她现在在气头上，已经谁也不相信了。
 
-これじゃ、何を言ったところで無駄だ……。%K%P
+これじゃ、なにを言ったところで無駄だ……。%K%P
 Like this, whatever we say will be useless....
 这样子说什么都没用了……
 
@@ -1096,7 +1096,7 @@ If you keep on acting like such an idiot, to protect the team, I'll...
 throw you away without a second thought.
 黄泉木「我只有舍弃个人」
 
-黛「それ、脅し...？」%K%P
+黛「それ、脅し……？」%K%P
 Is that... a threat...?
 黛「这算是，威胁……？」
 
@@ -1120,7 +1120,7 @@ If he was seriously planning on executing the "rule" he just mentioned...
 I won't be able to oppose him either.
 我也无法忤逆他。
 
-『ルール』の適用は、何も黛に限ったことではないということだから……。%K%P
+『ルール』の適用は、なにも黛に限ったことではないということだから……。%K%P
 Because there was nothing that would keep him from enforcing this "rule" against only Mayuzumi....
 因为，“规则”并不是只对黛适用的……
 

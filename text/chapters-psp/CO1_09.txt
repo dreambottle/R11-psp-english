@@ -605,10 +605,9 @@ Now... I can finally join you...
 
 %N%N%N%N
 
-
-%LC「（お父さん……お父さん……）」%K%P
-%LC「(Dad... Dad...)」
-%LC「（爸爸……爸爸……）」
+%LC（お父さん……お父さん……）%K%P
+%LC(Dad... Dad...)
+%LC（爸爸……爸爸……）
 
 そのときふと、声を聞いたような気がした。%K%N
 Right then, I thought I heard a voice.
@@ -620,10 +619,9 @@ A voice I'd heard so often, but now thought I'd never hear again.
 
 %N%N%N%N
 
-
-%LC「（お父さん……お父さん……）」%K%P
-%LC「(Dad... Dad...)」
-%LC「（爸爸……爸爸……）」
+%LC（お父さん……お父さん……）%K%P
+%LC(Dad... Dad...)
+%LC（爸爸……爸爸……）
 
 幻だということはわかっていた。%K%N
 I knew it had to be an illusion.
@@ -648,16 +646,16 @@ Junichi! Junichi, is that you...?
 %N%N%N%N
 
 
-%LC「（お父さん！　こっち！　こっちだよ！）」%K%P
-%LC「(Dad! Here! Here!)」
-%LC「（爸爸！这里！来这里！）」
+%LC（お父さん！　こっち！　こっちだよ！）%K%P
+%LC(Dad! Here! Here!)
+%LC（爸爸！这里！来这里！）
 
 %N%N%N%N
 
 
-%LC「（こっちに山小屋があるんだ！　見つけたんだよ！）」%K%P
-%LC「(There's a mountain cabin here! I found it!)」
-%LC「（这里有个山中小屋！我找到了！）」
+%LC（こっちに山小屋があるんだ！　見つけたんだよ！）%K%P
+%LC(There's a mountain cabin here! I found it!)
+%LC（这里有个山中小屋！我找到了！）
 
 気がつくと、僕の前にはひとりの少年が立っていた。%K%P
 When I snapped out of it, I saw a boy standing in front of me.

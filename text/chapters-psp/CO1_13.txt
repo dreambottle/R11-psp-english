@@ -755,7 +755,7 @@ Mayuzumi, just now, you spoke almost as if you knew who Yukidoh Satoru was.
 Fuyukawa-san... no, I mean Yukidoh-kun, seems to know about Mayuzumi too.
 黄泉木「冬川……不，优希堂好像也认识黛」
 
-黄泉木「さっきはしてたが、本当にふたりとも知り合いじゃないのか？」%K%P
+黄泉木「さっきは否定してたが、本当にふたりとも知り合いじゃないのか？」%K%P
 You denied it just now, but you two really know each other, don't you?
 黄泉木「虽然你刚才否定了，但其实你们两个是认识的吧？」
 
@@ -1231,7 +1231,7 @@ But this, it really was kind of incredible.
 The fact the four of us all agreed on what to eat.
 四个人的意见惊人地一致。
 
-まるで、私が『お粥が食べたい』と考えた瞬間に、みんなにその意志が伝播したかのようだった。%K%P
+まるで、私が『中華丼が食べたい』と考えた瞬間に、みんなにその意志が伝播したかのようだった。%K%P
 It's as if the moment I had decided "I want to eat some chuuka-don," that thought was broadcast to everyone else.
 就好像，我在想“想吃中式盖饭”的一瞬间，向大家传播了这个念头一样。
 

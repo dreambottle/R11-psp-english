@@ -3,7 +3,7 @@
 Before I realized it, the blanket over my head had vanished.
 回过神来，盖在头上的毛毯消失了。
 
-私の身の回りのもの全ての状況が一変した。%K%P
+それどころか、私の身の回りのもの全ての状況が一変した。%K%P
 On the contrary, everything around me underwent a complete change.
 不仅如此，我周围的状况完全改变了。
 
@@ -301,7 +301,6 @@ Just as I had gotten comfortable, Yuni asked me a question.
 
 ゆに「ねえ、なにしてたの？　心配したんだよ」%K%P
 Hey, what were you doing, anyway? I was worried.
-
 悠尼「喂，你干什么去了？我们都很担心啊」
 
 黄泉木「まったくだ。外に出るときは、ひと言声を掛けてくれよ」%K%P
@@ -594,7 +593,7 @@ Waaa～aah, stupid Satoruuu～～～!!!
 You lost ii～t! How will you take responsibilityyy～～～?!!!
 心「弄丢了啦～你要怎么负责任呀～」
 
-こころ「……えーん！　えーん！　えぐえぐ」%K%P
+こころ「えーん！　えーん！　えぐえぐ……」%K%P
 ...Waah!　Uwaaaah! Waaahh, ahhhh...
 心「哇—！呜呜……」
 

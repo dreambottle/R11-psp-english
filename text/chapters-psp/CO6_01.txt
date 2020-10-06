@@ -210,7 +210,7 @@ About what Yuni had said in SPHIA.
 ＳＰＨＩＡ内的悠尼这么说。
 
 「――おまえが、殺したんだ」%K%N
-――You killed him.
+「――You killed him.」
 「——是你杀了他」
 
 %N

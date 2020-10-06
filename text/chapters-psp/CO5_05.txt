@@ -671,7 +671,7 @@ In times of crisis like this, we have to keep in especially close communication 
 I looked toward the notepad.
 我走向便条纸处。
 
-悟の手は、薬の影響からか、握力の弱まっているように感じる。%K%P
+悟の手は、薬の影響からか、握力が弱まっているように感じる。%K%P
 Because Satoru's hands were under the influence of the drug, I could feel how their grip had weakened.
 悟的手似乎受到药的影响，几乎没有什么力气了。
 
@@ -783,7 +783,7 @@ Hey, Satoru...?
 I want to meet you. Even a single glance is fine, but I want to meet you.
 我很想见到你。一眼也好，好想见你。
 
-鏡に写っているのは、あなたじゃなくて、私だから。%K%N
+鏡に映っているのは、あなたじゃなくて、私だから。%K%N
 Because the one reflected in the mirror isn't you, it's me.
 镜中照出的并非你本人，而是我自己。
 

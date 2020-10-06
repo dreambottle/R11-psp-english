@@ -292,26 +292,12 @@ my world faded away.
 我的世界消失了。
 
 %N%N%N%N
-
-
 %CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N
-
-
 %C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N
-
-
 %FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N
-
-
 %FS%LCTruth⑳is⑳not⑳revealed.%FE%N
-
-
 %FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N
-
-
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
-
-
 %O
 
 //ロック解除――アルバム（全キャラクター表情集）
