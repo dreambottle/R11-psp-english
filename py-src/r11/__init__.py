@@ -20,12 +20,12 @@ r11_bytes_to_codes: dict = dict()
 trailing_meta_re_str = r"\s*((?:%[VKNOPp]|%T\d{3})+)$"
 trailing_meta_re: re.Pattern = re.compile(trailing_meta_re_str)
 
-def findTrailingControlSequence(text: str) -> str:
+def find_trailing_control_sequence(text: str) -> str:
   trailing_meta = trailing_meta_re.search(text)
   return trailing_meta.group(0) if trailing_meta else ""
 
 # only removes %K %P %p %N and %O
-def rmTrailingControlSequence(line: str) -> str:
+def rm_trailing_control_sequence(line: str) -> str:
   line = trailing_meta_re.sub("", line)
   return line
 

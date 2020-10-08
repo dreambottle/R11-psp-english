@@ -17,7 +17,7 @@ debug = False
 should_run_buffer_overflow_validations = False
 
 STATE_BLANK = 0
-STATE_JA = 1
+STATE_JP = 1
 STATE_TRANSLATED_EN = 2
 STATE_TRANSLATED_CN = 3
 
@@ -33,11 +33,12 @@ def detectTips(text: str) -> ():
   match = re.search(tip_pattern, text)
   return match.groups() if match else ()
 
-def findJpSpeaker(jp_line):
+def detectJpSpeakerAndBrackets(jp_line):
   # \u300c and \u300d are corner brackets: 「」, normally used for characters' direct speech
   # Note:
   # There are a few exceptions with corner bracket usage, like at line 1041 in CO4_02.txt,
   # where it is used not for direct speech, but as a regular quotation.
+  
   #meta_pattern = r"(?:%[A-Zp][A-Z0-9]*)*?"
   main_text_pattern_ja = "^((?:[^%]*?\u300c)?).*?(\u300d)?$"
   match_ja = re.match(main_text_pattern_ja, jp_line)
@@ -46,9 +47,9 @@ def findJpSpeaker(jp_line):
   jp_trailing_bracket = match_ja.group(2)
   jp_leading_bracket = ""
   
-  if debug: eprint("JA match %s:%s,%s;"%(i, jp_speaker, jp_trailing_bracket))
+  if debug: eprint("JP match %s,%s;"%(jp_speaker, jp_trailing_bracket))
   if debug and "\u300c" == jp_speaker:
-    eprint("\u300c without a speaker %s %s:%s,%s; %s"%(sys.argv[1], i, jp_speaker, jp_trailing_bracket, jp_line))
+    eprint("\u300c without a speaker %s %s,%s; %s"%(sys.argv[1], jp_speaker, jp_trailing_bracket, jp_line))
 
   if jp_speaker:
     jp_leading_bracket = jp_speaker[-1:]
@@ -66,28 +67,12 @@ def loadTrueJpLines(chapter_name: str) -> [str]:
   lines_filtered = [l.rstrip() for i, l in enumerate(lines[3:]) if i%3==1]
   return list(lines_filtered)
 
-def main():
-  state = STATE_JA
-  i = 0
-  jp_line = ""
-  tl_suffix = os.environ['TL_SUFFIX']
-  if debug: eprint("tl_suffix: %s"%(tl_suffix))
-
-  page_buf = 0
-
-  # for line in fileinput.input():
-  #   i += 1
-  #   line = line.rstrip()
-
-  #   if (re.search(r"^\s*//", line)):
-  #     if debug: eprint("skipping comment {}:{}".format(i, line))
-  #     continue
-
-  lines = [line.rstrip() for line in fileinput.input() if not line.startswith("//")]
-  current_tl_bucket = None
+def load_tl_buckets(lines):
+  state = STATE_JP
   tl_buckets = []
+  current_tl_bucket = None
 
-  tl_skip_lines = [
+  tl_skip_lines = set(
     "%N%N%N%N",
     "%CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
     "%C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
@@ -96,10 +81,11 @@ def main():
     "%FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N",
     "%FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE",
     "%O",
-  ]
+  )
 
   for line in lines:
-    if state == STATE_JA:
+    line = line.rstrip("\n")
+    if state == STATE_JP:
       if (line.strip() == ""):
         continue
 
@@ -117,7 +103,7 @@ def main():
       if(line.strip() in tl_skip_lines) or \
           re.match(r"^(%[NOPp])+$", line) or \
           re.match(r"^(%FS)?-{40,}[%A-Z0-9]+$", line):
-        state = STATE_JA
+        state = STATE_JP
         if should_run_buffer_overflow_validations and ("%P" in line or "%O" in line): page_buf = 0
     
     elif state == STATE_TRANSLATED_EN:
@@ -132,9 +118,18 @@ def main():
       if line.strip() == "":
         eprint("CN line was empty! (jp)'{}' [{}]".format(current_tl_bucket.jp, fileinput.filename()))
       # we have all lines, start looking for a JP line again
-      state = STATE_JA
+      state = STATE_JP
   #/for
-  del line
+  return tl_buckets
+
+def main():
+  tl_suffix = os.environ['TL_SUFFIX']
+  if debug: eprint("tl_suffix: %s"%(tl_suffix))
+
+  page_buf = 0
+
+  lines = [line.rstrip() for line in fileinput.input() if not line.startswith("//")]
+  tl_buckets = load_tl_buckets(lines)
 
   current_filename = fileinput.filename()
   chaptername = os.path.basename(current_filename)[:-4]
@@ -149,7 +144,9 @@ def main():
     jp_line = r11.clean_translation_enc_issues(jp_line)
     if (jp_true_line != jp_line):
       eprint("JP source mismatch; expected:'{}'; was:'{}' (~{})[{}]".format(jp_true_line, jp_line, i*4, current_filename))
-
+    jp_trailing_meta = r11.find_trailing_control_sequence(jp_true_line)
+    jp_tips = detectTips(jp_true_line)
+    
     if (tl_suffix == "en" and not en_line):
       # output slightly modded original if there's no TL
       en_line = r11.clean_en_translation_line(jp_line)
@@ -160,28 +157,21 @@ def main():
       r11.println_r11(jp_true_line)
       continue
 
-    jp_trailing_meta = r11.findTrailingControlSequence(jp_true_line)
-    en_trailing_meta = r11.findTrailingControlSequence(en_line)
-    cn_trailing_meta = r11.findTrailingControlSequence(cn_line)
+    jp_line = r11.rm_trailing_control_sequence(jp_line)
+    [jp_speaker, jp_leading_bracket, jp_trailing_bracket] = detectJpSpeakerAndBrackets(jp_line)
 
-    jp_tips = detectTips(jp_line)
+    en_trailing_meta = r11.find_trailing_control_sequence(en_line)
     en_tips = detectTips(en_line)
-    cn_tips = detectTips(cn_line)
-
     if (jp_tips != en_tips):
       eprint("Tips tag missing. EN: {} JP: {}; (en)'{}' (~{})[{}]".format(en_tips, jp_tips, en_line, i*4, current_filename))
+    en_line = r11.rm_trailing_control_sequence(en_line)
+    en_line = r11.clean_en_translation_line(en_line)
+
+    cn_trailing_meta = r11.find_trailing_control_sequence(cn_line)
+    cn_tips = detectTips(cn_line)
     if (jp_tips != cn_tips):
       eprint("Tips tag missing. CN: {} JP: {}; (cn)'{}' (~{})[{}]".format(cn_tips, jp_tips, cn_line, i*4, current_filename))
-
-
-    # clean jp and en lines
-    en_line = r11.rmTrailingControlSequence(en_line)
-    en_line = r11.clean_en_translation_line(en_line)
-    # remove trailing control sequence
-    jp_line = r11.rmTrailingControlSequence(jp_line)
-    #jp_line = re.sub(r"%TS\d{3}|%TE", "", jp_line) # remove ja tips. any that make sense will be in the translation.
-
-    [jp_speaker, jp_leading_bracket, jp_trailing_bracket] = findJpSpeaker(jp_line)
+    cn_line = r11.rm_trailing_control_sequence(cn_line)
 
     export_translated_line = ""
     trailing_meta = ""

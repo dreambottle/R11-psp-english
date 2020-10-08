@@ -47,7 +47,7 @@ compose_font () {
 	mkdir -p r11_etc_${TL_SUFFIX}
 	cd text/font
 	cp -f glyphs-new/* glyphs/
-	python3 ../../py-src/extract-font.py repack glyphs/ || exit 1;
+	python3 ../../py-src/extract_font.py repack glyphs/ || exit 1;
 	cp FONT00.NEW ../../r11_etc_${TL_SUFFIX}/FONT00.NEW
 	cd ../..
 }
