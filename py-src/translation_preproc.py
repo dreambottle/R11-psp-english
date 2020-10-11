@@ -72,7 +72,7 @@ def load_tl_buckets(lines):
   tl_buckets = []
   current_tl_bucket = None
 
-  tl_skip_lines = set(
+  tl_skip_lines = set([
     "%N%N%N%N",
     "%CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
     "%C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
@@ -81,7 +81,7 @@ def load_tl_buckets(lines):
     "%FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N",
     "%FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE",
     "%O",
-  )
+  ])
 
   for line in lines:
     line = line.rstrip("\n")
