@@ -49,6 +49,7 @@ A lonely girl locked away inside a tiny, narrow cage.
 Right now, I'm somewhere as close to heaven as I'll ever be.
 我现在，身在离天国最近的地方。
 
+
 高度３万３千フィートの空の上に……。%K%P
 33,000 feet up in the air....
 高度３万３千英尺的空中……
@@ -177,7 +178,7 @@ But...
 少年「『袖すりあうも和尚の霊』って言うじゃん？」%K%P
 "Every new meeting happens because of the spirits of priests"... that's what they say, right?
 男孩「“萍水相逢亦是缘”嘛？」
-//[CHN]The advantages of Chinese: can translate this sentence perfectly, tons of Japanese sayin's is from the old Chinese.
+//[CHN]The advantages of Chinese: can translate this sentence perfectly, tons of Japanese sayin's is from the old Chinese. 
 
 こころ「和尚の、霊？」%K%P
 The spirits... of priests?
@@ -860,7 +861,7 @@ Outside, the snow was still blowing violently about.
 
 俺は息を殺して鉄扉の前に立った。%K%P
 ''I'' held my breath as ''I'' stood in front of an iron door.
-我屏声静气地站在铁门前。
+自己屏声静气地站在铁门前。
 
 小さな発光ダイオードが闇の中に赤々とにじんでいる。%K%P
 Beside the door, a small red light was blinking in the darkness.
@@ -876,7 +877,7 @@ The treacherous red light gave away its location.
 
 ポケットに手を差し入れて１枚のカードを取り出す。%K%P
 ''I'' put my hand in my pocket and pulled out a single key card.
-我将手伸入口袋，取出一枚卡片。
+自己将手伸入口袋，取出一枚卡片。
 
 %LC%FS『ＳＡＴＯＲＵ　ＹＵＫＩＤＯＨ』%FE%N
 %LC%FS『ＳＡＴＯＲＵ　ＹＵＫＩＤＯＨ』%FE
@@ -888,7 +889,7 @@ The treacherous red light gave away its location.
 
 凸型に刻まれた文字を指先でなぞる。%K%P
 ''I'' traced the engraved letters with my fingertip.
-用指尖抚过凸起的文字。
+自己用指尖抚过凸起的文字。
 
 悟「優希堂悟……」%K%P
 Yukidoh Satoru...
@@ -896,11 +897,11 @@ Yukidoh Satoru...
 
 それが俺の名前……。%K%P
 That is my name....
-那便是我的名字……
+那便是自己的名字……
 
 俺は自分の名前があまり好きではなかった。%K%P
 ''I'' haven't ever really liked my name that much.
-我不太喜欢自己的名字。
+并不怎么喜欢这个名字。
 
 カードを指にからませてくるりとまわす。%K%P
 ''I'' twirled the card in my fingers and spun it around.
@@ -920,7 +921,7 @@ The lock opened and the door opened just the slightest crack....
 
 俺は導かれるように闇の奥へと進んでいった。%K%P
 ''I'' pushed it open and stepped into the darkness, as if drawn by something.
-我如同被引导一般朝着黑暗的深处前进。
+自己如同被引导一般朝着黑暗的深处前进。
 
 ゆに「こころんは、二十歳でしょう？」%K%P
 Kokoron is twenty, isn't she?
@@ -1144,21 +1145,15 @@ Its iron scales made sharp, cold sounds as my feet continued on their journey.
 %LCダビデは琴を弾いていた……%K%P
 %LCAnd David played with his hand, as at other times...
 %LC大卫在弹琴……
-
 %N
-
 %LCサウルの手には槍があった……%K%P
 %LCAnd there was a javelin in Saul's hand...
 %LC扫罗手中举枪……
-
 %N
-
 %LCサウルは槍を投げつけて……%K%P
 %LCAnd Saul cast the javelin; for he said...
 %LC扫罗将枪投出……
-
 %N
-
 %LCわたしはダビデを壁にでも……%K%P
 %LCI will smite David even to the wall with it...
 %LC心想“我要将大卫钉在墙上”……
@@ -1167,23 +1162,23 @@ Its iron scales made sharp, cold sounds as my feet continued on their journey.
 
 くちからもれたその声は、自分のものとは思えなかった。%K%P
 ''I'' didn't think of the words coming out of my mouth as my own.
-“我”无法相信那是自己发出的话语。
+无法相信那是自己发出的话语。
 
 誰かが俺の耳元で、ささやいているような気さえした。%K%P
 It was as if some spirit was whispering them into my ear.
-“我”甚至感觉，那是有人在我耳边窃窃私语。
+甚至感觉，那是有人在我耳边窃窃私语。
 
 %N
 
 %LC俺はダビデを突き刺してやる……%K%P
 %LC''I'' will smite David...
-%LC“我”要将大卫刺穿……
+%LC要将大卫钉……
 
 %N
 
 %LCたとえ再びかわされようと……%K%P
 %LCEven if he avoided it twice...
-%LC即使会再次被躲过……
+%LC即使，会再次被躲过……
 
 //Never read the bible, but these are slightly paraphrased words from the old testament. They are right there in the main page.
 //changed this one too. - the_paper

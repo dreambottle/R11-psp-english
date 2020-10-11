@@ -43,7 +43,7 @@ This clock tower was over 15 meters tall.
 
 ここから地面にたたきつけられれば骨の１本や２本では済まないだろう。%K%P
 If ''I'' were to fall from that height, ''I'''d be very lucky if ''I'' were to get away with just a few broken bones.
-从这里摔下去的话就不是断一两根骨头能解决的问题了。
+从这里摔下去的话，就不是断一两根骨头能解决的问题了。
 
 俺は眼下をのぞき込んだ。%K%P
 ''I'' glanced downward.

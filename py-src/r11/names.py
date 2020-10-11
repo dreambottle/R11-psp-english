@@ -23,7 +23,7 @@ names_dict = {
   "少年": TlNames("Boy", "男孩"),
   "少女": TlNames("Girl", "女孩"),
   "機長": TlNames("Pilot", "机长"),
-  "みんな": TlNames("Everyone", ";unused"), # TODO CN TL
+  "みんな": TlNames("Everyone", "所有人"),
   # "Yukidoh", rather than "Yuukidou", because it is written everywhere else this way
   "ユウキドウ": TlNames("Yukidoh", "优希堂"),
   # These occur in init.bin only, but pasting them here, for reference
