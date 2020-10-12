@@ -578,19 +578,19 @@ How... did you know...?
 
 内海「どうして８月に生まれたって、知ってるのよ……？」%K%P
 How did you know the birth was in August...?
-悟「那是……黄泉木先生亲口告诉我的……」
+内海「你怎么知道孩子是在八月出生的？」
 
 悟「それは……黄泉木さんに聞いたからだ……」%K%P
 Because... I heard it from Yomogi-san...
-悟「昨晚他这么说过……」
+悟「那是……黄泉木先生亲口告诉我的……」
 
 悟「ゆうべ彼はこう言ってた……」%K%P
 He told me last night...
-悟「预产期是８月……」
+悟「昨晚他这么说过……」
 
 悟「予定日は８月だって……」%K%P
 That the due date was in August...
-悟「就是说，孩子是在去年８月出生的……」
+悟「预产期是８月……」
 
 悟「ということは、赤ん坊が生まれたのは去年の８月で……」%K%P
 That means the baby would have been born last August, right...?

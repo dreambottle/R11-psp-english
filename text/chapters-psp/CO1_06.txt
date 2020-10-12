@@ -849,15 +849,15 @@ The steam rising from the cup slipped into my nose as I started talking.
 
 こころ「ごめんなさい、もう一度だけ、訊いてもいいですか？」%K%P
 I'm sorry, but can I ask you one more question?
-心「说起来，我还没请教你的名字呢」
+心「说起来，我能再多问一个问题吗？」
 
 こころ「名前……」%K%P
 Your name...
-男「名字？」
+心「你的名字是什么……」
 
 こころ「さっきは『教えたばかりだ』って言ってましたけど……」%K%P
 You said you had just told me a while ago, but...
-心「嗯，你的名字」
+心「你说一会儿之前告诉过我，但是……」
 
 彼はテーブルを挟んで向かい側に腰を下ろした。%K%P
 He sat down at the table across from me.
@@ -893,11 +893,11 @@ Now that I think about it, you still haven't told me your name yet, have you?
 
 男「名前？」%K%P
 Name?
-心「你的名字……」
+男「名字？」
 
 こころ「ええ、あなたの、名前です」%K%P
 Yeah, your name.
-心「虽然你说“刚刚告诉过我”……」
+心「是的，你的名字。」
 
 彼はテーブルを挟んで向かい側に腰を下ろした。%K%P
 He sat down at the table across from me.

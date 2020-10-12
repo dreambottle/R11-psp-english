@@ -1191,7 +1191,7 @@ Draw a tulip
 
 こころ「冬だし、雪だるまにしよう」%K%P
 Since it's winter, let's go with a snowman.
-「因为是冬天，就画雪人吧」
+心「因为是冬天，就画雪人吧」
 
 雪だるまと言えば、眉毛よね。%K%P
 And if it's going to be a snowman, the most important part is the eyebrows.

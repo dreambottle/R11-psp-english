@@ -558,7 +558,7 @@ Thinking that, a cold chill runs up my spine.
 
 内海「あら、穂鳥ちゃん、気がついた？」%K%P
 Ah, Hotori-chan, are you conscious?
-啊，穗鸟，你醒过来了？
+内海「啊，穗鸟，你醒过来了？」
 
 穂鳥「…………」%K%P
 ......

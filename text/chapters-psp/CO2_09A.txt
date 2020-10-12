@@ -636,411 +636,411 @@ Or else, are they lying in wait somewhere...?
 
 私は辺りに気を配りながら、悟の部屋へ身体を滑り込ませた。%K%P
 Keeping a sharp lookout, I slipped into Satoru's room.
-逃进谁的房间里吧。
+我注意着周围的动静，钻进了悟的房间。
 
 誰かの部屋へ逃げ込もう。%K%P
 I'll take refuge in someone's room.
-只要把门锁上，应该就可以躲过追杀了。
+逃进谁的房间里吧。
 
 鍵を掛けて立てこもれば、追っ手から逃げられるはず。%K%P
 If I lock myself in and bar the door, I should be able to escape my pursuer.
-可是，去谁的房间呢……
+只要把门锁上，应该就可以躲过追杀了。
 
 でも、誰の部屋へ……？%K%P
 But whose room....?
-…………
+可是，去谁的房间呢……
 
 …………。%K%P
 .......
-悟的房间。
+…………
 
 悟の部屋だ。%K%P
 Satoru's room.
-只能想到那里了。
+悟的房间。
 
 それ以外に考えられない。%K%P
 I didn't stop to consider anywhere else.
-这种情况下，谁也不能相信。
+只能想到那里了。
 
 この状況下では、誰も信用できない。%K%P
 In this situation, I couldn't trust anyone.
-我注意着周围的动静，钻进了悟的房间。
+这种情况下，谁也不能相信。
 
 私は辺りに気を配りながら、悟の部屋へと向かった。%K%P
 Keeping a sharp lookout, I made for Satoru's room.
-关好门，上好锁。
+我注意着周围的动静，钻进了悟的房间。
 
 ドアを閉め、鍵をかける。%K%P
 Closing the door, I lock it behind me.
-这样就没问题了吧。
+关好门，上好锁。
 
 これで大丈夫だろう。%K%P
 I should be safe now.
-我刚一放下心来，刚才的恐惧感便徐徐复苏，让我瘫软在当场。
+这样就没问题了吧。
 
 安心した途端、さっきの恐怖がじわじわとよみがえってきて、私はヘナヘナとその場に崩れ落ちてしまった。%K%P
 Just as relief had set in, my fear from before began to return bit by bit, and I crumbled to the ground, my strength drained.
-腰用不上力气。
+我刚一放下心来，刚才的恐惧感便徐徐复苏，让我瘫软在当场。
 
 腰に力が入らない。%K%P
 I couldn't put any power into my torso.
-身体瑟瑟发抖。
+腰用不上力气。
 
 身体がブルブルと震えてしまう。%K%P
 My body quivered.
-由于紧张感突然消失，左臂的疼痛显得更加强烈。
+身体瑟瑟发抖。
 
 緊張感が解けたことで、左腕の痛みがさらに増してきた。%K%P
 With the spell of tension broken, the pain in my left arm began to sharpen.
-我轻轻地触摸伤口，感觉粘粘的。
+由于紧张感突然消失，左臂的疼痛显得更加强烈。
 
 そっと触れてみると、ヌルヌルとした感触がある。%K%P
 Softly touching it, I felt something slippery.
-是血……
+我轻轻地触摸伤口，感觉粘粘的。
 
 血だ……%K%P
 It was blood...
-？？「优希堂？」
+是血……
 
 ？？「優希堂くん？」%K%P
 Yukidoh-kun?
-我被吓了一跳。屋里有人！
+？？「优希堂？」
 
 ギクリとした。誰か部屋の中にいる！%K%P
 I jumped. Someone was in the room!
-心「是、是谁！？」
+我被吓了一跳。屋里有人！
 
 こころ「だ、誰！？」%K%P
 W, who?!
-？？「是我啊」
+心「是、是谁！？」
 
 ？？「私よ」%K%P
 It's me.
-心「这个声音是……内海小姐？」
+？？「是我啊」
 
 こころ「その声は……内海さん？」%K%P
 That voice... Utsumi-san?
-内海「嗯，是啊」
+心「这个声音是……内海小姐？」
 
 内海「ええ、そう」%K%P
 Yes, that's right.
-内海「怎么了？」
+内海「嗯，是啊」
 
 内海「どうかしたの？」%K%P
 Is something wrong?
-心「……不、不得了了。突然……」
+内海「怎么了？」
 
 こころ「……た、大変です。急に――」%K%P
 ...I, it's terrible. Just now――
-说到这里，我闭上了嘴。
+心「……不、不得了了。突然……」
 
 そこまで言いかけて、慌てて口をつぐんだ。%K%P
 I stopped my mid-sentence and hurriedly snapped my mouth shut.
-为什么内海会在悟的房间里呢。
+说到这里，我闭上了嘴。
 
 なぜ内海が、悟の部屋にいるのだろう。%K%P
 Why was Utsumi in Satoru's room?
-心「…………」
+为什么内海会在悟的房间里呢。
 
 こころ「…………」%K%P
 ......
-内海「优希堂？出什么事了？怎么突然……」
+心「…………」
 
 内海「優希堂くん？　急に何？　どうしたの？」%K%P
 Yukidoh-kun? What happened just now? What's wrong?
-应该是内海的那个身影开始动起来。
+内海「优希堂？出什么事了？怎么突然……」
 
 内海のものと思われる気配が動いた。%K%P
 The presence of the one I recognized as Utsumi moved.
-它在向我靠近。
+应该是内海的那个身影开始动起来。
 
 私の方へと近づいてくる。%K%P
 She was walking toward me.
-怎么办。
+它在向我靠近。
 
 どうしよう。%K%P
 What do I do?
-应该逃跑吧。
+怎么办。
 
 逃げるべきだろうか。%K%P
 Should I run?
-可以信赖内海吗？
+应该逃跑吧。
 
 内海を、信頼してもいいのだろうか。%K%P
 Can I trust Utsumi?
-如果内海是袭击我的犯人的话？
+可以信赖内海吗？
 
 もし内海が私を襲った犯人だったら？%K%P
 What if Utsumi was the one chasing me?
-在我为是否逃跑而举棋不定的时候，她有足够的时间潜入这个房间。
+如果内海是袭击我的犯人的话？
 
 私が逃げまどっている間に、この部屋に忍び込む時間はじゅうぶんにあった。%K%P
 She would have had plenty of time to sneak in while I was running toward this room.
-无法否认，她有可能就是潜伏着的犯人。
+在我为是否逃跑而举棋不定的时候，她有足够的时间潜入这个房间。
 
 彼女が待ち伏せをしていた犯人である可能性は、否定できない。%K%P
 I couldn't deny the possibility that she's the pursuer, waiting to ambush me.
-可是反过来说，如果内海不是犯人的话……
+无法否认，她有可能就是潜伏着的犯人。
 
 でも逆に、内海が犯人ではなかったら……。%K%P
 But, if the reverse was true, and Utsumi wasn't the culprit....
-如果她从这个房间里出去，也会被连带着陷入危险。
+可是反过来说，如果内海不是犯人的话……
 
 この部屋から出ることによって、彼女もろとも危険に飛び込むことになる。%K%P
 If she left this room, she would be stepping directly into the path of certain danger.
-内海「优希堂？你还好吧？」
+如果她从这个房间里出去，也会被连带着陷入危险。
 
 内海「優希堂くん？　大丈夫？」%K%P
 Yukidoh-kun? Are you okay?
-内海的气息已经迫近我的面前。
+内海「优希堂？你还好吧？」
 
 内海の気配はすぐ目の前まで迫っている。%K%P
 Utsumi's presence pressed in further, now almost right in front of me.
-怎么办——
+内海的气息已经迫近我的面前。
 
 どうしよう――。%K%P
 What do I do――
-相信什么好呢……
+怎么办――
 
 なにを信じればいいの……。%K%P
 What should I believe...?
-不知道。我不知道啊……
+相信什么好呢……
 
 わからない。わからないよ……。%K%P
 I don't know. I don't know....
-我紧闭双眼——
+不知道。我不知道啊……
 
 私はきつく目を閉じ――%K%P
 I shut my eyes tight――
-内海「哎呀」
+我紧闭双眼——
 
 内海「あら」%K%P
 Oh.
-内海「停电，似乎好了呢」
+内海「哎呀」
 
 内海「停電、直ったみたいね」%K%P
 It seems the power's been restored.
-心「……哎？」
+内海「停电，似乎好了呢」
 
 こころ「……え？」%K%P
 ...What?
-我慢慢睁开眼睛。
+心「……哎？」
 
 私はゆっくりと目を開いた。%K%P
 I slowly opened my eyes.
-如内海所说的那样，电力又恢复了。
+我慢慢睁开眼睛。
 
 内海の言う通り、電気が復旧していた。%K%P
 Just as Utsumi had said, the electricity was back.
-对刚刚习惯黑暗的眼睛而言实在有些刺眼，我用手遮住亮光。
+如内海所说的那样，电力又恢复了。
 
 闇に慣れた目にはまぶしくて、私は手でひさしを作った。%K%P
 To my eyes which had become accustomed to the dark, it was blinding, so I shielded my eyes with my hand.
-正好看到了闹钟。
+对刚刚习惯黑暗的眼睛而言实在有些刺眼，我用手遮住亮光。
 
 ちょうど、置き時計が目に入った。%K%P
 The clock on the table entered my field of vision.
-晚上７时４３分。
+正好看到了闹钟。
 
 ７時４３分。%K%P
 7:43.
-因为悟说过要“计算时间”，所以我变得对表很敏感了。
+晚上７时４３分。
 
 悟から『時間を計測してくれ』と言われていたので、つい時計に敏感に反応してしまう。%K%P
 Because Satoru had said "please check the time," I had unconsciously become sensitive to the presence of clocks.
-转移之后大概过了１０分钟吧。
+因为悟说过要“计算时间”，所以我变得对表很敏感了。
 
 転移してから今の時間まで１０分くらいだろうか。%K%P
 Had it been about ten minutes since the transfer?
-这样的话，这次的转移时间就是晚上７时３３分……
+转移之后大概过了１０分钟吧。
 
 だとすると、今回の転移は７時３３分……。%K%P
 If that was the case, the last transfer happened at 7:33....
-内海「……！」
+这样的话，这次的转移时间就是晚上７时３３分……
 
 内海「……っ！」%K%P
 ...Ah!
-内海「优希堂，你……怎么了……！？」
+内海「……！」
 
 内海「優希堂くん、あなた、どうしたの……！？」%K%P
 Yukidoh-kun, what's wrong...?!
-心「啊？」
+内海「优希堂，你……怎么了……！？」
 
 こころ「え？」%K%P
 Eh?
-内海脸色突变，奔了过来。
+心「啊？」
 
 内海が血相を変えて駆け寄ってきた。%K%P
 Utsumi's face went pale, and she rushed over to me.
-我不自觉地紧张起来。
+内海脸色突变，奔了过来。
 
 思わず緊張する。%K%P
 I inadvertently tensed.
-内海「怎么都流血了！」
+我不自觉地紧张起来。
 
 内海「血が出てるじゃない！」%K%P
 You're bleeding!
-心「啊……」
+内海「怎么都流血了！」
 
 こころ「あ……」%K%P
 Ah...
-我看了看左臂。
+心「啊……」
 
 私も左腕を見てみた。%K%P
 I looked at my left arm as well.
-吓了一跳。
+我看了看左臂。
 
 そして驚いた。%K%P
 And was profoundly shocked.
-我的——准确地说是悟的——左臂被鲜血染红了。
+吓了一跳。
 
 私の――正確には悟の――左腕は真っ赤に染まっていた。%K%P
 My――or more accurately, Satoru's――left arm was dyed a deep red.
-不仅如此，指尖还有鲜血滴下。
+我的——准确地说是悟的——左臂被鲜血染红了。
 
 それだけでなく、指先から雫となって床に垂れ落ちている。%K%P
 Not only that, there were drops forming on my fingers that dripped to the floor.
-地板上已经有几处被染红。
+不仅如此，指尖还有鲜血滴下。
 
 床には、すでに血痕がいくつも落ちていた。%K%P
 Many bloodstains had already formed there.
-心「呜哇……」
+地板上已经有几处被染红。
 
 こころ「うわ……」%K%P
 Wah...
-大脑一阵眩晕。
+心「呜哇……」
 
 頭がクラクラする。%K%P
 I grew dizzy.
-好像要晕血了一样……
+大脑一阵眩晕。
 
 貧血起こしそう……。%K%P
 It felt like I was going to go anemic....
-左臂好似被灼烧一般。
+好像要晕血了一样……
 
 すでに左腕は、焼けるような熱を帯びていた。%K%P
 My left arm already felt like it was burning.
-针扎似的疼痛传遍全身。
+左臂好似被灼烧一般。
 
 ジンジンと痛みが全身に響く。%K%P
 The pain reverberated through my whole body.
-内海「必须马上处理！」
+针扎似的疼痛传遍全身。
 
 内海「すぐに手当てしないと！」%K%P
 We have to treat it right away!
-内海「等一下。我就去拿急救箱——」
+内海「必须马上处理！」
 
 内海「待ってて。すぐに救急箱を――」%K%P
 Wait here. I'll go and get the first aid kit right away――
-内海从我身边穿过，想要走出房间。
+内海「等一下。我就去拿急救箱——」
 
 内海は私の横をすり抜け、部屋から出ていこうとする。%K%P
 Separating from me, Utsumi quickly made to leave the room.
-我慌忙抓住内海的手腕，拉住了她。
+内海从我身边穿过，想要走出房间。
 
 私は慌てて内海の腕を掴み、引きとめた。%K%P
 I panicked and grabbed Utsumi's arm, pulling her back.
-心「等等！」
+我慌忙抓住内海的手腕，拉住了她。
 
 こころ「待って！」%K%P
 Wait!
-心「现在外面很危险！」
+心「等等！」
 
 こころ「今、外に出たら危険よ！」%K%P
 If you go outside right now, you'll be in danger!
-内海「哎！？」
+心「现在外面很危险！」
 
 内海「えっ！？」%K%P
 Eh?!
-内海转向我，露出一副无法理解的表情。
+内海「哎！？」
 
 内海がいぶかしげな表情で私へと向き直る。%K%P
 Utsumi turned back toward me with suspicion.
-心「啊……那个、这个……」
+内海转向我，露出一副无法理解的表情。
 
 こころ「あ……えっと、その……」%K%P
 Ah... um, that is...
-内海「…………」
+心「啊……那个、这个……」
 
 内海「…………」%K%P
 ......
-心「…………」
+内海「…………」
 
 こころ「…………」%K%P
 ......
-房间里气氛尴尬。
+心「…………」
 
 部屋の中に、沈黙が流れる。%K%P
 Silence enveloped on the room.
-内海「是冬川小姐吗？」
+房间里气氛尴尬。
 
 内海「冬川さん、なの？」%K%P
 Is that you, Fuyukawa-san?
-心「哎？」
+内海「是冬川小姐吗？」
 
 こころ「え？」%K%P
 Huh?
-心「哎，嗯。是的」
+心「哎？」
 
 こころ「え、ええ。そうです」%K%P
 Y, yes. It is.
-只能告诉她了。
+心「哎，嗯。是的」
 
 言うしかない。%K%P
 I had to say it.
-心「那个，就在我来这边之前——」
+只能告诉她了。
 
 こころ「あの、私がこっちに来た直前に――」%K%P
 Um, right before I came here――
-心「啊，也就是人格交换发生之前」
+心「那个，就在我来这边之前——」
 
 こころ「あ、つまり人格交換が起きた直前に、ということですけど」%K%P
 Ah, just before the personality exchange happened, is what I mean.
-内海「嗯」
+心「啊，也就是人格交换发生之前」
 
 内海「ええ」%K%P
 Yes.
-心「这个身体被人袭击了」
+内海「嗯」
 
 こころ「誰かに、襲われたの」%K%P
 Someone... was chasing me.
-心「这只手，也是那时——」
+心「这个身体被人袭击了」
 
 こころ「この手も、その時に――」%K%P
 That was when my hand――
-内海「是被谁？」
+心「这只手，也是那时——」
 
 内海「誰か、って？」%K%P
 Someone, you say?
-心「不知道。脸……没有看到」
+内海「是被谁？」
 
 こころ「わかりません。顔は……見えませんでした」%K%P
 I don't know who. I... didn't see their face.
-内海「…………」
+心「不知道。脸……没有看到」
 
 内海「…………」%K%P
 ......
-内海陷入了沉默。
+内海「…………」
 
 内海は押し黙ってしまう。%K%P
 Utsumi stayed silent.
-是在考虑“犯人是谁”这个问题吧。
+内海陷入了沉默。
 
 『犯人は誰なのか』ということについて考えているのだろうか。%K%P
 She was probably contemplating "who the criminal was."
-ＳＰＨＩＡ里，除了我和内海，就只有悠尼和犬伏（穗鸟）了。
+是在考虑“犯人是谁”这个问题吧。
 
 スフィアには、私と内海の他には、ゆにと犬伏（穂鳥）しかいない。%K%P
 Other than myself and Utsumi, only Yuni and Inubushi (Hotori) are currently in SPHIA.
-袭击我的人，当然是除我以外的三人之一。
+ＳＰＨＩＡ里，除了我和内海，就只有悠尼和犬伏（穗鸟）了。
 
 私を襲ったのは、当然ながら私以外の３人ということになる。%K%P
 Seeing as I was attacked, I'm obviously exempt, meaning it was one of the remaining three.
-悠尼还是个孩子，而且是个好孩子，所以不可能袭击我。
+袭击我的人，当然是除我以外的三人之一。
 
 ゆには子どもだし、とてもいい子だから、襲うのはあり得ない。%K%P
 Yuni's only a child, and he's a really good kid, so there's no way he'd attack me.
-而说到犬伏和内海，则都有这种可能性。
+悠尼还是个孩子，而且是个好孩子，所以不可能袭击我。
 
 そう思いたいのだが、確証は持てない、という警戒心が頭の片隅にある。%K%P
 That's what I'd like to think, but I don't have any proof, I think in a wary corner of my mind.

@@ -651,7 +651,7 @@ I see. It's obvious to think that.
 
 内海「あなたは、冬川こころさんであると同時に、優希堂悟さん――」%K%P
 You are Fuyukawa Kokoro-san, and at the same time, Yukidoh Satoru-san――
-「你是冬川心，同时也是优希堂悟——」
+内海「你是冬川心，同时也是优希堂悟——」
 
 こころ「もういいですってば！」%K%P
 I said I know!
@@ -1067,7 +1067,7 @@ Hotori wasn't in the living area.
 
 彼女は４つの扉のうちのひとつへとちょうど姿を消すところだった。%K%P
 She had disappeared through one of the four doors.
-我大致把房间扫视了一下。
+她刚好走进四扇门中的一扇，身影消失在门后。
 
 最後に残った部屋だ。%K%P
 The last remaining door.
@@ -1075,11 +1075,11 @@ The last remaining door.
 
 あるいは、あそこが穂鳥の部屋なのかもしれない。%K%P
 Or, it could be possible that that room belongs to Hotori herself.
-以及四扇门中，起居室一侧的两扇。
+或者，有可能那个房间是穗鸟自己的。
 
 他に行くところもないし、少し覗いてみよう。%K%P
 Since I didn't have anywhere else to go, I thought I'd take a little peek.
-她刚好走进四扇门中的一扇，身影消失在门后。
+因为并没有别的地方可去，我想，自己应该去看看。
 
 私は軽い気持ちで、穂鳥の後を追った。%K%P
 Casually, I followed after Hotori.
@@ -1095,6 +1095,7 @@ The only places I hadn't been to now were the front entrance
 
 そして４つの扉のうち、リビングに面したふたつ。%K%p
 and one of the four doors, the ones in the corners of the living area.
+以及四扇门中，起居室一侧的两扇。
 
 扉を調べる
 Check the door

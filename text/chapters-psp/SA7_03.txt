@@ -829,7 +829,7 @@ I took it out of my pocket and tried to fit it in.
 
 悟「は、はいった……」%K%P
 It, it went in...!
-我从口袋里取出它，插进钥匙孔里。
+悟「进，进去了……」
 
 鍵はなんの抵抗もなく、吸い込まれるように穴の中へと収まった。%K%P
 As if being inhaled, the key smoothly settled inside the hole.

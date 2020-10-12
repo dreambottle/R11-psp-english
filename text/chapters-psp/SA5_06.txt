@@ -1508,7 +1508,7 @@ But it satisfied your thirst, right?
 
 穂鳥「それとも、まだ足りないかな……？」%K%P
 Or was it still not enough...?
-穂鸟「还是说...你仍然没有满足……？」
+穗鸟「还是说...你仍然没有满足……？」
 
 答えも待たず、彼女は再び触れてきた。%K%P
 Without even waiting for an answer, she approached once again.

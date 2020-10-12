@@ -755,51 +755,51 @@ Hey now, they're our precious rations, so value them more.
 
 そうだった。食糧は４日分しかないんだった。%K%P
 That's right. We only have four days' worth of food.
-心「对不起……」
+是的。我们只剩下四天的食物了。
 
 こころ「ごめんなさい……」%K%P
 I'm sorry...
-悠尼「啊～，真羡慕啊，心。我也要！」
+心「对不起……」
 
 ゆに「あー、いいなー、こころん。ぼくも食べたい！」%K%P
 Aaah, lucky you, Kokoron. I want some too!
-黄泉木「不行。这个没收了」
+悠尼「啊～，真羡慕啊，心。我也要！」
 
 黄泉木「ダメだ。これは没収」%K%P
 No way. This is confiscated.
-悠尼「切。小气鬼」
+黄泉木「不行。这个没收了」
 
 ゆに「ちぇっ。けちぃ」%K%P
 Tch. Stingy.
-黄泉木把压缩饼干放回了纸箱里。
+悠尼「切。小气鬼」
 
 黄泉木はカンパンを段ボールの中に戻した。%K%P
 Yomogi placed the biscuits back into the cardboard box.
-虽然很想吃，不过想到粮食只够四天的了。
+黄泉木把压缩饼干放回了纸箱里。
 
 食べてみようかと思ったが、食糧は４日分しかないことを思い出した。%K%P
 I thought I'd try them out, but I remembered that we only had four days' worth.
-一定要好好珍惜。
+虽然很想吃，不过想到粮食只够四天的了。
 
 もっと大事にしないと。%K%P
 We have to value it more.
-我把压缩饼干放回了纸箱里。
+一定要好好珍惜。
 
 私はカンパンを、段ボールの中に戻した。%K%P
 I put the biscuits back into the cardboard box.
-黄泉木从旁边的纸箱里翻出了一个铝箔锅。
+我把压缩饼干放回了纸箱里。
 
 横の箱をあさっていた黄泉木が、アルミ箔鍋を引っ張り出した。%K%P
 Yomogi pulled out an aluminum pot from the box beside it.
-看上去很不牢靠，但能用来煮东西就行了。
+黄泉木从旁边的纸箱里翻出了一个铝箔锅。
 
 どことなく頼りないが、温めるだけならそれでじゅうぶんだろう。%K%P
 It seemed somewhat flimsy, but if all we'd be using it for was heating things, then it was just fine.
-黄泉木「帮我去往这个锅里装点雪」
+看上去很不牢靠，但能用来煮东西就行了。
 
 黄泉木「それじゃ、この鍋に雪を入れてきてくれ」%K%P
 Well then, please put some snow into this pot.
-心「明白了」
+黄泉木「帮我去往这个锅里装点雪」
 
 こころ「わかりました」%K%P
 Got it.

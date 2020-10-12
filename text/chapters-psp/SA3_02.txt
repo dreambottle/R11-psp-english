@@ -438,7 +438,7 @@ Yuni and I climbed back up the stairs, carrying the cardboard box by either end.
 
 みんな「…………」%K%P
 ......
-悠尼、穗鸟、内海「…………」
+所有人「…………」
 
 ゆに「ねえ？　これってなに？」%K%P
 Hey, what is it?
@@ -458,7 +458,7 @@ It can fit four people, so you could even call it a bobsled.
 
 みんな「…………」%K%P
 ......
-悠尼、穗鸟、内海「…………」
+所有人「…………」
 
 ゆに「なんで、魚の形してるの？」%K%P
 Why is it shaped like a fish?
@@ -478,7 +478,7 @@ That's so it'll slide better, right?
 
 みんな「…………」%K%P
 ......
-悠尼、穗鸟、内海「…………」
+所有人「…………」
 
 ゆに「っていうか、マグロだよねぇ？　これ」%K%P
 I mean, this is a tuna, isn't it?
@@ -498,7 +498,7 @@ Tuna, tuna, tuuuna～♪  Hanyara～ra honya～rara～
 
 みんな「…………」%K%P
 ......
-悠尼、穗鸟、内海「…………」
+所有人「…………」
 
 ゆに「意味わかんねぇーよ」%K%P
 This whole thing is totally ridiculous.
@@ -561,7 +561,7 @@ Just kidding...
 
 ゆに・悟・穂鳥「…………」%K%P
 ......
-悠尼、悟、穗鸟「…………」
+所有人「…………」
 
 内海「いやー！　いやー！」%K%P
 Nooooo! Oh nooooooo!

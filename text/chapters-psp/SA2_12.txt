@@ -1128,7 +1128,7 @@ All of a sudden, Lin stood up. She'd heard enough.
 
 黛「この状況、わかって言ってんの！？」%K%P
 Don't you understand the situation we're in?!
-你知道现在是什么状况么！？」
+黛「你知道现在是什么状况么！？」
 
 黛「あんただって、死ぬかも知れないのよ！？」%K%P
 You could die too, you know!

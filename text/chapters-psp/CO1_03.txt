@@ -137,11 +137,11 @@ Calling out, I approached her.
 
 こころ「ちょっとお尋ねしたいことがあるんですけど……」%K%P
 There's something I'd like to ask you...
-她没有反应。
+心「我有些事情想要问你……」
 
 彼女は反応を示さない。%K%P
 The girl showed no reaction.
-一动不动地僵在那里。
+她没有反应。一动不动地僵在那里。
 
 身動きひとつせずに硬直していた。%K%P
 She merely sat there without moving a muscle.

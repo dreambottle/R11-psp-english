@@ -203,7 +203,7 @@ I put on a wool sweater as an extra layer, and some gloves.
 
 %TS032ピッケル%TEがあったので、なんとなく持っていくことにする。%K%P
 Since there was an %TS032ice ax%TE, I decided to take it too for some reason.
-还看到一把冰斧，干脆也拿上。
+还看到一把%TS032冰斧%TE，干脆也拿上。
 
 ロープも見つけた。でもかなり重い。%K%P
 I also found some rope. But it was considerably heavy.

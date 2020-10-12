@@ -352,17 +352,19 @@ This is probably because I remember the plane crash.
 
 鈴の腐乱死体と一緒に発見された黄泉木とこころ、%K
 Yomogi and Kokoro, who were discovered together with the decomposed body of Lin,
+和铃的腐烂尸体一起被发现的心和黄泉木。
 
 それから唯一の生存者、ゆにのことだけは、忘れることができぬほど深く頭の中に刻み込まれていたのだろう。%K%N
 plus the sole survivor, Yuni, may have been etched so deeply into my head that I couldn't forget them.
-和铃的腐烂尸体一起被发现的心和黄泉木。以及唯一的生存者悠尼，深深刻入脑中而无法忘记吧。
+以及唯一的生存者悠尼，深深刻入脑中而无法忘记吧。
 
 オレの記憶障害については後に詳しく述べることにして、%K
 I'll explain my amnesia in detail later.
+关于我的记忆障碍的事后面详述。
 
 ひとまず、オレが彼らに見覚えがあったのは、上のような理由によるものと思われる。%K%P
 For now, my recollections of them seems to be due to the above reason.
-关于我的记忆障碍的事后面详述。暂时来说，我还记得他们，可以认为就是因为上述理由。
+暂时来说，我还记得他们，可以认为就是因为上述理由。
 
 次にゆにのこと――。%K%N
 Next, Yuni――
@@ -554,7 +556,7 @@ What if this isn't "amnesia"....
 
 『%TS049記憶移植%TE』……なのではないだろうか？%K%N
 ...but a "%TS049memory transplant%TE"...?
-“%TS记忆移植%TE”……不会是这样吧？
+“%TS049记忆移植%TE”……不会是这样吧？
 
 オレはなんとなく、そんなことを思った。%K%P
 For some reason, I had that thought.

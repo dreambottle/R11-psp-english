@@ -283,7 +283,7 @@ I was rocking.
 
 ゆに「%TS052ロックンロール%TEだよ、ロックンロール」%K%P
 %TS052Rock and roll%TE, I was rock-and-rolling.
-%TS052悠尼「摇滚音乐哦，摇滚音乐」
+悠尼「%TS052摇滚音乐%TE哦，摇滚音乐」
 
 ゆに「ぼくね？　%TS053カポエラ%TEの道場に通ってるんだけど、そこのお師匠さんにこう言われたんだ」%K%P
 You know, I was attending a %TS053Capoeira%TE dojo, and the master there said to me...

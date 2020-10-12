@@ -349,7 +349,7 @@ Our options were very limited.
 ここにひと晩%TS005ビバーク%TEし、あとは天候が回復するのをひたすら待ち続けるしかない。%K%N
 We spent all night in %TS005bivouac%TE, with nothing else to do but wait for the weather conditions to improve.
 //the spacing is funny with some of the 'linked' term words, so I'm adding extra spaces in front.
-只能在这里%TS露宿%TE一晚，耐心地等待天气好转。
+只能在这里%TS005露宿%TE一晚，耐心地等待天气好转。
 
 天気さえ良くなれば、自衛隊や山岳救助隊のヘリコプターがすぐに僕らを見つけ出してくれるだろう。%K%N
 If they got better, a military or a rescue helicopter would have no trouble finding us.
