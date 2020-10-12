@@ -3,6 +3,7 @@
 
 import os
 import re
+from os import path
 
 import r11
 import lib.chinese_converter as cconv
@@ -25,6 +26,22 @@ def loadCnText() -> str:
     cn_text = r11.clean_translation_enc_issues(cn_text)
     print("Text characters without linebreaks and spaces: {}".format(cn_text.__len__()))
     return cn_text
+
+
+def loadCnText2() -> str:
+    
+    # load from initbin
+    initbinTxtPath = path.dirname(__file__) + "/../text/other-psp-cn/init.bin.full.utf8.txt"
+    with open(initbinTxtPath, "r", encoding="utf-8-sig") as f:
+        initBinLines = f.readlines()[2:]
+    initBinLines = [l.rstrip() for l in initBinLines if not l.startswith(";")]
+    # initBinAll = "".join(initBinLines)
+
+    # load from chapters
+    #chaptersDir = path.dirname(__file__) + "/../text/chapters-psp/
+    
+    # load from boot
+    # load from shortcut
 
 # returns a list of [<char>, <count>] sorted by count desc
 def buildUsageStatsListSorted(cn_text: str) -> list:
@@ -108,6 +125,8 @@ def saveCharacterIndices(characters, sjis_dict: dict, text_file_path):
             character = ch[0]
             index = sjis_dict.get(character, -1)
             file_to_write.write("{}: {}\n".format(index, character))
+
+
 
 if __name__ == '__main__':
     cn_simp_text = loadCnText()

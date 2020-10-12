@@ -26,7 +26,7 @@ convert2dir = None
 Tip = namedtuple("Tip", [
     "filename",
     "i_psp", "i_pc", "init_bin_addr",
-    "jpname", "enname", "cnname",
+    "jptitle", "entitle", "cntitle",
     "jpparagraphs", "enparagraphs", "cnparagraphs"
   ])
 
@@ -99,15 +99,15 @@ def read_tips():
               i_pc = i_pc,
               i_psp = psp_idx[0],
               init_bin_addr = init_bin_addr,
-              jpname = tip_jp_title,
-              enname = en_title,
-              cnname = cn_title,
+              jptitle = tip_jp_title,
+              entitle = en_title,
+              cntitle = cn_title,
               jpparagraphs = [], # its an ugly design, but this won't be initialized here
               enparagraphs = [],
               cnparagraphs = [])
 
     if debug:
-      print("Processing TIP PSP#%s (%s), PC#%s, EN:\"%s\" JP:\"%s\""%(tip.i_psp, tip.filename, i_pc, tip.enname, tip.jpname))
+      print("Processing TIP PSP#%s (%s), PC#%s, EN:\"%s\" JP:\"%s\""%(tip.i_psp, tip.filename, i_pc, tip.entitle, tip.jptitle))
 
     translation_start_index = lines.index("#PARAGRAPHS_TRANSLATED:") + 1
     translated_lines = lines[translation_start_index:]
@@ -166,7 +166,7 @@ def main():
   # CN
   lang_to_merge = "CN"
   mergewith = path.dirname(__file__) + "/../text/other-psp-cn/init.bin.full.utf8.txt" #CN
-  saveas = path.dirname(__file__) + "/../text/other-psp-cn/init.bin.utf8.merged.txt"
+  saveas = path.dirname(__file__) + "/../text/other-psp-cn/init.bin.full.utf8.txt"
   tips_start = 7092
   tips_end = tips_start + 766 # lower boundary line for the tips cursor, exclusive. Also 0-based.
   
@@ -180,7 +180,7 @@ def main():
       for p_i, p in enumerate(tip.enparagraphs):
         if len("".join(p.split("%N"))) > 480:
           overflows += 1
-          print('Buffer overflow! Tip PSP#%03d (%s) "%s"/"%s", P#%s len: %s'%(tip.i_psp, tip.filename, tip.enname, tip.jpname, p_i+1, len(p)))
+          print('Buffer overflow! Tip PSP#%03d (%s) "%s"/"%s", P#%s len: %s'%(tip.i_psp, tip.filename, tip.entitle, tip.jptitle, p_i+1, len(p)))
           # print(p)
 
     print("Overflows found: %s"%(overflows))
@@ -197,13 +197,15 @@ def main():
       print("Mismatch! Reached the tips end.")
       exit()
 
-    if debug: print("Merging %03d"%(tip.i_psp), "(pc:%03d)"%(tip.i_pc), tip.enname, tip.jpname)
-    tips_inittxt_lines[cur + 1] = tip.enname + "\n"
+    if debug: print("Merging %03d"%(tip.i_psp), "(pc:%03d)"%(tip.i_pc), tip.entitle, tip.jptitle)
+
+    title = tip.cntitle if lang_to_merge == "CN" else tip.entitle
+    tips_inittxt_lines[cur + 1] = title + "\n"
 
     jp_title_split = tips_inittxt_lines[cur].rstrip().split(";", 3)
 
-    if (jp_title_split.__len__() != 4 or jp_title_split[3] != tip.jpname):
-      print("Mismatch! Tip JP title:{} not found, instead got {}".format(tip.jpname, tips_inittxt_lines[cur].rstrip()))
+    if (jp_title_split.__len__() != 4 or jp_title_split[3] != tip.jptitle):
+      print("Mismatch! Tip JP title:{} not found, instead got {}".format(tip.jptitle, tips_inittxt_lines[cur].rstrip()))
       exit(1)
 
     title_init_bin_addr = jp_title_split[1]
