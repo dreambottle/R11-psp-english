@@ -21,7 +21,6 @@ STATE_JP = 1
 STATE_TRANSLATED_EN = 2
 STATE_TRANSLATED_CN = 3
 
-# TlBucket = collections.namedtuple("TlBucket", ['jp', 'en', 'cn'])
 class TlBucket:
   def __init__(self):
     self.jp = None
@@ -135,6 +134,11 @@ def main():
   chaptername = os.path.basename(current_filename)[:-4]
   jp_true_lines = loadTrueJpLines(chaptername)
 
+  # tmp
+  # hack_cn_utf8_dump = os.path.dirname(__file__) + "/../text/tmp/mac-cn-utf8/" + chaptername + ".txt"
+  # hack_cn_utf8_full_dump = os.path.dirname(__file__) + "/../text/tmp/mac-cn-utf8/full.txt"
+  # cn_full = open(hack_cn_utf8_full_dump, mode="a+", encoding="utf-8-sig")
+
   for i, tlb in enumerate(tl_buckets):
     jp_true_line = jp_true_lines[i]
     jp_line = tlb.jp
@@ -148,7 +152,7 @@ def main():
     jp_tips = detectTips(jp_true_line)
     
     if (tl_suffix == "en" and not en_line):
-      # output slightly modded original if there's no TL
+      # output slightly cleaned up original if there's no TL
       en_line = r11.clean_en_translation_line(jp_line)
       r11.println_r11(jp_true_line)
       continue
@@ -172,6 +176,9 @@ def main():
     if (jp_tips != cn_tips):
       eprint("Tips tag missing. CN: {} JP: {}; (cn)'{}' (~{})[{}]".format(cn_tips, jp_tips, cn_line, i*4, current_filename))
     cn_line = r11.rm_trailing_control_sequence(cn_line)
+
+    #tmp
+    # cn_full.write(cn_line)
 
     export_translated_line = ""
     trailing_meta = ""
@@ -221,6 +228,8 @@ def main():
     export_translated_line += trailing_meta
 
     r11.println_r11(export_translated_line)
+
+  # cn_full.close()
 
 
 def eprint(*args, **kwargs):

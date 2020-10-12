@@ -66,7 +66,7 @@ def loadSjisCharactersList() -> list:
     # The provided file is a sjis-unicode mapping table.
     # The first character is a utf8-encoded character from sjis, order is same as in 
     print("reading", utf8_to_sjis_file_path)
-    with open(utf8_to_sjis_file_path, "r", encoding="utf8") as unicode_sjis_file:
+    with open(utf8_to_sjis_file_path, "r", encoding="utf-8-sig") as unicode_sjis_file:
         lines = unicode_sjis_file.readlines()
 
     # table_lines = [l for l in lines if not l.startsWith("##")]
