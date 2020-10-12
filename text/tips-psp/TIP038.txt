@@ -160,7 +160,7 @@ behavior does not reflect their true personality.
 4）鲁莽驾驶。%N
 5）暴饮暴食。%N
 
-#CN4
+#CN#4
 边缘性人格障碍患者的病症，
 会在成年期的早期开始，
 从各种不同的角度显示出来，

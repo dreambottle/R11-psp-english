@@ -1,6 +1,7 @@
 ﻿TIP099
 涼蔭⑳穂鳥
 Suzukage Hotori
+凉荫穗鸟
 paragraph_count:4
 init_addr:7e1c
 pc_index:TIP_108
