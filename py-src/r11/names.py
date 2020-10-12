@@ -36,10 +36,6 @@ en_separator = ","
 cn_separator = "、"
 
 separators = TlNames(en_separator, cn_separator)
-tl_to_tuple_index = {
-  "en": 0,
-  "cn": 1,
-}
 
 def translateNamesString(character_names: str, tl_lang: str) -> str:
   if not character_names:
@@ -47,9 +43,9 @@ def translateNamesString(character_names: str, tl_lang: str) -> str:
   
   jp_names = character_names.split(ja_original_separator)
   # print(jp_names, file=sys.stderr)
-  translated_names = [names_dict.get(jp_name)[tl_to_tuple_index[tl_lang]] for jp_name in jp_names]
+  translated_names = [names_dict.get(jp_name)._asdict()[tl_lang] for jp_name in jp_names]
   if (None in translated_names):
     raise Exception("Speaker translation for %s not found. Values: %s"%(character_names, translated_names))
-  translated_names_joined = separators[tl_to_tuple_index[tl_lang]].join(translated_names)
+  translated_names_joined = separators._asdict()[tl_lang].join(translated_names)
   return translated_names_joined
   

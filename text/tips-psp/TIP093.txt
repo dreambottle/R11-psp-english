@@ -134,6 +134,8 @@ His mind and memory switch back and forth between the snowy mountain and SPHIA.
 喜好：说到做到、寻找“答案”%N
 厌恶：说谎（不能说出实情的时候会一言不发）、%N
 半途而废、失约、南瓜%N
+
+#CN#4
 设定：右撇子%N
 ⑳本来是大学四年级学生，跳级两年变成研究生。%N
 ⑳里设定：象征“animus（女性心中隐藏的男性倾向）”%N
@@ -142,7 +144,14 @@ His mind and memory switch back and forth between the snowy mountain and SPHIA.
 %N
 这是针对2012年的设定。%N
 
-#CN#4
+#CN#5
+真正的悟有一套独特的价值观。虽然他很善良，%N
+且对身边的一小部分人很热心，%N
+但是他对绝大多数其他人都漠不关心。%N
+悟这样做是为了“一位十分重要的人。”%N
+为了得到回报，必须失去一些东西吗？%N
+
+#CN#6
 男性视角的主角。%N
 某一天，因为从SPHIA的屋顶摔下来而失去意识。%N
 记忆因此错乱，%N
@@ -150,9 +159,8 @@ His mind and memory switch back and forth between the snowy mountain and SPHIA.
 醒来时……不知道为什么身处于冰雪封闭的山中。%N
 而且身体还变成了一个未曾谋面的女性。%N
 
-#CN#5
+#CN#7
 由于坠楼事件的影响，优希堂悟的身心都陷入异常。%N
 精神常常会脱离肉体，%N
 进入身处异地的其他人（冬川心）的身体里。%N
 他的记忆与意识在雪山与SPHIA之间来回交错。%N
-
