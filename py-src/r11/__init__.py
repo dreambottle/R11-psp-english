@@ -3,7 +3,7 @@ import sys
 import os
 
 # The original game font supports "JIS X 0208-1990" with some symbols from 2000.
-# It is now best to use the charset conversion table that I generated for the game instead of standard python encodings
+# It is now best to use the charset conversion table (str_to_r11_bytes() function) generated for the game instead of standard python encodings
 sjis_enc = "shift_jis_2004"
 # sjis_enc = "sjis"
 
@@ -33,13 +33,21 @@ def clean_translation_enc_issues(line: str) -> str:
   line = re.sub("\uff5e", "\u301c", line) # two versions of fullwidth tilde '〜' (aka wave dash), but the 2nd one can be converted to sjis
   line = re.sub("\u2014", "\u2015", line) # likewise for em dash '—'
   line = re.sub("\u2013", "\u2015", line) # en dash '–' -> em dash '—'
+  # fullwidth minus '－' -> em dash '—'
+  # In JP and EN translation pulled from tlwiki it was used to blank out time, i.e. "午後－－時－－分：スフィアに戻る" "－:－－PM: returned to SPHIA", but now the text is cleaned up to use em dash.
+  # Still incorrectly used in init.bin text
+  line = re.sub("\uff0d", "\u2015", line)
+  return line
+
+def clean_cn_translation_line(line: str) -> str:
+  line = clean_translation_enc_issues(line)
+  line = re.sub("\u00B7", "\u30FB", line) # middle dot '·' -> katakana middle dot '・' (available in the font)
   return line
 
 def clean_en_translation_line(line: str) -> str:
   line = clean_translation_enc_issues(line)
   line = re.sub(r"%(?![A-Za-z])", "\uff05", line) # replacing % metachar, with a lookalike char
   line = re.sub("\u2015\u2015", "\u2015", line) # double em dash '——' -> single em dash '—'
-  line = re.sub("\uff0d", "-", line) # fullwidth minus '―' -> hyphen '-'. In JP and EN translation was used to blank out time, i.e. "午後－－時－－分：スフィアに戻る" "－:－－PM: returned to SPHIA"
   # double spaces were fixed manually where appropriate, use text search to find remaining cases
   # line = re.sub(r"(?<!\b\S \S)  +", " ", line) # collapse multiple spaces unless there are also extra spaces within the neighboring words
   line = re.sub("\u00f6", "o", line) # ö no shift_jis for vowel+macron. which is strange considering that it's used by Hepburn
@@ -72,14 +80,13 @@ def println_r11(text: str):
 
 def str_to_r11_bytes(text: str) -> bytes:
   global r11_utf8_to_codes
-  init_r11_charset()
+  _init_r11_charset()
   r11_bytearray = bytearray()
   for ch in text:
     # regular whitespace
     if ch == ' ':
       r11_bytearray.extend(b'\x20')
     else:
-      r11_utf8_to_codes.__contains__(ch)
       try:
         r11_char_code = r11_utf8_to_codes[ch][1]
       except KeyError:
@@ -90,13 +97,32 @@ def str_to_r11_bytes(text: str) -> bytes:
 
 def r11_bytes_ro_str(r11bytes: bytes) -> str:
   global r11_bytes_to_codes
-  init_r11_charset()
+  _init_r11_charset()
   r11_str = []
   for b in r11bytes:
     r11_str.extend(r11_bytes_to_codes[b][2])
   return "".join(r11_str)
 
-def init_r11_charset():
+def str_to_r11_font_indices(text: str, lang) -> [int]:
+  # todo implement lang param
+  global r11_utf8_to_codes
+  _init_r11_charset()
+  fontIndices = []
+  for ch in text:
+    # regular whitespace - special handling (hardcoded)
+    if ch == ' ':
+      fontIndices.append(751)
+      continue
+    
+    try:
+      r11_char_code = r11_utf8_to_codes[ch][0]
+      fontIndices.append(r11_char_code)
+    except KeyError:
+      # print("r11 couldn't convert char:", ch, file=sys.stderr)
+      fontIndices.append(-1)
+  return fontIndices
+
+def _init_r11_charset():
   global r11_charset_as_list
   global r11_utf8_to_codes
   global r11_bytes_to_codes
@@ -106,7 +132,7 @@ def init_r11_charset():
   with open(r11_original_charset_table_path, "r", encoding="utf-8-sig") as r11_charset_file:
     r11_charset_lines = r11_charset_file.readlines()
 
-  split = [x.split(" ", maxsplit=2) for x in r11_charset_lines]
+  split = [x.split("\t", maxsplit=2) for x in r11_charset_lines]
   ## [<font code point>:int, <sjis sequence>:bytes, <utf8 char>:str]
   # for i, x in enumerate(split):
   #   print("split[",i,"]=", split[i], file=sys.stderr)

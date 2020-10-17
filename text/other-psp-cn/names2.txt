@@ -1,4 +1,5 @@
-﻿？？ ？？
+﻿# This file is just for reference. Scripts use r11/names.py dict
+？？ ？？
 こころ 心
 こころ・ゆに・黛 心·悠尼·黛
 ユウキドウ 优希堂
@@ -19,3 +20,4 @@
 黄泉木 黄泉木
 黄泉木・黛 黄泉木、黛
 黛 黛
+みんな 所有人

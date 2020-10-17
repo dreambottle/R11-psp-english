@@ -11,8 +11,8 @@ import build_font_table
 
 # Temp script for testing how well existing font is suited for Chinese translation
 
-text_file_path = "misc/cn/full-cn-script2.txt"
-utf8_to_sjis_file_path = "misc/sjis-0213-2004-with-char-u8.txt"
+text_file_path = path.dirname(__file__) + "/../../text/tmp/cn-text-utf8/fullscript.txt"
+utf8_to_sjis_file_path = path.dirname(__file__) + "/../../text/charset-tables/sjis-0213-2004-with-char-u8.txt"
 
 def loadCnText() -> str:
     print("reading", text_file_path)

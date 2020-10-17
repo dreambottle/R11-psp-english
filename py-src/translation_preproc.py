@@ -132,11 +132,12 @@ def main():
 
   current_filename = fileinput.filename()
   chaptername = os.path.basename(current_filename)[:-4]
+  # used to validate that jp lines have a 100% match with the original.
   jp_true_lines = loadTrueJpLines(chaptername)
 
   # tmp
   # hack_cn_utf8_dump = os.path.dirname(__file__) + "/../text/tmp/mac-cn-utf8/" + chaptername + ".txt"
-  # hack_cn_utf8_full_dump = os.path.dirname(__file__) + "/../text/tmp/mac-cn-utf8/full.txt"
+  # hack_cn_utf8_full_dump = os.path.dirname(__file__) + "/../text/tmp/cn-text-utf8/fullscript.txt"
   # cn_full = open(hack_cn_utf8_full_dump, mode="a+", encoding="utf-8-sig")
 
   for i, tlb in enumerate(tl_buckets):
@@ -164,25 +165,27 @@ def main():
     jp_line = r11.rm_trailing_control_sequence(jp_line)
     [jp_speaker, jp_leading_bracket, jp_trailing_bracket] = detectJpSpeakerAndBrackets(jp_line)
 
-    en_trailing_meta = r11.find_trailing_control_sequence(en_line)
-    en_tips = detectTips(en_line)
-    if (jp_tips != en_tips):
-      eprint("Tips tag missing. EN: {} JP: {}; (en)'{}' (~{})[{}]".format(en_tips, jp_tips, en_line, i*4, current_filename))
-    en_line = r11.rm_trailing_control_sequence(en_line)
-    en_line = r11.clean_en_translation_line(en_line)
-
+    # TODO move this to elif tl_suffix == 'cn'
     cn_trailing_meta = r11.find_trailing_control_sequence(cn_line)
     cn_tips = detectTips(cn_line)
     if (jp_tips != cn_tips):
       eprint("Tips tag missing. CN: {} JP: {}; (cn)'{}' (~{})[{}]".format(cn_tips, jp_tips, cn_line, i*4, current_filename))
     cn_line = r11.rm_trailing_control_sequence(cn_line)
-
-    #tmp
+    cn_line = r11.clean_cn_translation_line(cn_line)
+    # tmp
     # cn_full.write(cn_line)
+    # cn_full.flush()
 
     export_translated_line = ""
     trailing_meta = ""
     if tl_suffix == "en":
+      en_trailing_meta = r11.find_trailing_control_sequence(en_line)
+      en_tips = detectTips(en_line)
+      if (jp_tips != en_tips):
+        eprint("Tips tag missing. EN: {} JP: {}; (en)'{}' (~{})[{}]".format(en_tips, jp_tips, en_line, i*4, current_filename))
+      en_line = r11.rm_trailing_control_sequence(en_line)
+      en_line = r11.clean_en_translation_line(en_line)
+      
       if jp_speaker:
         translated_speaker = names.translateNamesString(jp_speaker, tl_suffix)
         # append TL'ed speaker + opening bracket
@@ -229,7 +232,6 @@ def main():
 
     r11.println_r11(export_translated_line)
 
-  # cn_full.close()
 
 
 def eprint(*args, **kwargs):

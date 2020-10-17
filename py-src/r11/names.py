@@ -37,6 +37,7 @@ cn_separator = "、"
 
 separators = TlNames(en_separator, cn_separator)
 
+# tl_lang should be one of TlNames field names: "en" or "cn"
 def translateNamesString(character_names: str, tl_lang: str) -> str:
   if not character_names:
     return ""
