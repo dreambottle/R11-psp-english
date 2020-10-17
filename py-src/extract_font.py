@@ -303,9 +303,10 @@ def autotrim(font, num_px):
 def main():
   REPACKEDPATH = "FONT00.NEW"
 
+  # TODO use argparse
   if len(sys.argv) < 2:
     print('chose one of the args:')
-    print('  png|pnghalf [<FONT00.FNT>] - extracts all glyphs from FONT00.FNT file (pnghalf only extracts left half of the image)')
+    print('  png|pnghalf [<FONT00.FNT>] - extracts all glyphs from FONT00.FNT file (pnghalf only extracts left "half" of the image, which is required on psp)')
     print('  pngpane [<FONT00.FNT>] - extracts all glyphs from FONT00.FNT file to a pane')
     print('  autotrim [<FONT00.FNT>] - trims all spaces between letters by 1px on both sides')
     print('  repack <dir> - packs pngs and metadata in <dir> into a "%s" font file'%(REPACKEDPATH))
@@ -317,7 +318,7 @@ def main():
   
   if (cmd == 'png' or cmd == 'pnghalf'):
     os.makedirs('glyphs/', 0o755, exist_ok=True)
-    print('Extracting', srcpath, 'to PNG')
+    print('Extracting', srcpath, 'to PNGs')
     font = unpackFont(srcpath);
     writeMetadata(font, 'glyphs/{0}'.format(GLYPH_DATA_FILE))
     writePngs(font, firstHalfHack=(cmd == 'pnghalf'))

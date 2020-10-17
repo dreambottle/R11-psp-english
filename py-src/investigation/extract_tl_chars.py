@@ -53,7 +53,7 @@ def main():
 
   cjkJpFontChars = []
   for jpText in jpTexts:
-    jpFontChars = r11.str_to_r11_font_indices(jpText)
+    jpFontChars = r11.str_to_r11_font_codepoints(jpText)
     cjkJpFontChars.extend(filter(lambda j: j >= 1410, jpFontChars))
   print("", cjkJpFontChars)
 

@@ -180,8 +180,8 @@ I looked out the window.
 我望向窗外。
 
 いつの間にこれだけ高度が下がったのだろう、彼方はどんよりと濁った鈍色の世界だった。%K%P
-不知何时高度下降了如此之多，窗外已是阴沉浑浊的一片深灰。
 I wondered when we had fallen to our current altitude. The world outside had turned a muddled gray.
+不知何时高度下降了如此之多，窗外已是阴沉浑浊的一片深灰。
 //old: Visibility only returned after falling to this height; then, all of a sudden, the world turned a muddled gray.
 //how's this?
 

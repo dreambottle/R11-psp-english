@@ -11,10 +11,15 @@ sjis_enc = "shift_jis_2004"
 # "GB2312"
 
 
-r11_original_charset_table_path: str = os.path.dirname(__file__) + "/../../text/charset-tables" + "/r11-glyph-sjis-utf8-index.txt"
-r11_charset_as_list: [int, bytes, str] = None
-r11_utf8_to_codes: dict = dict()
-r11_bytes_to_codes: dict = dict()
+r11_original_font_table_path: str = os.path.dirname(__file__) + "/../../text/charset-tables" + "/r11-orig-font-table.txt"
+r11_cn_font_table_path: str = os.path.dirname(__file__) + "/../../text/charset-tables" + "/r11-cn-font-table.txt"
+
+en_r11_charset_as_list: [int, bytes, str] = None
+en_r11_utf8_to_codes: dict = dict()
+en_r11_bytes_to_codes: dict = dict()
+cn_r11_charset_as_list: [int, bytes, str] = None
+cn_r11_utf8_to_codes: dict = dict()
+cn_r11_bytes_to_codes: dict = dict()
 
 # Detects trailing %K %P %p %N and %O (any combination)
 trailing_meta_re_str = r"\s*((?:%[VKNOPp]|%T\d{3})+)$"
@@ -74,39 +79,39 @@ def str_to_sjis_bytes(text: str, charset=sjis_enc) -> bytes:
 def sjis_bytes_to_str(sjisbytes: bytes, charset=sjis_enc) -> str:
   return sjisbytes.decode(charset)
 
-def println_r11(text: str):
-  sys.stdout.buffer.write(str_to_r11_bytes(text))
+def println_r11(text: str, lang = "en"):
+  sys.stdout.buffer.write(str_to_r11_bytes(text, lang))
   sys.stdout.buffer.write(b'\n')
 
-def str_to_r11_bytes(text: str) -> bytes:
-  global r11_utf8_to_codes
-  _init_r11_charset()
+def str_to_r11_bytes(text: str, lang = "en", exception_on_unknown = False) -> bytes:
+  (_, r11_utf8_to_codes, _) = _init_r11_charset(lang)
   r11_bytearray = bytearray()
   for ch in text:
     # regular whitespace
     if ch == ' ':
       r11_bytearray.extend(b'\x20')
+    elif ch == '\n':
+      r11_bytearray.extend(b'\n')
     else:
       try:
         r11_char_code = r11_utf8_to_codes[ch][1]
       except KeyError:
+        if exception_on_unknown:
+          raise Exception("character '{}' could not be mapped, lang {}".format(ch, lang))
         # print("r11 couldn't convert char:", ch, file=sys.stderr)
         r11_char_code = b'\x87\x40' #①
       r11_bytearray.extend(r11_char_code)
   return r11_bytearray
 
-def r11_bytes_ro_str(r11bytes: bytes) -> str:
-  global r11_bytes_to_codes
-  _init_r11_charset()
+def r11_bytes_ro_str(r11bytes: bytes, lang = "en") -> str:
+  (_, _, r11_bytes_to_codes) = _init_r11_charset(lang)
   r11_str = []
   for b in r11bytes:
     r11_str.extend(r11_bytes_to_codes[b][2])
   return "".join(r11_str)
 
-def str_to_r11_font_indices(text: str, lang) -> [int]:
-  # todo implement lang param
-  global r11_utf8_to_codes
-  _init_r11_charset()
+def str_to_r11_font_codepoints(text: str, lang = "en") -> [int]:
+  (_, r11_utf8_to_codes, _) = _init_r11_charset(lang)
   fontIndices = []
   for ch in text:
     # regular whitespace - special handling (hardcoded)
@@ -122,33 +127,46 @@ def str_to_r11_font_indices(text: str, lang) -> [int]:
       fontIndices.append(-1)
   return fontIndices
 
-def _init_r11_charset():
-  global r11_charset_as_list
-  global r11_utf8_to_codes
-  global r11_bytes_to_codes
-  if r11_charset_as_list != None:
-    return
-  
-  with open(r11_original_charset_table_path, "r", encoding="utf-8-sig") as r11_charset_file:
-    r11_charset_lines = r11_charset_file.readlines()
+def _init_r11_charset(lang = "en"):  
+  if lang == "en":
+    global en_r11_charset_as_list
+    global en_r11_utf8_to_codes
+    global en_r11_bytes_to_codes
+    if en_r11_charset_as_list != None:
+      return (en_r11_charset_as_list, en_r11_utf8_to_codes, en_r11_bytes_to_codes)
+    (en_r11_charset_as_list, en_r11_utf8_to_codes, en_r11_bytes_to_codes) = _load_r11_font_table(r11_original_font_table_path)
+    return (en_r11_charset_as_list, en_r11_utf8_to_codes, en_r11_bytes_to_codes)
+  elif lang == "cn":
+    global cn_r11_charset_as_list
+    global cn_r11_utf8_to_codes
+    global cn_r11_bytes_to_codes
+    if cn_r11_charset_as_list != None:
+      return (cn_r11_charset_as_list, cn_r11_utf8_to_codes, cn_r11_bytes_to_codes)
+    (cn_r11_charset_as_list, cn_r11_utf8_to_codes, cn_r11_bytes_to_codes) = _load_r11_font_table(r11_cn_font_table_path)
+    return (cn_r11_charset_as_list, cn_r11_utf8_to_codes, cn_r11_bytes_to_codes)
+  else:
+    raise Exception("lang parameter not supported: '{}'".format(lang))
 
-  split = [x.split("\t", maxsplit=2) for x in r11_charset_lines]
+def _load_r11_font_table(r11_font_table_path) -> (list, dict, dict):
+  r11_charset_lines = readlines_utf8_crop_crlf(r11_font_table_path)
+
+  split = [x.split("\t", maxsplit=3) for x in r11_charset_lines]
   ## [<font code point>:int, <sjis sequence>:bytes, <utf8 char>:str]
-  # for i, x in enumerate(split):
-  #   print("split[",i,"]=", split[i], file=sys.stderr)
-  #   print("parsed 0 [",i,"]=", int(split[i][0][:-1]), file=sys.stderr)
-  #   print("parsed 1 [",i,"]=", bytes.fromhex(split[i][1][2:]), file=sys.stderr)
-  #   print("parsed 2 [",i,"]=", split[i][2][:1], file=sys.stderr)
-  parsed = [[int(x[0][:-1]), bytes.fromhex(x[1][2:]), x[2][:1]] for x in split]
-  r11_charset_as_list = list(parsed)
-
+  parsed = [[int(x[0][:-1]), bytes.fromhex(x[1][2:]), x[2]] for x in split]
+  table_as_list = list(parsed)
+  utf8_to_codes = dict()
+  bytes_to_codes = dict()
   #validate and build dict
-  for i, v in enumerate(r11_charset_as_list):
+  for i, v in enumerate(table_as_list):
     if i != v[0]:
       raise Exception("Charset index was not sequential")
     
     utf8_ch = v[2]
     r11_b = v[1]
-    r11_utf8_to_codes[utf8_ch] = v
-    r11_bytes_to_codes[r11_b] = v
-  return r11_charset_as_list
+    utf8_to_codes[utf8_ch] = v
+    bytes_to_codes[r11_b] = v
+  return (table_as_list, utf8_to_codes, bytes_to_codes)
+
+def readlines_utf8_crop_crlf(filepath):
+    with open(filepath, "r", encoding="utf-8-sig") as f:
+        return [l.rstrip('\r\n') for l in f.readlines()]

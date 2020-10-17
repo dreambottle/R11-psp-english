@@ -8,11 +8,6 @@ import re
 
 import r11
 
-
-def readlines_utf8_crop_crlf(filepath):
-    with open(filepath, "r", encoding="utf-8-sig") as f:
-        return [l.rstrip('\r\n') for l in f.readlines()]
-
 if __name__ == '__main__':
     initbin = os.path.dirname(__file__) + "/../../text/tmp/cn-text-utf8/initbin.txt"
     boot = os.path.dirname(__file__) + "/../../text/tmp/cn-text-utf8/boot.txt"
@@ -21,10 +16,10 @@ if __name__ == '__main__':
 
     listSaveAs = os.path.dirname(__file__) + "/../../text/tmp/cn-text-utf8/cjkchars.txt"
     
-    initbinTxt = readlines_utf8_crop_crlf(initbin)[0]
-    bootTxt = readlines_utf8_crop_crlf(boot)[0]
-    scriptTxt = readlines_utf8_crop_crlf(script)[0]
-    shortcutTxt = readlines_utf8_crop_crlf(shortcut)[0]
+    initbinTxt = r11.readlines_utf8_crop_crlf(initbin)[0]
+    bootTxt = r11.readlines_utf8_crop_crlf(boot)[0]
+    scriptTxt = r11.readlines_utf8_crop_crlf(script)[0]
+    shortcutTxt = r11.readlines_utf8_crop_crlf(shortcut)[0]
 
     allTxt = initbinTxt + bootTxt + scriptTxt + shortcutTxt
     allTxt = r11.clean_cn_translation_line(allTxt)
@@ -33,7 +28,7 @@ if __name__ == '__main__':
     for character in allTxt:
         charSet.add(character)
 
-    charsetFilteredList = [c for c in charSet if not (0 <= r11.str_to_r11_font_indices(c, lang="cn")[0] < 1410)]
+    charsetFilteredList = [c for c in charSet if not (0 <= r11.str_to_r11_font_codepoints(c)[0] < 1410)]
     charsetFilteredList.sort()
 
     print("charset len", len(charsetFilteredList))
