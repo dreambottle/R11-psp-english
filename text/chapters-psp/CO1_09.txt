@@ -79,8 +79,8 @@ But...
 
 
 %FS%LC２０１１年１月１１日午後４時８分。%FE%T060%N
-%FS%LCJanuary 11, 2011, 4:08 PM%FE%T060
-%FS%LC２０１１年１月１１日下午４时０８分。%FE%T060
+%FS%LCJanuary 11, 2011, 4:08 PM%FE
+%FS%LC２０１１年１月１１日下午４时０８分。%FE
 
 %FS%LCＨＡＬ１８便は雪深い山中に墜落した。%FE%K%P
 %FS%LCFlight HAL18 crashed, deep in the snowy mountains.%FE

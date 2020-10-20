@@ -403,80 +403,80 @@ Ah...
 // how else to show the change from 俺 to オレ
 // ---------------------------------------------------
 %FS%LC気がつくと、俺は宙を舞っていた。%FE%T060%T060%P
-%FS%LCBefore ''I'' noticed, ''I'' was dancing in the air.%FE%T060%T060
-%FS%LC发觉时，自己已飞舞在空中。%FE%T060%T060
+%FS%LCBefore ''I'' noticed, ''I'' was dancing in the air.%FE
+%FS%LC发觉时，自己已飞舞在空中。%FE
 
 %N%N%N%N%N
 
 %FS%LCすべての束縛から解き放たれて……。%FE%T060%T060%P
-%FS%LCReleased from all restraints....%FE%T060%T060
-%FS%LC从所有的束缚中得到解放……%FE%T060%T060
+%FS%LCReleased from all restraints....%FE
+%FS%LC从所有的束缚中得到解放……%FE
 
 %N%N%N%N%N
 
 %FS%LC時は止まり、%FE%T060%T060%P
-%FS%LCTime stops,%FE%T060%T060
-%FS%LC时间静止，%FE%T060%T060
+%FS%LCTime stops,%FE
+%FS%LC时间静止，%FE
 
 %N%N%N%N%N
 
 %FS%LC吹雪はやみ、%FE%T060%T060%P
-%FS%LCThe snowstorm stops,%FE%T060%T060
-%FS%LC暴雪停下，%FE%T060%T060
+%FS%LCThe snowstorm stops,%FE
+%FS%LC暴雪停下，%FE
 
 %N%N%N%N%N
 
 %FS%LC純白の世界へと呑み込まれていく。%FE%T060%T060%P
-%FS%LCAnd ''I'' am swallowed by the pure-white world.%FE%T060%T060
-%FS%LC自己渐渐地被纯白色的世界所吞噬。%FE%T060%T060
+%FS%LCAnd ''I'' am swallowed by the pure-white world.%FE
+%FS%LC自己渐渐地被纯白色的世界所吞噬。%FE
 
 %N%N%N%N%N
 %FS%LC光の粒子が舞い踊る。%FE%T060%T060%P
-%FS%LCThe particles of light dance around me.%FE%T060%T060
-%FS%LC光之粒子在飘舞。%FE%T060%T060
+%FS%LCThe particles of light dance around me.%FE
+%FS%LC光之粒子在飘舞。%FE
 
 %N%N%N%N%N
 %FS%LC鐘の音はなおも鳴り響いている。%FE%T060%T060%P
-%FS%LCThe sound of the bell still reverberates in the air.%FE%T060%T060
-%FS%LC钟声依旧。%FE%T060%T060
+%FS%LCThe sound of the bell still reverberates in the air.%FE
+%FS%LC钟声依旧。%FE
 
 %N%N%N%N%N
 
 %FS%LC荘厳な儀式の始まりを……告げるように……。%FE%T060%T060%P
-%FS%LCAs if it was reciting... the beginning of a solemn ritual....%FE%T060%T060
-%FS%LC就如同宣告……庄严的仪式的开始一般……%FE%T060%T060
+%FS%LCAs if it was reciting... the beginning of a solemn ritual....%FE
+%FS%LC就如同宣告……庄严的仪式的开始一般……%FE
 //old: As if it was reporting... the beginning of a solemn ritual...
 //reporting?? paraphrase if possible
 
 %N%N%N%N%N
 %FS%LC神々しく、しめやかに、粛々と、粛々と……。%FE%T060%T060%P
-%FS%LCDivinely, gently, ever so softly....%FE%T060%T060
-%FS%LC神圣地，严肃地，静静地，静静地……%FE%T060%T060
+%FS%LCDivinely, gently, ever so softly....%FE
+%FS%LC神圣地，严肃地，静静地，静静地……%FE
 
 %N%N%N%N%N
 %FS%LC俺は光の中へと溶けていく。%FE%T060%T060%P
-%FS%LC''I'' start to dissolve within the light.%FE%T060%T060
-%FS%LC自己逐渐融入光芒之中。%FE%T060%T060
+%FS%LC''I'' start to dissolve within the light.%FE
+%FS%LC自己逐渐融入光芒之中。%FE
 
 %N%N%N%N%N
 %FS%LC感覚はない。なにも見えない。%FE%T060%T060%P
-%FS%LCAll my senses are disappearing. My vision is gone.%FE%T060%T060
-%FS%LC没有感觉。什么也看不到。%FE%T060%T060
+%FS%LCAll my senses are disappearing. My vision is gone.%FE
+%FS%LC没有感觉。什么也看不到。%FE
 
 %N%N%N%N%N
 %FS%LC剥ぎ取られるように意識をなくす。%FE%T060%T060%P
-%FS%LCAs if it were being slowly peeled away, my consciousness departs me.%FE%T060%T060
-%FS%LC如同被剥离一般失去意识。%FE%T060%T060
+%FS%LCAs if it were being slowly peeled away, my consciousness departs me.%FE
+%FS%LC如同被剥离一般失去意识。%FE
 
 %N%N%N%N%N
 %FS%LCやがて訪れた深い眠り……。%FE%T060%T060%P
-%FS%LCA deep sleep ''I'' came to know long ago....%FE%T060%T060
-%FS%LC深深的沉眠终于来临……%FE%T060%T060
+%FS%LCA deep sleep ''I'' came to know long ago....%FE
+%FS%LC深深的沉眠终于来临……%FE
 
 %N%N%N%N%N
 %FS%LCオレの存在は今……ここに……。%FE%T060%T060%P
-%FS%LCMy existence... I... am now... here....%FE%T060%T060
-%FS%LC我现在……就在这里……%FE%T060%T060
+%FS%LCMy existence... I... am now... here....%FE
+%FS%LC我现在……就在这里……%FE
 
 //I tampered with the phrase a bit to put an "I" without ''. is it any good?
 // ---------------------------------------------------
