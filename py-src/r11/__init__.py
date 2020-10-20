@@ -22,16 +22,15 @@ cn_r11_utf8_to_codes: dict = dict()
 cn_r11_bytes_to_codes: dict = dict()
 
 # Detects trailing %K %P %p %N and %O (any combination)
-trailing_meta_re_str = r"\s*((?:%[VKNOPp]|%T\d{3})+)$"
-trailing_meta_re: re.Pattern = re.compile(trailing_meta_re_str)
+trailing_control_vknop_re: re.Pattern = re.compile(r"\s*((?:%[VKNOPp]|%T\d{3})+)$")
 
 def find_trailing_control_sequence(text: str) -> str:
-  trailing_meta = trailing_meta_re.search(text)
-  return trailing_meta.group(0) if trailing_meta else ""
+  trailing_control_vknop = trailing_control_vknop_re.search(text)
+  return trailing_control_vknop.group(0) if trailing_control_vknop else ""
 
 # only removes %K %P %p %N and %O
 def rm_trailing_control_sequence(line: str) -> str:
-  line = trailing_meta_re.sub("", line)
+  line = trailing_control_vknop_re.sub("", line)
   return line
 
 def clean_translation_enc_issues(line: str) -> str:

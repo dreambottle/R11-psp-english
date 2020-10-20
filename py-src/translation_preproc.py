@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# This script extracts translated lines for further text repackaging.
+# This script generates a file with the format required for further text repackaging with 'repack_scene' utility.
 # Also: appends names, changes the encoding to sjis and replaces unsupported characters.
 
 import argparse
@@ -29,10 +29,12 @@ class TlBucket:
     self.en = None
     self.cn = None
 
-tip_compiled_pattern = re.compile(r"(?:%TS([0-9]{3}))")
+control_tip_pattern = re.compile(r"(?:%TS([0-9]{3}))")
+textless_control_onp_pattern = re.compile(r"^(%[NOPp])+$")
+fourty_dashes_pattern = re.compile(r"^(%FS)?-{40,}[%A-Z0-9]+$")
 
 def detectTips(text: str) -> ():
-  match = tip_compiled_pattern.search(text)
+  match = control_tip_pattern.search(text)
   return match.groups() if match else ()
 
 def detectJpSpeakerAndBrackets(jp_line):
@@ -105,9 +107,9 @@ def loadTlBuckets(lines):
       # skips lines in tl_skip_lines
       # skips "-------------------------------------------" lines 
       # skips textless %N %O %P %p sequences
-      if(line.strip() in tl_skip_lines) or \
-          re.match(r"^(%[NOPp])+$", line) or \
-          re.match(r"^(%FS)?-{40,}[%A-Z0-9]+$", line):
+      if(line in tl_skip_lines) or \
+          textless_control_onp_pattern.match(line) or \
+          fourty_dashes_pattern.match(line):
         state = STATE_JP
         if should_run_buffer_overflow_validations and ("%P" in line or "%O" in line): page_buf = 0
     
@@ -165,7 +167,7 @@ def prepareTlLines(tl_buckets, tl_suffix, current_filename, jp_mac_chapter_lines
     [jp_speaker, jp_leading_bracket, jp_trailing_bracket] = detectJpSpeakerAndBrackets(jp_line)
 
     export_translated_line = ""
-    trailing_meta = ""
+    trailing_control = ""
 
     if tl_suffix == "en":
       en_trailing_meta = r11.find_trailing_control_sequence(en_line)
@@ -202,7 +204,7 @@ def prepareTlLines(tl_buckets, tl_suffix, current_filename, jp_mac_chapter_lines
 
       export_translated_line += en_line
       export_translated_line += jp_trailing_bracket if jp_trailing_bracket else ""
-      trailing_meta = en_trailing_meta if en_trailing_meta else jp_trailing_meta
+      trailing_control = en_trailing_meta if en_trailing_meta else jp_trailing_meta
     
     elif tl_suffix == 'cn':
       cn_trailing_meta = r11.find_trailing_control_sequence(cn_line)
@@ -216,7 +218,7 @@ def prepareTlLines(tl_buckets, tl_suffix, current_filename, jp_mac_chapter_lines
       if not cn_line.startswith(translated_speaker):
         eprint("Speaker mismatch, expected {} at CN line '{}' (~{})[{}]".format(translated_speaker, cn_line, i*4, current_filename))
       export_translated_line = cn_line
-      trailing_meta = cn_trailing_meta if cn_trailing_meta else jp_trailing_meta
+      trailing_control = cn_trailing_meta if cn_trailing_meta else jp_trailing_meta
 
     if should_run_buffer_overflow_validations:
       # check for buffer overflow. the game will probably run out of space on screen
@@ -228,10 +230,10 @@ def prepareTlLines(tl_buckets, tl_suffix, current_filename, jp_mac_chapter_lines
         eprint("TEXT BUFFER OVERFLOW DETECTED. Predicted buffer size: %s at line #%s"%(page_buf, i))
       # if ja_speaker and len(export_translated_line) > 120:
       #   eprint("Warn: Single line size: %s at line #%s: %s"%(len(export_translated_line), i, export_translated_line))
-      if ("%P" in trailing_meta or "%O" in trailing_meta):
+      if ("%P" in trailing_control or "%O" in trailing_control):
         page_buf = 0
 
-    export_translated_line += trailing_meta
+    export_translated_line += trailing_control
 
     out_lines_of_bytes_tl.append(r11.str_to_r11_bytes(export_translated_line, lang=tl_suffix, exception_on_unknown=True) + b"\n")
   # end of for i, tlb in enumerate(tl_buckets):
@@ -245,7 +247,7 @@ def main():
   parser.add_argument('--input', '-i', type=str, help='input file')
   parser.add_argument('--output', '-o', type=str, help='output file')
   parser.add_argument('--tl', '-t', type=str, help="what translation to use. Provide 'en' or 'cn'", choices=['en', 'cn'])
-  parser.add_argument('--onlytl', action='store_const', const=True, default=False, help="If specified, will only output translated lines.")
+  parser.add_argument('--onlytl', action='store_const', const=True, default=False, help="If specified, will only output translated lines and nothing else.")
 
   args = parser.parse_args()
 
@@ -286,6 +288,10 @@ def main():
           
           line_addr = r11.str_to_r11_bytes(jp_mac_chapter_lines[l], "en", exception_on_unknown=True)
           line_jp = r11.str_to_r11_bytes(jp_mac_chapter_lines[l+1], "en", exception_on_unknown=True)
+
+          if len(line_jp) > 5 and line_jp[-3] == "%" and line_jp[-5:] != line_tl[-5:]:
+            print("Warn: line {} ending mismatch. {} [{}:{}] JP:{} TL:{}".format(i, line_addr, line_jp[-3:], line_tl[-3:], line_jp, line_tl))
+
           # to_write = [line_addr, line_jp, line_tl]
           f.write(line_addr)
           f.write(line_jp)

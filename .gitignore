@@ -13,6 +13,7 @@
 /text/tmp/
 /text/font/FONT*
 /text/font/glyphs/
+/text/font/glyphs-cn/
 
 /iso/*.iso
 /iso/*.dax

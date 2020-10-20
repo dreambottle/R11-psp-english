@@ -45,8 +45,12 @@ repack_mac_afs () {
 # compose_font builds the font file 
 compose_font () {
 	mkdir -p r11_etc_${TL_SUFFIX}
-	cd text/font
+	cd text/font/
 	cp -f glyphs-new/* glyphs/
+	if [ "cn" == "${TL_SUFFIX}" ]; then
+		7z x glyphs-cn.7z
+		mv -f glyphs-cn/* glyphs/
+	fi
 	python3 ../../py-src/extract_font.py repack glyphs/ || exit 1;
 	cp FONT00.NEW ../../r11_etc_${TL_SUFFIX}/FONT00.NEW
 	cd ../..
