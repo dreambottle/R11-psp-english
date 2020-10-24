@@ -27,7 +27,8 @@ repack_mac_afs () {
 
 	mkdir -p r11_mac_${TL_SUFFIX}/
 	
-	./text/apply-shortcuts-translation.py text/other-psp/SHORTCUT.SCN.psp.txt r11_mac/SHORTCUT.SCN r11_mac_${TL_SUFFIX}/SHORTCUT.SCN || exit 1;
+	# TODO cn
+	./text/apply-shortcuts-translation.py text/other-psp-en/SHORTCUT.SCN.psp.txt r11_mac/SHORTCUT.SCN r11_mac_${TL_SUFFIX}/SHORTCUT.SCN || exit 1;
 	$COMPRESS ./r11_mac_${TL_SUFFIX}/SHORTCUT.{SCN,BIP}
 	
 	for i in text/tmp/mac-${TL_SUFFIX}-combined-psp/*.txt ; do
@@ -70,7 +71,7 @@ repack_etc_afs () {
 # Repack init.bin
 repack_init_bin () {
 	# Apply init.bin strings
-	./text/apply-init-translation.py text/other-psp/init.psp.txt workdir/init.dec workdir/init.dec.${TL_SUFFIX} || exit 1;
+	./py-src/apply_init_translation.py text/other-psp-${TL_SUFFIX}/init.bin.utf8.txt workdir/init.dec workdir/init.dec.${TL_SUFFIX} ${TL_SUFFIX} || exit 1;
 
 	INIT_SRC=$WORKDIR/init.dec.${TL_SUFFIX}
 	if [ ! -f $INIT_SRC ]; then
@@ -86,10 +87,11 @@ repack_init_bin () {
 # Patch BOOT.BIN
 patch_boot_bin () {
 	# Apply translation
-	./text/apply-boot-translation.py text/other-psp/BOOT.BIN.psp.txt workdir/BOOT.BIN workdir/BOOT.BIN.${TL_SUFFIX} || exit 1;
+	#TODO cn
+	./text/apply-boot-translation.py text/other-psp-en/BOOT.BIN.psp.txt workdir/BOOT.BIN workdir/BOOT.BIN.${TL_SUFFIX} || exit 1;
 
 	echo "Applying patches to BOOT.BIN"
-	cp -f $WORKDIR/BOOT.BIN.${TL_SUFFIX} $WORKDIR/BOOT.BIN.patched
+	mv -f $WORKDIR/BOOT.BIN.${TL_SUFFIX} $WORKDIR/BOOT.BIN.patched
 	if [ "cn" == "${TL_SUFFIX}" ]; then
 		$ARMIPS src/boot-patches-cn.asm -root workdir/ || exit 1;
 	else
@@ -98,7 +100,7 @@ patch_boot_bin () {
 	rm -f $ISO_BIN_DIR/BOOT.BIN
 	rm -f $ISO_BIN_DIR/EBOOT.BIN
 	cp -f $WORKDIR/BOOT.BIN.patched ./$ISO_BIN_DIR/EBOOT.BIN
-	cp -f $WORKDIR/BOOT.BIN.patched ./$ISO_BIN_DIR/BOOT.BIN
+	mv -f $WORKDIR/BOOT.BIN.patched ./$ISO_BIN_DIR/BOOT.BIN
 }
 
 # Actually running above functions

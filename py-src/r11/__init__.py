@@ -1,6 +1,13 @@
 import re
 import sys
 import os
+from typing import List, NamedTuple, Tuple, Union
+
+# CharsetElement = Tuple[int, bytes, str]
+class CharsetElement(NamedTuple):
+  charsetElement: int
+  bytesequence: bytes
+  character: str
 
 # The original game font supports "JIS X 0208-1990" with some symbols from 2000.
 # It is now best to use the charset conversion table (str_to_r11_bytes() function) generated for the game instead of standard python encodings
@@ -14,10 +21,10 @@ sjis_enc = "shift_jis_2004"
 r11_original_font_table_path: str = os.path.dirname(__file__) + "/../../text/charset-tables" + "/r11-orig-font-table.txt"
 r11_cn_font_table_path: str = os.path.dirname(__file__) + "/../../text/charset-tables" + "/r11-cn-font-table.txt"
 
-en_r11_charset_as_list: [int, bytes, str] = None
+en_r11_charset_as_list: Union[List[CharsetElement], None] = None
 en_r11_utf8_to_codes: dict = dict()
 en_r11_bytes_to_codes: dict = dict()
-cn_r11_charset_as_list: [int, bytes, str] = None
+cn_r11_charset_as_list: Union[List[CharsetElement], None] = None
 cn_r11_utf8_to_codes: dict = dict()
 cn_r11_bytes_to_codes: dict = dict()
 
@@ -109,7 +116,7 @@ def r11_bytes_ro_str(r11bytes: bytes, lang = "en") -> str:
     r11_str.extend(r11_bytes_to_codes[b][2])
   return "".join(r11_str)
 
-def str_to_r11_font_codepoints(text: str, lang = "en") -> [int]:
+def str_to_r11_font_codepoints(text: str, lang = "en") -> List[int]:
   (_, r11_utf8_to_codes, _) = _init_r11_charset(lang)
   fontIndices = []
   for ch in text:
@@ -146,16 +153,15 @@ def _init_r11_charset(lang = "en"):
   else:
     raise Exception("lang parameter not supported: '{}'".format(lang))
 
-def _load_r11_font_table(r11_font_table_path) -> (list, dict, dict):
+def _load_r11_font_table(r11_font_table_path) -> Tuple[List[CharsetElement], dict, dict]:
   r11_charset_lines = readlines_utf8_crop_crlf(r11_font_table_path)
 
   split = [x.split("\t", maxsplit=3) for x in r11_charset_lines]
   ## [<font code point>:int, <sjis sequence>:bytes, <utf8 char>:str]
-  parsed = [[int(x[0][:-1]), bytes.fromhex(x[1][2:]), x[2]] for x in split]
-  table_as_list = list(parsed)
+  table_as_list = [CharsetElement(int(x[0][:-1]), bytes.fromhex(x[1][2:]), x[2]) for x in split]
   utf8_to_codes = dict()
   bytes_to_codes = dict()
-  #validate and build dict
+  #validate and build dicts
   for i, v in enumerate(table_as_list):
     if i != v[0]:
       raise Exception("Charset index was not sequential")
