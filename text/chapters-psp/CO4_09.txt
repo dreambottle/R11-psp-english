@@ -1,4 +1,4 @@
-
+﻿
 突然、視界が闇に閉ざされた。%K%P
 All of a sudden, my vision was shrouded in darkness.
 突然，我的视野被黑暗所笼罩。
@@ -268,7 +268,7 @@ A hollow nothingness.
 
 こころ「うしろのしょーめん……だーれ？」%K%P
 Who's that... behi――ind you?
-心「背后的正面……是何人？」
+心「猜猜背后……是何人？」
 
 そして、無が、私を呑み込んでいった。%K%P
 And then, the nothingness swallowed me.

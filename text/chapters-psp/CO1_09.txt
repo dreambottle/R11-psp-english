@@ -1,4 +1,4 @@
-
+﻿
 時刻は午後１０時をまわった。%K%P
 It was around 10 PM.
 时间到了晚上１０时。
@@ -895,7 +895,7 @@ If you put it all together, you couldn't help but think there was something unus
 
 黄泉木「まあ、とにかくそんなわけで、ゆには偶然この避難小屋を発見するに至ったんだ」%K%P
 Well, anyway, searching around like that, Yuni coincidentally discovered this shelter cabin.
-黄泉木「重要的是，他清楚地记得自己到达这里所走的方向和移动的步数」
+黄泉木「总之，就是因为这样，悠尼偶然发现了这个避难小屋」
 
 黄泉木「ここで重要なのは、彼が自分の歩んできた方角と、ここにたどりつくまでの歩数をちゃんと覚えていたということだ」%K%P
 What's important is that he remembered the direction that he had walked in, along with the number of steps he took to arrive here.
@@ -1163,7 +1163,7 @@ Hey now, don't you be hasty, Fuyukawa! We're not in that kind of relationship ye
 
 黄泉木「薄くて破れないやつも、今は持ちあわせてないし！」%K%P
 Even tough guys like me can't take this kind of wear and tear!
-黄泉木「我可是已经有家室的男人啊！」
+黄泉木「我今天身上也没带那种薄而不破的小气球啊！」
 
 こころ「そんなの要らな～いの！」%K%P
 Oh, cut it out～!

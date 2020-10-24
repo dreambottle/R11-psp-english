@@ -1,4 +1,4 @@
-
+﻿
 私達の足取りは重かった。%K%P
 Our steps were heavy.
 我们的脚步异常沉重。
@@ -33,7 +33,7 @@ Seeing that, Yomogi broke into a smile.
 
 黄泉木「帰ったぞー！」%K%P
 We're baaack!
-黄泉木「我们回来了！」
+黄泉木「我们回来了ー！」
 
 勝ち誇ったように、高々と片手を上げる。%K%P
 Looking triumphant, he raises a hand high.
@@ -233,7 +233,7 @@ Do you understand how I felt?! I thought you'd left for good! Try putting yourse
 
 こころ「ごめん……なさい……」%K%P
 I'm... sorry...
-心「对……不起」
+心「对……不起……」
 
 黛は舌打ちし、そっぽを向いてしまった。%K%P
 Mayuzumi clicked her tongue and turned away.
@@ -373,7 +373,7 @@ Here.
 
 黛「なによ、これ～」%K%P
 Eh, what's this～
-黛「这是什么」
+黛「这是什么～」
 
 黄泉木「便座カバー」%K%P
 A toilet seat cover.
@@ -381,7 +381,7 @@ A toilet seat cover.
 
 黄泉木「女の子は特に、無いとつらいだろ？」%K%P
 Indispensable, especially for a woman, right?
-黄泉木「女孩子没有这个会很不方便吧」
+黄泉木「女孩子没有这个，会很不方便吧？」
 
 黄泉木「うっ、いってーなぁ！」%K%P
 Oof, that hurts!
@@ -421,7 +421,7 @@ You're loyal to your brands, huh?
 
 黛「うるさいわね！」%K%P
 Shut up!
-黛「你很烦啊」
+黛「你很烦唉！」
 
 黛「食糧はちゃんと見つけてきたの！？」%K%P
 Did you get food supplies?!
@@ -433,7 +433,7 @@ Not for you.
 
 黛「なんでよー！？」%K%P
 Whyyy?!
-黛「为什么呀」
+黛「为什么呀ー！？」
 
 黄泉木「殴ったからだ」%K%P
 Because you hit me.
@@ -441,11 +441,11 @@ Because you hit me.
 
 黛「あんたがクダラナイ冗談かますからでしょーが！」%K%P
 Because you were annoying me with stupid jokes!
-黛「那是因为你先开那种无聊的玩笑吧？」
+黛「那是因为你先开那种无聊的玩笑吧！」
 
 ゆに「わーいわーい。見て見て？　クマさんだよー」%K%P
 Waai waaai! See, see? It's Mr. Bear!
-悠尼「哈哈。快看快看。是熊喔」
+悠尼「哈哈。快看快看？是熊喔」
 
 黛「……貸しなさい」%K%P
 ...Let me see that.
@@ -457,11 +457,11 @@ Aa～ah, what are you doing?
 
 黛「ほーれほーれ」%K%P
 Bleagh, blahhh――
-黛「来—呀，来—呀」
+黛「来ー呀，来ー呀」
 
 ゆに「返してよー」%K%P
 Give it baaack!
-悠尼「还给我」
+悠尼「还给我ー」
 
 黛「きゃはははははは」%K%P
 Kyahahahahahaha.
@@ -497,7 +497,7 @@ I close my eyes.
 
 今は何も考えたくなかった。%K%P
 I didn't want to think about anything.
-我现在不想思考。
+我现在不想思考任何事情。
 
 ２７人の死という現実。%K%P
 The reality of the death of 27 people.
@@ -509,23 +509,23 @@ The reality that I survived.
 
 炭化し硬直した、真っ黒な遺体……。%K%P
 Pitch-black corpses, carbonized and rigid....
-炭化僵硬的，漆黑的尸体。
+炭化僵硬的，漆黑的遗体……
 
 顔の無い遺体……。%K%P
 Corpses without a face....
-没有脸的尸体。
+没有脸的尸体……
 
 座席にめりこんだ胴体……。%K%P
 Torsos sunk into their seats....
-被挤在座椅间的躯体。
+被挤在座椅间的躯体……
 
 引き裂かれた腹部……。%K%P
 Abdomens torn apart....
-被扯裂的腹部。
+被扯裂的腹部……
 
 枝にぶらさがった足……。%K%P
 Feet hanging from branches....
-悬吊在树枝上的双脚。
+悬吊在树枝上的双脚……
 
 人としての尊厳すら奪われて転がっていた彼らの無惨な姿が、脳裏を駆けめぐる。%K%P
 Their tragic shapes, stripped of human dignity, strewn around, run through my mind.
@@ -557,7 +557,7 @@ That was his utmost effort to not give up all hope.
 
 彼は強い、と思う。%K%P
 He's pretty strong, I'd say.
-我觉得他很坚强。
+我觉得，他很坚强。
 
 でも……。%K%P
 But....
@@ -613,7 +613,7 @@ It favored me with a quick bow.
 
 ゆに「ふひひ～ん」%K%P
 Hihiii～n.
-悠尼「嘻嘻嘻」
+悠尼「嘻嘻嘻～」
 
 ゆに「かわいいでしょ？」%K%P
 Isn't it cute?
@@ -641,7 +641,7 @@ Kagome kagome...
 
 ゆに「うしろのしょうめんだーれ？」%K%P
 Who's that behi――ind you?
-悠尼「猜猜身后是何人」
+悠尼「猜猜身后是何人？」
 
 こころ「…………」%K%P
 ......
@@ -661,11 +661,11 @@ I hugged Yuni, who was looking at me worriedly, tight.
 
 こころ「大丈夫……大丈夫だよ……」%K%P
 It's all right... all right...
-心「没关系……没关系的」
+心「没关系……没关系的……」
 
 こころ「う……ううっ……」%K%P
 Uuh... uuuh...
-心「呜……呜」
+心「呜……呜……」
 
 ゆに「こころん……」%K%P
 Kokoron...
@@ -673,7 +673,7 @@ Kokoron...
 
 こころ「絶対……絶対に……帰ろうね……」%K%P
 We'll definitely... definitely... go home together...
-心「绝对……绝对能……回去的」
+心「绝对……绝对能……回去的……」
 
 生きて……いかなければならない。%K%P
 We... have to live.

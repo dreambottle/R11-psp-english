@@ -1,4 +1,4 @@
-
+﻿
 黄泉木「落ち着いたか？」%K%P
 Have you calmed down?
 黄泉木「冷静下来了吗？」
@@ -607,7 +607,7 @@ If we could do something just because we have a compass, we wouldn't be having a
 
 黄泉木「この吹雪の中を歩き回るのは自殺行為だ」%K%P
 Walking around in that blizzard would be suicide.
-黄泉木「光靠个指南针就能行的话，才不会这么伤脑筋呢」
+黄泉木「在那场暴风雪中四处走动，简直就是自杀行为」
 
 黄泉木「おとなしく救助を待つのが得策だ」%K%P
 Waiting quietly to be rescued is the best plan.
@@ -819,7 +819,7 @@ Ah, geez! Yuni!
 
 私の声を無視して、ゆには軽い足取りで玄関へ向かった。%K%P
 Ignoring my cry, Yuni walked nimbly to the entrance.
-门一打开，冰冷的暴风又冲进屋里。
+无视了我的声音，悠尼迈着轻快的步子向门口走去。
 
 ドアを開けると、また冷たい突風が吹き込んでくる。%K%P
 When he opened the door, another freezing gust blew in.
@@ -925,35 +925,35 @@ Even so, I frantically read the article.
 
 今年１月、青森県%TS107朱倉岳%TEにＨＡＬ１８便が墜落し２７人が死亡した事故に関連して、%K
 The Aomori prefectural police announced the recent discovery of the remains of three men and women on Aomori's %TS107Mount Akakura%TE,
-关于今年１月ＨＡＬ１８次航班于青森县%TS107朱仓岳%TE坠落导致２７人死亡的事故，青森县警方对外发表声明，又有三名男女的遗体被收容。
+关于今年１月ＨＡＬ１８次航班于青森县%TS107朱仓岳%TE坠落导致２７人死亡的事故，
 
 青森県警は新たに男女３人の遺体を収容したことを発表した。%K%N
 believed to be victims of the crash of Flight HAL18, which claimed 27 lives last January.
-关于今年１月ＨＡＬ１８次航班于青森县朱仓岳坠落导致２７人死亡的事故，青森县警方对外发表声明，又有三名男女的遗体被收容。
+青森县警方对外发表声明，又有三名男女的遗体被收容。
 
 収容された遺体は、すでに死後６ヶ月が経過しているために腐乱が激しく、まだ身元をはっきりと断定できていない、としながらも、%K
 As they had undergone extensive decomposition over a period of six months, the identities of the bodies are unclear,
-三具遗体均在距离朱仓岳避难小屋东方１公里处被发现，遗体上发现多处雪崩造成的裂伤，可以推断三人在坠机之后仍然生存。
+被收容的遗体由于已经死亡了六个月，已经高度腐烂，虽然还无法明确判断其身份，但是
 
 ＨＡＬ１８便に乗っていた乗員・乗客のうち、いまだ発見されていなかった残る３人にほぼ間違いないとしている。%K%P
 but they are assumed to be the last three unaccounted for among the missing passengers and crew members on HAL18.
-但是，遗体被发现的地点却偏离了下山路线，青森县警方正对遇难者死亡当天的行踪展开调查。
+毫无疑问，这就是ＨＡＬ１８次航班中的乘务员和乘客中，尚未被发现的三人。
 
 遺体はいずれも、朱倉岳避難小屋から東へ１ｋｍ離れた場所で見つかっており、%K
 The bodies were discovered 1km east of the Mount Akakura shelter cabin.
-据青森气象站报告，当时该地点周边的雪崩发生在２０１１年１月１７日清晨６时５３分。
+这些遗体，是在朱仓岳避难小屋以东一公里处被发现的。
 
 遺体には雪崩に巻き込まれた際に受ける裂傷も多数確認されていることから、３人は墜落直後は生存していたものと考えられる。%K%N
 It has been confirmed that the three bodies, which sustained a large number of lacerations in an avalanche days after the crash, are those of the survivors.
-参照朱仓岳避难小屋里留下的痕迹，可以推断三人在坠机后大约生存了七天。
+由于确认遗体被卷入雪崩中时受到了多数裂伤，因此三人直到坠落后仍处于生存状态。
 
 しかし、発見場所は下山ルートからは離れているため、遭難者の死亡当日の足取りについて、青森県警では調査を進めている。%K%P
 However, due to the bodies of the victims being discovered away from the route down the mountain, the Aomori prefectural police investigation into the day of their death will continue.
-在发现这些遗体之后，ＨＡＬ１８次航班坠机事故成为了乘员３１人中死亡３０人的重大事故。
+但是，遗体被发现的地点却偏离了下山路线，青森县警方正对遇难者死亡当天的行踪展开调查。
 
 青森気象観測所によると、%K
 According to the Aomori weather observation department,
-据青森气象站报告
+据青森气象站报告，
 
 この時期に朱倉岳の該当箇所周辺で発生した雪崩は、２０１１年１月１７日午前６時５３分であることがわかっている。%K%N
 an avalanche affecting Mount Akakura and its surrounding area occurred on January 17, 2011, at around 6:53.

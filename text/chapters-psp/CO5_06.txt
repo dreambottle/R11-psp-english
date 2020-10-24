@@ -1,4 +1,4 @@
-
+﻿
 冷気が私を包み込む。%K%P
 The cold wrapped around me.
 我全身都包围在冷气中。
@@ -825,7 +825,7 @@ I said this in an earnest tone.
 
 しかし、%K%P
 However,
-但是
+但是，
 
 黛「……ぷっ」%K%P
 ...Heh.
@@ -1033,11 +1033,11 @@ Who... was it?
 
 すると、%K%P
 And then,
-于是
+于是，
 
 ゆには、%K%P
 Yuni,
-悠尼
+悠尼，
 
 私の方へとチラリと視線を向けた。%K%P
 momentarily glanced in my direction.
@@ -1117,7 +1117,7 @@ You're a way worse woman than I am.
 
 私はガクリとその場に膝をついた。%K%P
 I fell to my knees where I stood.
-我无力地跌坐在当地。
+我当场无力地跌坐了下去。
 
 こころ「嘘……嘘よ……」%K%P
 This... this has to be a lie...

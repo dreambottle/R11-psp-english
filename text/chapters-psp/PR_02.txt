@@ -1,4 +1,4 @@
-
+﻿
 外は吹雪だった。%K%P
 There was a snowstorm outside.
 外面是暴风雪。
@@ -9,7 +9,7 @@ The snowstorm was so strong, ''I'' had to lean with my hand against the wall to 
 
 俺は片方の手のひらを目の前にかざして吹きつける雪を防いだ。%K%P
 ''I'' used my other hand to shield my eyes from the wind and the snow.
-自己单手横在眼前，挡住迎面吹来的雪。
+单手横在眼前，挡住迎面吹来的雪。
 
 目を凝らして視界の彼方を探る。%K%P
 It was freezing. ''I'' almost strained my eyes trying to stare across the distance.
@@ -594,11 +594,11 @@ She was sobbing quietly.
 
 ひとりの少年が彼女の肩に触れた。%K%P
 A young boy put his hand on her shoulder.
-一位少年碰了碰她的肩膀。
+一位男孩碰了碰她的肩膀。
 
 彼女は濡れた瞳で少年を見上げると、すがりつくように彼の胸へと飛び込んでいった。%K%P
 She glanced up at the boy with her tear-filled eyes and flung herself into his arms, embracing him tightly as if afraid he'd disappear the moment she let go.
-她用湿润的双眼仰望着少年，猛地扑向他的怀中。
+她用湿润的双眼仰望着男孩，猛地扑向他的怀中。
 
 少女「怖い……」%K%P
 I'm scared...
@@ -618,7 +618,7 @@ The boy gently ran his fingers through her hair.
 
 『大丈夫だ』%K%P
 It's okay.
-“没事的”
+男孩「没事的」
 
 そっと耳元でささやいた。%K%P
 He whispered softly into her ear.
@@ -626,11 +626,11 @@ He whispered softly into her ear.
 
 『何も怖くなんてない』%K%P
 There's nothing to be afraid of.
-“没有什么好怕的”
+男孩「没有什么好怕的」
 
 『必ず守ってやるから』%K%P
 Because no matter what happens... I'll be here to protect you.
-“我一定会保护你”
+男孩「我一定会保护你」
 
 少女「違うの……」%K%P
 No...
@@ -654,15 +654,15 @@ What I'm afraid of is...
 
 少女「わたしは、わたしが怖いんだもん」%K%P
 The person I'm afraid of... is myself.
-女孩「我害怕自己啊」
+女孩「我害怕的是“我”啊」
 
 『それでもだよ』%K%P
 Still...
-“即使如此”
+男孩「即使如此...」
 
 『たとえそれでも守り抜いてみせる』%K%P
 I will protect you. Forever. You'll see!
-“我也会保护你到底”
+男孩「我也会保护你到底。」
 
 少女「無理だよ……」%K%P
 That's impossible...
@@ -670,7 +670,7 @@ That's impossible...
 
 少女「絶対に、無理」%K%P
 There's no way you could...
-女孩「绝对不可能」
+女孩「绝对，不可能」
 
 少女「だって……」%K%P
 Because...
@@ -678,11 +678,11 @@ Because...
 
 少女「だってわたしは　…　…　ちゃんも――」%K%P
 Because I... ――-chan, I'll――
-女孩「因为我连哥哥…　…　」
+女孩「因为　…　…　我连哥哥――」
 
 彼女の細い指先が、少年の背中にギリリと食い込む。%K%P
 Her slender fingers dug deep into the boy's back.
-她纤细的手指，深深陷入少年的背后。
+她纤细的手指，深深陷入男孩的背后。
 
 少女「殺しちゃうから」%K%P
 I'll kill you too...

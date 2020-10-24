@@ -1,4 +1,4 @@
-
+﻿
 私はスフィアにいた。%K%P
 I was at SPHIA.
 我身处ＳＰＨＩＡ。
@@ -293,7 +293,7 @@ Why can't I hear anything?
 
 どうやら、ラジオは壊れているらしい。%K%p
 It seems that the radio is broken.
-看来是收音机坏掉了
+看来是收音机坏掉了。
 
 ゆにが直すのを見ている
 Watch Yuni try to fix it
@@ -389,7 +389,7 @@ I thought it had broken, but it seems it was only that the cover of the battery 
 
 こころ「ちょっと貸して」%K%P
 Let me see it.
-心「给我看看」
+心「让我看看」
 
 私はゆにに手を伸ばした。%K%P
 I reached for the radio in Yuni's hand.

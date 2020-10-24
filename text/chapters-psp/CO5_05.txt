@@ -1,4 +1,4 @@
-
+﻿
 寒さによる震えが、消えた。%K%P
 The shivering from the cold suddenly disappeared.
 寒冷造成的颤抖消失了。
@@ -717,19 +717,19 @@ The ink ran and blurred.
 
 恐怖と、%K%P
 Fear,
-恐怖
+恐怖，
 
 理不尽さと、%K%P
 irrationality,
-无奈
+无奈，
 
 寂しさと、%K%P
 loneliness,
-寂寞
+寂寞，
 
 悲しみと、%K%P
 sorrow,
-悲伤
+悲伤，
 
 いろいろな気持ちが重なり合って、私の心を締めつけた。%K%P
 all these emotions piled on top of each other were pressing down hard on my heart.

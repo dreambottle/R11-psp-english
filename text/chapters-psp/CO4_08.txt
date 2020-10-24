@@ -1,4 +1,4 @@
-
+﻿
 何度かまばたきしてみた。%K%P
 I blinked several times.
 我眨了几下眼。
@@ -833,7 +833,7 @@ The instant I get my hands on the knife, everyone but the culprit himself will m
 
 本物の犯人にその隙を突かれたら、%K%P
 If the real culprit managed to take advantage of that opening,
-如果被真正的犯人钻了这个空子
+如果被真正的犯人钻了这个空子，
 
 私だけでなく、全員が殺されることになりかねない……。%K%P
 not just me, but everyone else will also be killed...

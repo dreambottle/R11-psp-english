@@ -1,4 +1,4 @@
-
+﻿
 チョウツガイを軋ませながら、扉がしまった。%K%P
 With a great creaking of its hinges, the door closed.
 伴随着链条的拉动声，门关上了。
@@ -369,7 +369,7 @@ Didn't you hear me?
 
 榎本「『お前は誰だ？』と訊いてるんだ」%K%P
 I asked you, "Who are you?"
-鼷本「我问“你是谁？”」
+鼷本「问你呢，“你是谁？”」
 
 榎本「答えろ」%K%P
 Answer me.
@@ -514,7 +514,7 @@ The project is a failure.
 
 榎本「自分のことながら、まったく……愚かすぎて反吐が出そうだ」%K%P
 Even though I... damn it... so stupid, I feel like throwing up.
-鼷本「虽然是自己的事，真是……还是蠢得让我想吐啊」
+鼷本「虽然是自己的事，真是……还是蠢得让自己想吐啊」
 
 悟「な、何を言ってるんだ……意味がわからないんだが？」%K%P
 W, what are you saying...? I can't understand you at all.
@@ -546,15 +546,15 @@ I can also say that in another world, we didn't fail.
 
 榎本「俺さえしっかりしてれば、こんなくだらない結果は生まれない」%K%P
 As long as I just keep myself together, it won't end with a pathetic result like this.
-鼷本「只要我多加注意，就不会产生这种无聊的结果了」
+鼷本「只要自己多加注意，就不会产生这种无聊的结果了」
 
 榎本「俺は、貴様とは違う」%K%P
 I'm different from lowlife scum like you.
-鼷本「我和你小子是不一样的」
+鼷本「和你小子是不一样的」
 
 榎本「断じてだ。断じて貴様のような馬鹿な結果は生み出さない！」%K%P
 Absolutely. A result as stupid and worthless as you absolutely will not come to be!
-鼷本「绝对。绝对不会产生像你小子一样的愚蠢结果！」
+鼷本「绝对。自己绝对不会产生像你小子一样的愚蠢结果！」
 
 榎本はオレを睨みつけて吐き捨てた。%K%P
 Enomoto spat that out, still glaring at me.
@@ -631,7 +631,7 @@ And Saul cast the javelin, for he said...
 
 榎本「わたしはダビデを壁にでも……」%K%P
 I will smite David even to the wall with it...
-鼷本「我要将大卫钉在墙上……」
+鼷本「自己要将大卫钉在墙上……」
 
 そして、意味不明な言葉を紡ぎ出す。%K%P
 Those cryptic words came forth from him.
@@ -647,7 +647,7 @@ The curse began to do its work....
 
 榎本「俺はダビデを突き刺してやる……」%K%P
 I will smite David...
-鼷本「我要将大卫刺穿……」
+鼷本「自己要将大卫刺穿……」
 
 榎本「たとえ再びかわされようと……」%K%P
 Even if he avoided out of my presence twice...
@@ -719,7 +719,7 @@ Even though the memories of That Guy were transplanted into you, you understand 
 
 榎本「我ながら情けないぜ」%K%P
 You're pathetic, if I do say so myself.
-鼷本「虽说是我，但也够可耻的了」
+鼷本「虽说是“我”，但也够可耻的了」
 
 悟「記憶を移植……？」%K%P
 Memories? Transplanted?
@@ -755,7 +755,7 @@ To be more accurate, I don't want to answer.
 
 榎本「忌々しい、%TS083アイツ%TEのことだけはな」%K%P
 The very thought of %TS083That Guy%TE is annoying, you see.
-鼷本「我憎恶的，只有%TS083那家伙%TE而已」
+鼷本「要说得上可恶，也只有%TS083那家伙%TE而已」
 
 悟「…………」%K%P
 ......
@@ -775,7 +775,7 @@ It's just too pitiful for you to go on knowing nothing like this.
 
 榎本「感謝しろよ？　俺は慈悲深いんだ」%K%P
 Be grateful, okay? I'm doing this out of the goodness of my heart.
-鼷本「感谢我吧？我多仁慈」
+鼷本「感谢吧？多仁慈」
 
 悟「…………」%K%P
 ......
@@ -795,7 +795,7 @@ You asked those three questions.
 
 榎本「それを答えてあげようじゃないか」%K%P
 Shall I answer them for you?
-鼷本「那我就准备回答你吧」
+鼷本「那就准备回答你吧」
 
 ニヤリと笑う榎本。%K%P
 Enomoto grinned from ear to ear.
@@ -807,11 +807,11 @@ I couldn't help but feel a little scared.
 
 榎本「その前に……訊きたいことがある」%K%P
 But before that... there's something I want to ask.
-鼷本「在那之前……我要问你点事」
+鼷本「在那之前……问你点事」
 
 榎本「俺は……」%K%P
 I...
-鼷本「我……」
+鼷本「这具身体……」
 
 榎本「いや、榎本は……と言った方がわかりやすいか」%K%P
 No, it's easier to understand if I say Enomoto...
@@ -819,7 +819,7 @@ No, it's easier to understand if I say Enomoto...
 
 榎本「榎本は、死んだのか？」%K%P
 Enomoto, he died?
-鼷本「鼷本死掉了？」
+鼷本「鼷本，他死掉了？」
 
 悟「え？」%K%P
 Eh?
@@ -827,7 +827,7 @@ Eh?
 
 榎本「『貴様の過去では、榎本は死んでしまったのか？』と訊いてる」%K%P
 I'm asking you, scum, if in your past, Enomoto died.
-鼷本「我问你，“在你小子的过去，鼷本是不是已经死掉了？”」
+鼷本「在你小子的过去，鼷本是不是已经死掉了？」
 
 悟「よく意味がわからんが……」%K%P
 I don't really understand, but...
@@ -859,7 +859,7 @@ Is that so...
 
 榎本「いや、もういい。すべてわかった」%K%P
 No, it's okay. I got all that.
-鼷本「好了，够了，我全知道了」
+鼷本「好了，够了，全知道了」
 
 そう言って榎本は、またコメカミのあたりをトントンと叩いた。%K%P
 Saying that, Enomoto tapped at his temples again.
@@ -891,7 +891,7 @@ Yeah, I heard about it... from you.
 
 榎本「俺は……いや、俺達は『ある目的』があって、ここにやってきたんだ」%K%P
 I... no, we had a "certain goal," so we came here.
-鼷本「我……不，我们出于“某种目的”，来到了这里」
+鼷本「本人……不，我们出于“某种目的”，来到了这里」
 
 榎本「『ある目的』――」%K%P
 That "certain goal"――
@@ -1335,7 +1335,7 @@ I know you said it's underground now, but...
 
 榎本「よかろう、教えてやる。ここは……」%K%P
 Fine. I'll tell you. This is...
-鼷本「好吧，就告诉你。这里是……」
+鼷本「好吧，告诉你。这里是……」
 
 榎本「『北海道妃羽郡茂枝木村穂樽日鉱山廃坑跡』だ」%K%P
 "Moegi Village, Hiwa District, Hokkaido――the ruins of the abandoned Hotarubi Mine."
@@ -1363,7 +1363,7 @@ There's still something I don't understand...
 
 榎本「俺が生きてる理由か？」%K%P
 The reason I'm alive?
-鼷本「我还活着的理由吗？」
+鼷本「你面前的这位鼷本还活着的理由吗？」
 
 悟「そうだ」%K%P
 Yeah.
@@ -1427,7 +1427,7 @@ Here and now... it's July 18, 2011.
 
 榎本「俺は、殺される前の俺なのだよ」%K%P
 I am the me who is yet to be murdered.
-鼷本「我是被杀之前的我」
+鼷本「本人是被杀之前的自己」
 
 悟「…………」%K%P
 ......
@@ -1571,11 +1571,11 @@ Uhhhh...!
 
 悟「ウワァァァァァァァァァァァァァァァァァァァァァァァァ%Nァァァァァァァァァァァァァァァァァァァァァァァァァァァ%N！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！」%K%P
 UWAAAAAAAAAAAAAAAAAAAAAAAAA%NAAAAAAAAAAAAAAAAAAAAAAAAAAA%N！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
-悟「呜哇啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊%N啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊%N！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！」
+悟「呜哇啊啊啊啊啊啊啊啊啊啊啊啊啊啊！！！！！！！」
 
 悟「ギヤァァァァァァァァァァァァァァァァァァァァァァァァ%Nァァァァァァァァァァァァァァァァァァァァァァァァァァァ%N！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！」%K%P
 GYAAAAAAAAAAAAAAAAAAAAAAAAA%NAAAAAAAAAAAAAAAAAAAAAAAAAAA%N！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
-悟「呀啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊%N啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊%N！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！」
+悟「呀啊啊啊啊啊啊啊啊啊啊啊啊啊啊！！！！！！！」
 
 悟「やめてくれ、やめてくれ、やめてくれ、やめてくれ、やめてくれ、やめてくれ、やめてくれ、やめてくれ」%K%P
 Stop it, stop it, stop it, stop it, stop it, stop it, stop it, stop it!
@@ -1672,7 +1672,7 @@ We can't leave him be.
 
 榎本「そうだな……それを今、考えているところなんだが……」%K%P
 Right... I was just thinking about that...
-鼷本「是啊……我正要考虑这件事……」
+鼷本「是啊……自己正要考虑这件事……」
 
 ややあって、目の前のオレはこんなことを言い出した。%K%P
 After a while, the me before me proposed something.
@@ -1704,7 +1704,7 @@ No, none.
 
 榎本「まあ、もし仮に、未来の俺やお前が同じ結果に辿り着いてしまったとしたら、最悪だがな」%K%P
 Well, I suppose it'd be very bad if, for example, you and I arrived at the same result...
-鼷本「嗯，假如，未来的我和你也达到同样结局的话，那就太糟糕了」
+鼷本「嗯，假如，未来的自己和你也达到同样结局的话，那就太糟糕了」
 
 悟「なるほど」%K%P
 'I' see.
@@ -1720,7 +1720,7 @@ That's right.
 
 榎本「それに、俺は自信があるね。こんな惨めな未来には絶対にならないって自信が」%K%P
 And I have confidence in it. Confidence that there's no way our future will turn out as wretched as that one.
-鼷本「况且，我有信心。有自信绝对不会造成这么悲惨的未来」
+鼷本「况且，自己有信心。有自信绝对不会造成这么悲惨的未来」
 
 悟「私もだ」%K%P
 So do 'I'.
@@ -1744,7 +1744,7 @@ Yeah, of course.
 
 悟「自分を殺す、ってやつをね」%K%P
 ...Killing myself, that is.
-悟「杀死自己」
+悟「自杀」
 
 悟「…………」%K%P
 ......
@@ -1756,11 +1756,11 @@ That consciousness reached me though a haze.
 
 自分を殺す？%K%P
 Killing myself?
-杀死自己？
+自杀？
 
 オレがオレを殺すっていうのか？%K%P
 I'm going to kill me?
-是说我杀死我？
+是说让我杀死我？
 
 ははっ、何を馬鹿なことを言っているんだ。%K%P
 Haha, what a foolish thing I'm saying.
@@ -1788,11 +1788,11 @@ Saying that, Enomoto took out his sunglasses from his pocket.
 
 榎本「俺は別に関知しない。こいつは……」%K%P
 I don't really care. He...
-鼷本「跟我没有什么特别的关系。因为这家伙是……」
+鼷本「跟本人没有什么特别的关系。因为这家伙是……」
 
 榎本「俺とは関係のない『オレ』だからな」%K%P
 He is an "I" that ''I'' have nothing to do with.
-鼷本「跟我没有关系的“我”啊」
+鼷本「跟“自己”没有关系的“我”啊」
 
 悟「それはありがたい。では、好きにさせてもらうよ」%K%P
 'I''ll thank you for that. Well then, 'I' suppose 'I''ll just do as 'I' please.
@@ -1984,11 +1984,11 @@ There is no need for impurities.
 
 ユウキドウ「思わないね」%K%P
 I don't.
-优希堂「我可不这么认为」
+优希堂「绝对不同意」
 
 ユウキドウ「俺はお前とは違うからな」%K%P
 Because I'm different from you.
-优希堂「我跟你可不一样啊」
+优希堂「咱俩可不一样啊」
 
 ユウキドウ「――榎本よ」%K%P
 ――Enomoto.

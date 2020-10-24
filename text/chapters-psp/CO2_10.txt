@@ -1,4 +1,4 @@
-
+﻿
 ――私はイスに腰掛け、新聞を広げていた。%K%P
 ――I was sitting in a chair, the newspaper spread out in front of me.
 ——我坐在椅子上，摊开报纸正在读。
@@ -199,7 +199,7 @@ Geez! You idiot! Idiot!
 
 こころ「ヘンタイ！　ド・ヘンタイ！　むっつりすけべのこんこんちき～！！」%K%P
 Pervert! Stupid pervert! Lecher scum of the earth!!
-心「白痴！大白痴！！」
+心「坏蛋！愚蠢的变态！淫荡的人渣～！！」
 
 黄泉木「おい待ってくれよ、僕は何も優希堂くんに頼んだわけじゃっ」%K%P
 Hey, wait a sec! It's not like I asked Yukidoh-kun to――
@@ -251,7 +251,7 @@ I was so embarrassed, tears started to form in my eyes.
 
 あぐーっと毛布を噛みしめながら、%K%P
 While biting into my blanket,
-我一边咬着毛毯，一边说道
+我一边咬着毛毯，一边说道，
 
 こころ「それに……それにぃ……」%K%P
 And... Anddd...
@@ -340,7 +340,7 @@ The clock indicated 8:11 PM.
 
 転移してから５分くらい経ったから、転移の時間は『８時６分』と。%K%P
 Since about five minutes had passed since the transfer, I would say the transfer happened at 8:06.
-因为转移之后经过了大概５分钟，所以转移的时间就是“晚上８时０６分
+因为转移之后经过了大概５分钟，所以转移的时间就是“晚上８时０６分”。
 
 彼からのメッセージが残ってないかと、ＶＲを再生してみた。%K%P
 He didn't leave a message this time, so I tried playing back the ＶＲ.
@@ -348,7 +348,7 @@ He didn't leave a message this time, so I tried playing back the ＶＲ.
 
 あの時のメッセージの続きが再生された。%K%P
 It started playing back the continuation of the message from before.
-留言继续向后播放。
+接着之前的留言，继续向后播放。
 
 『何者かに命を狙われているらしい』%K%N
 "It seems someone is after my life."
@@ -392,7 +392,7 @@ It seemed like Satoru had gone silent while still recording.
 
 ややあって、メッセージの続きが流れた。%K%P
 After a while, the message continued to play.
-很快，留言继续下去。
+很快，留言继续了下去。
 
 『もちろん、オレだってこんなことは考えたくないさ』%K%N
 "Of course, even I don't want to think about it."

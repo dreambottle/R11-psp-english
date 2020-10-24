@@ -1,4 +1,4 @@
-
+﻿
 榎本「これで信じてもらえたかな？」%K%P
 Do you believe me now?
 鼷本「这样你相信了吧？」
@@ -117,11 +117,11 @@ He laughed.
 
 榎本「ふふっ、ふふっ、あはは……」%K%P
 Fufu, uhuhuh, ahahahaha...
-鼷本「啊哈，啊哈，哈哈……」
+鼷本「啊哈，啊哈，啊哈哈……」
 
 榎本「あははははははははあははは」%K%P
 AHAHAHAHAHAHAHAHA!
-鼷本「阿哈哈哈哈哈哈哈红红火火恍恍惚惚」
+鼷本「阿哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈」
 
 まるで、これ以上の可笑しいことなどないとでもいうように、肩を震わせながら笑っていた。%K%P
 His shoulders shook as he laughed, as though it were the funniest thing he'd ever heard.

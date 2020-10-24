@@ -1,4 +1,4 @@
-
+﻿
 気がつくと、見慣れない天井が視界に入ってきた。%K%P
 When I opened my eyes, I was looking at an unfamiliar ceiling.
 当我恢复意识的时候，映入眼帘的是从未见过的天花板。
@@ -346,44 +346,44 @@ Furthermore, it was possible that whenever she became Suzukage Hotori, she suffe
 
 失語症が精神的なものならば、犬伏景子は喋ることができて涼蔭穂鳥だけが喋れない、という状況もじゅうぶんにあり得る。%K%P
 If aphasia was a mental problem, then Inubushi Keiko being able to talk while Suzukage Hotori couldn't was very possible.
-或者也可能是主人格的犬伏景子因为某些理由而不能说话了
+如果失语症是属于精神上问题的话，那么犬伏景子这个人格会说话，而凉荫穗鸟这个人格不会说话，也是很有可能的。
 
 あるいは、主人格である犬伏景子そのものが、なんらかの理由で喋れなくなったか。%K%P
 Another possibility was that the main personality, Inubushi Keiko, had become unable to talk for some reason.
-总之，我决定先与她交流一下。
+或者，也有几率是作为主人格的犬伏景子因为某些理由而不能说话了。
 
 私はとりあえず、彼女に付き合ってみることにした。%K%P
 In the meanwhile, I decided to go along with her.
-无论我对她说多少遍“你就是犬伏景子哟”，穗鸟这个人格也无法理解犬伏的存在。
+总之，我决定先与她交流一下。
 
 『あなたは犬伏景子よ』とどれだけ言ったところで、穂鳥という人格は犬伏のことを知らないだろう。%K%P
 It didn't matter how many times I tried saying "you are Inubushi Keiko" to her, as the Hotori personality probably didn't even know her.
-多重人格者的不同人格之间不能互相意识到对方，这一点已经得到证明了。
+当然，无论我对她说多少遍“你就是犬伏景子哟”，穗鸟这个人格也无法理解犬伏的存在。
 
 多重人格者は、人格間での面識はない、というのが定説なのだ。%K%P
 It had been established that, in the case of a person with multiple personalities, the different alters were not conscious of each other.
 //old: It had been established that, in the case of a person with multiple personalities, the different characters were not conscious of each other. <--- minor change, but "alter" is the psych term, which Kokoro should know being a major :P
-不论怎么对她说明，应该也没有用吧。
+多重人格者的不同人格之间不能互相意识到对方，这一点已经得到证明了。
 
 どれだけ説明したところで、無駄だろう。%K%P
 No matter how one might try to explain it, it would probably be useless.
-我忽然觉得她有点可怜。
+不论怎么对她说明，应该也没有用吧。
 
 少し、かわいそうに思った。%K%P
 I... felt a little sorry for her.
-说不定她也正在遭受痛苦的折磨呢。
+忽然，我觉得她有点可怜。
 
 彼女も彼女なりに、苦しんでいるのかもしれない。%K%P
 It was possible she was suffering in her own way, too.
-不对不对，等一下。
+说不定，她也正在遭受痛苦的折磨呢。
 
 いやいや、待って。%K%P
 No no, wait.
-这全都是在我的梦里啊。
+不对不对，等一下。
 
 これは私の夢の中の話だ。%K%P
 This was something from inside my dream.
-必须要明确的是，现实里的犬伏景子精神中不见得会有凉荫穗鸟这个人格。
+这全都是在我的梦里啊。
 
 現実に犬伏景子の中に涼蔭穂鳥という人格がいるわけではないことは、はっきりさせておかなくては。%K%P
 It was not certain that the real Inubushi Keiko had another personality named Suzukage Hotori within her.
@@ -803,7 +803,7 @@ In that case, it would explain why I was at SPHIA as if it were natural.
 
 当たり前のように私に接してくれる内海達の態度にも説明がつく。%K%P
 It could also explain the attitude Utsumi and the rest had taken toward me.
-这样的话，也就可以解释为什么我会理所当然地身处ＳＰＨＩＡ之中了。
+这也可以解释内海和其他人对我的态度。
 
 夢にしては、この施設にしても、犬伏や内海にしても、リアルすぎる。%K%P
 This dream, this institute, Inubushi and Utsumi, they're all too real.
@@ -811,7 +811,7 @@ This dream, this institute, Inubushi and Utsumi, they're all too real.
 
 こんなにも鮮明に見る夢なんて、あるだろうか。%K%P
 Were dreams this vivid even possible?
-会有如此鲜明的梦境吗
+会有如此鲜明的梦境吗？
 
 ――%TS105明晰夢%TE？%K%P
 ――%TS105Lucid dream%TE?
@@ -1131,7 +1131,7 @@ I didn't feel anyone's presence.
 
 シンと静まり返っている。%K%P
 The inside was silent.
-没有人影。
+一片寂静。
 
 女性物の服がいくつか、ベッドの上に出しっぱなしになっている。%K%P
 Several articles of women's clothing had been left spread across the bed.
@@ -1379,15 +1379,15 @@ It might have been that that room belonged to Hotori.
 
 他に行くところもないし、少し覗いてみよう。%K%P
 Since I didn't have anywhere else to go, I thought I'd take a little peek.
-那里或许就是穗鸟的房间吧。
+反正也没有其它地方可去，就跟着偷偷去看一下吧。
 
 私は軽い気持ちで、穂鳥の後を追った。%K%P
 Casually, I followed after Hotori.
-反正也没有其它地方可去，就跟着偷偷去看一下吧。
+我怀着轻松的心情，跟着走了过去。
 
 玄関には取っ手というものが付いていなかった。%K%P
 The entrance didn't have anything that could be used as a handle.
-我怀着轻松的心情，跟着走了过去。
+入口的门上没有任何像是把手的东西。
 
 恐らく自動ドアだとは思うのだが、それは今まで私が見てきたどんな自動ドアにも当てはまらない特殊なものだった。%K%P
 It must be an automatic door, but a very peculiar one, unlike anything I've ever seen before.

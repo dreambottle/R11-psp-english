@@ -1,4 +1,4 @@
-
+﻿
 こころ「はあはあはあ……」%K%P
 Haa haa haa...
 心「呼…呼…呼……」
@@ -133,7 +133,7 @@ Press him, you say...
 
 黄泉木は言いにくそうにしている。%K%P
 Yomogi looked as if he was having trouble saying it.
-黄泉木似乎难于启齿。。
+黄泉木似乎难于启齿。
 
 黄泉木「他に考えられないだろう？　本物のわけがない」%K%P
 There isn't any other explanation, right? There's no way it can be real.
@@ -217,7 +217,7 @@ There were those who were like marionettes, frozen stiff.
 
 白銀の雪景色が美しいだなんて、幻想だ。%K%P
 It was but a mere illusion that the silvery landscape was beautiful.
-白银色的雪原美景不过是虚幻。
+白银色的雪原美景，不过是虚幻罢了。
 
 少なくとも、私がいるこの場所に、美しさなんてない。%K%P
 At the very least, there's nothing beautiful about the place I was in now.
@@ -253,7 +253,7 @@ And then I felt it.
 
 これまで感じたことのないイメージを。%K%P
 An image I hadn't seen until now.
-至今为止从未感受过的概念。
+那至今为止从未感受过的概念。
 
 『死』というイメージを。%K%P
 The image of "Death."
@@ -749,7 +749,7 @@ At first I thought that compared to soil, snow should be easier to dig up.
 
 でも、それは甘い考えだった。%K%P
 But that was a naïve thought.
-但是，这个想法毕竟还是 too young 。
+但是，这个想法毕竟还是太傻太天真了。
 
 黄泉木は黙って手伝ってくれた。%K%P
 Yomogi silently helped me.
@@ -793,19 +793,19 @@ At that moment――
 
 遺体の腕の部分が、%T060%N
 The corpse's arms,
-遗体的手臂
+遗体的手臂，
 
 ろう人形のように折れ、%T060%N
 like those of a wax doll,
-就好像蜡人一样断开
+就好像蜡人一样断开，
 
 ボロリと崩れた。%K%P
 broke off and crumbled.
-分崩离析。
+分崩离析了。
 
 こころ「い……いやああっ！」%K%P
 N... Nooo!
-心「不……不要」
+心「不……不要！」
 
 私は慌てて、手に持っている真っ黒な腕を放り捨てた。%K%P
 Panicking, I hurled the black hand I was holding.
@@ -833,7 +833,7 @@ Once again, the acid started to well up from my throat.
 
 こころ「ううっ……！」%K%P
 G, guh...!
-心「呜……」
+心「呜……！」
 
 その場に倒れ込む。%K%P
 I fell where I stood.
@@ -853,11 +853,11 @@ I had done something so cruel to them.
 
 私は、偽善者だ。%K%P
 I'm a hypocrite.
-我只是伪善者。
+我也只是一名伪善者罢了。
 
 覚悟が足りない。%K%P
 My resolve was weak.
-我的觉悟还不够。
+我的觉悟还远远不够。
 
 偉そうなことばかり言って、口先だけだった……。%K%P
 For all my arrogance, they were just empty words....
@@ -901,7 +901,7 @@ I'm sorry. I'm so sorry....
 
 こころ「うぅぅ……ぁぁああっ……！」%K%P
 Uuh... waaahhh...!
-心「呜……哇……」
+心「呜……哇……！」
 
 涙は止まらなかった。%K%P
 The tears wouldn't stop.

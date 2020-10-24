@@ -1,4 +1,4 @@
-
+﻿
 ＶＲをポケットにしまった私は、しばらくのあいだ、黄泉木を睨み続けた。%K%P
 After putting the ＶＲ in my pocket, I continued to glare at Yomogi for a while.
 我把ＶＲ收进口袋，盯着黄泉木看了一阵。
@@ -97,7 +97,7 @@ Comfortable...?
 
 黄泉木はうなずくと、%K%P
 Yomogi nodded.
-黄泉木点了点头
+黄泉木点了点头。
 
 黄泉木「彼の言う『あっち』と『こっち』がそっちでどっちなのか、僕にはわからんがね」%K%P
 Though, I have no idea what he meant when he said "there" and "here."
@@ -257,7 +257,7 @@ The probability of this "rare" event occurring? Starting from the beginning of t
 
 これは『１秒間に１度ずつ電話をかけるという行動』を『２４時間』継続したとしても、%K%P
 With this, even if you were to "dial one number once per second" continuously for "twenty-four hours,"
-这就是说，即使“每秒钟打一次电话”，这样持续“２４小时”
+这就是说，即使“每秒钟打一次电话”，这样持续“２４小时”，
 
 正常に繋がるのは約１１．５日に１度だけ、という状況を意味する。%K%P
 it would be normal to connect one time approximately every 11.5 days; this is what the current situation is.
@@ -373,7 +373,7 @@ What's wrong, Yuni?
 
 ゆに「その新聞の記事……本物にしたくないよね」%K%P
 That article... you don't wanna believe that it's real, huh?
-悠尼「那个报纸上的报道……大家都不希望它是真的，对吧
+悠尼「那个报纸上的报道……大家都不希望它是真的，对吧」
 
 ゆには毛布にくるまったまま立ち上がった。%K%P
 Still wrapped in his blanket, Yuni stood up.

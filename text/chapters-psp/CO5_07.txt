@@ -1,7 +1,7 @@
-
+﻿
 気がつくと、私は悟の部屋に立ち尽くしていた。%K%P
 When I came to, I was standing perfectly still in Satoru's room.
-回过神时，我已经站在悟的房间。
+回过神时，我正站在悟的房间里。
 
 また転移したのだ。%K%P
 I transferred again.
@@ -69,7 +69,7 @@ If I could, the sin I had unknowingly committed, as well as the trust in me that
 
 みんな笑って、私を許してくれるのに。%K%P
 If I could, everyone would forgive me with a smile.
-大家也会一笑了之，原谅我。
+大家也会一笑了之，原谅我的过错。
 
 内海「……どうしたの？」%K%P
 ...What's wrong?
@@ -97,7 +97,7 @@ She was right; there were tears running down my cheeks.
 
 突然泣き出した私を、ふたりはあっけにとられたように見つめていた。%K%P
 The two of them stared at me in surprise, as I had unexpectedly started crying.
-我突然流泪好像让他们很不理解，他们盯着我看。
+我突然流泪的行为好像让他们很不理解，他们全都在盯着我看。
 
 内海「ご飯、呼びに行かなかったのが……そんなに悔しかったの？」%K%P
 Are you... really so upset that we didn't call you for dinner?
@@ -261,7 +261,7 @@ I'll eat it.
 
 食べながら、同じ食卓を囲む３人の様子を窺った。%K%P
 While eating, I looked at the other three people around the dinner table.
-一边吃，一边观察同桌三个人的样子。
+一边吃，一边观察着同桌三个人的样子。
 
 妙な違和感を感じる。%K%P
 Something felt off.
@@ -365,7 +365,7 @@ T, that's true...
 
 内海「食べられるだけでいいから、食べてね」%K%P
 Just eat what you can, okay?
-内海「有东西吃的时候就尽量吃吧」
+内海「有东西吃的时候，就尽量吃吧」
 
 そう言えば、私と悟は毒殺を恐れて食事を断っていたのだった。%K%P
 Now that she mentions it, Satoru and I had been refusing food for fear that it was poisoned.
@@ -409,7 +409,7 @@ Ah, Yuni...!
 
 ゆには、それになんの躊躇いもなく箸をつける。%K%P
 Yuni grabbed it with his chopsticks, without showing any hesitation.
-悠尼一点戒心都没有就开始动筷子。
+悠尼一点戒心都没有，就开始动筷子。
 
 ゆに「……な、何？」%K%P
 ...W, what?
@@ -425,7 +425,7 @@ Swallowing down a piece of bamboo shoot, Yuni glanced up at me, startled.
 
 同じ大皿から穂鳥も自分の分を取って、口にした。%K%P
 Hotori served herself from the same platter, then brought the food to her mouth.
-从那个盘子里穗鸟也盛了一点给自己。
+从那个盘子里，穗鸟也盛了一点给自己。
 
 毒が入ってる様子はない。%K%P
 There wasn't any sign that it was poisoned.
@@ -453,11 +453,11 @@ Utsumi, too, answered him with a laugh.
 
 ゆにの隣に座る穂鳥も、笑顔でうなずいていた。%K%P
 Hotori was sitting beside Yuni, nodding at their conversation with a smile.
-悠尼旁边的穗鸟也笑着不停地点头。
+悠尼旁边的穗鸟，也笑着不停地点头。
 
 まるで、初日の食事のようだ。%K%P
 It was like the meal we had on the first day.
-这情形就跟第一天来的时候那样。
+这情形，就跟第一天来的时候那样。
 
 殺人があったことが、まるで嘘のように感じられる。%K%P
 It was almost like the murder that had taken place was just a lie.
@@ -521,7 +521,7 @@ And there was one more difference――
 
 穂鳥が、ゆにの肩を軽く叩いた。%K%P
 Hotori lightly tapped Yuni on the shoulder.
-穗鸟在轻轻地拍悠尼的肩膀。
+穗鸟轻轻地拍了拍悠尼的肩膀。
 
 ゆに「どうしたの、穂鳥？」%K%P
 What's wrong, Hotori?
@@ -537,19 +537,19 @@ Is there something about your cheek?
 
 困ったように穂鳥は首を傾げたが、ゆにの頬に手を伸ばした。%K%P
 Hotori shook her head as if troubled, and then reached over to Yuni's cheek.
-穗鸟感到有点为难的样子歪了歪头，把手伸向悠尼的脸颊。
+穗鸟感到有点为难的样子，歪了歪头，把手伸向悠尼的脸颊。
 
 頬にご飯粒がついていたのだ。%K%P
 There was a grain of rice stuck there.
-悠尼脸上粘了饭粒。
+一颗饭粒粘在了那里。
 
 穂鳥は自分の口にそれを運ぶ。%K%P
 Hotori puts it into her own mouth.
-穗鸟将那饭粒送进自己的嘴里。
+穗鸟将那颗饭粒送进了自己的嘴里。
 
 ゆに「♪おべんと　つけてっ　どっこいっくの？　…ってヤツだね？」%K%P
 ♪Where are you going with your lunch on your face～? ...Or something like that?
-悠尼「拿着便当去哪里啊？…是那个吧？」
+悠尼「♪拿着便当去哪里啊？…是那个吧？」
 
 穂鳥は嬉しそうにうなずく。%K%P
 Hotori smiled happily.
@@ -557,7 +557,7 @@ Hotori smiled happily.
 
 ゆに「んもう、新婚さんみたいじゃ～ん？」%K%P
 Geez, we're like newlyweds, hu～h?
-悠尼「真是的，我们就跟新婚夫妇一样呢」
+悠尼「真是的，我们就跟新婚夫妇一样呢？」
 
 彼女の腕にじゃれるようにもたれて、ゆには微笑んだ。%K%P
 Yuni smiled while leaning against her arm, as if teasing her.
@@ -577,23 +577,23 @@ Hotori and Yuni were getting along unusually well.
 
 私は、お醤油を垂らしたおひたしを口に運びながら、思う。%K%P
 I thought, as I bring one of the vegetable side dishes dripping with soy sauce into my mouth.
-我一边吃着滴着酱油的面包，心里带着这个疑问。
+我一边将滴着酱油的面包送进嘴里，一边思索着。
 
 ゆにの額には、キズがあるはずだ。%K%P
 Yuni's forehead should be wounded.
-悠尼额头的那个伤痕现在应该还在。
+悠尼额头的那个伤痕，现在应该还在。
 
 今は、前髪に隠れて見えないが、真新しいキズが。%K%P
 It wasn't visible right now because his bangs were hiding it, but it was a new wound.
-虽然被头发遮住，但伤口还是新的。
+虽然被头发遮住了，但伤口还是新的。
 
 それは、間違いなく穂鳥によって切られたものだ。%K%P
 And it had unmistakably been inflicted by none other than Hotori.
-那个伤口是由穗鸟造成的这一点是毫无疑问的。
+那个伤口是由穗鸟造成的，这一点是毫无疑问的。
 
 それなのにどうして、ゆには穂鳥を警戒しないんだろう。%K%P
 So then, why wasn't Yuni on his guard against Hotori?
-可是悠尼为什么对穗鸟一点戒心都没有呢？
+可是，悠尼为什么对穗鸟一点戒心都没有呢？
 
 どうして恐れるどころか、仲良くなっているんだろう。%K%P
 Why is it that, rather than being scared of her, he seemed to be getting along with her so well?
@@ -601,7 +601,7 @@ Why is it that, rather than being scared of her, he seemed to be getting along w
 
 大きな疑問を残したまま、食事は終わった。%K%P
 The meal ended, leaving behind that huge question.
-这个疑问直到吃完饭一直困扰着我。
+直到晚饭结束，这个疑问都一直在困扰着我。
 
 こころ「ごちそうさま……」%K%P
 Thanks for the food...
@@ -1109,7 +1109,7 @@ And there was one more difference――
 
 穂鳥が、ゆにの肩を軽く叩いた。%K%P
 Hotori lightly tapped Yuni on the shoulder.
-穗鸟在轻轻地拍悠尼的肩膀。
+穗鸟轻轻地拍了拍悠尼的肩膀。
 
 ゆに「どうしたの、穂鳥？」%K%P
 What's wrong, Hotori?
@@ -1125,19 +1125,19 @@ Is there something about your cheek?
 
 困ったように穂鳥は首を傾げたが、ゆにの頬に手を伸ばした。%K%P
 Hotori shook her head as if troubled, and then reached over to Yuni's cheek.
-穗鸟感到有点为难的样子歪了歪头，把手伸向悠尼的脸颊。
+穗鸟感到有点为难的样子，歪了歪头，把手伸向悠尼的脸颊。
 
 頬にご飯粒がついていたのだ。%K%P
 There was a grain of rice stuck to his cheek.
-悠尼脸上粘了饭粒。
+一颗饭粒粘在了那里。
 
 穂鳥は、自分の口にそれを運ぶ。%K%P
 Hotori puts it into her own mouth.
-穗鸟将那饭粒送进自己的嘴里。
+穗鸟将那颗饭粒送进了自己的嘴里。
 
 ゆに「♪おべんと　つけてっ　どっこいっくの？　…ってヤツだね？」%K%P
 ♪Where are you going with your lunch on your face～? ...Or something like that?
-悠尼「拿着便当去哪里啊？…是那个吧？」
+悠尼「♪拿着便当去哪里啊？…是那个吧？」
 
 穂鳥は、嬉しそうにうなずく。%K%P
 Hotori smiled happily.
@@ -1165,7 +1165,7 @@ Hotori and Yuni were getting along unusually well.
 
 私は、お醤油を垂らしたおひたしを口に運びながら、思う。%K%P
 I thought, as I bring one of the vegetable side dishes dripping with soy sauce into my mouth.
-我一边吃着滴着酱油的面包，心里带着这个疑问。
+我一边将滴着酱油的面包送进嘴里，一边思索着。
 
 ゆにの額には、キズがあるはずだ。%K%P
 Yuni's forehead should be wounded.
@@ -1189,7 +1189,7 @@ Why is it that, rather than being scared of her, he seemed to be getting along w
 
 大きな疑問を残したまま、食事は終わった。%K%P
 The meal ended, leaving behind that huge question.
-这个疑问直到吃完饭一直困扰着我。
+直到晚饭结束，这个疑问都一直在困扰着我。
 
 こころ「ごちそうさま……」%K%P
 Thanks for the food...

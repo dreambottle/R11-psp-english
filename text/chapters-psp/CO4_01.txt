@@ -1,4 +1,4 @@
-
+﻿
 こころ「ん……ぅう……」%K%P
 Nn... uuu...
 心「嗯……呃……」
@@ -241,7 +241,7 @@ No...
 
 そのとき、小屋の中から%K%P
 At that moment, from inside the shelter,
-这个时候，从小屋中
+这个时候，从小屋中，
 
 ゆに「う～ん、むにゅむにゅ……」%K%P
 Uu～n, *mumble mumble*...

@@ -1,4 +1,4 @@
-
+﻿
 こころ「どうしたのよ、ゆに」%K%P
 What is it, Yuni?
 心「怎么了啊，悠尼？」
@@ -913,7 +913,7 @@ Rather, it'd really hurt if someone was cut with this...
 
 まるで%TS023フランス傭兵部隊%TEとかが使っているコンバットナイフみたいだ。%K%P
 It's like a combat knife used by %TS023French mercenary troops%TE.
-像是%TS023法国佣兵部队%TE之类的人使用的军刀一样（禁止乳髪）。
+像是%TS023法国佣兵部队%TE之类的人使用的军刀一样。
 
 黄泉木「お、おい！　危ないから気をつけろよ」%K%P
 H, hey! That's dangerous, so be careful!

@@ -1,4 +1,4 @@
-
+﻿
 私はスフィアのリビングに立っていた。%K%P
 I was standing in the SPHIA living area.
 我站在ＳＰＨＩＡ的起居室里。
@@ -61,7 +61,7 @@ Huh?
 
 私は驚いて、穂鳥へと振り返った。%K%P
 Surprised, I turned around to face Hotori.
-穗鸟「……不要啊啊啊」
+我惊讶地向穗鸟望去。
 
 彼女は肩を上下させ、荒い呼吸を繰り返していた。%K%P
 Her shoulders were heaving, and the breaths she took were ragged.
@@ -77,7 +77,7 @@ I've seen something like this once before.
 
 穂鳥「……ぃぃぃいいやあああああっ！！」%K%P
 iiiiiiiIIIIIIIYAAAAAAAAAAAAAAAAH!!
-穗鸟「……不要啊啊啊」
+穗鸟「……不要啊啊啊！！」
 
 悲鳴をあげている。%K%P
 A scream rises from her.
@@ -117,7 +117,7 @@ The monitor falls to the ground.
 
 穂鳥「……うぅぅぅぅああああぁぁぁ！！」%K%P
 ...uuuuUUUAAAAAAAaaaaaaahh!!
-穗鸟「………呜哇啊啊啊」
+穗鸟「………呜哇啊啊啊！！」
 
 獣のようなうなり声をあげると同時に、穂鳥はイスを振り上げた。%K%P
 With a beastly roar, Hotori raised a chair over her head.
@@ -301,7 +301,7 @@ I unintentionally ended up using my dominant arm, forgetting that Satoru's left 
 
 こころ「う……」%K%P
 Uu....
-心「呜」
+心「呜……」
 
 幸い、鎮痛剤が効いているのか、それほどの激痛ではないけれど……。%K%P
 Luckily, it looks like the painkillers are kicking in. It wasn't very painful, but....
@@ -313,7 +313,7 @@ I injured Satoru's body yet again.
 
 穂鳥「ぎぎぎぎぃぃぃ……！！」%K%P
 Gigigigiiii...!!
-穗鸟「啊啊啊……」
+穗鸟「啊啊啊……！！」
 
 狂気にも満ちたうめき声に、私は我に返った。%K%P
 Hearing that maddened groaning, I returned to my senses.
@@ -389,11 +389,11 @@ Calm down!
 
 穂鳥「……うぁっ……ぁぁぁっ！！」%K%P
 ...Uaa... aaaaah!!
-穗鸟「……呜……啊啊」
+穗鸟「……呜……啊啊！！」
 
 と、穂鳥がめちゃくちゃに両手を振り回した。%K%P
 Then, Hotori incoherently swung both her hands.
-穗鸟胡乱地挥舞着双臂
+穗鸟胡乱地挥舞着双臂。
 
 あちこちを叩かれる。%K%P
 She throws punches in every direction.
@@ -405,7 +405,7 @@ But, unfaltering, I seize Hotori's wrists.
 
 穂鳥「……ぁぁぁぁぁぁっ！！！」%K%P
 ...aaaaaah!!!
-穗鸟「……啊啊啊！」
+穗鸟「……啊啊啊！！！」
 
 穂鳥の力は弱々しかった。%K%P
 She seemed so frail.
@@ -441,11 +441,11 @@ I felt her violent shaking through my own body as well.
 
 こころ「大丈夫！」%K%P
 It's all right!
-心「没事了」
+心「没事了！」
 
 こころ「大丈夫だから！」%K%P
 It'll be all right!
-心「已经没事了」
+心「已经没事了！」
 
 穂鳥はそれでも全身を暴れさせ、私の頭や肩をでたらめに殴ってきた。%K%P
 Even so, Hotori struggled with her entire body, randomly striking my shoulders and head.
@@ -502,7 +502,7 @@ Good job, Yukidoh-kun.
 こころ「あの……私……」%K%P
 Uhh... "I"...
 //Kokoro uses "watashi" here, unlike Satoru. So Utsumi notices the switch. I put the quotation mark to show it.
-心「那个……我……」
+心「那个……人家是……」
 
 内海「あら？　冬川さんだったの？」%K%P
 Oh? Were you Fuyukawa-san?
@@ -574,7 +574,7 @@ Are you all right, Hotori-chan?
 
 私はあえて名前を呼んでみた。%K%P
 I dared to call her name.
-我又叫了一次她的名字
+我又叫了一次她的名字。
 
 彼女が、穂鳥であることを確認するために。%K%P
 To confirm she is Hotori.
@@ -590,7 +590,7 @@ What a relief. She's Hotori.
 
 穂鳥「…………っ」%K%P
 ......ah.
-穗鸟「……」
+穗鸟「……啊」
 
 穂鳥はシーツを身体に強く巻き付けると、また身を震わせた。%K%P
 She pulled the sheets tight around herself and began to tremble again.
@@ -618,7 +618,7 @@ She opens her mouth as if in appeal.
 
 穂鳥「…………っ」%K%P
 ......Ah.
-穗鸟「……」
+穗鸟「……啊」
 
 こころ「……どうしたの？」%K%P
 What's wrong?
@@ -658,7 +658,7 @@ On the note that she handed back,
 
 『さむい』%K%P
 only one word was written:
-只有两个字,写着
+只有两个字,写着：
 
 とだけ書かれていた。%K%P
 "cold."
@@ -690,7 +690,7 @@ I'll turn up the heat.
 
 そう言って、内海は部屋を出ていった。%K%P
 Saying that, Utsumi left the room.
-说着内海走出了房间。
+说着，内海走出了房间。
 
 穂鳥「…………」%K%P
 ......
@@ -802,7 +802,7 @@ Hotori pulled at my hand.
 
 メモ帳に、またなにか書き付けている。見てみると、%K%P
 She's writing something down on the notepad again. Looking down at it, the words
-记事本上又写了些东西。我看了看
+记事本上又写了些东西，我看了看。
 
 『赤い部屋』%K%P
  "red room" have been written there.
@@ -834,7 +834,7 @@ Though it was only short words and phrases, what I saw was quite frightening.
 
 ゆに「穂鳥って、字ヘタクソだねー」%K%P
 Hotori, your handwriting is terrible...
-悠尼「穗鸟的字写得真难看呀」
+悠尼「穗鸟的字写得真难看呀ー」
 
 こころ「そういうこと言うのはやめなさい」%K%P
 Don't say things like that.
@@ -842,7 +842,7 @@ Don't say things like that.
 
 ゆに「なんで怒ってるのさ」%K%P
 Why are you mad?
-悠尼「为什么发火呀」
+悠尼「为什么发火呀？」
 
 こころ「怒ってません」%K%P
 I'm not mad.
@@ -882,7 +882,7 @@ As far as I know, this facility doesn't have any red rooms.
 
 穂鳥は懸命に、メモに続きを書く。%K%P
 Hotori eagerly wrote a continuation of the note.
-穗鸟又拼命写了起来。
+穗鸟又拼命地写了起来。
 
 『寒くて』『暗くて』『閉じこめられてて』『ひとりぼっち』%K%P
 "cold" "dark" "locked up" "all alone"

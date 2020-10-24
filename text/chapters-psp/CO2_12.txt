@@ -1,4 +1,4 @@
-
+﻿
 ゆにの代わりに私の前に立っていたのは、穂鳥だった。%K%P
 Standing in front of me, where Yuni had just been, was Hotori.
 代替悠尼站在我面前的是穗鸟。
@@ -408,7 +408,7 @@ Utsumi-san...! You're safe?!
 
 彼女はポカンとしていたが、%K%P
 Blankly staring at me, she replied,
-她愣了一下
+她愣了一下，回答道，
 
 内海「ええ、無事よ。地下にこれを取りにいっただけだから」%K%P
 Yes, I'm fine. I just went down to the basement to get these.
@@ -452,7 +452,7 @@ Aah, you've become Fuyukawa-san, haven't you?
 
 内海はタオルでネズミの死骸を包んであげながら、%K%P
 While gently wrapping the rat's corpse in the towel, Utsumi said,
-内海一边用毛巾把死老鼠包起来，一边说道
+内海一边用毛巾把死老鼠包起来，一边说道，
 
 内海「優希堂くんと穂鳥ちゃんが、この子が死んでるのを見つけたのよ」%K%P
 Yukidoh-kun and Hotori-chan had found this little one dead.

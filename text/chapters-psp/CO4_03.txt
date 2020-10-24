@@ -1,4 +1,4 @@
-
+﻿
 気がつくと、私は雪の上にひざまずいていた。%K%P
 Before I knew it, I was kneeling atop the snow.
 回过神来，我正跪在雪地上。
@@ -373,7 +373,7 @@ Yes.
 
 いつの間にか、玄関の前まで辿り着いていた。%K%P
 We were in front of the entrance before I knew it.
-不知不觉我们就来到玄关前了。
+不知不觉间，我们来到玄关前了。
 
 内海「それじゃ」%K%P
 Well then.

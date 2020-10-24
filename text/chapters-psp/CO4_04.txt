@@ -1,4 +1,4 @@
-
+﻿
 次の瞬間、私は雪原に立っていた。%K%P
 The next day, I was standing on the snow field.
 下一个瞬间，我站在雪原上。
@@ -341,7 +341,7 @@ Yuni smiled bravely and pointed toward the shelter cabin.
 
 ゆに「それよりも、こころん！　小屋に戻ろう！」%K%P
 Anyway, Kokoron! Let's go back to the cabin!
-悠尼「说起来，心！必小屋去吧！」
+悠尼「说起来，心！回小屋去吧！」
 
 こころ「うん！」%K%P
 Yeah!

@@ -1,4 +1,4 @@
-
+﻿
 小屋に戻ると黄泉木は、まず衛星電話を取り出し、どこかにダイヤルした。%K%P
 Returning to the cabin, Yomogi first took out the satellite phone and dialed somewhere.
 黄泉木回到小屋后，首先取出了卫星电话，拨了个号码。
@@ -469,11 +469,11 @@ Mayuzumi touched on the matter a different way.
 
 こころ「え？」%K%P
 Huh?
-心「咦？」
+心「哎？」
 
 黛「『え？』じゃないでしょ！　かわい子ぶっちゃって」%K%P
 Don't just say "huh?"! God, that cute-little-lady act...
-黛「什么“咦”啊！装什么可爱」
+黛「说什么“哎”啊！装什么可爱」
 
 黛「この男の好きなようにさせる気？」%K%P
 Are you gonna just let this guy do whatever he wants?
@@ -561,11 +561,11 @@ It's no good.
 
 極限状況に追い詰められて、黛は疑心暗鬼になっている。%K%P
 Being driven into a corner in such a dire situation, Mayuzumi was beginning to see suspicious goings-on everywhere.
-她现在在气头上，已经谁也不相信了。
+在如此的极限状况下，黛变得疑神疑鬼。
 
 もう、誰も信じようとはしていない。%K%P
 She won't believe anyone now.
-已经谁也不相信了。
+她已经谁也不相信了。
 
 これじゃ、何を言ったところで無駄だ……。%K%P
 Like this, whatever we say will be useless....

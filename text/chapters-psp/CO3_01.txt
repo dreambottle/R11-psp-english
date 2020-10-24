@@ -1,4 +1,4 @@
-
+﻿
 目が覚めると、小屋のベッドの中だった。%K%P
 When I woke up, I was in bed at the cabin.
 睁开眼睛时，我躺在小屋的床上。
@@ -171,7 +171,7 @@ Maybe he's going to call for help.
 
 そこで私は、ふと思い出す。%K%P
 Suddenly, I remembered.
-这时我突然想到
+这时，我突然想到。
 
 黄泉木は『晴れたら墜落現場へ行ってみる』と言っていたではないか。%K%P
 Didn't Yomogi say that he would try to go to the crash site if the weather cleared up?

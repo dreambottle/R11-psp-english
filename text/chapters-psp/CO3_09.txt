@@ -1,4 +1,4 @@
-
+﻿
 気がつけば、頭からかぶっていた毛布が消えていた。%K%P
 Before I realized it, the blanket over my head had vanished.
 回过神来，盖在头上的毛毯消失了。
@@ -575,11 +575,11 @@ There isn't?
 
 こころ「ああっ、ない、ない、ないっ！！」%K%P
 Aaahh, it's gone, gone, gone!!
-心「啊，没了，没了，没了！」
+心「啊，没了，没了，没了！！」
 
 こころ「ここにもない！　あっこにもない！　そこにも、ない……」%K%P
 It's not here! Or there! Or even over in that other place...
-心「不在这里，也不在这里！那里也没有……」
+心「不在这里！也不在这里！那里也没有……」
 
 黄泉木「…………」%K%P
 ......
@@ -587,15 +587,15 @@ It's not here! Or there! Or even over in that other place...
 
 こころ「わ～ん、悟のバカァ～～～！！！」%K%P
 Waaa～aah, stupid Satoruuu～～～!!!
-心「哇～，悟这个混蛋！」
+心「哇～，悟这个混蛋！！！」
 
 こころ「なくしちゃったじゃな～い！　どう責任とってくれるのよぉ～～～！！！」%K%P
 You lost ii～t! How will you take responsibilityyy～～～?!!!
-心「弄丢了啦～你要怎么负责任呀～」
+心「弄丢了啦～！你要怎么负责任呀～～～！！！」
 
 こころ「えーん！　えーん！　えぐえぐ……」%K%P
 ...Waah!　Uwaaaah! Waaahh, ahhhh...
-心「哇—！呜呜……」
+心「哇—啊！哇—啊！呜呜……」
 
 黄泉木「な、なぁ、冬川さん？」%K%P
 Uh, um, Fuyukawa-san?
@@ -623,7 +623,7 @@ Y, yeah...
 
 こころ「どこ！？　どこ！？　どこなの！？」%K%P
 Where?! Where?! Where is it?!
-心「在哪儿？在哪儿？在哪里啊」
+心「在哪儿！？在哪儿！？在哪里啊！？」
 
 私は黄泉木に詰め寄った。襟を掴んでガクガクと揺さぶる。%K%P
 I came right up to Yomogi. I grabbed him by the collar and shook him.
@@ -635,7 +635,7 @@ C, calm down... please calm down! I can't talk... while you're doing that!
 
 こころ「はっ！」%K%P
 Ah!
-心「啊」
+心「啊！」
 
 私は慌てて黄泉木の襟首を放した。%K%P
 Panicking, I let go of Yomogi's neck.
