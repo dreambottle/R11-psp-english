@@ -10,6 +10,7 @@ import re
 import sys
 import os
 import collections
+from typing import List, Tuple
 
 import r11.names as names
 import r11
@@ -33,7 +34,7 @@ control_tip_pattern = re.compile(r"(?:%TS([0-9]{3}))")
 textless_control_onp_pattern = re.compile(r"^(%[NOPp])+$")
 fourty_dashes_pattern = re.compile(r"^(%FS)?-{40,}[%A-Z0-9]+$")
 
-def detectTips(text: str) -> ():
+def detectTips(text: str) -> Tuple:
   match = control_tip_pattern.search(text)
   return match.groups() if match else ()
 
@@ -44,7 +45,7 @@ def detectJpSpeakerAndBrackets(jp_line):
   # where it is used not for direct speech, but as a regular quotation.
   
   #meta_pattern = r"(?:%[A-Zp][A-Z0-9]*)*?"
-  main_text_pattern_ja = "^((?:[^%]*?\u300c)?).*?(\u300d)?$"
+  main_text_pattern_ja = "^((?:[^%]*?\u300c|『)?).*?(\u300d|』)?$"
   match_ja = re.match(main_text_pattern_ja, jp_line)
 
   jp_speaker = match_ja.group(1) # always a speaker name + a corner bracket, or empty
@@ -63,12 +64,12 @@ def detectJpSpeakerAndBrackets(jp_line):
 
   return [jp_speaker, jp_leading_bracket, jp_trailing_bracket]
 
-def loadJpMacChapterFile(chapter_name: str) -> [str]:
+def loadJpMacChapterFile(chapter_name: str) -> List[str]:
   orig_chapter_path = os.path.dirname(__file__) + "/../text/tmp/mac-ja-psp/" + chapter_name + ".txt"
   with open(orig_chapter_path, "r", encoding=r11.sjis_enc) as r11_jp_textfile:
     return r11_jp_textfile.readlines()
   
-def filterTrueJpLines(lines: [str]) -> [str]:
+def filterTrueJpLines(lines: List[str]) -> List[str]:
   # starting from 4th line, every 2nd out of 3
   lines_filtered = [l.rstrip() for i, l in enumerate(lines[3:]) if i%3==1]
   return list(lines_filtered)

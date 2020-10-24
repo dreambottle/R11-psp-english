@@ -54,17 +54,17 @@ def main():
       else:
         jp_string = jp_match.group(3)
         tl_string = ln2
+        if not ln2:
+          # fallback to original line
+          tl_string = jp_string
+        elif ln2.startswith(unusedstr):
+          # clearly mark as untranslated to make detection more easy
+          tl_string = "<" + addr + ":not_translated>"
           
         # tl_string = clean_translation_enc_issues(tl_string)
         if (encoding_table_lang == 'en'):
-          # fallback to original line
-          if not ln2 or ln2.startswith(unusedstr):
-            tl_string = jp_string
           tl_string = r11.clean_en_translation_line(tl_string)
         elif (encoding_table_lang == 'cn'):
-          # clearly mark as untranslated to make detection more easy
-          if not ln2 or ln2.startswith(unusedstr):
-            tl_string = "<" + addr + ":not_translated>"
           pass
           tl_string = r11.clean_cn_translation_line(tl_string)
         else:
