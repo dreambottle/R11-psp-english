@@ -7377,7 +7377,7 @@ The study of the mechanisms behind social life, social structures, and social is
 ;7620;12;インサニティ
 Insanity
 ;7624;56;インサニティ／ｉｎｓａｎｉｔｙ%N狂気、愚行、精神障害。%N
-Madness, foolish actions, mental illness.
+Madness, foolish actions, mental illness.%N――――――――――%NPSP port brought to you by dreambottle.%NOriginal translation by TLWiki team.%N%NInsanity is doing the same thing over and over again and expecting different results.%N%NThis⑳story⑳has⑳not⑳finished⑳yet.%N―⑳It⑳is⑳an⑳infinity⑳loop!%N
 ;7630;2;晩
 Evening
 ;7634;112;晩／ばん%N現在では夜全体を意味することもあるが、%N本来は黄昏時から日没後まだ間もない%N夜の初め頃のことをさす。%N
@@ -7625,7 +7625,7 @@ The central concept of the philosophy of Immanuel Kant, an 18th-century German p
 ;7990;8;記憶移植
 Memory Transplant
 ;7994;277;記憶喪失と記憶移植――。%N両者の差とはこういうことだ。%N例えば仮に、とある媒体Xに刷り込まれたABCDEF%Nからなる連続した記憶（記録といってもいい）が%Nあったとしよう。%N記憶喪失とは、簡単に言うと、%NこのA～Fの記憶のうち、BDFというものが欠落し、%NACEしか思い出せない状態のことだ。%N
-Memory loss and memory transplantation―%NThe difference between the two is as follows.%NSuppose that a given entity, X, has a contiguous memory (we may also call it a record) composed of ABCDEF.%NMemory loss, to put it simply, is a state wherein, for example, parts B, D, and F in the A～F sequence are lost, and the only memories which can be recalled are ACE.%N
+Memory loss and memory transplantation―%NThe difference between the two is as follows.%NSuppose that a given entity, X, has a contiguous memory (we may also call it a record) composed of ABCDEF.%NMemory loss, to put it simply, is a state wherein, for example, parts B, D, and F in the A〜F sequence are lost, and the only memories which can be recalled are ACE.%N
 ;7998;346;逆にここで言う記憶移植とは、まずまっさらな記憶%N『ゼロ』があり、そこにACEという記憶を%N埋め込まれた状態のことを指す。%N両者とも、ACEしか思い出せない%Nという点においては共通だが、致命的な違いは%N『救いがあるかどうか』というところにある。%N記憶喪失では、XにはBDFが残っている%N可能性がある。%Nだからもしかしたら、それらを再生できるかも%N知れない。%N
 On the other hand, the memory transplant mentioned herein refers to a state where, for example, the memory parts A, C, and E are embedded into an initially empty, "zero" state memory.%NBoth cases are similar in that X does not remember anything besides ACE; the crucial difference, however, lies in the question of "whether the 'rest' is recoverable or not."%NIn the case of a memory loss, it is possible that X would still have parts B, D, and F residing somewhere in the mind.%N
 ;799c;204;しかし記憶移植されたXには、%N初めからBDFなんてものは存在しないのだ。%Nこの場合には、新たに記憶を、随時追加して%Nいかなければならない。%Nさて、もしもオレのこの記憶内容が、%N移植されたものだとしたら……。%N
@@ -7633,7 +7633,7 @@ Thus X might perhaps be able to recover these lost memories.%NOn the other hand,
 ;79a0;294;その記憶ACEとは、本来誰のものだったの%Nだろうか？%N『オレの意識』がオレのものであることに%N間違いはないが、『オレの記憶』だけは、%Nオレではない何者かの所有物なのかも知れない。%Nその何者かは、どんな経緯があったのかは%N知らないけれど、とにかくオレの内部にACEという%N限定された記憶を埋め込んだ。%N
 Just whose ACE memories are these, I wonder?%NThe fact remains that "my consciousness" belongs to me, but it is in fact possible that "my memory" is one that was originally someone else's and not mine.%NAnd that this someone had planted the ACE-reduced memories inside me, so that even I myself am not aware of how and why that happened exactly.%N
 ;79a4;209;なぜA～FではなくACEなのか……？%NどうしてBDFは移植しなかったのか……？%Nもしかしたら……。%N移植しなかったのではなく、%Nできなかった、のか……？%Nその人物も、オレと同じようにBDFを%N知らないのではないか……？%N
-Why not A～F, but ACE...?%NWhy didn't they transplant BDF as well...?%NCould it be that...%NIt's not that they didn't transplant them,%Nbut... that they couldn't?%NCould it be that, just like me, this other person lacks BDF?%N
+Why not A〜F, but ACE...?%NWhy didn't they transplant BDF as well...?%NCould it be that...%NIt's not that they didn't transplant them,%Nbut... that they couldn't?%NCould it be that, just like me, this other person lacks BDF?%N
 ;79a8;277;ACEという限定された知識だけしか%N持っていないのではないか……？%Nだから、それだけしかオレの内部に刷り込むことが%Nできなかった。%Nオレは、彼の知り得る情報のみを知り得ていて、%N彼の知り得ない情報は%N知り得ないのかもしれない。%Nオレの記憶と彼の記憶は同じ。%N……そんな気がした。%N
 Can I assume that this limited knowledge composed only of ACE was all that was available to this person?%NAnd that, therefore, it was for this reason that this person couldn't put any other memories inside me?%NIt might be that I'm only able to know what this person knows, and if this person doesn't know something, neither can I.%NMy memory and this person's memory are the same.%N......was what I thought.
 ;79b4;2;今
@@ -7679,7 +7679,7 @@ Rexenin
 ;7a3c;280;ベンゾジアゼピン系抗不安剤。%NＢＺＤ受容体、共合するＧＡＢＡ－Ａ受容体に結合し、%N抑制系の神経を刺激してリラックス状態にする。%N効果は主に抗不安作用、鎮静催眠作用、%N筋緊張緩和作用、抗痙攣作用などがある。%N抗不安（静穏）作用は強力で、%N平均的抗不安剤の約５倍程度といわれている。%N
 Benzodiazepine, an anti-anxiety agent.%NBinds to BZD receptors, as well as GABA-A receptors, suppresses nerve stimulation and puts the body in a relaxed state.%NResults in anxiolytic (anti-anxiety), sedative-hypnotic (sleep-inducing), muscle relaxant and anticonvulsant action.%NIts anxiolytic (tranquilizer) effect is so powerful, it is said that it is five times more potent than average anti-anxiety drugs.%N
 ;7a40;192;服用後最高血中濃度は１時間後。%N作用発現速度はやや速め。%N血中半減期は６～２０時間、%N作用時間は短～中間型に分類される。%N服用後の眠気がマイナートランキライザーとしては%N弱いので重宝される。%N
-After taking the drug, the highest concentration in the bloodstream will be achieved after an hour.%NThe manifestation of its effects is somewhat sped up.%NIts half life within the bloodstream is 6～20 hours.%NThe drug is classified as having short to medium-term effects.%NIt is a very useful drug, because its drowsiness side effect for a minor tranquilizer is relatively weak.
+After taking the drug, the highest concentration in the bloodstream will be achieved after an hour.%NThe manifestation of its effects is somewhat sped up.%NIts half life within the bloodstream is 6〜20 hours.%NThe drug is classified as having short to medium-term effects.%NIt is a very useful drug, because its drowsiness side effect for a minor tranquilizer is relatively weak.
 ;7a4c;14;スコア：０－０
 Score:0-0
 ;7a50;82;左は『穂鳥・内海チーム』の点数を、%N右は『オレ・ゆにチーム』の点数を表している。%N
@@ -7875,7 +7875,7 @@ Infinity
 ;7cbc;230;２⑳：⑳インフィニティ・シリーズ%N%N2000.3.23　infinity%N2000.11.23　infinity～Cure～%N2000.12.21　Never7-the⑳end⑳of⑳infinity-%N2002.8.29　Ever17-the⑳out⑳of⑳infinity-%N2004.3.18　Remember11-the⑳age⑳of⑳infinity-%N．．．and
 2. Infinity Series%N
 ;7cc0;34;“infinity”シリーズは永遠に続く。
-2000．3．23　infinity%N2000．11．23　infinity ～Cure～%N2000．12．21　Never7 -the end of infinity-%N2002．8．29　Ever17 -the out of infinity-%N2004．3．18　　Remember11 -the age of infinity-%N... and%N%Nthe "infinity" series will go on forever.%N
+2000．3．23　infinity%N2000．11．23　infinity 〜Cure〜%N2000．12．21　Never7 -the end of infinity-%N2002．8．29　Ever17 -the out of infinity-%N2004．3．18　　Remember11 -the age of infinity-%N... and%N%Nthe "infinity" series will go on forever.%N
 ;7ccc;4;邂逅
 Chance Meeting
 ;7cd0;322;『邂逅』とは、思いがけず出逢うこと、%Nめぐり逢うことの意である。%N余談だが、このとき内海が何を思ったのかは%N想像を絶するものがある。%Nなにしろ、１年前に死んだはずの夫が、%N突然目の前に現れたのだから。%Nしかも、あたりは苛烈な雪地獄……。%N少なくともこのときはまだ、%Nここが天国だなどという発想は%N抱きもしなかっただろう。%N
@@ -8101,9 +8101,9 @@ The Meanings Behind the Scene Titles
 ;7f28;338;【アニマの中のアニムス】%N優希堂悟の中の冬川こころの意識。%N冬川こころの中の優希堂悟の事とも捉えられる。%N%N【変わろうとする欲求】%N人間には『現状を保持しよう』とする意識と%N『バランスを崩そう（変化させよう）』とする意識が%N存在し、均衡が保たれている。%N墜落現場に行こうとする欲求は遭難という現状を打破しようとする意識の為すものである。%N
 【The Animus Within the Anima】%NThe consciousness of Fuyukawa Kokoro within Yukidoh Satoru;%Ncan also be understood as the Yukidoh Satoru within Fuyukawa Kokoro.%N%N【A Taste of the Primordial Sea】%N"Primordial sea" is a metaphor for the amniotic fluid in the mother's body which surrounds and cushions the fetus, softening the shocks from outside.%N
 ;7f2c;284;【わたしはここにいるよ】%N遭難した自分達の状況を何処かに知らせたい%Nという心情。心理学的側面から見れば、%N自己の存在を他者に表現する意味でもある。%N%N【初原の海の味】%N“初原の海”とは母体内にいる胎児などが%N圧迫されるのを防ぎ、外界から加わった衝撃を%Nやわらげる羊膜液（羊水）の例え。
-【I'm Here】%NThe desire of those caught in the accident to make their situation known elsewhere. From a psychology perspective, it can also refer to expressing one's existence to others.%N%N【The Desire to Change】%NOne characteristic of the human psyche is the presence of two opposing wills, the "will to preserve the status quo" and the "will to break the balance (bring changes)," which maintain an equilibrium.%N
+【I'm Here】%NThe desire of those caught in the accident to make their situation known elsewhere. From a psychology perspective, it can also refer to expressing one's existence to others.%N【The Desire to Change】%NOne characteristic of the human psyche is the presence of two opposing wills, the "will to preserve the status quo" and the "will to break the balance (bring changes)," which maintain an equilibrium.%N
 ;7f30;156;【鎖状の螺旋】%N絡み合うふたつの場所とふたつの意識を%N「鎖」と「螺」に置き換えている。%N生物の情報を伝える遺伝子の塩基配列も%N「鎖」状であり「螺」状である。
-The desire to visit the crash site arises from the latter of the two wills, which strives to break down the present situation of being stranded at the crash site.%N%N【Chainlike Spiral】%NTwo different places and consciousnesses, intertwined and switching places with each other in "chain"- and "spiral" patterns.%NThe helical base sequence of DNA, which holds all the information about a living being, also takes the form of a chain-like spiral.%N
+The desire to visit the crash site arises from the latter of the two wills, which strives to break down the present situation of being stranded at the crash site.%N【Chainlike Spiral】%NTwo different places and consciousnesses, intertwined and switching places with each other in "chain"- and "spiral" patterns.%NThe helical base sequence of DNA, which holds all the information about a living being, also takes the form of a chain-like spiral.%N
 ;7f34;182;【怯える存在、怯えられる存在】%Nこころ（悟の肉体）は誰かに狙われている？%Nゆにはこころ（悟の肉体）に狙われている？%N果たして何が真実なのだろうか？%N――誰もが疑心暗鬼に陥ってゆく。%N
 【The One That Frightens, the One That is Frightened】%N(Alt. Title: Frightens and is Frightened) %NIs someone after Kokoro(in Satoru's body)'s life?%NIs Kokoro (in Satoru's body) after Yuni's life?%NJust what is the truth?%NEveryone just keep falling further and further into paranoid thoughts.%N%N
 ;7f38;206;【祝福に迎えられながら】%Nキリスト教では死を「肉体」と「精神」とが%N分離する時としている。%N死を迎えたとき、疲れ果てた%N「肉体」には休息が与えられ、%N「精神（魂）」は聖化され、天国の祝福を受ける%Nと言う。%N
@@ -8115,9 +8115,9 @@ Also referred to as "Peter Pan Syndrome," this refers to the mind of a person wh
 ;7f44;282;【新世界に神は降り立つ】%N時空間転移によって生み出された“世界”は%Nまるで“神”が創造したような%N“新しい世界”である。%N%N【籠の中の．．．】%Nかごめうたの中では『篭目』……六芒星%Nテレシコワの言葉は『カモメ』……鴎%Nこころは『籠女』……？？？%N……うしろのしょーめん、だぁーれ？%N
 "Return" means both the escape from the mountains and the return of souls to their respective origins.%N%N【God Descends to the New World】%NThe "world" brought forth by space-time transfer can quite be said to resemble a "new world" of "God's" creation.%N%N
 ;7f48;304;【Ｐｒｅｎａｔａｌ】%N「（胎児などが）生まれる前」の状態。%N母体の中という意味に加え、転移の発生も含む。%N%N【Ｐｏｌｙｈｅｄｒｏｎ】%N数学用語で「多面体」の意味。%N４つ以上の多角形より成る面で囲まれた立体。%N多くの四角形で構成された%Nスフィアを示すものだが、%N同時にスフィアの同居人達の事を指している。%N
-【Within the Cage...】%NIn the Kagome song lyrics, there is kagome (篭目)... the hexagram;%Nin Tereshkova's words, there is kamome (カモメ)... the seagull.%NIn Kokoro's case, it's kagome (籠女)... the sealed girl...???%N%N...Who's that behi―ind you?%N%N【Ｐｒｅｎａｔａｌ】%NMeans "being or happening before birth (of a fetus, etc)."%NIn addition to referring to the bosom of a mother, it also alludes to the occurrence of the transfers.%N%N
+【Within the Cage...】%NIn the Kagome song lyrics, there is kagome (篭目)... the hexagram;%Nin Tereshkova's words, there is kamome (カモメ)... the seagull.%NIn Kokoro's case, it's kagome (籠女)... the sealed girl...???%N...Who's that behi―ind you?%N【Ｐｒｅｎａｔａｌ】%NMeans "being or happening before birth."%NIn addition to referring to the bosom of a mother, it also alludes to the occurrence of the transfers.%N%N
 ;7f4c;182;【Ｃｒｕｃｉｆｙ’ｓ⑳Ｒａｔ】%N訳すと「磔られた（苦しめられる）ネズミ」。%NＭＡＯ阻害剤を体内に吸収し、%N瀕死状態に陥ったネズミを%N十字架に磔られたキリストに準えて表現したもの。%N%N
-【Ｐｏｌｙｈｅｄｒｏｎ】%NA mathematical term, it refers to a three-dimensional object bounded by four or more faces. This mainly refers to the SPHIA which is constructed of many quadrilaterals, but at the same time it also points to the inmates of SPHIA.%N%N【Ｃｒｕｃｉｆｙ'ｓ　Ｒａｔ】%NLikens what the rat felt in its near-death state due to ingesting the MAO inhibitor to the image of the crucified Christ.%N%N
+【Ｐｏｌｙｈｅｄｒｏｎ】%NA mathematical term, it refers to a three-dimensional object bounded by four or more faces. This mainly refers to the SPHIA which is constructed of many quadrilaterals, but at the same time it also points to the inmates of SPHIA.%N【Ｃｒｕｃｉｆｙ'ｓ　Ｒａｔ】%NLikens what the rat felt in its near-death state due to ingesting the MAO inhibitor to the image of the crucified Christ.%N
 ;7f50;210;【Ｉｓｏｍｏｒｐｈｉｓｍ】%N生物学用語で「同系物質」の意味。%N２０１２年に現れた山小屋、%N２０１１年に現れたスフィア。%N優希堂悟の中の冬川こころ、%N冬川こころの中の優希堂悟。%Nこれらの例えとして用いている。%N%N
 【Ｉｓｏｍｏｒｐｈｉｓｍ】%NA term from biology, it means a similarity of form or structure.%NThe mountain cabin that appeared in 2012.%NThe SPHIA that appeared in 2011.%NThe Fuyukawa Kokoro within Yukidoh Satoru.%NThe Yukidoh Satoru within Fuyukawa Kokoro.%NIt is used as a metaphor for these.%N%N
 ;7f54;206;【Ｎｕｃｌｅｏｔｉｄｅ】%Nヌクレオチド。%Nヌクレオシドの糖の水酸基にリン酸が%Nエステル結合したもの。%N核酸の構成単位。%N今回の時空間転移の謎はヌクレオチドの様に%N複雑に、そして鎖状に謎と謎が絡み合ってゆく。
@@ -8125,17 +8125,17 @@ Also referred to as "Peter Pan Syndrome," this refers to the mind of a person wh
 ;7f58;222;【Ｉｎｓｅｒｔｉｏｎ】%N「挿入」するという意味。%N犬伏は悟に口移しでアメを挿入させた。%N時空間転移によりこころの意識は悟に、%N悟の意識はこころに挿入される。%N生物化学上ではＤＮＡ配列の中に他のＤＮＡが%N混入することを表す。
 【Ｉｎｓｅｒｔｉｏｎ】%NInubushi orally inserted a candy into Satoru's mouth with her own.%NKokoro's mind is inserted into Satoru's body and vice versa due to the space-time transfer phenomenon.%NIn biochemistry, insertion is the addition of foreign DNA into the existing DNA sequence.%N
 ;7f5c;196;【Ｍｉｒａｃｌｅ⑳Ｃｈｉｌｄ】%Nミラクル・チャイルド。%Nユングの唱える「元型」の１つ。始源児。%N%N【Ｈｅｋａｔｅ】%Nヘカーテ。ギリシャ神話に登場する神の１人。%N死と氷の女神。月の女神とも言われる。
-【Ｍｉｒａｃｌｅ　Ｃｈｉｌｄ】%NOne of the Jungian archetypes;%Nalso "Primordial Child."%N%N【Ｈｅｋａｔｅ】%NA deity from the Greek pantheon.%NThe goddess of death and water. Also said to be the goddess of the moon.%N%N
+【Ｍｉｒａｃｌｅ　Ｃｈｉｌｄ】%NOne of the Jungian archetypes;%Nalso "Primordial Child."%N【Ｈｅｋａｔｅ】%NA deity from the Greek pantheon.%NThe goddess of death and water. Also said to be the goddess of the moon.%N【Ｔｈｅ　Ｔｈｉｒｄ　Ａｒｅａ】%N"The third area"― That would be "Hotarubi Mine."%N"The third personality"― That would be...?%N
 ;7f60;114;【Ｔｈｅ⑳Ｔｈｉｒｄ⑳Ａｒｅａ】%N“３つめの場所”　――それは『穂樽日鉱山』。%N“３つめの人格”　――それは……？
-【Ｔｈｅ　Ｔｈｉｒｄ　Ａｒｅａ】%N"The third area"― That would be "Hotarubi Mine."%N"The third personality"― That would be...?%N
-;7f64;234;【Ａｐｏｐｔｏｓｉｓ】%N細胞が自己の持つプログラムによって、%N計画的に脱落死する現象の事。%N榎本と名乗る人物はある計画が失敗した為に%N不純物である優希堂悟を殺害した。%Nまるでアポトーシスの様に優希堂悟という存在は%N世界から消滅した。%N
 【Ａｐｏｐｔｏｓｉｓ】%NApoptosis is the phenomenon of the controlled death of a cell, mediated by an intracellular program.%NAs a result of a certain plan failing, the person who calls himself Enomoto, regarding Yukidoh Satoru as an impure foreign body, killed him.%NThe entity called Yukidoh Satoru vanished from the world, as if through apoptosis.%N%N
+;7f64;234;【Ａｐｏｐｔｏｓｉｓ】%N細胞が自己の持つプログラムによって、%N計画的に脱落死する現象の事。%N榎本と名乗る人物はある計画が失敗した為に%N不純物である優希堂悟を殺害した。%Nまるでアポトーシスの様に優希堂悟という存在は%N世界から消滅した。%N
+【Ａｍｂｉｖａｌｅｎｃｅ】%NA psychology term; ambivalence is a state of having simultaneous, conflicting feelings, like love and hate, toward the same object.%NThe feelings of others toward the Kokoro in Satoru's body.%NThe feelings of others toward the Satoru in Kokoro's body.%N
 ;7f68;340;【Ａｍｂｉｖａｌｅｎｃｅ】%Nアンビバレンス。心理学用語。同一の対象に対し、%N愛と憎しみのような相反する感情や態度が%N同時に存在すること。両価性。両面価値。%N悟肉体のこころへ抱く他者の感情。%Nこころ肉体の悟へ抱く他者の感情。%Nこころや悟が抱く自己への感情、%Nこころが抱く悟への感情、%N悟が抱くこころへの感情、%Nそれらがやがて全て１つになる。%N
-【Ａｍｂｉｖａｌｅｎｃｅ】%NA psychology term; ambivalence is a state of having simultaneous, conflicting feelings, like love and hate, toward the same object.%NThe feelings of others toward the Kokoro in Satoru's body.%NThe feelings of others toward the Satoru in Kokoro's body.%NThe feelings of Kokoro and Satoru toward themselves,%Nthe feelings of Kokoro toward Satoru,%Nthe feelings of Satoru toward Kokoro,%Nbefore long, all of these become one.%N
+The feelings of Kokoro and Satoru toward themselves,%Nthe feelings of Kokoro toward Satoru,%Nthe feelings of Satoru toward Kokoro,%Nbefore long, all of these become one.%N
 ;7f6c;288;【Ｉｄｅｎｔｉｆｉｃａｔｉｏｎ】%Nアイデンティフィケーション。%N同一性の確認。一体化、同一化。%N自分の肉体と魂を同一化させることが出来た%Nこころと悟。%N改めてパートナーを自己の眼で見ることで%Nお互いを一体化させることが出来るようになった。%N……それは『愛情』というものなのかも知れない。%N
 【Ｉｄｅｎｔｉｆｉｃａｔｉｏｎ】%NConfirmation of sameness; unification, assimilation.%NKokoro and Satoru, who were able to assimilate their bodies and souls.%NBy properly seeing their partner with their own eyes, they became able to unite their respective existences.%N...Perhaps this is what is called "love."%N%N
 ;7f70;330;【Ｄｅｌｔａ】%Nδ。ギリシャ語アルファベットの第４文字。%N数あるいは関数の変量を表す記号。%Nαとωで始まった物語はδで終劇を迎える。%Nまるで三角形の頂点同士が交わる様に。%N%N【Ｗｈｅｒｅ⑳Ｉｓ⑳“Ｓｅｌｆ”？】%N直訳すると「セルフはどこ？」。本編中に幾度となく%N出て来るこの言葉の意味するものは？%N“セルフ（自己）”の存在とは？%N
-【Ｄｅｌｔａ】%Nδ; the fourth letter of the Greek alphabet.%NRepresents a change in the value of a variable or a function.%NThe story that begins with α and ω would conclude at δ, just like the vertices of a triangular polygon would intersect.%N%N【Ｗｈｅｒｅ　Ｉｓ　“Ｓｅｌｆ”？】%NThe words that come up many times within the story;%Njust what might they refer to?%NWhat exactly is "Self"?
+【Ｄｅｌｔａ】%Nδ; the fourth letter of the Greek alphabet.%NRepresents a change in the value of a variable or a function.%NThe story that begins with α and ω would conclude at δ, just like the vertices of a triangular polygon would intersect.%N【Ｗｈｅｒｅ　Ｉｓ　“Ｓｅｌｆ”？】%NThe words that come up many times within the story;%Njust what might they refer to? What exactly is "Self"?
 ;871c;14;避難小屋・外観
 
 ;8720;14;避難小屋・外観

@@ -244,7 +244,6 @@ body which surrounds and cushions the fetus, softening the shocks from outside.%
 The desire of those caught in the accident to make their situation
 known elsewhere. From a psychology perspective, it can also refer
 to expressing one's existence to others.%N
-%N
 【The Desire to Change】%N
 One characteristic of the human psyche is the presence of two
 opposing wills, the "will to preserve the status quo" and the "will
@@ -254,7 +253,6 @@ to break the balance (bring changes)," which maintain an equilibrium.%N
 The desire to visit the crash site arises from the latter of the two
 wills, which strives to break down the present situation of being
 stranded at the crash site.%N
-%N
 【Chainlike Spiral】%N
 Two different places and consciousnesses, intertwined and switching
 places with each other in "chain"- and "spiral" patterns.%N
@@ -314,25 +312,22 @@ to resemble a "new world" of "God's" creation.%N
 In the Kagome song lyrics, there is kagome (篭目)... the hexagram;%N
 in Tereshkova's words, there is kamome (カモメ)... the seagull.%N
 In Kokoro's case, it's kagome (籠女)... the sealed girl...???%N
-%N
 ...Who's that behi――ind you?%N
-%N
 【Ｐｒｅｎａｔａｌ】%N
-Means "being or happening before birth (of a fetus, etc)."%N
+Means "being or happening before birth."%N
 In addition to referring to the bosom of a mother, it also alludes to the occurrence of the transfers.%N
 %N
 
 #EN#12
 【Ｐｏｌｙｈｅｄｒｏｎ】%N
-A mathematical term, it refers to a three-dimensional object
-bounded by four or more faces. This mainly refers to the SPHIA
-which is constructed of many quadrilaterals, but at the same
-time it also points to the inmates of SPHIA.%N
-%N
+A mathematical term, it refers to a three-dimensional
+object bounded by four or more faces. This mainly
+refers to the SPHIA which is constructed of many
+quadrilaterals, but at the same time it also points to the
+inmates of SPHIA.%N
 【Ｃｒｕｃｉｆｙ'ｓ　Ｒａｔ】%N
 Likens what the rat felt in its near-death state due to
 ingesting the MAO inhibitor to the image of the crucified Christ.%N
-%N
 
 #EN#13
 【Ｉｓｏｍｏｒｐｈｉｓｍ】%N
@@ -360,29 +355,27 @@ In biochemistry, insertion is the addition of foreign DNA into the existing DNA 
 【Ｍｉｒａｃｌｅ　Ｃｈｉｌｄ】%N
 One of the Jungian archetypes;%N
 also "Primordial Child."%N
-%N
 【Ｈｅｋａｔｅ】%N
 A deity from the Greek pantheon.%N
 The goddess of death and water. Also said to be the goddess of the moon.%N
-%N
-
-#EN#17
 【Ｔｈｅ　Ｔｈｉｒｄ　Ａｒｅａ】%N
 "The third area"—— That would be "Hotarubi Mine."%N
 "The third personality"—— That would be...?%N
 
-#EN#18
+#EN#17
 【Ａｐｏｐｔｏｓｉｓ】%N
 Apoptosis is the phenomenon of the controlled death of a cell, mediated by an intracellular program.%N
 As a result of a certain plan failing, the person who calls himself Enomoto, regarding Yukidoh Satoru as an impure foreign body, killed him.%N
 The entity called Yukidoh Satoru vanished from the world, as if through apoptosis.%N
 %N
 
-#EN#19
+#EN#18
 【Ａｍｂｉｖａｌｅｎｃｅ】%N
 A psychology term; ambivalence is a state of having simultaneous, conflicting feelings, like love and hate, toward the same object.%N
 The feelings of others toward the Kokoro in Satoru's body.%N
 The feelings of others toward the Satoru in Kokoro's body.%N
+
+#EN#19
 The feelings of Kokoro and Satoru toward themselves,%N
 the feelings of Kokoro toward Satoru,%N
 the feelings of Satoru toward Kokoro,%N
@@ -401,11 +394,9 @@ By properly seeing their partner with their own eyes, they became able to unite 
 δ; the fourth letter of the Greek alphabet.%N
 Represents a change in the value of a variable or a function.%N
 The story that begins with α and ω would conclude at δ, just like the vertices of a triangular polygon would intersect.%N
-%N
 【Ｗｈｅｒｅ　Ｉｓ　“Ｓｅｌｆ”？】%N
 The words that come up many times within the story;%N
-just what might they refer to?%N
-What exactly is "Self"?
+just what might they refer to? What exactly is "Self"?
 
 #CN#1
 【即是α也是ω】%N

@@ -45,8 +45,9 @@ def clean_translation_enc_issues(line: str) -> str:
   line = re.sub("\u2014", "\u2015", line) # likewise for em dash '—'
   line = re.sub("\u2013", "\u2015", line) # en dash '–' -> em dash '—'
   # fullwidth minus '－' -> em dash '—'
-  # In JP and EN translation pulled from tlwiki it was used to blank out time, i.e. "午後－－時－－分：スフィアに戻る" "－:－－PM: returned to SPHIA", but now the text is cleaned up to use em dash.
-  # Still incorrectly used in init.bin text
+  # In JP and EN translation pulled from tlwiki it was used to blank out time, i.e. "午後－－時－－分：スフィアに戻る" "－:－－PM: returned to SPHIA",
+  # but now the main text is cleaned up to use em dash in JP and regular dash in EN.
+  # It is still incorrectly used in init.bin JP text and some CN tips
   line = re.sub("\uff0d", "\u2015", line)
   return line
 

@@ -8,6 +8,7 @@ import re
 from os import listdir
 from os import path
 from collections import namedtuple
+from typing import List
 
 import r11
 
@@ -46,10 +47,6 @@ Tip = namedtuple("Tip", [
 #   str = str.replace("''I''", "%CFF8FI%CFFFF") # Yellow-colored I
 #   return str
 
-def readlines_utf8_crop_crlf(filepath):
-  with open(filepath, "r", encoding="utf-8-sig") as f:
-    return [l.rstrip('\r\n') for l in f.readlines()]
-
 def _append_paragraph(tip_paragraph: str, lang: str, paragraph_id: int, tip: Tip):
   if "%P" in tip_paragraph:
     raise Exception("Tips can't contain a %P sequence")
@@ -65,19 +62,19 @@ def _append_paragraph(tip_paragraph: str, lang: str, paragraph_id: int, tip: Tip
   else:
     raise Exception("unknown lang %s"%(lang))
 
-def read_tips():
+def read_tips() -> List[Tip]:
   tipfiles = listdir(tips_folderpath)
   tipfiles.sort()
   
   # this file contains tips in the same order as in init.bin
-  orderjp = readlines_utf8_crop_crlf(tips_order)
+  orderjp = r11.readlines_utf8_crop_crlf(tips_order)
 
   # read all tip files
   if debug: print("Reading TIP files")
   tips = []
   for i, t in enumerate(tipfiles):
     # if debug: print("Reading", t)
-    lines = readlines_utf8_crop_crlf(tips_folderpath + t)
+    lines = r11.readlines_utf8_crop_crlf(tips_folderpath + t)
     
     # The second line in every tip file indicates the jp tip title. Finding its init.bin order.
     tip_jp_title = lines[1]
@@ -150,24 +147,25 @@ def read_tips():
 
     tips.append(tip)
 
-  # should already be sorted because tips are now using psp indexes in filenames. Will leave this just in case.
+  # should already be sorted because tips are now using psp indexes in filenames. Leaving this here just in case.
   tips = sorted(tips, key=lambda tip: tip.i_psp)
   return tips
 
 def main():
-  # lang_to_merge = "en"
-  # mergewith = path.dirname(__file__) + "/../text/other-psp/init.bin.utf8.txt"
-  # saveas = path.dirname(__file__) + "/../text/other-psp/init.bin.utf8.merged.txt"
-  # Hardcode. Change this if required
-  # start should point to ";7610;12;ソシオロジィ" line number, starting from 0 (-1 from the line that your editor shows)
-  # tips_start = 7372 # starting from 0 (-1 from the line that your editor shows)
-  # tips_end = tips_start + 766 # lower boundary line for the tips cursor, exclusive. Also 0-based.
+  lang_to_merge = "en"
+  mergewith = path.dirname(__file__) + "/../text/other-psp-en/init.bin.utf8.txt"
+  saveas = path.dirname(__file__) + "/../text/other-psp-en/init.bin.utf8.txt"
+  # Hardcode. Change this if required.
+  # tips_start should point to ";7610;12;ソシオロジィ" line number, starting from 0 (-1 from the line that your editor shows)
+  tips_start = 7372
 
   # CN
-  lang_to_merge = "cn"
-  mergewith = path.dirname(__file__) + "/../text/other-psp-cn/init.bin.utf8.txt" #CN
-  saveas = path.dirname(__file__) + "/../text/other-psp-cn/init.bin.utf8.txt"
-  tips_start = 7090
+  # lang_to_merge = "cn"
+  # mergewith = path.dirname(__file__) + "/../text/other-psp-cn/init.bin.utf8.txt" #CN
+  # saveas = path.dirname(__file__) + "/../text/other-psp-cn/init.bin.utf8.txt"
+  # tips_start = 7090
+
+
   tips_end = tips_start + 766 # lower boundary line for the tips cursor, exclusive. Also 0-based.
   
   tips = read_tips()
