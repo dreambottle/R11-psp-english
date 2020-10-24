@@ -14,7 +14,15 @@ pc_index:TIP_002
 
 #PARAGRAPHS_TRANSLATED:
 #EN#1
-Madness, foolish actions, mental illness.
+Madness, foolish actions, mental illness.%N
+————————————————————%N
+PSP port brought to you by dreambottle.%N
+Original translation by TLWiki team.%N
+%N
+Insanity is doing the same thing over and over again and expecting different results.%N
+%N
+This⑳story⑳has⑳not⑳finished⑳yet.%N
+―⑳It⑳is⑳an⑳infinity⑳loop!%N
 
 #CN#1
 疯狂、愚行、精神障碍。%N

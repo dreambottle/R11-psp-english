@@ -8,14 +8,13 @@ import re
 from os import listdir
 from os import path
 from collections import namedtuple
-from collections import deque
 
 import r11
 
 debug = True
 
 tips_folderpath = path.dirname(__file__) + "/../text/tips-psp/"
-tips_order = path.dirname(__file__) + "/../text/other-psp/tips.order.psp.txt"
+tips_order = path.dirname(__file__) + "/../text/other-psp-en/tips.order.psp.txt"
 # saveas = "tips.init.psp.txt"
 
 # Was used to convert old format of TIPS to a new one.
@@ -156,18 +155,19 @@ def read_tips():
   return tips
 
 def main():
-  # lang_to_merge = "EN"
+  # lang_to_merge = "en"
   # mergewith = path.dirname(__file__) + "/../text/other-psp/init.bin.utf8.txt"
   # saveas = path.dirname(__file__) + "/../text/other-psp/init.bin.utf8.merged.txt"
   # Hardcode. Change this if required
+  # start should point to ";7610;12;ソシオロジィ" line number, starting from 0 (-1 from the line that your editor shows)
   # tips_start = 7372 # starting from 0 (-1 from the line that your editor shows)
   # tips_end = tips_start + 766 # lower boundary line for the tips cursor, exclusive. Also 0-based.
 
   # CN
-  lang_to_merge = "CN"
-  mergewith = path.dirname(__file__) + "/../text/other-psp-cn/init.bin.full.utf8.txt" #CN
-  saveas = path.dirname(__file__) + "/../text/other-psp-cn/init.bin.full.utf8.txt"
-  tips_start = 7092
+  lang_to_merge = "cn"
+  mergewith = path.dirname(__file__) + "/../text/other-psp-cn/init.bin.utf8.txt" #CN
+  saveas = path.dirname(__file__) + "/../text/other-psp-cn/init.bin.utf8.txt"
+  tips_start = 7090
   tips_end = tips_start + 766 # lower boundary line for the tips cursor, exclusive. Also 0-based.
   
   tips = read_tips()
@@ -199,7 +199,7 @@ def main():
 
     if debug: print("Merging %03d"%(tip.i_psp), "(pc:%03d)"%(tip.i_pc), tip.entitle, tip.jptitle)
 
-    title = tip.cntitle if lang_to_merge == "CN" else tip.entitle
+    title = tip.cntitle if lang_to_merge == "cn" else tip.entitle
     tips_inittxt_lines[cur + 1] = title + "\n"
 
     jp_title_split = tips_inittxt_lines[cur].rstrip().split(";", 3)
@@ -215,7 +215,7 @@ def main():
 
     # move cursor to first paragraph
     cur += 2
-    paragraphs = tip.cnparagraphs if lang_to_merge == "CN" else tip.enparagraphs
+    paragraphs = tip.cnparagraphs if lang_to_merge == "cn" else tip.enparagraphs
     for p_i, paragraph in enumerate(paragraphs):
       tips_inittxt_lines[cur + 1] = paragraph + "\n"
       jp_line_split = tips_inittxt_lines[cur].rstrip().split(";", 3)

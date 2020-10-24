@@ -7177,7 +7177,7 @@ Global Position System%N使用人工卫星在三维空间中确认收信者%N（
 ;772c;8;ブラウザ
 浏览器
 ;7730;68;インターネット上のホームページの情報を%N表示するための閲覧ソフト。%N
-SPHIA浏览器的首页被病毒劫持了，其内容如下：%N本汉化移植由 请在此输入汉化组名称 出品%N策划：FreeY0urMind64、Battlejuice（爱沙尼亚）%N翻译：KIDS Fans Channel、Saya、%NFreeY0urMind64%N文本移植：FreeY0urMind64、荒年、Flyia、未末、%NParkerdk、Nejoe、零之镇魂曲、枫瑟寥寥、阳澔%N程序：Battlejuice（爱沙尼亚）、Flyia%N美工：Flyia、FreeY0urMind64%N献给曾为infinity系列感动、奉献的每一位玩家%N
+SPHIA浏览器的首页被病毒劫持了，其内容如下：%N本汉化移植由 请在此输入汉化组名称 出品%N策划：FreeY0urMind64、dreambottle（爱沙尼亚）%N翻译：KIDS Fans Channel、Saya、%NFreeY0urMind64%N文本移植：FreeY0urMind64、荒年、Flyia、未末、%NParkerdk、Nejoe、零之镇魂曲、枫瑟寥寥、阳澔%N程序：dreambottle（爱沙尼亚）、Flyia%N美工：Flyia、FreeY0urMind64%N献给曾为infinity系列感动、奉献的每一位玩家%N
 ;773c;14;主人格・副人格
 主人格·副人格
 ;7740;214;いわゆる多重人格において、最も長い間、%N身体を支配している人格を主人格と呼ぶ%N（出生して最初に持つ人格＝オリジナル人格が%N⑳主人格となることが多い）。%N主人格とは別に、身体を短期間支配する人格を、%N副人格と呼ぶ。%N

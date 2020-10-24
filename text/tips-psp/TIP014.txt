@@ -19,3 +19,11 @@ A software application that retrieves, traverses and displays the information re
 #CN#1
 SPHIA浏览器的首页被病毒劫持了，其内容如下：%N
 本汉化移植由 请在此输入汉化组名称 出品%N
+策划：FreeY0urMind64、dreambottle（爱沙尼亚）%N
+翻译：KIDS Fans Channel、Saya、%N
+FreeY0urMind64%N
+文本移植：FreeY0urMind64、荒年、Flyia、未末、%N
+Parkerdk、Nejoe、零之镇魂曲、枫瑟寥寥、阳澔%N
+程序：dreambottle（爱沙尼亚）、Flyia%N
+美工：Flyia、FreeY0urMind64%N
+献给曾为infinity系列感动、奉献的每一位玩家%N
