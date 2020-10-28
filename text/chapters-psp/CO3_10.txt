@@ -1,4 +1,4 @@
-
+﻿
 ふと気づくと、ベッドに仰向けに横たわっていた。%K%P
 I suddenly found myself lying face up in bed.
 回过神来，我正仰面躺在床上。
@@ -347,7 +347,7 @@ Ufufu, right?
 
 内海は本当に幸せそうに写真を眺めた。%K%P
 Appearing truly happy, Utsumi gazed at the photograph.
-内海很幸福地看着照片
+内海很幸福地看着照片。
 
 内海「いいでちゅかー、お兄ちゃんに、おめでとうって言いましょうねー」%K%P
 Awwite? Tell bwig bwother congratulations, okay?
@@ -575,7 +575,7 @@ Ufufu, right?
 
 内海は本当に幸せそうに写真を眺めた。%K%P
 Appearing truly happy, Utsumi gazed at the photograph.
-内海很幸福地看着照片
+内海很幸福地看着照片。
 
 内海「いいでちゅかー、お兄ちゃんに、おめでとうって言いましょうねー」%K%P
 Awwite? Tell bwig bwother congratulations, okay?

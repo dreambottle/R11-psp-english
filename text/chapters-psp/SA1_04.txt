@@ -1,4 +1,4 @@
-
+﻿
 暗がりの中で目覚めた。%K%P
 I woke up shrouded in darkness.
 我从黑暗中恢复了意识。
@@ -506,7 +506,7 @@ Yuni just said "a woman named Kali."
 
 『っていう人』……この表現は、発話者が、直前にかかる人物と出逢ってまだ間もないか、%K%P
 "A woman named..." ...this expression shows that the speaker has only recently met the person,
-“叫做某某的人”……这个表现，或是表示发言者和所说的人物见面还没有多长时间
+“叫做某某的人”……这个表现，或是表示发言者和所说的人物见面还没有多长时间。
 
 あるいは伝聞による不確かな情報であるがために人物の特定に一抹の懐疑を抱いているか、いずれかを示している。%K%P
 or possibly holds a tinge of doubt about a particular person as a result of unverified information from a report. One of the two.

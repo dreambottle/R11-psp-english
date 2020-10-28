@@ -1,4 +1,4 @@
-
+﻿
 あまりの寒さで目が覚めた。%K%P
 The frigid air woke me.
 我被极度的寒冷冻醒。
@@ -688,7 +688,7 @@ That kindness gave me courage and hope.
 
 こんな小さな子どもの中に宿る、%K%P
 Dwelling within this small child,
-这幼小孩子身上的
+这幼小孩子身上的，
 
 輝くような純粋さに、私は救われた。%K%P
 was a glittering purity that had saved me.

@@ -1268,7 +1268,7 @@ Thanks to that, I now know that the transfer times I recorded and yours are more
 
 一応、オレの方の転移時刻をまとめておくと、こういうことになる。%K%P
 Tentatively, the transfer times that I've checked go something like this.
-现在也把我这边的转移时间整理一下：
+现在，也把我这边的转移时间整理一下：
 
 『午後０１時０７分：避難小屋に転移、%N午後０１時４０分：スフィアに戻る』%K%N
 "1:07 PM: transfer to shelter cabin, 1:40 PM: return to SPHIA."

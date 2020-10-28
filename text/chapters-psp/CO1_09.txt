@@ -695,7 +695,7 @@ The mountain cabin is right over there! Hurry up!
 
 僕は再び黛を背負った。%K%P
 I once again lifted Mayuzumi onto my shoulders.
-我再次背起黛
+我再次背起黛。
 
 前を往く少年に従い、導かれるがままに歩き続けた。%K%P
 With the boy in front of me as a guide, I started walking forward.
@@ -1099,7 +1099,7 @@ Holding Yuni's glasses in my hand, I wander aimlessly around the cabin.
 
 歩きまわっていたのは、込み上げて来る衝動のはけぐちを探していたからだ。%K%P
 The emotions welling up inside me, seeking an outlet, are driving me to walk around in circles.
-因为我在寻找那涌上心头的冲动的发泄口
+因为我在寻找，那涌上心头的冲动的发泄口。
 
 この燃えるような感謝の気持ちを、どうにかして誰かに伝えたい。%K%P
 This is a passionate feeling of gratitude, and I need to convey it to someone, somehow.

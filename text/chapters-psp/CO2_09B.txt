@@ -1,4 +1,4 @@
-
+﻿
 地下室はひんやりとしていた。%K%P
 The basement felt pleasantly cool.
 地下室里阴森森的。
@@ -778,7 +778,7 @@ I took another stab at it.
 
 こころ「ああん、うまく書けないよぅ～」%K%P
 Aaggh, I can't wriiite～
-心「啊，写不好啊」
+心「啊，写不好啊～」
 
 泣きたくなった。%K%P
 I felt like crying.

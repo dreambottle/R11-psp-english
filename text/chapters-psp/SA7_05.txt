@@ -1,4 +1,4 @@
-
+﻿
 この構造物が避難小屋ではないことは、考えるまでもなくわかった。%K%P
 Obviously, this building isn't the shelter cabin.
 这个建筑物不是避难小屋，不用考虑也知道。
@@ -25,7 +25,7 @@ But if that's the case, then where am I...?
 
 言い換えると、３つの空間が青鷺島に転移してくる順番は、%K%P
 In other words, the sequential order of the three areas being teleported to Aosagi Island is...
-换言之，三个空间转移到青鹭岛的顺序是
+换言之，三个空间转移到青鹭岛的顺序是：
 
 『スフィア空間→第３空間→避難小屋空間→スフィア空間→第３空間→避難小屋空間→……』となる。%K%P
 "SPHIA area → third area → shelter cabin area → SPHIA area → third area → shelter cabin area → ..."

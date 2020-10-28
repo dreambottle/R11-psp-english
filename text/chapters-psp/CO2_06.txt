@@ -1,4 +1,4 @@
-
+﻿
 気がつくと、私の前に内海が立っていた。%K%P
 When I came to, Utsumi was standing in front of me.
 突然发现，内海正站在我面前。
@@ -629,7 +629,7 @@ Thinking we might be able to hear the sound of a tsunami approaching, we straine
 
 永遠とも思えるような、十数分が過ぎ去った。%K%P
 The ten or so minutes that passed felt like an eternity.
-十几分钟过去了，对我而言，这段时间好似停止一般漫长
+十几分钟过去了，对我而言，这段时间好似停止一般漫长。
 
 聞こえてくるのは、ただゴウゴウと逆巻く吹雪の音だけ。%K%P
 What we heard was only the roaring of the raging snowstorm.

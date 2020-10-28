@@ -1,4 +1,4 @@
-
+﻿
 十数分ほど記事を読み込んだ私は、いくつか気になる点を見つけていた。%K%P
 After reading the article for about ten minutes, I noticed several very interesting points.
 我对报纸仔细地阅读了十几分钟，发现了好几个疑点。
@@ -558,7 +558,7 @@ What are you saying... hey!
 
 黄泉木に止められるよりも早く、%K%P
 Faster than Yomogi could stop me,
-黄泉木来不及阻止我
+黄泉木来不及阻止我，
 
 私は避難小屋を飛び出した。%K%P
 I burst out of the shelter cabin.

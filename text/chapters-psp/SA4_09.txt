@@ -1,4 +1,4 @@
-
+﻿
 悟「信じられない……」%K%P
 I don't believe it...
 悟「难以置信……」
@@ -1180,7 +1180,7 @@ You don't understand, do you? Even though the "material" of the cup has changed,
 
 榎本「まるでなにかを暗示しているように感じられないか？」%K%P
 Doesn't this remind you of something?
-鼷本「不明白吗？明明咖啡和杯子这些“物质”全都替换了，好喝这个“概念”却残留在原处」
+鼷本「你不觉得这是在暗示什么吗？」
 
 悟「…………」%K%P
 ......

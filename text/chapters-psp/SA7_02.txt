@@ -1,4 +1,4 @@
-
+﻿
 さて、映像の解析は以上で終了だ。%K%P
 And there ends my analysis.
 于是，对录像的分析就到此为止了。
@@ -189,7 +189,7 @@ I am the victim, and also the assailant.
 
 自分でも気づかぬうちに、%K%P
 Unbeknownst to even me....
-在自己没有注意到的时候
+在自己没有注意到的时候，
 
 オレは転移現象とはまったく関係のない精神疾患によって、自らの意識の内部にもうひとりの人格を生み出してしまっていたのだろう。%K%P
 Because of a mental disorder completely unrelated to the transference phenomenon, I have created another personality within myself.
@@ -249,7 +249,7 @@ I don't know her motives.
 
 穂鳥が言ったように、彼女には自殺願望があったのかも知れないし、%K%P
 As Hotori said, maybe she really is suicidal.
-就像穗鸟说的，她没准有自杀的愿望
+就像穗鸟说的，她没准有自杀的愿望。
 
 榎本を惨殺した場面を見れば、彼女の精神はおかしくなっていたのかも知れないとも思う。%K%P
 And judging from the way she murdered Enomoto, I think one of her screws came loose.
@@ -721,7 +721,7 @@ I am the victim, and also the assailant.
 
 自分でも気づかぬうちに、%K%P
 Unbeknownst to even me....
-在自己没有注意到的时候
+在自己没有注意到的时候，
 
 オレは転移現象とはまったく関係のない精神疾患によって、自らの意識の内部にもうひとりの人格を生み出してしまっていたのだろう。%K%P
 Because of a mental disorder completely unrelated to the transference phenomenon, I have created another personality within myself.
@@ -837,7 +837,7 @@ After "16.5 minutes"....
 
 最後に、オレの意識が自分の身体に戻り、これで１周分の転移が終了となる。%K%P
 In the end, my consciousness returns to my body and this marks the end of the first set of transfers.
-最后，我的意识回到自己的身体里，这样完成了一个转移循环
+最后，我的意识回到自己的身体里，这样完成了一个转移循环。
 
 つまり、３３分間のタイムラグは、前後２ヶ所に分けられるということだ。%K%P
 In other words, I divided the time interval of 33 minutes in two halves, each before and after.
@@ -1361,7 +1361,7 @@ I am the victim, and also the assailant.
 
 自分でも気づかぬうちに、%K%P
 Unbeknownst to even me....
-在自己没有注意到的时候
+在自己没有注意到的时候，
 
 オレは転移現象とはまったく関係のない精神疾患によって、自らの意識の内部にもうひとりの人格を生み出してしまっていたのだろう。%K%N
 Because of a mental disorder completely unrelated to the transference phenomenon, I had created another personality within myself.

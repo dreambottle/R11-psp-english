@@ -213,7 +213,7 @@ Thinking of those two, I'll abstain from eating as well.
 
 しかし――%K%P
 But――
-但是──
+但是——
 
 内海「うふふ、お腹空いてるのね」%K%P
 Ahaha, it seems you're hungry.
@@ -517,7 +517,7 @@ That was the biggest difference.
 
 そして、もう一点――%K%P
 And there was one more difference――
-除此之外，还有一点──
+除此之外，还有一点——
 
 穂鳥が、ゆにの肩を軽く叩いた。%K%P
 Hotori lightly tapped Yuni on the shoulder.
@@ -805,7 +805,7 @@ Thinking of everyone in the shelter cabin, I'll abstain from eating as well.
 
 しかし――%K%P
 But――
-但是──
+但是——
 
 内海「うふふ、お腹空いてるのね」%K%P
 Ahaha, it seems you're hungry.
@@ -1105,7 +1105,7 @@ That was the biggest difference.
 
 そして、もう一点――%K%P
 And there was one more difference――
-除此之外，还有一点──
+除此之外，还有一点——
 
 穂鳥が、ゆにの肩を軽く叩いた。%K%P
 Hotori lightly tapped Yuni on the shoulder.

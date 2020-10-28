@@ -1,11 +1,11 @@
-
+﻿
 私には何がなんだかわからなかった。%K%P
 I couldn't understand it at all.
 我一片茫然、不明所以。
 
 すでに私の理解力を超越した出来事だった。%K%P
 This was an event that transcended the limits of my comprehension.
-发生的事情已经超出了我的理解能力。
+发生的事情已经远远超出了我的理解能力。
 
 一体、誰が、いつ、何を、どのようにして、このような結果に導いたのか、まったく理解できなかった。%K%P
 Who, what, how, when, had this happened, had made this happen? I didn't understand a thing.
@@ -17,11 +17,11 @@ Why...?
 
 それは、何に対する呟きだったのか。%K%P
 Why did I whisper that?
-我不知道自己的话是在跟谁说。
+我不知道，自己的话是在跟谁说着。
 
 気がついた時、私は小屋に戻っていた。%K%P
 I was back at the shelter cabin before I realized it.
-等我回过神来已经回到了小屋。
+等我回过神时，已经重新回到了小屋。
 
 けれど、そこには誰もいなかった。%K%P
 But no one was there.
@@ -85,7 +85,7 @@ A nightmare without end....
 
 吹雪の音がする。%K%P
 I heard the sound of the blizzard.
-风雪的声音在轰响。
+风雪的声音在轰响着。
 
 突き刺すような痛みが私を現実へと引き戻した。%K%P
 A stabbing pain dragged me back to reality.
@@ -129,15 +129,15 @@ And yet, for some reason, I wasn't shivering.
 
 徐々に徐々に、全身の感覚が失われていっているのだ。%K%P
 Slowly, gradually, my entire body lost all feeling.
-慢慢地慢慢地、我全身的感觉在流失而去。在逐渐朦胧的意识中……我察觉到一件事。
+慢慢地慢慢地、我全身的感觉在流失而去。
 
 薄れていく意識の中……私は気づいた。%K%P
 Through my weakening consciousness... I realized it.
-我又回到了……那一天。
+在逐渐朦胧的意识中……我察觉到了一件事。
 
 あの日に戻ったのだ、ということを。%K%P
 That I had... returned to that day.
-不经意地从唱起了这支歌。
+我又回到了……那一天。
 
 こころ「かーごめ……かーごめ……」%K%P
 Kagome... kagome...
@@ -145,7 +145,7 @@ Kagome... kagome...
 
 ふいに口から紡ぎ出された歌。%K%P
 The song I suddenly began to chant.
-不经意地从唱起了这支歌。
+不经意地重新唱起了这支歌。
 
 私は感じていた。%K%P
 I felt it.
@@ -173,7 +173,7 @@ A hollow nothingness.
 
 こころ「うしろのしょーめん……だーれ？」%K%P
 Who's that... behi――ind you?
-心「背后的正面……是何人？」
+心「猜猜背后……是何人？」
 
 そして、無が、私を呑み込んでいった。%K%P
 And then, the nothingness swallowed me.

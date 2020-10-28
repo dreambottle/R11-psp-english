@@ -1,4 +1,4 @@
-
+﻿
 よそよそしい空気があたりを漂っていた。%K%P
 The cold atmosphere permeated the room.
 冷淡的气氛笼罩在周围。
@@ -659,7 +659,7 @@ My eyes were fixed on the headline.
 
 今年１月、青森県朱倉岳にＨＡＬ１８便が墜落し２７人が死亡した事故に関連して、%K%N
 The Aomori prefectural police announced the recent discovery of the remains of three men and women on Aomori's Mount Akakura,
-关于今年１月ＨＡＬ１８号班机于青森县朱仓岳坠落导致２７人死亡的事故
+关于今年１月ＨＡＬ１８号班机于青森县朱仓岳坠落导致２７人死亡的事故，
 
 青森県警は新たに男女３人の遺体を収容したことを発表した。%K%N
 believed to be victims of the crash of Flight HAL18, which claimed 27 lives this January.
@@ -667,39 +667,39 @@ believed to be victims of the crash of Flight HAL18, which claimed 27 lives this
 
 収容された遺体は、すでに死後６ヶ月が経過しているために腐乱が激しく、まだ身元をはっきりと断定できていない、としながらも、%K%N
 As they had undergone extensive decomposition over a period of six months, the identities of the bodies are unclear,
-被收容的遗体已经死亡六个月，因此高度腐烂，虽然尚未判明身份
+被收容的遗体已经死亡六个月，因此高度腐烂，虽然尚未判明身份，
 
 ＨＡＬ１８便に乗っていた乗員・乗客のうち、いまだ発見されていなかった残る３人にほぼ間違いないとしている。%K%P
 but they are assumed to be the last three unaccounted for among the missing passengers and crew members on HAL18.
-但已基本上认定其为ＨＡＬ１８号班机乘客、乘务员中失踪的三人
+但已基本上认定其为ＨＡＬ１８号班机乘客、乘务员中失踪的三人。
 
 遺体はいずれも、朱倉岳避難小屋から東へ１ｋｍ離れた場所で見つかっており、%K%N
 The bodies were discovered 1km east of the Mount Akakura shelter cabin,
-三具遗体均在距离朱仓岳避难小屋东方１公里处被发现
+三具遗体均在距离朱仓岳避难小屋东方１公里处被发现，
 
 遺体には雪崩に巻き込まれた際に受ける裂傷も多数確認されていることから、３人は墜落直後は生存していたものと考えられる。%K%N
 and it has been confirmed that the three received a large number of lacerations, believed to have been caused by an avalanche which they were caught in soon after surviving the crash.
-遗体上发现多处雪崩造成的裂伤，可以推断三人在坠机之后仍然生存
+遗体上发现多处雪崩造成的裂伤，可以推断三人在坠机之后仍然生存。
 
 しかし、発見場所は下山ルートからは離れているため、遭難者の死亡当日の足取りについて、青森県警では調査を進めている。%K%P
 However, due to the bodies of the victims being discovered away from the route down the mountain, the Aomori prefectural police investigation into the day of their death will continue.
-但是，遗体被发现的地点却偏离了下山路线，青森县警方正对遇难者死亡当天的行动路线展开调查
+但是，遗体被发现的地点却偏离了下山路线，青森县警方正对遇难者死亡当天的行动路线展开调查。
 
 青森気象観測所によると、%K%N
 According to the Aomori weather observation department,
-据青森气象站报告
+据青森气象站报告，
 
 この時期に朱倉岳の該当箇所周辺で発生した雪崩は、２０１１年１月１７日午前６時５３分であることがわかっている。%K%N
 an avalanche affecting Mount Akakura and its surrounding area occurred on January 17, 2011, at around 6:53.
-当时该地点周边的雪崩发生在２０１１年１月１７日清晨６时５３分
+当时该地点周边的雪崩发生在２０１１年１月１７日清晨６时５３分，
 
 朱倉岳避難小屋に残されていた痕跡とも照らし合わせると、３人はおよそ７日間を生き延びたことになる。%K%N
 After analyzing the traces left at the Mount Akakura shelter cabin, it was concluded that those who had used it survived for seven days after the crash.
-参照朱仓岳避难小屋里留下的痕迹，三人在坠机之后大约生存了七天
+参照朱仓岳避难小屋里留下的痕迹，三人在坠机之后大约生存了七天。
 
 １８便の墜落事故では、今回の３人の遺体の発見により、乗員・乗客３１人中、３０人が亡くなるという大惨事となった。%K%P
 The horrific crash of Flight 18, with the discovery of the three bodies, claimed 30 lives out of the 31 crew members and passengers aboard.
-在发现这些遗体之后，ＨＡＬ１８号航班坠机事故成为了乘员３１人中死亡３０人的重大事故
+在发现这些遗体之后，ＨＡＬ１８号航班坠机事故成为了乘员３１人中死亡３０人的重大事故。
 
 -------------------------------------------%N
 

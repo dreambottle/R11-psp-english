@@ -1,4 +1,4 @@
-
+﻿
 黛「やっぱり……！」%K%P
 I knew it...!
 黛「果然……！」
@@ -514,7 +514,7 @@ I don't want to lose to nature's fury... and lose my dignity!
 
 そんな言葉が、私の口をついて出ていた。%K%P
 Those words kind of popped out of my mouth.
-在无意识之间
+在无意识之间，
 
 まったく、無意識のセリフだった。%K%P
 That was a completely unplanned speech.

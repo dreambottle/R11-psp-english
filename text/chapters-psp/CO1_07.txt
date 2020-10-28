@@ -1,4 +1,4 @@
-
+﻿
 こころ「ゆに！」%K%P
 Yuni!
 心「悠尼！」
@@ -45,7 +45,7 @@ Are you Kokoron...?
 
 大きな瞳をパチクリとさせながら呟く。%K%P
 His pupils widened as he blinked, muttering those words.
-眨着那双大眼睛小声问道
+他眨着那双大眼睛，小声地问道。
 
 こころ「ゆに……」%K%P
 Yuni...

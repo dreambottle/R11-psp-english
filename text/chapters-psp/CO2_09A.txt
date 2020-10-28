@@ -1,4 +1,4 @@
-
+﻿
 気がつくと――%K%P
 When I came to my senses――
 当恢复意识的时候——
@@ -800,7 +800,7 @@ Utsumi's presence pressed in further, now almost right in front of me.
 
 どうしよう――。%K%P
 What do I do――
-怎么办――
+怎么办——
 
 なにを信じればいいの……。%K%P
 What should I believe...?

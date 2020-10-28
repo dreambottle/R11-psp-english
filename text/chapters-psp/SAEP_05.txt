@@ -1,4 +1,4 @@
-
+﻿
 こころ「赤ちゃんって、かわいいよね？」%K%P
 Babies are so cute, don't you think?
 心「小孩子，真可爱啊」
@@ -133,7 +133,7 @@ He began to explain.
 
 膨大な量の動画データをすべて閲覧した悟は、%K%P
 While poring over the vast archive of video records...
-悟阅览了数量庞大的录像资料
+悟阅览了数量庞大的录像资料，
 
 それまで悟が接してきた穂鳥と、私が接してきた穂鳥が、別人であるということに気づいたのだそうだ。%K%P
 ...Satoru had realized that the Hotori he interacted with was completely different from the one I knew.
@@ -161,7 +161,7 @@ Satoru had no doubt it was the result of two different personalities being in co
 
 さらに付け加えるならば、%K%P
 And there was one more...
-除此以外
+除此以外，
 
 『榎本に体当たりを食らわし、血だまりの中で無邪気にはしゃいでいた穂鳥』も、%K%P
 The Hotori who rammed into Enomoto and was innocently playing in the pool of blood...

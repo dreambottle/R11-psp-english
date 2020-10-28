@@ -1,4 +1,4 @@
-
+﻿
 私は腕時計の盤面をじっと見つめていた。%K%P
 I continued staring at the face of my wristwatch.
 我一直盯着手表的盘面看。
@@ -99,7 +99,7 @@ However, there's no guarantee I'd make it back again if I headed for Location X,
 
 %LC%FS『腐乱死体』%FE%K%P
 %LC%FS"Decomposed bodies"%FE
-%LC%FS“腐乱尸体”%FE
+%LC%FS“腐烂尸体”%FE
 
 %N%N%N%N%N
 
@@ -673,7 +673,7 @@ Wh... at... is... this...?
 
 スーツ姿の黛も、寒さも忘れて呆然としている。%K%P
 Mayuzumi, in just her suit, had completely forgotten about the cold and stood there dumbfounded.
-只穿着衬衫的黛，似乎忘记了寒冷
+只穿着衬衫的黛，似乎忘记了寒冷，
 
 フラフラと、ゆにに続いて降りていってしまう。%K%P
 Stumbling, she followed Yuni down the slope.

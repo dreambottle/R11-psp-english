@@ -747,7 +747,7 @@ Yuck...
 
 非常食だから当たり前か。%K%P
 They were emergency rations, so I guess that was to be expected.
-储备粮嘛，难吃是当然的
+储备粮嘛，难吃是当然的。
 
 黄泉木「おいおい。貴重な食糧なんだからもっと大事にしてくれよ」%K%P
 Hey now, they're our precious rations, so value them more.
@@ -865,7 +865,7 @@ And then, one of the articles inside caught my eye.
 
 %LCＨＡＬ墜落事故の不明者か？%K%P
 %LCMissing passengers from the HAL crash?
-%LC疑为ＨＡＬ坠机事故的失踪者
+%LC疑为ＨＡＬ坠机事故的失踪者？
 
 喉がカラカラになっていた。%K%P
 My throat went dry.
@@ -933,11 +933,11 @@ believed to be victims of the crash of Flight HAL18, which claimed 27 lives last
 
 収容された遺体は、すでに死後６ヶ月が経過しているために腐乱が激しく、まだ身元をはっきりと断定できていない、としながらも、%K
 As they had undergone extensive decomposition over a period of six months, the identities of the bodies are unclear,
-被收容的遗体由于已经死亡了六个月，已经高度腐烂，虽然还无法明确判断其身份，但是
+被收容的遗体由于已经死亡了六个月，已经高度腐烂，虽然还无法明确判断其身份，
 
 ＨＡＬ１８便に乗っていた乗員・乗客のうち、いまだ発見されていなかった残る３人にほぼ間違いないとしている。%K%P
 but they are assumed to be the last three unaccounted for among the missing passengers and crew members on HAL18.
-毫无疑问，这就是ＨＡＬ１８次航班中的乘务员和乘客中，尚未被发现的三人。
+但是毫无疑问，这就是ＨＡＬ１８次航班中的乘务员和乘客中，尚未被发现的三人。
 
 遺体はいずれも、朱倉岳避難小屋から東へ１ｋｍ離れた場所で見つかっており、%K
 The bodies were discovered 1km east of the Mount Akakura shelter cabin.

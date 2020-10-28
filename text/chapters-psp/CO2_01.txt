@@ -1,4 +1,4 @@
-
+﻿
 気がつくと――%K%P
 When I came to my senses――
 当恢复意识的时候——
@@ -919,19 +919,19 @@ I groaned instinctively.
 
 なんだかもどかしくて、檻の中の動物のように部屋を歩き回ってしまう。%K%P
 Feeling somewhat irritated, I paced back and forth in the room like a caged animal.
-感到有些烦躁，我像困兽一样在房间里来回走动
+我感到有些烦躁，像困兽一样在房间里来回走动着。
 
 ジッとしていられなかった。%K%P
 But I still couldn't seem to calm myself down.
-但是我还是不能平静下来
+但是我还是不能平静下来。
 
 そのとき、テーブルの上にメモが置かれているのに気づいた。%K%P
 That's when I noticed the note that had been left on the table.
-这时我注意到了落在了桌子上的字条
+这时，我注意到了落在了桌子上的字条。
 
 すがるように手に取る。%K%P
 I grabbed and held it tightly in my hand.
-我拿起字条，紧握在手里
+我拿起字条，紧握在手里。
 
 頭の中のモヤモヤは、なかなか消えてくれない。%K%P
 The cloud of confusion in my head still hasn't cleared up.
@@ -1235,7 +1235,7 @@ No, maybe "my body" would be more accurate.
 
 実は、オレの身体は　　　　　　　　　　　　%K%P
 The truth is, my body is           
-其实，我的身体
+其实，我的身
 
 こころ「これで、終わり！？」%K%P
 Is, is that it?!

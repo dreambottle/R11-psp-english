@@ -1,4 +1,4 @@
-
+﻿
 黛「なに、言って……んの……？」%K%P
 What... are you... saying...?!
 黛「你……说……什么……？」
@@ -49,7 +49,7 @@ This is bad. Letting her go alone would be too dangerous.
 
 でも――%K%P
 But――
-可是──
+可是——
 
 私はゆにを見下ろす。%K%P
 I looked down at Yuni.
@@ -81,7 +81,7 @@ Maybe she'll be able to find the helicopter.
 
 もしかしたら――%K%P
 Maybe――
-也许──
+也许——
 
 私は首を振った。%K%P
 I shook my head.
@@ -401,7 +401,7 @@ Seeing her face after I forcibly turn her around, I gulped.
 
 彼女は――%K%P
 She――
-她──
+她——
 
 泣いていた。%K%P
 was crying.
@@ -730,7 +730,7 @@ Mayuzumi raised the ice ax.
 
 私は――%K%p
 I――
-我──
+我——
 
 このまま動かない
 Stay still
@@ -790,7 +790,7 @@ Was it really okay to believe in Mayuzumi?
 
 私は――%K%P
 I――
-我──
+我——
 
 私は、死にたくない――！%K%P
 I don't want to die――!
@@ -826,7 +826,7 @@ Unthinkingly, I was breathing a sigh of relief.
 
 通じた――%K%P
 I reached her――
-成功了──
+成功了——
 
 信じる気持ちが、黛に通じてくれた――%K%P
 My faith in Mayuzumi, it was able to get through to her――
@@ -1078,7 +1078,7 @@ This may be our last chance.
 
 でも—―%K%P
 But—―
-可是──
+可是——
 
 こころ「黄泉木さんやゆにを……置いていくわけには……」%K%P
 We can't leave... Yomogi-san and Yuni...

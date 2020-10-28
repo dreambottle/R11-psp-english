@@ -1,4 +1,4 @@
-
+﻿
 こころ「えっ……？」%K%P
 Huh...?
 心「哎……？」
@@ -245,7 +245,7 @@ In the article, it had information about the plane crash, as well as information
 
 そして、私が死んだということが書かれていて……。%K%P
 And it was written there that I was going to die....
-还写着我已经死去
+还写着我已经死去……
 
 こころ「…………え～っと」%K%P
 ......Um～mmm...
@@ -497,7 +497,7 @@ SPHIA. That's all I need to say, right?
 
 当然、私はスフィアという施設を知っている。%K%P
 Of course, I know of an institution called SPHIA.
-我当然知道ＳＰＨＩＡ这个设施
+当然，我知道ＳＰＨＩＡ这个设施。
 
 犬伏景子が隔離されている、精神障害者隔離施設。%K%P
 The place where Inubushi Keiko was being held, an institution where the mentally unsound were isolated.
@@ -605,7 +605,7 @@ Try getting angry
 
 男が、ニコッとかわいく微笑んだ。%K%P
 The man beamed, a lovely smile.
-男性露出可爱的微笑
+那个男性露出了可爱的微笑。
 
 気持ち悪い……。%K%P
 I feel sick....

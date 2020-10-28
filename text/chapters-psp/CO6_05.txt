@@ -1,4 +1,4 @@
-
+﻿
 こころ「それって……前に聞いた時、壊れてたヤツ？」%K%P
 Didn't you say... that the radio was broken?
 心「那个……上次听的时候不是坏了吗？」
@@ -25,7 +25,7 @@ There's a way of fixing electronic appliances after they get wet.
 
 ゆにはラジオのつまみをいじりながら、%K%P
 While fiddling with the radio's dial, Yuni said,
-悠尼摆弄着手中的收音机
+悠尼摆弄着手中的收音机，
 
 ゆに「ちゃんと乾かしてあげれば、ショートしない限り元に戻るんだ」%K%P
 If you dry them properly, as long as there are no short circuits, they'll be fine.

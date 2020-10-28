@@ -1,4 +1,4 @@
-
+﻿
 こころ「……は…ぁ……は……」%K%P
 ...ha... aa... ha...
 心「……哈…哈……哈……」
@@ -349,7 +349,7 @@ Something for you to put on...
 
 ゆにはキョロキョロと周囲を見回し、%K%P
 Yuni restlessly looked around,
-悠尼打量着四周
+悠尼打量着四周，
 
 ２段ベッドの上にうずくまっている黛に、鋭い声をかけた。%K%P
 and called out to Mayuzumi, who was curled up on the top bunk bed.
@@ -397,7 +397,7 @@ After that, he piled blankets on top of me as well.
 
 黛「さっむーー……」%K%P
 It's coo――oold...
-黛「好冷ーー……」
+黛「好冷——……」
 
 コートを失った黛は、ますますきつく自分の身体に毛布を絡みつかせている。%K%P
 Mayuzumi, having parted with the coat, wrapped herself more tightly in her blankets.

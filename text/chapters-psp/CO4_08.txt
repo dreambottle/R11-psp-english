@@ -265,7 +265,7 @@ My back hit a shelf.
 
 棚に置かれていた木箱のひとつが、乱暴な音をたてて崩れ落ちた。%K%P
 A wooden box on the shelf made a sound as abrupt as a gunshot as it fell.
-放置在棚架上的一个木箱到了下来，发出巨大的声响。
+放置在棚架上的一个木箱倒了下来，发出巨大的声响。
 
 ？？「ひっ」%K%P
 Hii!

@@ -1,4 +1,4 @@
-
+﻿
 その金属音は、大自然の猛威の前に命の灯火を消されそうになっている人間の微かな抵抗の声だ。%K%P
 The metallic sound was like the last form of resistance from a human whose flame of life was about to be snuffed out by the fury of nature.
 那个金属音在大自然的凶猛面前传达了生命之火将息的人类的微弱抵抗。
@@ -25,11 +25,11 @@ Yuni was sleeping in my arms.
 
 彼は、低体温症で危険な状態にあった。%K%P
 He was in a dangerous state of hypothermia.
-他陷入低体温症的危险状态
+他陷入了低体温症的危险状态。
 
 未だに体温は、戻りきっておらず顔色は蒼白である。%K%P
 Even now, his body temperature hadn't returned to normal, and he was extremely pale.
-只到现在体温还没有回复，脸色苍白。
+直到现在体温还没有回复，脸色苍白。
 
 手足も氷のように冷たく、指先は凍傷にかかってボロボロ。%K%P
 His hands and feet were as cold as ice, and his fingertips were worn with frostbite.

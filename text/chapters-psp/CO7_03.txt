@@ -1,4 +1,4 @@
-
+﻿
 私は夜の闇を懐中電灯の明かりで切り裂きながら、進んでいった。%K%P
 Cutting through the darkness of the night with the glow of the flashlight, I advanced.
 手电筒的光划破浓密的黑暗，我在光的引导下前进。
@@ -1834,7 +1834,7 @@ I shook my head to banish that idea from my mind.
 
 こころ「黛さーーん！！」%K%P
 Mayuzumi-saaan!!
-心「黛ーー！！」
+心「黛——！！」
 
 吹雪に負けないように大声で叫び、私は黛へと駆け寄った。%K%P
 Screaming to be heard over the wind, I ran to Mayuzumi.

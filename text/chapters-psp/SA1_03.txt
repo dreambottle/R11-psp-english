@@ -1,4 +1,4 @@
-
+﻿
 ゆにはスルスルとハシゴを下りて姿を消してしまった。%K%P
 Yuni swiftly climbed down the ladder and disappeared.
 悠尼的身影很快消失在梯子下方。
@@ -978,7 +978,7 @@ A woman...
 
 悟「女だ……」%K%P
 I'm a woman...
-悟「女的……」
+悟「我是女的……」
 
 どうして今まで、この可能性について吟味することをしなかったのだろう？%K%N
 Why hadn't I considered this possibility until now?
@@ -1002,11 +1002,11 @@ We don't see the %TS048thing-in-itself%TE.
 
 通り過ぎていく風景、景色、その中に存在する数々の物体を見るとき、%K%N
 When we see the passing landscape around us, and the countless objects contained within it...
-我们看着周遭的风景与景色中存在的物体时
+我们看着周遭的风景与景色中存在的物体时，
 
 我々はそれらの物体の一つひとつを正確に捉えているわけではなく、%K%N
 ...we can't be said to be perceiving them exactly.
-并不能正确捕捉到那些物体的各个部分
+并不能正确捕捉到那些物体的各个部分。
 
 それらの物体の一つひとつに内包される『概念』だけを抽出して、脳内の思考回路で処理しているに過ぎないらしい。%K%P
 We derive a simple "general idea" of each of the objects we see, and our thought patterns process them in that basic way.
@@ -1041,7 +1041,7 @@ Therefore, even if my foot or a part of my clothing entered my field of vision, 
 
 つまりオレは、自分の姿を特殊なものとして見ていたわけではなく、%K%N
 In short, I did not see my appearance as anything worthy of special notice,
-就是说，我并没有把自己的姿态当作特殊的东西来看待
+就是说，我并没有把自己的姿态当作特殊的东西来看待。
 
 そこに含まれる一般的な概念のみを抽出して、その情報を脳に入力していたに過ぎないということになる。%K%P
 I derived only the general concept of my body, and decided to just input that information into my brain.

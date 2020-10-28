@@ -1,4 +1,4 @@
-
+﻿
 長い――%K%P
 The night was long――
 夜很长——
@@ -177,11 +177,11 @@ That'll be all.
 
 このたわいもない、%K%N
 I don't want to lose those simple,
-然而我不愿失去这平淡无奇
+然而我不愿失去这平淡无奇，
 
 だが、かけがえのない想い出を失いたくない。%K%N
 yet irreplaceable, priceless memories.
-却不可替代的回忆。
+却又不可替代的回忆。
 
 %N
 

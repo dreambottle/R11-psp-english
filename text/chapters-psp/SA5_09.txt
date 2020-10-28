@@ -1,4 +1,4 @@
-
+﻿
 悟「ちっ！　転移か――！？」%K%P
 Dammit! A transfer――?!
 悟「嘁！转移吗——！？」
@@ -101,7 +101,7 @@ The table had been flipped over, the chairs broken, and the computer monitor kno
 
 リビングとダイニングの境界にはガラス張りの間仕切りがあったが、%K%P
 The living area and the dining area used to have a glass divider between them, but...
-原本用来隔开客厅和餐厅的隔墙玻璃
+原本用来隔开客厅和餐厅的隔墙玻璃，
 
 それはすでに間仕切りの態をなさず、完膚なきまでに叩き壊されていた。%K%P
 It was no more, having been shattered into tiny pieces.
@@ -453,7 +453,7 @@ Time: 10:18 PM
 
 場所：リビング%K%N
 Location: Living Area
-地点：客厅。
+地点：客厅
 
 %N
 %LL画面の中のオレは、なにやらゆにと話し込んでいる。%K%N

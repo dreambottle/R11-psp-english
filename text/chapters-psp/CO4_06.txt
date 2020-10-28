@@ -1,4 +1,4 @@
-
+﻿
 ――いきなり、平衡感覚を失った。%K%P
 ――All of a sudden, I lost my balance.
 ——突然间，我失去了平衡感。
@@ -1522,7 +1522,7 @@ My steps are uncertain.
 
 降りしきる雪と風によって、テラスを横切るだけでも、相当な重労働だ。%K%P
 Due to the incessant snow and wind, just crossing the terrace was a laborious task.
-风雪连绵不绝，仅仅穿过阳台都是一项艰巨的任务
+风雪连绵不绝，仅仅穿过阳台都是一项艰巨的任务。
 
 寒さで体力が奪われていく。%K%P
 My physical strength was being sapped by the cold.
@@ -2366,7 +2366,7 @@ Oh... just a rat...
 
 安堵したその瞬間、%K%P
 In that moment of relief,
-就在我安下心来的一瞬间
+就在我安下心来的一瞬间，
 
 暗がりから、人影が飛び出してきた。%K%P
 from the darkness, the shadow of a person rushed out.

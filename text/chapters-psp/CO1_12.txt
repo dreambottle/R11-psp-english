@@ -226,11 +226,11 @@ The water was delicious.
 
 犬伏は、息を詰めて私をジッと見つめている。%K%P
 Inubushi quietly stared at me without breathing.
-犬伏屏住呼吸盯着我看。
+犬伏屏住呼吸，盯着我看。
 
 私の顔色を窺っているみたいだ。%K%P
 She seemed to be looking at my complexion.
-似乎在窥视我的神情
+似乎在窥视着我的神情。
 
 こころ「あの～……犬伏さん」%K%P
 Um～... Inubushi-san?
@@ -451,7 +451,7 @@ M～mm, what to do...
 
 途方に暮れて、頭を掻きむしった。%K%P
 At a loss, I put a hand to my face.
-我不知所措地挠了挠头
+我不知所措地挠了挠头。
 
 と、後頭部のこぶに触れてしまい、鈍い痛みが走る。%K%P
 And a dull pain ran through my head as I touched the bump at the back of it.
@@ -931,7 +931,7 @@ I wonder if she's doing it on purpose.
 
 私をからかっているのだろうか。%K%P
 I wonder if she's trying to make fun of me.
-她是在戏弄我吗
+她是在戏弄我吗？
 
 こころ「もう…………」%K%P
 Geez......
@@ -983,7 +983,7 @@ The light in the room was already on.
 
 室内の構造は、すでに見た他のふた部屋とまったく同じだった。%K%P
 The structure of the room looked exactly the same as the two rooms I had seen earlier.
-屋里开着灯。
+这个房间的结构，同我刚才看到的两个房间一模一样。
 
 人影はない。%K%P
 I didn't feel anyone's presence.
@@ -995,15 +995,15 @@ The inside was silent.
 
 女性物の服がいくつか、ベッドの上に出しっぱなしになっている。%K%P
 Several articles of women's clothing had been left spread across the bed.
-许多女性衣物被随意地扔在床上
+许多女性衣物被随意地扔在床上。
 
 あのままではシワになってしまうだろう。%K%P
 They'd probably get wrinkled if they were left like that.
-这样会出褶皱的吧
+这样会出褶皱的吧？
 
 どことなくプライベートな雰囲気を感じた。%K%P
 It was a very private atmosphere, somehow.
-我总觉得这里有一种私人空间般的气氛。
+我总觉得，这里有一股私人空间般的气氛。
 
 つまり、この施設の四隅にある４つの部屋は、個室ということになる。%K%P
 In other words, the four rooms at the corners of this institution are for private use.
@@ -1107,7 +1107,7 @@ Leave through the front entrance
 
 私は、正面玄関から見て左側奥の扉を調べてみることにした。%K%P
 I decided to check the leftmost door from the entrance.
-我决定先去查看一下左手边的门
+我决定先去查看一下左手边的门。
 
 穂鳥はついてこなかった。%K%P
 Hotori didn't follow me.
@@ -1531,15 +1531,15 @@ Just as I expected, this room had the same layout as the other three.
 
 ただ違うのは、この部屋には生活感というものが感じられないということだった。%K%P
 The only thing different is that this room didn't have the feeling that it was being lived in.
-唯一不同的是，这个房间里感受不到生活的痕迹。
+唯一不同的是，这个房间里感受不到有人在居住。
 
 唯一、ベッドのシーツが乱れているくらいだ。%K%P
 Also, that the sheets on the bed were in disarray.
-只是床单是乱的
+除了凌乱的床单外，
 
 他にはなにもない。%K%P
 There wasn't anything else.
-其它什么也没有
+其它什么生活的痕迹也没有。
 
 机の上になにかが置いてあるというわけでもないし、着替え用の服なども見当たらない。%K%P
 The top of the desk was bare, and there weren't any changes of clothes to be found.
@@ -1895,7 +1895,7 @@ I placed my hand on Yuni's shoulder and urged him out of the room.
 
 素直に従うゆに。%K%P
 Yuni obediently followed.
-悠尼老实地听了我的话
+悠尼老实地听了我的话。
 
 ドアを閉じる寸前、ベッドに横たわっていた穂鳥が寝返りをうつのが見えた。%K%P
 Hotori, who was stretched on the bed, appeared to turn over in her sleep as soon as the door shut.
@@ -1927,11 +1927,11 @@ Hotori had let out a scream.
 
 失語症にかかっているはずなのに。%K%P
 Even though she was supposed to have aphasia.
-她明明应该是患有失语症的
+她明明应该是患有失语症的。
 
 声帯は機能している、ということだろうか。%K%P
 Her vocal cords are still able to function, is what it means.
-也就是说声带机能是正常的
+也就是说，声带机能是正常的。
 
 普段声が出ないのは、やはり精神的な要因かもしれない。%K%P
 That she doesn't normally speak is probably due to mental factors, as I thought.
@@ -1955,7 +1955,7 @@ Haa～...
 
 もう一度、深々とため息をついた。%K%P
 I sighed deeply once again.
-我又深深地叹了一口气
+我又深深地叹了一口气。
 
 いろいろなことが起こりすぎている。%K%P
 Too many things were happening.
@@ -1995,7 +1995,7 @@ Don't take them
 
 飲むことにした。%K%P
 I decided to take them.
-吃掉吧
+吃掉吧。
 
 身体はひどく疲れているのに、緊張のためか精神が高ぶっているのだ。%K%P
 Due to my nervousness, my mind was excited even though my body was tired.
@@ -2003,23 +2003,23 @@ Due to my nervousness, my mind was excited even though my body was tired.
 
 このままでは寝つけそうにない。%K%P
 The way things are, I don't think I'll be able to sleep.
-这样不太可能睡着
+这样不太可能睡着。
 
 私は部屋に備えつけられている冷蔵庫に近づいていった。%K%P
 I walked to the refrigerator that was included with the room.
-我走到房间里的冰箱边
+我走到房间里的冰箱边，
 
 扉を開ける。%K%P
 I opened its door.
-打开冰箱门
+打开了冰箱门。
 
 ミネラルウォーターのペットボトルが収納されていた。%K%P
 There was a bottle of mineral water inside.
-里面有塑料瓶装的矿泉水
+里面有塑料瓶装的矿泉水，
 
 ５００ｍｌサイズの小型ペットボトルだ。%K%P
 A small 500ml PET bottle.
-５００毫升容量的小型塑料瓶
+是５００毫升容量的小型塑料瓶。
 
 ３本入っていて、いずれも未開封だった。%K%P
 There were three bottles, all unopened.
@@ -2027,11 +2027,11 @@ There were three bottles, all unopened.
 
 その内の１本を取り出す。%K%P
 I took out one of them.
-我取出其中一瓶
+我取出其中一瓶，
 
 ペットボトルのキャップを外した。%K%P
 I removed the cap from the bottle.
-拧开盖子
+拧开盖子。
 
 えーと、グラスは……と。%K%P
 Um, a glass... there.
@@ -2055,7 +2055,7 @@ I removed the pills from the package.
 
 白い円形の錠剤だった。%K%P
 They were white and circular.
-白色圆形的药片
+白色圆形的药片。
 
 ふと思い立った。%K%P
 I suddenly thought of something.

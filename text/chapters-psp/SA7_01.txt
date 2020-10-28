@@ -1,4 +1,4 @@
-
+﻿
 ずらりと並んだディスプレイが青白い光を放っている。%K%P
 The row of monitors radiated a pale light.
 一排排的显示器散发着蓝白色的光亮。
@@ -243,7 +243,7 @@ The time was 8:02 PM――
 
 スフィアは２０１１年１月１１日の朱倉岳へと飛ばされ、%K%P
 SPHIA had jumped to the Mount Akakura of January 11th, 2011.
-ＳＰＨＩＡ转移到了２０１１年１月１１日的朱仓岳
+ＳＰＨＩＡ转移到了２０１１年１月１１日的朱仓岳。
 
 代わりに２０１２年の青鷺島には、１年前の避難小屋を中心とした半径１１０ｍの空間がやって来た。%K%P
 In exchange, a circle with a radius of 110 meters, with the shelter cabin at its core, arrived at the Aosagi Island of 2012.
@@ -283,7 +283,7 @@ Then, how could I've overlooked something that big before?
 
 意識は常に青鷺島にあったとしても、%K%P
 Even if my consciousness was always at Aosagi Island....
-尽管意识一直在青鹭岛
+尽管意识一直在青鹭岛，
 
 こころの肉体に乗り移ったとき、あるいは自分の肉体へと帰ったとき、耳の痛みや隙間風の音などに気づいてもよさそうなものだ。%K%P
 When I transferred into Kokoro's body or returned to my own, I should have noticed pain in my ears, or heard the sound of the draft caused by the escaping air.

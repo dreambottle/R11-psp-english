@@ -1,4 +1,4 @@
-
+﻿
 いきなり、ものすごい勢いで雪が私の頬を叩いた。%K%P
 All of a sudden, snow was beating against my face with amazing force.
 突然，暴雪打在我脸上。
@@ -565,7 +565,7 @@ Even through my gloves, I could feel his strength weakening.
 
 それでも――%K%P
 But, even so——
-即使如此──
+即使如此——
 
 私は、彼を置いていくことを選んだ。%K%P
 I chose to leave him behind.
@@ -625,7 +625,7 @@ You two, follow me...
 
 私にできること。%K%P
 What I can do.
-我能做的事情
+我能做的事情。
 
 せめてもの、罪滅ぼし。%K%P
 The very least I can do to atone.
@@ -681,11 +681,11 @@ If I continued to support him like this for a while, I might be the one to fall 
 
 それでも――%K%P
 Or is it——
-就算这样──
+就算这样——
 
 私にできること。%K%P
 What I can do.
-我能做到的事
+我能做到的事。
 
 せめてもの、罪滅ぼし。%K%P
 The very least I can do to atone.
@@ -781,7 +781,7 @@ I was already short of breath, and even now I was tired enough that it felt like
 
 黄泉木はひたすら、%K%P
 Yomogi was single-mindedly...
-黄泉木不停地
+黄泉木不停地，
 
 黄泉木「すまない……本当にすまない……」%K%P
 I'm sorry... I'm truly sorry...
@@ -1041,23 +1041,23 @@ How about you...?
 
 大を救うために、小を犠牲にする――%K%P
 In order to save the majority, you have to sacrifice the minority——
-牺牲小我──
+牺牲小我——
 
 それもまた、勇気なのかもしれない――%K%P
 That might be an act of courage in itself——
-那样做也许也需要一定的勇气──
+那样做也许也需要一定的勇气——
 
 でも――%K%N
 But——
-可是──
+可是——
 
 でも――%K%N
 But——
-可是──
+可是——
 
 私は――%K%p
 I——
-我──
+我——
 
 ゆにを助ける
 Save Yuni
@@ -1113,7 +1113,7 @@ I'd only end up hating myself unbearably.
 
 それに――%K%P
 And——
-更何况──
+更何况——
 
 こころ「あの時……墜落する飛行機の中で……私は誓ったのっ」%K%P
 At that moment... inside the crashing airplane... I swore to myself.
@@ -1773,11 +1773,11 @@ After considering it over and over again, I nodded.
 
 そこに希望があるのなら――%K%P
 If there was hope there——
-如果那里有希望的话──
+如果那里有希望的话——
 
 そこに生き残る術があるのなら――%K%P
 If there was a means to survive there——
-如果去那里能够活命的话──
+如果去那里能够活命的话——
 
 なんとしても、行かなければならない……。%K%P
 We have to get there no matter what....
@@ -1953,11 +1953,11 @@ Although I didn't know what was waiting for us at the crash site....
 
 そこに希望があるのなら――%K%P
 If there was hope there——
-但是如果那里有希望的话──
+但是如果那里有希望的话——
 
 そこに生き残る術があるのなら――%K%P
 If there was a means to survive there——
-如果去那里能够活命的话──
+如果去那里能够活命的话——
 
 なんとしても、行かなければならない……。%K%P
 We have to get there no matter what....

@@ -1,4 +1,4 @@
-
+﻿
 目覚めはゆるやかに訪れた。%K%P
 I slowly opened my eyes.
 渐渐清醒过来。
@@ -49,7 +49,7 @@ Kuuuuuuu!
 
 全身をつらぬくように激痛が駆け抜けた。%K%P
 Intense pain immediately shot through my body.
-贯穿身体一般的剧痛流遍全身
+贯穿身体一般的剧痛流遍全身。
 
 どこが痛いのかなんてわからない。%K%P
 I couldn't even understand where this pain was coming from.

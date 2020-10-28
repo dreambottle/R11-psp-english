@@ -33,7 +33,7 @@ Seeing that, Yomogi broke into a smile.
 
 黄泉木「帰ったぞー！」%K%P
 We're baaack!
-黄泉木「我们回来了ー！」
+黄泉木「我们回来了——！」
 
 勝ち誇ったように、高々と片手を上げる。%K%P
 Looking triumphant, he raises a hand high.
@@ -433,7 +433,7 @@ Not for you.
 
 黛「なんでよー！？」%K%P
 Whyyy?!
-黛「为什么呀ー！？」
+黛「为什么呀——！？」
 
 黄泉木「殴ったからだ」%K%P
 Because you hit me.
@@ -457,11 +457,11 @@ Aa～ah, what are you doing?
 
 黛「ほーれほーれ」%K%P
 Bleagh, blahhh――
-黛「来ー呀，来ー呀」
+黛「来呀，来呀——」
 
 ゆに「返してよー」%K%P
 Give it baaack!
-悠尼「还给我ー」
+悠尼「还给我——」
 
 黛「きゃはははははは」%K%P
 Kyahahahahahaha.

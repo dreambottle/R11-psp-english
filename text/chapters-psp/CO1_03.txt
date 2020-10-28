@@ -1,4 +1,4 @@
-
+﻿
 どうやらここは倉庫のようだ。%K%P
 Apparently this place is being used as a storeroom.
 看来这里是仓库。
@@ -121,7 +121,7 @@ The girl had her head bowed.
 
 ここからでは横顔しかわからなかったが、あの褐色の女性でないことだけは確かだった。%K%P
 I couldn't make out her face from here, but I was pretty certain it wasn't the brown-skinned woman I'd met earlier.
-从这里只能看到侧脸，但可以确定她不是那个褐色皮肤的女性
+从这里只能看到侧脸，但可以确定她不是那个褐色皮肤的女性。
 
 私は少しホッとした。%K%P
 I tried to loosen up.
@@ -310,15 +310,15 @@ I thought it was safe to let my guard down a bit.
 
 もちろん気を抜いてはいけないことなどわかっている。%K%P
 Of course, not so far as to let her read me like a book.
-但是面对如此温和的笑容，我无所适从。
+当然，还没到能让她轻松看穿我的程度。
 
 けれど、こんな穏やかな微笑みを見せられてはどうしようもないのだった。%K%P
 But after seeing such a gentle smile, there was really little I could do.
-我用理性构筑着坚固的防线，却又无法抑制本能的好奇心。
+但是面对如此温和的笑容，我的确有些无所适从。
 
 理性では強固な防壁を築きながらも、本能的な好奇心は抑えることができない。%K%P
 Although my reasoning was trying hard to build up a strong, impenetrable wall, my instinctive curiosity took the best of me.
-我正试着越过防线，踏出危险的一步。
+我用理性构筑着坚固的防线，却又无法抑制本能的好奇心。
 
 私は今、防壁を乗り越えて危険な一歩を踏み出そうとしていた。%K%P
 I was climbing over the protective wall and taking a step forward into danger.
@@ -518,7 +518,7 @@ And even then, the girl didn't stop moving.
 
 防壁を乗り越え、警戒網を突破し、%N私の%TS106パーソナルスペース%TEへと踏み込んでくる。%K%P
 Breaking through my protective wall and ignoring all my warning sensors, she entered my %TS106personal space%TE.
-越过防线，突破警戒，踏入我的%TS106个人空间%TE
+越过防线，突破警戒，踏入我的%TS106个人空间%TE。
 
 もうどうすることもできない。%K%P
 There was nothing more to be done.
@@ -558,7 +558,7 @@ It's all over――
 
 覚悟を決めた私はきつくまぶたを閉じた。%K%P
 I braced myself and squeezed my eyelids tightly shut.
-我死下心，紧紧地闭上双眼
+我死下心，紧紧地闭上了双眼。
 
 何も起きない……。%K%P
 Nothing happened....
@@ -678,7 +678,7 @@ Without answering, the girl left my side.
 
 キッチンの中央でキョロキョロとあたりを見まわしている。%K%P
 She's looking around the kitchen restlessly, in search of something.
-在厨房的中央四下张望着
+在厨房的中央四下张望着。
 
 やがて何かを見つけたのか、部屋の四隅にある扉のうちのひとつに向かって走っていった。%K%P
 Suddenly, looking as if she had found something, she ran to one of doors in the four corners of the room.

@@ -1,4 +1,4 @@
-
+﻿
 彼女が部屋を出て行ってからしばらくの間、私は我を失っていた。%K%P
 After the woman left the room, I became lost in my thoughts.
 她离开后有一段时间，我茫然自失着。
@@ -224,7 +224,7 @@ I stood in front of the door.
 
 階段を下りてみることにした。%K%P
 I opened the door.
-我打开门
+我打开门。
 
 //direct:I decided to go down the stairs. - makes absolutely no sense in context
 
@@ -247,7 +247,7 @@ I quietly place my right hand on the door frame to lean in and look inside.
 
 やはり誰もいない。%K%P
 As I thought, the room was empty.
-果然还是没人
+果然还是没人。
 
 気のせいだったのだろうか？%K%P
 Was it just my imagination?
@@ -307,7 +307,7 @@ I stood in front of the door.
 
 階段を下りてみることにした。%K%P
 I opened the door.
-我打开门
+我打开门。
 
 //prev:I decided to climb down the stairs. - no sense
 

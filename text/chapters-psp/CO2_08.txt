@@ -1,4 +1,4 @@
-
+﻿
 気がつけば、私は避難小屋にいた。%K%P
 When I came to, I was inside the shelter cabin.
 恢复意识的时候，我到了避难小屋里。
@@ -561,7 +561,7 @@ As if to calm himself down, Yomogi took a deep breath and sat next to Mayuzumi.
 
 打ってかわった優しい口調で、%K%P
 And shifting his tone from violent to gentle, he continued.
-他换了种温柔的语气说
+换了种温柔的语气，他继续说：
 
 黄泉木「なあ？　頼むよ、黛」%K%P
 Okay? I'm begging you, Mayuzumi.
@@ -789,7 +789,7 @@ If I went out now, even I would die.
 
 私は胸を撫で下ろしながら、%K%P
 As I ran my hand down his chest, I looked up at him.
-我放心地抚着胸口
+我放心地抚着胸口。
 
 こころ「くれぐれも気をつけてくださいね」%K%P
 Please be careful, okay?
@@ -877,7 +877,7 @@ Something important?
 
 ポケットをゴソゴソと探りながら、黄泉木さんは、%K%P
 While searching in his pocket, Yomogi-san said,
-黄泉木啪啦啪啦地翻着口袋，说道
+黄泉木啪啦啪啦地翻着口袋，说道：
 
 黄泉木「いや、きみらはどうなのかわからないけど」%K%P
 Well, I don't know what it's like for you guys,

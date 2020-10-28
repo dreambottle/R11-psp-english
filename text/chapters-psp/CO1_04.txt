@@ -1,4 +1,4 @@
-
+﻿
 こころ「ゆに！　助かったのね！？」%K%P
 Yuni! You were saved?!
 心「悠尼！你得救了！？」
@@ -378,7 +378,7 @@ Where is she right now?! Let me see her! Can you take me to her?!
 
 ゆにはたちまち勢いづくと、私のもとへと詰め寄ってきた。%K%P
 Yuni seemed to take heart from this, and he moved closer to me.
-悠尼一下子来了精神，向我逼近过来
+悠尼一下子来了精神，向我逼近过来。
 
 私は無駄だと知りながらも、こう言わざるを得なかった。%K%P
 I knew it'd most likely be useless, but I couldn't help saying it.
@@ -502,7 +502,7 @@ So there was no way for me to come up with a sure-fire comeback.
 
 この期に及んで自分が冬川こころだと主張したところで何になるだろう。%K%P
 What would it take for him to realize that "I" am Fuyukawa Kokoro?
-事到如今，主张自己是冬川心又能怎样
+事到如今，主张自己是冬川心又能如何？
 
 ゆにの反応は目に見えていた。%K%P
 I couldn't quite make out Yuni's expression at the moment.

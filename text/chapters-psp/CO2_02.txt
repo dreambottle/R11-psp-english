@@ -1,4 +1,4 @@
-
+﻿
 内海「あら、優希堂くん。呼びに行こうと思ってたのよ」%K%P
 Oh, Yukidoh-kun. I was just about to come and get you.
 内海「哎呀，优希堂。我正要去叫你呢」
@@ -1207,7 +1207,7 @@ Only big, thick eyebrows like pieces of seaweed can be called the proof of a rea
 
 さっそく私は描き始めた。%K%P
 Without wasting any more time, I started to draw.
-没有浪费时间，我立刻画了起来
+没有浪费时间，我立刻画了起来。
 
 こころ「ま～る描いてちょん、ま～る――」%K%P
 Le～t's dra～aaw a ro～und――
@@ -1235,7 +1235,7 @@ But to hover about the ears is too ordinary, so I'll concentrate on making the f
 
 さっそく私は描き始めた。%K%P
 Without wasting any more time, I started to draw.
-没有浪费时间，我立刻画了起来
+没有浪费时间，我立刻画了起来。
 
 こころ「ま～る描いてちょん、ま～る――」%K%P
 Le～t's dra～aaw a ro～und――
