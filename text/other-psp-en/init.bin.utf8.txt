@@ -7377,7 +7377,7 @@ The study of the mechanisms behind social life, social structures, and social is
 ;7620;12;インサニティ
 Insanity
 ;7624;56;インサニティ／ｉｎｓａｎｉｔｙ%N狂気、愚行、精神障害。%N
-Madness, foolish actions, mental illness.%N————————————————————%NPSP port brought to you by dreambottle.%NOriginal translation by TLWiki team.%N%NInsanity is doing the same thing over and over again and expecting different results.%N%NThis⑳story⑳has⑳not⑳finished⑳yet.%N―⑳It⑳is⑳an⑳infinity⑳loop!%N
+Madness, foolish actions, mental illness.%N————————————————————%NThis PSP port was brought to you by dreambottle.%NOriginal translation by TLWiki team.%N%NInsanity is doing the same thing over and over again and expecting different results.%N%NThis⑳story⑳has⑳not⑳finished⑳yet.%N―⑳It⑳is⑳an⑳infinity⑳loop!%N
 ;7630;2;晩
 Evening
 ;7634;112;晩／ばん%N現在では夜全体を意味することもあるが、%N本来は黄昏時から日没後まだ間もない%N夜の初め頃のことをさす。%N
