@@ -1,4 +1,4 @@
-
+﻿
 起こされた。%K%P
 I woke up.
 被弄醒了。
@@ -330,11 +330,11 @@ The absence of pain was very likely an indicator that my current condition could
 
 そう決意したのはいいのだが、仰向けのまま嘔吐するのは至難の業だった。%K%N
 It's good that I managed to work that out, but it's almost impossible to vomit while lying face-up.
-或许这仅仅只是没有疼痛，但对生命来说却是充满危机的状态也说不定……
+虽然下定了决心，但要仰面呕吐却是无比困难的行动。
 
 喉に指を突っ込もうにも、腕が１ミリも持ち上がらないのだからどうにもならない。%K%P
 And if I wasn't even capable of lifting my arm a few millimeters to stick my finger down my throat... nothing could be done.
-虽然下定了决心，但要仰面呕吐却是无比困难的行动。
+想要把手指伸进喉咙里，可是手臂连一毫米也举不起来，只好作罢。
 
 悟「はぁ……はぁ……はぁ……」%K%P
 Hah... hah... hah...

@@ -60,6 +60,8 @@ def main():
         elif ln2.startswith(unusedstr):
           # clearly mark as untranslated to make detection more easy
           tl_string = "<" + addr + ":not_translated>"
+        elif ln2.startswith(";"):
+          print("Warning, unexpected ';' in the beginning of line [{}]".format(ln2))
           
         # tl_string = clean_translation_enc_issues(tl_string)
         if (encoding_table_lang == 'en'):

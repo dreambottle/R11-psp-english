@@ -1,4 +1,4 @@
-
+﻿
 気がつくと、周囲の景色が切り替わっていた。%K%P
 All of a sudden, the scenery changed completely.
 回过神来，周围的景色开始切换。
@@ -754,11 +754,11 @@ Ahahahahah!
 
 悟「ぐるぐるぐる～」%K%P
 Round and round and roooo～und!
-悟「转转转～」
+悟「转转转～～」
 
 黛「きゃはははは」%K%P
 Ahahah! Hahah!
-黛「呀哈哈哈哈」
+黛「呀哈！哈哈哈！」
 
 悟「こんなののどこが楽しいんだよ？」%K%P
 Just what's so fun about this?

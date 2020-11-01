@@ -1,4 +1,4 @@
-
+﻿
 黛「今度こそ……もうダメだわ……」%K%P
 This time... we won't make it...
 黛「这次是真的……没救了……」
@@ -409,7 +409,7 @@ I want to save her.
 
 そんな気持ちでいっぱいになった。%K%P
 The feeling spread through me.
-这种感情充满了我。
+全身上下都是这种感情。
 
 黛「ねえ、悟……覚えてる？」%K%P
 Hey, Satoru... do you remember?

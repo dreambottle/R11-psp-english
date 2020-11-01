@@ -152,18 +152,21 @@ def read_tips() -> List[Tip]:
   return tips
 
 def main():
-  lang_to_merge = "en"
-  mergewith = path.dirname(__file__) + "/../text/other-psp-en/init.bin.utf8.txt"
-  saveas = path.dirname(__file__) + "/../text/other-psp-en/init.bin.utf8.txt"
-  # Hardcode. Change this if required.
-  # tips_start should point to ";7610;12;ソシオロジィ" line number, starting from 0 (-1 from the line that your editor shows)
-  tips_start = 7372
+  
+  lang_to_merge = sys.argv[1] if sys.argv[1] else "en"
 
-  # CN
-  # lang_to_merge = "cn"
-  # mergewith = path.dirname(__file__) + "/../text/other-psp-cn/init.bin.utf8.txt" #CN
-  # saveas = path.dirname(__file__) + "/../text/other-psp-cn/init.bin.utf8.txt"
-  # tips_start = 7090
+  if lang_to_merge == "en":
+    mergewith = path.dirname(__file__) + "/../text/other-psp-en/init.bin.utf8.txt"
+    saveas = path.dirname(__file__) + "/../text/other-psp-en/init.bin.utf8.txt"
+    # Hardcode. Change this if required.
+    # tips_start should point to ";7610;12;ソシオロジィ" line number, starting from 0 (-1 from the line that your editor shows)
+    tips_start = 7372
+  elif lang_to_merge == "cn":
+    mergewith = path.dirname(__file__) + "/../text/other-psp-cn/init.bin.utf8.txt" #CN
+    saveas = path.dirname(__file__) + "/../text/other-psp-cn/init.bin.utf8.txt"
+    tips_start = 7090
+  else:
+    raise Exception()
 
 
   tips_end = tips_start + 766 # lower boundary line for the tips cursor, exclusive. Also 0-based.

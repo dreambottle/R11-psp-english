@@ -90,7 +90,7 @@ Her death is the reason Satoru ends up designing and executing the current "proj
 协调性：依人格发生改变（主人格为普通）%N
 
 #CN#2
-性格：依人格发生改变（主人格为温和、坚强、聪明伶俐）%N
+性格：依人格发生改变（主人格温和、坚强、聪明伶俐）%N
 兴趣：依人格发生改变（主人格为读书）%N
 喜好：依人格发生改变（主人格为哥哥、家人、雪）%N
 厌恶：依人格发生改变（主人格为医院、药、自己）%N

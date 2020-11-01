@@ -1,4 +1,4 @@
-
+﻿
 オレとこころは波打ち際を歩いていた。%K%P
 Kokoro and I walked along the beach together.
 我和心走在岸边。
@@ -365,7 +365,7 @@ Really?
 
 悟「うん」%K%P
 Yup.
-悟「嗯」
+悟「真的」
 
 ゆに「じゃあ、教えてあげよう」%K%P
 Okay, then I'll tell you.

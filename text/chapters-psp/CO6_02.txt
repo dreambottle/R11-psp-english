@@ -1,7 +1,7 @@
 ﻿
 その金属音は、大自然の猛威の前に命の灯火を消されそうになっている人間の微かな抵抗の声だ。%K%P
 The metallic sound was like the last form of resistance from a human whose flame of life was about to be snuffed out by the fury of nature.
-那个金属音在大自然的凶猛面前传达了生命之火将息的人类的微弱抵抗。
+那个金属音在大自然的凶猛面前，传达了生命之火将息的人类的微弱抵抗。
 
 決して、耳に心地よい音ではないけれど……それは文明の音。%K%P
 It was by no means pleasant to the ears, but... it was the sound of civilization.

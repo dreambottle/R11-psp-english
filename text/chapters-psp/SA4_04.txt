@@ -1,4 +1,4 @@
-
+﻿
 オレは一度部屋に帰ってコートを羽織り、外に出た。%K%P
 I returned to my room for my coat, then headed outside.
 我回到屋里披上外套，走到外面。
@@ -534,7 +534,7 @@ I heard it from him.
 
 悟「ゆうべ彼はこう言ってた……」%K%P
 He told me last night...
-悟「从他那里直接听说的」
+悟「他昨天告诉我的……」
 
 悟「予定日は８月だって……」%K%P
 That the due date was in August...
@@ -790,11 +790,11 @@ When he saw the troubled expression on his mother's face, Junichi frantically tr
 
 懸命に弁解しているさなか、またしても彼の瞳には涙があふれてきた。%K%P
 While trying his best to make excuses, his eyes began to overflow with tears.
-“他说这个也行的……”
+拼命辩解着，泪水已经开始在他的眼里打转了。
 
 『それでいいって言ったから……』%K%N
 "I'm saying it's fine..."
-“他说……这个也行的……”
+“他说这个也行的……”
 
 『それでいいって……言ったから……』%K%N
 "I said... it's fine..."

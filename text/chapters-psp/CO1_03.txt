@@ -286,7 +286,7 @@ Her face was devoid of any emotion; it was hard to tell if she was thinking anyt
 私は平静を装うべく必死に笑みを浮かべて見せた。%K%P
 I tried to hide my panic behind a calm smile.
 //Old: I calmly hid my frantic face by putting on a smile.
-我假装平静，拼命地挤出一丝笑容
+我假装平静，拼命地挤出一丝笑容。
 
 うまく笑えない。%K%P
 I don't think I was much good at it.

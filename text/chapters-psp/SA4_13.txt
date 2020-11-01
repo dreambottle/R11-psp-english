@@ -1,4 +1,4 @@
-
+﻿
 転移……。%K%P
 A transfer....
 转移……
@@ -429,7 +429,7 @@ It was just a little after 5 PM on the evening of the 11th.
 
 このときにはまだ、朱倉岳の避難小屋には誰もいなかった。%K%N
 At the time, there wasn't anyone inside the Mount Akakura shelter cabin.
-那是将近１１日下午５时的事情。
+当时，朱仓岳的避难小屋还没有人在。
 
 黄泉木も鈴もこころも、小屋にはたどりついていなかったのだ。%K%P
 Yomogi, Lin, and Kokoro hadn't reached it yet.

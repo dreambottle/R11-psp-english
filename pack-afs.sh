@@ -70,6 +70,7 @@ repack_etc_afs () {
 
 # Repack init.bin
 repack_init_bin () {
+	echo "Applying translation to init.bin"
 	# Apply init.bin strings
 	./py-src/apply_init_translation.py text/other-psp-${TL_SUFFIX}/init.bin.utf8.txt workdir/init.dec workdir/init.dec.${TL_SUFFIX} ${TL_SUFFIX} || exit 1;
 
@@ -79,7 +80,7 @@ repack_init_bin () {
 		# Used for testing purposes
 		INIT_SRC=$WORKDIR/init.dec
 	fi
-	echo "Compressing $INIT_SRC"
+	echo "Compressing $INIT_SRC -> $WORKDIR/init.${TL_SUFFIX}.bin"
 	$COMPRESS $INIT_SRC $WORKDIR/init.${TL_SUFFIX}.bin || exit 1;
 	mv -f $WORKDIR/init.${TL_SUFFIX}.bin $ISO_RES_DIR/init.bin
 }
@@ -87,9 +88,10 @@ repack_init_bin () {
 # Patch BOOT.BIN
 patch_boot_bin () {
 	# Apply translation
+	echo "Applying translation to BOOT"
 	./py-src/apply_boot_translation.py text/other-psp-${TL_SUFFIX}/BOOT.utf8.txt workdir/BOOT.BIN workdir/BOOT.BIN.${TL_SUFFIX} ${TL_SUFFIX} || exit 1;
 
-	echo "Applying patches to BOOT.BIN"
+	echo "Applying other patches to BOOT"
 	mv -f $WORKDIR/BOOT.BIN.${TL_SUFFIX} $WORKDIR/BOOT.BIN.patched
 	if [ "cn" == "${TL_SUFFIX}" ]; then
 		$ARMIPS src/boot-patches-cn.asm -root workdir/ || exit 1;

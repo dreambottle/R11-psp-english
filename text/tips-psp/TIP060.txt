@@ -37,10 +37,9 @@ Additionally, it is not simply the case that "one becomes forgetful with age."%N
 Adults, because of having a much greater store of memories than children, are said to take much longer to remember a single essential piece of information.
 
 #CN#1
-hippocampus%N
-即海马体%N
-属于大脑旧皮质的部位，负责处理有关%N
-欲望、本能以及自律神经的控制。%N
+hippocampus，即海马体。%N
+属于大脑旧皮质的部位，负责处理有关欲望、
+本能以及自律神经的控制。%N
 另外，海马体也负责判断信息的必要性，%N
 并且负责在大脑其它部位产生记忆，%N
 可以说是大脑的记忆工厂。%N
@@ -48,9 +47,7 @@ hippocampus%N
 可能会连五分钟以前的事情也记不住。%N
 
 #CN#2
-另外，“年纪大了就比较容易忘记事情”%N
-的说法是错误的，%N
-事实上拥有许多记忆的大人跟记忆量较少的%N
-小孩子不一样，%N
-需要更多的时间去选择出必要的资讯%N
-来进行记忆。%N
+另外，
+“年纪大了容易忘事儿”的说法是错误的，%N
+拥有许多记忆的大人跟记忆量较少的小孩子不同，%N
+需要更多的时间去选择出必要的资讯来进行记忆。%N
