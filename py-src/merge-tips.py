@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# This script can be used to apply the text from TIPS in `tips-psp/` to `other-psp/init.psp.utf8.txt` file
+# This script can be used to apply the text from TIPS in `tips-psp/` to `other-psp-*/init.bin.utf8.txt` file
 
 import sys
 import re

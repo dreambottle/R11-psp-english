@@ -1143,7 +1143,7 @@
 1142:	0x874E	⑮	
 1143:	0x874F	⑯	
 1144:	0x8750	⑰	
-1145:	0x8751	™	
+1145:	0x8751	™	# ⑱ in SJIS
 1146:	0x8752	⑲	
 1147:	0x8753	⑳	# R11: Rendered as a blank space (half width? or is it ideographic space U+3000?)
 1148:	0x8754	Ⅰ	

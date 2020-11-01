@@ -87,8 +87,7 @@ repack_init_bin () {
 # Patch BOOT.BIN
 patch_boot_bin () {
 	# Apply translation
-	#TODO cn
-	./text/apply-boot-translation.py text/other-psp-en/BOOT.BIN.psp.txt workdir/BOOT.BIN workdir/BOOT.BIN.${TL_SUFFIX} || exit 1;
+	./py-src/apply_boot_translation.py text/other-psp-${TL_SUFFIX}/BOOT.utf8.txt workdir/BOOT.BIN workdir/BOOT.BIN.${TL_SUFFIX} ${TL_SUFFIX} || exit 1;
 
 	echo "Applying patches to BOOT.BIN"
 	mv -f $WORKDIR/BOOT.BIN.${TL_SUFFIX} $WORKDIR/BOOT.BIN.patched

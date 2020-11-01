@@ -96,6 +96,7 @@ def loadJapCjkCharsetAsIndex() -> list:
     font_index[1138][0] = "ö"
     font_index[1139][0] = "ü"
     font_index[1145][0] = "™"
+    font_index[1145][3] += "# ⑱ in SJIS"
     #font_index[1146][0] = "…"
     # circled number 20
     font_index[1147][3] += "# R11: Rendered as a blank space (half width? or is it ideographic space U+3000?)"
