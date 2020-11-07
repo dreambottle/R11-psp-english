@@ -27,8 +27,7 @@ repack_mac_afs () {
 
 	mkdir -p r11_mac_${TL_SUFFIX}/
 	
-	# TODO cn
-	./text/apply-shortcuts-translation.py text/other-psp-en/SHORTCUT.SCN.psp.txt r11_mac/SHORTCUT.SCN r11_mac_${TL_SUFFIX}/SHORTCUT.SCN || exit 1;
+	./py-src/apply_shortcuts_translation.py text/other-psp-${TL_SUFFIX}/SHORTCUT.SCN.txt r11_mac/SHORTCUT.SCN r11_mac_${TL_SUFFIX}/SHORTCUT.SCN ${TL_SUFFIX} || exit 1;
 	$COMPRESS ./r11_mac_${TL_SUFFIX}/SHORTCUT.{SCN,BIP}
 	
 	for i in text/tmp/mac-${TL_SUFFIX}-combined-psp/*.txt ; do
@@ -100,8 +99,9 @@ patch_boot_bin () {
 	fi
 	rm -f $ISO_BIN_DIR/BOOT.BIN
 	rm -f $ISO_BIN_DIR/EBOOT.BIN
-	cp -f $WORKDIR/BOOT.BIN.patched ./$ISO_BIN_DIR/EBOOT.BIN
 	mv -f $WORKDIR/BOOT.BIN.patched ./$ISO_BIN_DIR/BOOT.BIN
+	# I think EBOOT is supposed to be encrypted, but it works fine without it on emulators and on a real psp
+	cp -f ./$ISO_BIN_DIR/BOOT.BIN ./$ISO_BIN_DIR/EBOOT.BIN
 }
 
 # Actually running above functions
