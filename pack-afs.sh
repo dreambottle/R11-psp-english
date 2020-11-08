@@ -28,6 +28,7 @@ repack_mac_afs () {
 	mkdir -p r11_mac_${TL_SUFFIX}/
 	
 	./py-src/apply_shortcuts_translation.py text/other-psp-${TL_SUFFIX}/SHORTCUT.SCN.txt r11_mac/SHORTCUT.SCN r11_mac_${TL_SUFFIX}/SHORTCUT.SCN ${TL_SUFFIX} || exit 1;
+	# cp -f r11_mac/SHORTCUT.SCN r11_mac_${TL_SUFFIX}/SHORTCUT.SCN || exit 1;
 	$COMPRESS ./r11_mac_${TL_SUFFIX}/SHORTCUT.{SCN,BIP}
 	
 	for i in text/tmp/mac-${TL_SUFFIX}-combined-psp/*.txt ; do

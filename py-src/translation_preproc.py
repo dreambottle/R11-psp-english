@@ -65,7 +65,7 @@ def detectJpSpeakerAndBrackets(jp_line):
   return [jp_speaker, jp_leading_bracket, jp_trailing_bracket]
 
 def loadJpMacChapterFile(chapter_name: str) -> List[str]:
-  orig_chapter_path = os.path.dirname(__file__) + "/../text/tmp/mac-ja-psp/" + chapter_name + ".txt"
+  orig_chapter_path = os.path.dirname(__file__) + "/../text/tmp/mac-jp-psp/" + chapter_name + ".txt"
   with open(orig_chapter_path, "r", encoding=r11.sjis_enc) as r11_jp_textfile:
     return r11_jp_textfile.readlines()
   
