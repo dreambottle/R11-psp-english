@@ -51,7 +51,7 @@ It is a very useful drug, because its drowsiness side effect for a minor tranqui
 
 #CN#2
 服用后在一小时内血液浓度达到最大值，%N
-血液中的半衰期为6~20小时。%N
+血液中的半衰期为6～20小时。%N
 作用时间被归类为短效～中效之间。%N
 由于服用此药造成的嗜睡作用%N
 在镇静剂中是比较弱的，%N

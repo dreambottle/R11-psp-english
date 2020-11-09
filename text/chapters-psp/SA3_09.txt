@@ -1,4 +1,4 @@
-
+﻿
 晴れているとは言え、長時間外にいたものだから、さすがに身体の芯まで凍えてしまった。%K%P
 Even though it'd been sunny today, my body was frozen to the core from staying outside so long.
 虽然说天气不错，不过长时间待在外面，我冷得骨头也僵了。
@@ -417,7 +417,7 @@ The meaning of the last verse...
 
 悟「後ろの正面っていうのは……いったい……」%K%P
 What does "who's that behind you?" mean...?
-悟「“背后的正面”究竟是指……」
+悟「“猜猜背后是何人”究竟是指……」
 
 穂鳥「さあ～？」%K%P
 Who knows～?

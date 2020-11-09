@@ -105,7 +105,7 @@ Well, though I called them "rules," they were nothing too complicated.
 
 悟「というわけなんだけど、わかったかな？」%K%P
 So that's how we'll do it. Did everyone get that?
-悟「就是这样，懂了吧？
+悟「就是这样，懂了吧？」
 
 ３人は深くうなずいて見せた。%K%P
 All three of them nodded.
@@ -1569,7 +1569,7 @@ And flew into the net.
 
 ゆに「うっしゃー！」%K%P
 Alriiiight!
-悠尼「很好！
+悠尼「很好！」
 
 ゆにが飛び跳ねてガッツポーズを見せる。%K%P
 Yuni jumped up and down, doing a victory pose.

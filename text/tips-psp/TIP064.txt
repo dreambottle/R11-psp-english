@@ -24,8 +24,7 @@ From the square of its absolute value, it can give the existing probability of a
 In this sense, the wave function is referred to as the probability amplitude.
 
 #CN#1
-代表粒子状态的空间坐标%N
-对应于时间的函数。%N
+代表粒子状态的空间坐标对应于时间的函数。%N
 满足薛定谔方程或狄拉克方程，%N
 保障量子力学中波动与粒子的二象性。%N
 波函数绝对值的平方与粒子的%N

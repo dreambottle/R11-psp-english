@@ -32,7 +32,8 @@ def main():
 
   
   head = scn_bytes[:addr_text[0]]
-  text_magic_tail = scn_bytes[addr_text[1]:addr_text[1]+2] # not sure what it does.
+  # two bytes "0x90 0x90" not sure what they do. Could be just an alignment artifact
+  text_magic_tail = scn_bytes[addr_text[1]:addr_text[1]+2]
   shortcut_data = scn_bytes[shortcut_data_offset:data2_offset]
   data2 = scn_bytes[data2_offset:]
 
@@ -67,7 +68,7 @@ def main():
 
   # adjust data offsets
   # new_data_offset = ((text[0]+text_pos) & ~0xf) + 0x10  # align new offset
-  new_data_offset = shortcut_data_offset # Keep old offset. No bugs, but all texts must fit.
+  new_data_offset = shortcut_data_offset # Keep old offset. No bugs, but all texts must fit the original size.
   # data_offset_diff = new_data_offset - shortcut_data_offset
   # print("Shortcuts data offset", new_data_offset, data_offset_diff)
   # if (data_offset_diff != 0):

@@ -1,4 +1,4 @@
-
+﻿
 部屋を出る。%K%P
 I left the room.
 走出房间。
@@ -1375,7 +1375,7 @@ Yukidoh Satoru...
 
 犬伏「ゆにの言ってたもうひとりの人格とかいうやつね？」%K%P
 That other personality that Yuni mentioned, right?
-犬伏「悠尼所说的另一人格？
+犬伏「悠尼所说的另一人格？」
 
 悟「ちょっと待ってくれ」%K%P
 Hold on a second!
@@ -1752,7 +1752,7 @@ Enough. Raise your head already.
 
 穂鳥「えっ？　じゃあ許してくれるの？」%K%P
 What? Then you're going to forgive me?
-穗鸟「哎？那么说原谅我了？
+穗鸟「哎？那么说原谅我了？」
 
 悟「ああ」%K%P
 Yeah.

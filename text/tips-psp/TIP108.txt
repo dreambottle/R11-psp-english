@@ -349,10 +349,6 @@ The core. An essential part of matter.
 %N
 【Communication】%N
 沟通、交流。%N
-%N
-【Anxiety】%N
-不安。%N
-%N
 
 #CN#7
 【Cue】%N
@@ -364,6 +360,7 @@ The core. An essential part of matter.
 症状包含无法使自己的思考、意志、行动保持秩序，%N
 是一种会缓慢、持续的妄想疾患。%N
 %N
+
 #CN#8
 【Fear and Insanity】%N
 恐惧与疯狂。%N
@@ -374,6 +371,9 @@ The core. An essential part of matter.
 用来指称引发攻击性行为以及自我伤害死亡行为的本能。%N
 
 #CN#9
+【Anxiety】%N
+不安。%N
+%N
 【Delusive consciousness】%N
 妄想的意识。%N
 %N
