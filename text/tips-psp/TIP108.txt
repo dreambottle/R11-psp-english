@@ -362,17 +362,18 @@ The core. An essential part of matter.
 %N
 
 #CN#8
+【Anxiety】%N
+不安。%N
+%N
 【Fear and Insanity】%N
 恐惧与疯狂。%N
 %N
 【Thanatos】%N
 希腊神话中将“死亡”拟人化的神明“塔纳托斯”。%N
-在弗洛伊德的理论中，%N
-用来指称引发攻击性行为以及自我伤害死亡行为的本能。%N
 
 #CN#9
-【Anxiety】%N
-不安。%N
+在弗洛伊德的理论中，%N
+用来指称引发攻击性行为以及自我伤害死亡行为的本能。%N
 %N
 【Delusive consciousness】%N
 妄想的意识。%N

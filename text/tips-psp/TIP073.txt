@@ -27,8 +27,7 @@ Since the particles must be passed through a beam splitter (such as a half-silve
 #CN#1
 让已经隔离在一封闭系统中的两个粒子%N
 陷入缠结状态，使得这两个粒子无法彼此区别%N
-（维持量子缠结的状态），并且同时加以侦测的%N
-方法。%N
+（维持量子缠结的状态），并且同时加以侦测的方法。%N
 因为必须要同时对两个粒子使用分光器，%N
 （此处使用的是半透镜一类的东西）%N
 所以在技术上非常困难。%N
