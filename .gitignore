@@ -20,6 +20,7 @@
 /iso/*.cso
 
 /patches/xdelta3/
+/patches/bip/
 
 /*.exe
 /*.dll

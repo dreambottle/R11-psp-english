@@ -6,6 +6,7 @@ COMPRESS=./bin/compressbip
 REPACK_AFS=./bin/repack_afs
 REPACK_SCENE=text/repack_scene.py
 ARMIPS=./tools/armips
+PY=python3
 if [ `uname` == "Darwin" ]; then
     ARMIPS=./tools/armips_osx
 elif [ `uname` == "Linux" ]; then
@@ -27,7 +28,7 @@ repack_mac_afs () {
 
 	mkdir -p r11_mac_${TL_SUFFIX}/
 	
-	./py-src/apply_shortcuts_translation.py text/other-psp-${TL_SUFFIX}/SHORTCUT.SCN.txt r11_mac/SHORTCUT.SCN r11_mac_${TL_SUFFIX}/SHORTCUT.SCN ${TL_SUFFIX} || exit 1;
+	$PY ./py-src/apply_shortcuts_translation.py text/other-psp-${TL_SUFFIX}/SHORTCUT.SCN.txt r11_mac/SHORTCUT.SCN r11_mac_${TL_SUFFIX}/SHORTCUT.SCN ${TL_SUFFIX} || exit 1;
 	# cp -f r11_mac/SHORTCUT.SCN r11_mac_${TL_SUFFIX}/SHORTCUT.SCN || exit 1;
 	$COMPRESS ./r11_mac_${TL_SUFFIX}/SHORTCUT.{SCN,BIP}
 	
@@ -52,7 +53,7 @@ compose_font () {
 		7z x glyphs-cn.7z
 		mv -f glyphs-cn/* glyphs/
 	fi
-	python3 ../../py-src/extract_font.py repack glyphs/ || exit 1;
+	$PY ../../py-src/extract_font.py repack glyphs/ || exit 1;
 	cp FONT00.NEW ../../r11_etc_${TL_SUFFIX}/FONT00.NEW
 	cd ../..
 }
@@ -72,7 +73,7 @@ repack_etc_afs () {
 repack_init_bin () {
 	echo "Applying translation to init.bin"
 	# Apply init.bin strings
-	./py-src/apply_init_translation.py text/other-psp-${TL_SUFFIX}/init.bin.utf8.txt workdir/init.dec workdir/init.dec.${TL_SUFFIX} ${TL_SUFFIX} || exit 1;
+	$PY ./py-src/apply_init_translation.py text/other-psp-${TL_SUFFIX}/init.bin.utf8.txt workdir/init.dec workdir/init.dec.${TL_SUFFIX} ${TL_SUFFIX} || exit 1;
 
 	INIT_SRC=$WORKDIR/init.dec.${TL_SUFFIX}
 	if [ ! -f $INIT_SRC ]; then
@@ -89,7 +90,7 @@ repack_init_bin () {
 patch_boot_bin () {
 	# Apply translation
 	echo "Applying translation to BOOT"
-	./py-src/apply_boot_translation.py text/other-psp-${TL_SUFFIX}/BOOT.utf8.txt workdir/BOOT.BIN workdir/BOOT.BIN.${TL_SUFFIX} ${TL_SUFFIX} || exit 1;
+	$PY ./py-src/apply_boot_translation.py text/other-psp-${TL_SUFFIX}/BOOT.utf8.txt workdir/BOOT.BIN workdir/BOOT.BIN.${TL_SUFFIX} ${TL_SUFFIX} || exit 1;
 
 	echo "Applying other patches to BOOT"
 	mv -f $WORKDIR/BOOT.BIN.${TL_SUFFIX} $WORKDIR/BOOT.BIN.patched
@@ -98,9 +99,11 @@ patch_boot_bin () {
 	else
 		$ARMIPS src/boot-patches.asm -root workdir/ || exit 1;
 	fi
+	mv -f $WORKDIR/BOOT.BIN.patched $WORKDIR/BOOT.BIN.${TL_SUFFIX}
+	
 	rm -f $ISO_BIN_DIR/BOOT.BIN
 	rm -f $ISO_BIN_DIR/EBOOT.BIN
-	mv -f $WORKDIR/BOOT.BIN.patched ./$ISO_BIN_DIR/BOOT.BIN
+	cp -f $WORKDIR/BOOT.BIN.${TL_SUFFIX} ./$ISO_BIN_DIR/BOOT.BIN
 	# I think EBOOT is supposed to be encrypted, but it works fine without it on emulators and on a real psp
 	cp -f ./$ISO_BIN_DIR/BOOT.BIN ./$ISO_BIN_DIR/EBOOT.BIN
 }

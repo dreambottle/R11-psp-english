@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # This script can be used to apply the text from TIPS in `tips-psp/` to `other-psp-*/init.bin.utf8.txt` file
+# Example usage: `python3 py-src/merge_tips.py cn`
 
 import sys
 import re
