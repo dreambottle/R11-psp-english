@@ -21,17 +21,17 @@ Credits for English translation go to [TLWiki team](http://web.archive.org/web/2
 Current status
 -----------
 
-Scenes: Done, but text overflows the text box in some places. (Move the text box up a bit in game settings)
+Scenes: Translated, but text overflows the text box in some places. (Move the text box up a bit in game settings)
 <br>
-Shortcuts (init.bin): Done
+Shortcuts (init.bin): Translated
 <br>
-TIPS (init.bin): Done. Starting from version 2, crashes are fixed.
+TIPS (init.bin): Translated. Starting from version 2, crashes are fixed.
 <br>
-Names (init.bin): Done
+Names (init.bin): Translated
 <br>
-Chronology (init.bin): Not done.
+Chronology (init.bin): Not translated in English. Translated in Chinese.
 <br>
-Menus (BOOT.BIN): Done. HOME menu - Done.
+Menus (BOOT.BIN): Translated. HOME menu - Translated.
 <br>
 Font (FONT00.FOP): Tweaked for English text, reduced spacing. EN glyphs are brightened and sharpened.
 
@@ -39,7 +39,7 @@ Font (FONT00.FOP): Tweaked for English text, reduced spacing. EN glyphs are brig
 For Developers
 -----------
 
-This project is a bunch of scripts in shell script, python and C. Individually they unpack and repack game resources, decode text, fonts etc. And shell scripts automate the process of applying translation. They should should work both on macos and linux.
+This project is a bunch of scripts and programs in bash, python and C. Python and C programs unpack and repack game resources, decode text, fonts etc. Shell scripts automate the process of applying the translation. They should should work both on macos and linux.
 
 For the full run
 
