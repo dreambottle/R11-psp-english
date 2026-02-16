@@ -51,3 +51,5 @@ python3 ../../py-src/extract_font.py pnghalf || exit 1;
 cd ../..
 
 $DECOMPRESS $WORK_DIR/init.bin $WORK_DIR/init.dec
+
+mv r11_etc/ etc/
