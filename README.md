@@ -71,4 +71,4 @@ Where to get:
 
 - Arch Linux pacman install: `sudo pacman -S cdrtools 7zip python`.
 
-- Last tested to be working with python 3.14 (will likely work with later versions too.)
+Latest Python version tested: 3.14 (and will likely work with newer versions too.)
