@@ -11,7 +11,7 @@ BIPDIR="$XDELTADIR/../bip"
 mkdir -p "${BIPDIR}/mac"
 
 # set to "en" if unset
-if [ -z "${TL_SUFFIX}" ]; then
+if [ -z "${TL_SUFFIX:-}" ]; then
     export TL_SUFFIX="en"
 fi
 
