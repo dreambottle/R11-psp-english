@@ -4,7 +4,7 @@
 # This script processes chapters-psp/ further, preparing the TL to be in the format, digestible by repack_scene tool.
 
 # set to "en" if unset
-if [ -z "${TL_SUFFIX}" ]; then
+if [ -z "${TL_SUFFIX:-}" ]; then
     export TL_SUFFIX="en"
 fi
 

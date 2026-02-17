@@ -1,3 +1,4 @@
 #!/bin/bash
+set -euo pipefail
 
 mkisofs -iso-level 4 -xa -A "PSP GAME" -V "R11" -sysid "PSP GAME" -volset "" -p "" -publisher "" -o iso/r11-repacked.iso r11_iso_extracted/

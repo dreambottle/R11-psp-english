@@ -1,4 +1,6 @@
 #!/bin/bash
+set -euo pipefail
+
 ISO_RES_DIR=r11_iso_extracted/PSP_GAME/USRDIR
 ISO_BIN_DIR=r11_iso_extracted/PSP_GAME/SYSDIR
 WORKDIR=./workdir
@@ -15,7 +17,7 @@ fi
 
 # change this for other translations
 # set to "en" if unset
-if [ -z "${TL_SUFFIX}" ]; then
+if [ -z "${TL_SUFFIX:-}" ]; then
     export TL_SUFFIX="en"
 fi
 

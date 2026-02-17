@@ -1,4 +1,5 @@
 #!/bin/bash
+set -euo pipefail
 
 ISO_FILE=iso/Remember11-jap.iso
 

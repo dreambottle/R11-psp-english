@@ -1,4 +1,5 @@
 #!/bin/sh
+set -euo pipefail
 
 # Extracts text from scenes (aka chapters, main text) to text files with the original encoding.
 # Before running this, iso and afs packages must be unpacked, so that .SCN files are present in r11_mac/ folder.

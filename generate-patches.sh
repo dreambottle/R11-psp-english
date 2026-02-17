@@ -1,4 +1,5 @@
 #!/bin/sh
+set -euo pipefail
 
 # Generates xdelta3 patch files.
 # Should be run after pack-afs.sh, requires xdelta3 on the PATH

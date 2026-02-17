@@ -1,4 +1,6 @@
 #!/bin/bash
+set -euo pipefail
+
 SRC=./src
 
 CFLAGS="-std=c99 -O2"
