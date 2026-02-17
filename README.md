@@ -21,7 +21,7 @@ Credits for English translation: [TLWiki team](http://web.archive.org/web/201808
 
 **Finished**
 
-Scenes: Fully translated, but text overflows the text box in some places. (Move the text box up a bit in game settings)
+Scenes: Fully translated, but text sometimes goes below the text box boundary. (Workaround: move the text box up a little in game settings)
 <br>
 Shortcuts (init.bin): Fully translated
 <br>
