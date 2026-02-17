@@ -51,3 +51,5 @@ cp r11_$PKG/FONT00.FNT text/font/FONT00.FNT
 (cd text/font && python3 ../../py-src/extract_font.py pnghalf)
 
 $DECOMPRESS $WORK_DIR/init.bin $WORK_DIR/init.dec
+
+mv r11_etc/ etc/
