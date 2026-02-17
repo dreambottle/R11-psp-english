@@ -25,7 +25,7 @@ Scenes: Fully translated, but text sometimes goes below the text box boundary. (
 <br>
 Shortcuts (init.bin): Fully translated
 <br>
-TIPS (init.bin): Fully translated. Starting from version 2, crashes are fixed.
+TIPS (init.bin): Fully translated
 <br>
 Names (init.bin): Fully translated
 <br>
