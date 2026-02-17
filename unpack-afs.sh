@@ -1,6 +1,8 @@
 #!/bin/bash
+set -euo pipefail
+
 # extract all the japanese gametext.
-# 
+
 GIMCONV="./tools/GimConv/GimConv.exe"
 DECOMPRESS="./bin/decompressbip"
 REPACK_AFS="./bin/repack_afs"
@@ -44,10 +46,8 @@ for i in r11_$PKG/*.FOP ; do
 	f=`basename $i .FOP`
 	$DECOMPRESS r11_$PKG/$f{.FOP,.FNT} || exit 1
 done
-cp etc/FONT00.FNT text/font/FONT00.FNT 
+cp r11_$PKG/FONT00.FNT text/font/FONT00.FNT 
 
-cd text/font
-python3 ../../py-src/extract_font.py pnghalf || exit 1;
-cd ../..
+(cd text/font && python3 ../../py-src/extract_font.py pnghalf)
 
 $DECOMPRESS $WORK_DIR/init.bin $WORK_DIR/init.dec
