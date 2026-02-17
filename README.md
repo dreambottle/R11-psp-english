@@ -1,5 +1,6 @@
+# Project
 
-Ports of the **Remember 11 - the age of infinity** translations to PSP.
+**Remember 11 - the age of infinity** translation patches for PSP.
 
 ## Links
 
