@@ -1,66 +1,74 @@
 
-This project ports the English translation of **Remember 11 - the age of infinity** VN to PSP.
+Ports of the **Remember 11 - the age of infinity** translations to PSP.
 
-Now also includes the Simplified Chinese translation.
+## Links
 
-### Useful Links
-
-[**Patch Downloads**](https://github.com/dreambottle/R11-psp-english/releases)
+[**English Patch Downloads**](https://github.com/dreambottle/R11-psp-english/releases)
 
 [Chinese release](https://bbs.oldmanemu.net/thread-5222.htm)
 
+[Remember11 Explained](https://adayem.wordpress.com/) - analysis and explanations of game mysteries. Also provides a full walkthrough chart.
+
+[Remember11 links on Fandom](http://remember11.fandom.com/wiki/Analysis_of_Remember_11) - other useful links
+
 [Thread on Gbatemp.net](https://gbatemp.net/threads/release-remember11-the-age-of-infinity-psp-english-translation.470256/)
 
-[Remember11 Explained](https://adayem.wordpress.com/remember11-explained/) - explanation and analysis of the game mysteries, also has a full walkthrough chart.
-
-[Remember11 links on Wikia](http://remember11.wikia.com/wiki/Analysis_of_Remember_11) - contains other useful links
-
-Credits for English translation go to [TLWiki team](http://web.archive.org/web/20180819171103/https://tlwiki.org/?title=Remember11_-_the_age_of_infinity) (now defunct)
+Credits for English translation: [TLWiki team](http://web.archive.org/web/20180819171103/https://tlwiki.org/?title=Remember11_-_the_age_of_infinity) (now defunct)
 
 
-Current status
------------
+## Progress
 
-Scenes: Translated, but text overflows the text box in some places. (Move the text box up a bit in game settings)
+**Finished**
+
+Scenes: Fully translated, but text overflows the text box in some places. (Move the text box up a bit in game settings)
 <br>
-Shortcuts (init.bin): Translated
+Shortcuts (init.bin): Fully translated
 <br>
-TIPS (init.bin): Translated. Starting from version 2, crashes are fixed.
+TIPS (init.bin): Fully translated. Starting from version 2, crashes are fixed.
 <br>
-Names (init.bin): Translated
+Names (init.bin): Fully translated
 <br>
-Chronology (init.bin): Not translated in English. Translated in Chinese.
+Chronology (init.bin): Not translated in the English patch, Translated in the Chinese patch.
 <br>
-Menus (BOOT.BIN): Translated. HOME menu - Translated.
+Menus (BOOT.BIN): Patched. HOME menu - Patched.
 <br>
-Font (FONT00.FOP): Tweaked for English text, reduced spacing. EN glyphs are brightened and sharpened.
+Font (FONT00.FOP) was tweaked for English text, reduced spacing. English glyphs were manually adjusted to be brighter and sharper for better legibility.
 
 
-For Developers
------------
+## For Developers
 
-This project is a bunch of scripts and programs in bash, python and C. Python and C programs unpack and repack game resources, decode text, fonts etc. Shell scripts automate the process of applying the translation. They should should work both on macos and linux.
+This project is a collection of scripts and programs written in bash, python and C.
+- The Python and C programs unpack and repack game resources, decode text and fonts.
+- Shell scripts are a very primitive build system that automates applying the translation. They will work on Linux (and probably macos).
 
-For the full run
+For the full run:
 
 1. Put the Remember11 iso at `iso/Remember11-jap.iso`
 
 2. Run `./make.sh`
 
-3. Result iso will be at `iso/remember11-repacked.iso`
+3. Result iso will be located at `iso/remember11-repacked.iso`
 
-`./generate-patches.sh` can be used to generate xdelta3 diff files.
+`./cleanup.sh` - to clean up intermediate files
 
-For further details, read the content of shell scripts (and other source files).
+`./generate-patches.sh` - to generate xdelta3 diff files.
 
-##### Dependencies:
+Please refer to the content of shell scripts and source files for further details.
+It was a learning project for me, so expect somewhat messy structure.
 
-The following tools should be available in your PATH:
+
+### Dependencies
+
+The following tools should be available in PATH:
 
 `7z mkisofs gcc python3`
 
-- `mkisofs` is a part of `cdrtools` package - google it.
+Where to get:
 
-- Brew command for macos to install dependencies: `brew install p7zip cdrtools python3`.
+- `mkisofs` is usually a part of `cdrtools` package.
 
-- Last tested to be working with python 3.8, likely works with later versions too.
+- Brew command: `brew install p7zip cdrtools python3`.
+
+- Arch Linux pacman install: `sudo pacman -S cdrtools 7zip python`.
+
+- Last tested to be working with python 3.14 (will likely work with later versions too.)
